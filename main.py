@@ -146,7 +146,7 @@ def dump_data(method, indent):
         for case in data_to_dump:
             filename = str(case).lower().replace(" ","_")
             with open(f'{filename}.json', 'w') as fp:
-                json.dump(data_to_dump, fp, indent=indent)
+                json.dump(data_to_dump[case], fp, indent=indent)
             print(f"Creating 'data\{filename}.json'")
         print("Finished!")
 
