@@ -27,7 +27,7 @@ Use the following syntax `python3 main.py --method 1 --indent 2`
 What it looks like
 --
 **Command-line:**
-```python
+```cmd
 >>> python3 main.py --method 1 --indent 2
 This process can take a while, please be patient..
 Adding case: Prisma 2 Case [1/33]
