@@ -1,0 +1,4 @@
+beautifulsoup4==4.8.2
+requests==2.22.0
+click==7.1.2
+lxml==4.5.0
