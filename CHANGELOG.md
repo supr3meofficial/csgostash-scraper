@@ -1,6 +1,9 @@
 
 # CHANGELOG
 
+## v0.1.2 - 11/05/20
+* Redesigned data format
+
 ## v0.1.1 - 11/05/20
 * Added a changelog
 * Updated data format

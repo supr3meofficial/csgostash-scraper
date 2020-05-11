@@ -55,12 +55,7 @@ class CasesHandler():
         return possible_wears
 
     def _get_case_contents(self, case_page_url):
-        case_content = {
-        "Covert Skins" : [],
-        "Classified Skins" : [],
-        "Restricted Skins" : [],
-        "Mil-Spec Skins" : []
-        }
+        case_content = {}
         # Parse main page
         page = get_parsed_page(case_page_url)
         # Isolate elements related to the actual skins
@@ -84,16 +79,16 @@ class CasesHandler():
             # Description & Lore
             description,lore = self._get_skin_description_and_lore(skin_url)
             # Full Skin details
-            skin_details = {title : [{"url" : skin_url}, {"image" : image_url}, {"possible_wears" : possible_wears}, {"desc" : description}, {"lore" : lore}]}
+            skin_details = dict(title = dict(url=skin_url, image=image_url, possible_wears=possible_wears, desc=description, lore = lore))
             # Add to case_content
             if rarity == 'Covert':
-                case_content['Covert Skins'].append(skin_details)
+                case_content['Covert Skins'] = skin_details
             elif rarity == 'Classified':
-                case_content['Classified Skins'].append(skin_details)
+                case_content['Classified Skins'] = skin_details
             elif rarity == 'Restricted':
-                case_content['Restricted Skins'].append(skin_details)
+                case_content['Restricted Skins'] = skin_details
             elif rarity == 'Mil-Spec':
-                case_content['Mil-Spec Skins'].append(skin_details)
+                case_content['Mil-Spec Skins'] = skin_details
         return case_content
 
     def _get_all_cases(self):
@@ -114,7 +109,7 @@ class CasesHandler():
             image = page_content_single.img['src']
             print(f'Adding case: {title} [{i}/{total_cases}]')
             content = self._get_case_contents(url)
-            csgo_cases[title] = [{"url" : url}, {"image_url" : image}, content]
+            csgo_cases[title] = dict(url=url, image_url=image, content=content)
             print(f'Done!\n')
             i += 1
             time.sleep(2) # Sleep to prevent overload
