@@ -84,7 +84,7 @@ class CasesHandler():
             # Description & Lore
             description,lore = self._get_skin_description_and_lore(skin_url)
             # Full Skin details
-            skin_details = {title : [{"url" : skin_url}, {"image" : image_url}, {"possible_wears" : possible_wears}, {"desc" : description}, {"lore" : lore}]}
+            skin_details = dict(title=title, url=skin_url, image=image_url, possible_wears=possible_wears, desc=description, lore = lore)
             # Add to case_content
             if rarity == 'Covert':
                 case_content['Covert Skins'].append(skin_details)
@@ -114,7 +114,7 @@ class CasesHandler():
             image = page_content_single.img['src']
             print(f'Adding case: {title} [{i}/{total_cases}]')
             content = self._get_case_contents(url)
-            csgo_cases[title] = [{"url" : url}, {"image_url" : image}, content]
+            csgo_cases[title] = dict(url=url, image_url=image, content=content)
             print(f'Done!\n')
             i += 1
             time.sleep(2) # Sleep to prevent overload

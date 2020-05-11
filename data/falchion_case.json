@@ -1,415 +1,235 @@
-[
-  {
-    "url": "https://csgostash.com/case/50/Falchion-Case"
-  },
-  {
-    "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/256fx256f"
-  },
-  {
+{
+  "url": "https://csgostash.com/case/50/Falchion-Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/256fx256f",
+  "content": {
     "Covert Skins": [
       {
-        "AWP | Hyper Beast": [
-          {
-            "url": "https://csgostash.com/skin/568/AWP-Hyper-Beast"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_hyper_beast_light_large.55efa5e3094af71ca6a56b6eac96cb022f7ecd8b.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tdn2xZ_Pp9i_vG8MKg3VGyqkY5YGn6INfDdQdtMF6B_1fsx7u-1p-678_Jy3A1vXVxsXePgVXp1hRVxWZh/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tdn2xZ_Pp9i_vG8MKg3VGyqkY5YGn6INfDdQdtMF6B_1fsx7u-1p-678_Jy3A1vXVxsXePgVXp1hRVxWZh/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tck29Y_chOhujT8om7i1bh_hE4amr7dYTEe1U6NFqBqQfvxe-50ZO86s6azXMxvCQlsymJzgv330_aLijZVA/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tck29Y_chOhujT8om7i1bh_hE4amr7dYTEe1U6NFqBqQfvxe-50ZO86s6azXMxvCQlsymJzgv330_aLijZVA/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4TZk2pH8fp9i_vG8MKkiwPh8xA_YGGlcIfGdgY-aVmE_lW8wrvqjJ7vusvNn3Vku3Ur5XfYgVXp1jchiGSt/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted with a beastly creature in psychadelic colours."
-          },
-          {
-            "lore": "You really want to impress me Booth? Make this black light sensitive - Rona Sabri, Rising Star"
-          }
-        ]
+        "title": "AWP | Hyper Beast",
+        "url": "https://csgostash.com/skin/568/AWP-Hyper-Beast",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_hyper_beast_light_large.55efa5e3094af71ca6a56b6eac96cb022f7ecd8b.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tdn2xZ_Pp9i_vG8MKg3VGyqkY5YGn6INfDdQdtMF6B_1fsx7u-1p-678_Jy3A1vXVxsXePgVXp1hRVxWZh/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tdn2xZ_Pp9i_vG8MKg3VGyqkY5YGn6INfDdQdtMF6B_1fsx7u-1p-678_Jy3A1vXVxsXePgVXp1hRVxWZh/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tck29Y_chOhujT8om7i1bh_hE4amr7dYTEe1U6NFqBqQfvxe-50ZO86s6azXMxvCQlsymJzgv330_aLijZVA/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tck29Y_chOhujT8om7i1bh_hE4amr7dYTEe1U6NFqBqQfvxe-50ZO86s6azXMxvCQlsymJzgv330_aLijZVA/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4TZk2pH8fp9i_vG8MKkiwPh8xA_YGGlcIfGdgY-aVmE_lW8wrvqjJ7vusvNn3Vku3Ur5XfYgVXp1jchiGSt/512fx384f"
+        },
+        "desc": "It has been custom painted with a beastly creature in psychadelic colours.",
+        "lore": "You really want to impress me Booth? Make this black light sensitive - Rona Sabri, Rising Star"
       },
       {
-        "AK-47 | Aquamarine Revenge": [
-          {
-            "url": "https://csgostash.com/skin/569/AK-47-Aquamarine-Revenge"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_courage_alt_light_large.27e4e7d38dc2ce36ffe86bd6ec65d6f525751eaa.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWdY781lteXA54vwxgbjrkc5ZD3wLNLGcFVrYl6GrAS2x7y7g8PvupidzyRmuCUl4H6IzkSpwUYbC6zHyEM/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWdY781lteXA54vwxgbjrkc5ZD3wLNLGcFVrYl6GrAS2x7y7g8PvupidzyRmuCUl4H6IzkSpwUYbC6zHyEM/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWZU7Mxkh9bN9J7yjRrhrUFuazjzJteVJlQ6NVHTrFe3wObs15G06picwHFnvid25C3bnhSzn1gSOQz0szG-/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWZU7Mxkh9bN9J7yjRrhrUFuazjzJteVJlQ6NVHTrFe3wObs15G06picwHFnvid25C3bnhSzn1gSOQz0szG-/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWNU6dNoteXA54vwxgCyqRVvZzrxItTDewY7NwvS_gW2x7y-h5a9vp3KnXZh63Ug4yyJyUepwUYbPABm4j8/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted with the image of a pod of dolphins."
-          },
-          {
-            "lore": "Is there an echo in here?"
-          }
-        ]
+        "title": "AK-47 | Aquamarine Revenge",
+        "url": "https://csgostash.com/skin/569/AK-47-Aquamarine-Revenge",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_courage_alt_light_large.27e4e7d38dc2ce36ffe86bd6ec65d6f525751eaa.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWdY781lteXA54vwxgbjrkc5ZD3wLNLGcFVrYl6GrAS2x7y7g8PvupidzyRmuCUl4H6IzkSpwUYbC6zHyEM/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWdY781lteXA54vwxgbjrkc5ZD3wLNLGcFVrYl6GrAS2x7y7g8PvupidzyRmuCUl4H6IzkSpwUYbC6zHyEM/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWZU7Mxkh9bN9J7yjRrhrUFuazjzJteVJlQ6NVHTrFe3wObs15G06picwHFnvid25C3bnhSzn1gSOQz0szG-/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWZU7Mxkh9bN9J7yjRrhrUFuazjzJteVJlQ6NVHTrFe3wObs15G06picwHFnvid25C3bnhSzn1gSOQz0szG-/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWNU6dNoteXA54vwxgCyqRVvZzrxItTDewY7NwvS_gW2x7y-h5a9vp3KnXZh63Ug4yyJyUepwUYbPABm4j8/512fx384f"
+        },
+        "desc": "It has been custom painted with the image of a pod of dolphins.",
+        "lore": "Is there an echo in here?"
       }
     ],
     "Classified Skins": [
       {
-        "SG 553 | Cyrex": [
-          {
-            "url": "https://csgostash.com/skin/570/SG-553-Cyrex"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_cyrex_light_large.ef2fb1e4d88e8eb7c0efe12e231a773ca1792a4d.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LP7LWnn9u5MRjjeyP8Iqnjlblrkc4a2GmLNPHdVU-NA6F-1Prw-3u1JG7v86YyHVquHEmsWGdwUJK3Iesvg/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LP7LWnn9u5MRjjeyP8Iqnjlblrkc4a2GmLNPHdVU-NA6F-1Prw-3u1JG7v86YyHVquHEmsWGdwUJK3Iesvg/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LPr7Vn35c18lwmO7Eu9ii3lXgqRBpNzr2JICVdgU8Zl3Wq1e8wum9hJW86s7ByHU17iJxsHfD30vgJ6ERlcU/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LPr7Vn35c18lwmO7Eu9ii3lXgqRBpNzr2JICVdgU8Zl3Wq1e8wum9hJW86s7ByHU17iJxsHfD30vgJ6ERlcU/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LO77QgHJu5MRjjeyP8dWg0QLg_0Y_Y237doKUe1dqZV6B8wO4xuvv0J7vv8mYwCZguicrsWGdwUK2lvBQzA/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted with a high-tech design in black, white, and red."
-          },
-          {
-            "lore": "Custom Paint Job "
-          }
-        ]
+        "title": "SG 553 | Cyrex",
+        "url": "https://csgostash.com/skin/570/SG-553-Cyrex",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_cyrex_light_large.ef2fb1e4d88e8eb7c0efe12e231a773ca1792a4d.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LP7LWnn9u5MRjjeyP8Iqnjlblrkc4a2GmLNPHdVU-NA6F-1Prw-3u1JG7v86YyHVquHEmsWGdwUJK3Iesvg/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LP7LWnn9u5MRjjeyP8Iqnjlblrkc4a2GmLNPHdVU-NA6F-1Prw-3u1JG7v86YyHVquHEmsWGdwUJK3Iesvg/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LPr7Vn35c18lwmO7Eu9ii3lXgqRBpNzr2JICVdgU8Zl3Wq1e8wum9hJW86s7ByHU17iJxsHfD30vgJ6ERlcU/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LPr7Vn35c18lwmO7Eu9ii3lXgqRBpNzr2JICVdgU8Zl3Wq1e8wum9hJW86s7ByHU17iJxsHfD30vgJ6ERlcU/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LO77QgHJu5MRjjeyP8dWg0QLg_0Y_Y237doKUe1dqZV6B8wO4xuvv0J7vv8mYwCZguicrsWGdwUK2lvBQzA/512fx384f"
+        },
+        "desc": "It has been custom painted with a high-tech design in black, white, and red.",
+        "lore": "Custom Paint Job "
       },
       {
-        "MP7 | Nemesis": [
-          {
-            "url": "https://csgostash.com/skin/571/MP7-Nemesis"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7_nemsis_light_large.72074e71a27827f41dc5d6f511d2f003c1b60d8a.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0m_7zO6_ummpD78A_3buRotjw3wW1-URkYW6lIIfBIQNqZw7V-1Dqw7jvhZXvvc_PySZr6z5iuyjpCFO7dg/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0m_7zO6_ummpD78A_3buRotjw3wW1-URkYW6lIIfBIQNqZw7V-1Dqw7jvhZXvvc_PySZr6z5iuyjpCFO7dg/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0mvLwOq7cqWdQ-sJ0xLGR84n32VW3-0A_Zz-nJYeScQM7NAzZrgS8kurs18O9vpnOn3A27nY8pSGKU4iJV0o/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted with the image of a metallic monster."
-          },
-          {
-            "lore": "It's coming for you"
-          }
-        ]
+        "title": "MP7 | Nemesis",
+        "url": "https://csgostash.com/skin/571/MP7-Nemesis",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7_nemsis_light_large.72074e71a27827f41dc5d6f511d2f003c1b60d8a.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0m_7zO6_ummpD78A_3buRotjw3wW1-URkYW6lIIfBIQNqZw7V-1Dqw7jvhZXvvc_PySZr6z5iuyjpCFO7dg/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0m_7zO6_ummpD78A_3buRotjw3wW1-URkYW6lIIfBIQNqZw7V-1Dqw7jvhZXvvc_PySZr6z5iuyjpCFO7dg/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0mvLwOq7cqWdQ-sJ0xLGR84n32VW3-0A_Zz-nJYeScQM7NAzZrgS8kurs18O9vpnOn3A27nY8pSGKU4iJV0o/512fx384f"
+        },
+        "desc": "It has been custom painted with the image of a metallic monster.",
+        "lore": "It's coming for you"
       },
       {
-        "CZ75-Auto | Yellow Jacket": [
-          {
-            "url": "https://csgostash.com/skin/572/CZ75-Auto-Yellow-Jacket"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75a_chastizer_light_large.d3234c712c3c068adbbfd5718c468c778f2351dd.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVud2Jl4iKhOP9Kb7DqWdY781lteXA54vwxlDn-UBoMG7yJtWWIQY4aQmEqAPolevohJ7vuJvBmnVksnYg5nrcy0GpwUYb_n4f3RQ/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVud2Jl4iKhOP9Kb7DqWdY781lteXA54vwxlDn-UBoMG7yJtWWIQY4aQmEqAPolevohJ7vuJvBmnVksnYg5nrcy0GpwUYb_n4f3RQ/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVud2Jl4iKhOP9Kb7DqWZU7Mxkh9bN9J7yjRrmqUo6ZDrzLNDHdwVqMgrX-lC6lb-9gJ_v6J7Kn3dq7yl2s3iIykSyn1gSOaH4Qw9b/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVud2Jl4iKhOP9Kb7DqWZU7Mxkh9bN9J7yjRrmqUo6ZDrzLNDHdwVqMgrX-lC6lb-9gJ_v6J7Kn3dq7yl2s3iIykSyn1gSOaH4Qw9b/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVud2Jl4iKhOP9Kb7DqWNU6dNoteXA54vwxgDg_RZoMDzxJNLEIAA6Z17VqVjtwe26hcO1uJXBmiRi7yckti7YnECpwUYbruzrNZA/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted with curved shapes."
-          },
-          {
-            "lore": "Float like a butterfly, sting like a relentless hateful insect"
-          }
-        ]
+        "title": "CZ75-Auto | Yellow Jacket",
+        "url": "https://csgostash.com/skin/572/CZ75-Auto-Yellow-Jacket",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75a_chastizer_light_large.d3234c712c3c068adbbfd5718c468c778f2351dd.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVud2Jl4iKhOP9Kb7DqWdY781lteXA54vwxlDn-UBoMG7yJtWWIQY4aQmEqAPolevohJ7vuJvBmnVksnYg5nrcy0GpwUYb_n4f3RQ/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVud2Jl4iKhOP9Kb7DqWdY781lteXA54vwxlDn-UBoMG7yJtWWIQY4aQmEqAPolevohJ7vuJvBmnVksnYg5nrcy0GpwUYb_n4f3RQ/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVud2Jl4iKhOP9Kb7DqWZU7Mxkh9bN9J7yjRrmqUo6ZDrzLNDHdwVqMgrX-lC6lb-9gJ_v6J7Kn3dq7yl2s3iIykSyn1gSOaH4Qw9b/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVud2Jl4iKhOP9Kb7DqWZU7Mxkh9bN9J7yjRrmqUo6ZDrzLNDHdwVqMgrX-lC6lb-9gJ_v6J7Kn3dq7yl2s3iIykSyn1gSOaH4Qw9b/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVud2Jl4iKhOP9Kb7DqWNU6dNoteXA54vwxgDg_RZoMDzxJNLEIAA6Z17VqVjtwe26hcO1uJXBmiRi7yckti7YnECpwUYbruzrNZA/512fx384f"
+        },
+        "desc": "It has been custom painted with curved shapes.",
+        "lore": "Float like a butterfly, sting like a relentless hateful insect"
       }
     ],
     "Restricted Skins": [
       {
-        "M4A4 | Evil Daimyo": [
-          {
-            "url": "https://csgostash.com/skin/576/M4A4-Evil-Daimyo"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_evil_daimyo_light_large.c208ba252c0d8902caa973a634cbfa945508a716.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09mgnYy0k_b9PqLeqWdY781lteXA54vwxlfm-0s-Mmv2JtWVJg43YVqDqwC3xu2-g5W478-fmHtnvyUi7S7anhOpwUYbM4iiQZo/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09mgnYy0k_b9PqLeqWdY781lteXA54vwxlfm-0s-Mmv2JtWVJg43YVqDqwC3xu2-g5W478-fmHtnvyUi7S7anhOpwUYbM4iiQZo/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09mgnYy0k_b9PqLeqWZU7Mxkh9bN9J7yjRqw_kJuam30INXHJFc7aAvR_gW_k-q5g5HovprPzHViuiAl5XncyUayn1gSOeN9uncr/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09mgnYy0k_b9PqLeqWZU7Mxkh9bN9J7yjRqw_kJuam30INXHJFc7aAvR_gW_k-q5g5HovprPzHViuiAl5XncyUayn1gSOeN9uncr/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09mgnYy0k_b9PqLeqWNU6dNoteXA54vwxgCw_EVlZW76JNXHJFU4aF_Q8wPvkua518C66J7OznVkuiVw5izYn0epwUYbQAnRoRo/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted with a graphic design in red and black."
-          },
-          {
-            "lore": "Carmen. I found him...- The Oni and The Valkyrie Part 1"
-          }
-        ]
+        "title": "M4A4 | Evil Daimyo",
+        "url": "https://csgostash.com/skin/576/M4A4-Evil-Daimyo",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_evil_daimyo_light_large.c208ba252c0d8902caa973a634cbfa945508a716.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09mgnYy0k_b9PqLeqWdY781lteXA54vwxlfm-0s-Mmv2JtWVJg43YVqDqwC3xu2-g5W478-fmHtnvyUi7S7anhOpwUYbM4iiQZo/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09mgnYy0k_b9PqLeqWdY781lteXA54vwxlfm-0s-Mmv2JtWVJg43YVqDqwC3xu2-g5W478-fmHtnvyUi7S7anhOpwUYbM4iiQZo/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09mgnYy0k_b9PqLeqWZU7Mxkh9bN9J7yjRqw_kJuam30INXHJFc7aAvR_gW_k-q5g5HovprPzHViuiAl5XncyUayn1gSOeN9uncr/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09mgnYy0k_b9PqLeqWZU7Mxkh9bN9J7yjRqw_kJuam30INXHJFc7aAvR_gW_k-q5g5HovprPzHViuiAl5XncyUayn1gSOeN9uncr/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09mgnYy0k_b9PqLeqWNU6dNoteXA54vwxgCw_EVlZW76JNXHJFU4aF_Q8wPvkua518C66J7OznVkuiVw5izYn0epwUYbQAnRoRo/512fx384f"
+        },
+        "desc": "It has been custom painted with a graphic design in red and black.",
+        "lore": "Carmen. I found him...- The Oni and The Valkyrie Part 1"
       },
       {
-        "Negev | Loudmouth": [
-          {
-            "url": "https://csgostash.com/skin/574/Negev-Loudmouth"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_annihilator_light_large.421039357ccbbcb9ba1456caa1ed2ae4829b5495.png"
-          },
-          {
-            "possible_wears": {
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJlY6Fnv_9P7rFmXlu5Mx2gv3--Y3nj1H6_0FtY2r6J4OSIVVsMwuC8wPvwOrqg8Xt7ZycnXAy7yQq53aPmhG-hAYMMLJuiogy0Q/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJlY6Fnv_9P7rFmXlu5cB1g_zMyoD0mlOx5RZlZzz3JtXDclI5NFyG_VjsyOzpjMK-tZrAmnQ2uXYm4H6MnEe_gk5SLrs4_EInbzs/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJlY6Fnv_9P7rFmXlu5cB1g_zMyoD0mlOx5RZlZzz3JtXDclI5NFyG_VjsyOzpjMK-tZrAmnQ2uXYm4H6MnEe_gk5SLrs4_EInbzs/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJlY6Fnv_9P7rFmXlu4MBwnPD--Y3nj1H6rxE_NmGmJoaWcAJqMArZr1W7yOvm0cK57svAwXcyuHUhtnuMzhW20AYMMLL6PhBTZQ/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted with a monstrous design and then distressed."
-          },
-          {
-            "lore": "Get back here, I'm talking to you!"
-          }
-        ]
+        "title": "Negev | Loudmouth",
+        "url": "https://csgostash.com/skin/574/Negev-Loudmouth",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_annihilator_light_large.421039357ccbbcb9ba1456caa1ed2ae4829b5495.png",
+        "possible_wears": {
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJlY6Fnv_9P7rFmXlu5Mx2gv3--Y3nj1H6_0FtY2r6J4OSIVVsMwuC8wPvwOrqg8Xt7ZycnXAy7yQq53aPmhG-hAYMMLJuiogy0Q/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJlY6Fnv_9P7rFmXlu5cB1g_zMyoD0mlOx5RZlZzz3JtXDclI5NFyG_VjsyOzpjMK-tZrAmnQ2uXYm4H6MnEe_gk5SLrs4_EInbzs/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJlY6Fnv_9P7rFmXlu5cB1g_zMyoD0mlOx5RZlZzz3JtXDclI5NFyG_VjsyOzpjMK-tZrAmnQ2uXYm4H6MnEe_gk5SLrs4_EInbzs/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJlY6Fnv_9P7rFmXlu4MBwnPD--Y3nj1H6rxE_NmGmJoaWcAJqMArZr1W7yOvm0cK57svAwXcyuHUhtnuMzhW20AYMMLL6PhBTZQ/512fx384f"
+        },
+        "desc": "It has been custom painted with a monstrous design and then distressed.",
+        "lore": "Get back here, I'm talking to you!"
       },
       {
-        "P2000 | Handgun": [
-          {
-            "url": "https://csgostash.com/skin/573/P2000-Handgun"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_aq_p2000_boom_light_large.39f01b0b86b795bea56300432fecfbf93415ee58.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-JmPj5DLfYkWNF18lwmO7Eu9-sjgTlqUM-a2-hI4-QIFNvZF7T-lG6wuy50MXq7svAynZiv3V34HfD30vgvQ9NEX0/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-JmPj5DLfYkWNF18lwmO7Eu9-sjgTlqUM-a2-hI4-QIFNvZF7T-lG6wuy50MXq7svAynZiv3V34HfD30vgvQ9NEX0/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-JmPj5DLbUkmJE5fp9i_vG8MKl0QXg8xVtY2D2IdeScQA-aFvS-Qfvwua90JTtuZyfnXE2vSMgtHrdgVXp1iztJgWM/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-JmPj5DLbUkmJE5fp9i_vG8MKl0QXg8xVtY2D2IdeScQA-aFvS-Qfvwua90JTtuZyfnXE2vSMgtHrdgVXp1iztJgWM/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-JmPj5DLPUl31I18lwmO7Eu46ni1fhr0FlZTj3d4fBe1A_YVGGrFC3krzqh56-7pifyHQ1sikr4SzD30vg_sHNf4w/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted with a hand making an aiming gesture."
-          },
-          {
-            "lore": "No more fun and games"
-          }
-        ]
+        "title": "P2000 | Handgun",
+        "url": "https://csgostash.com/skin/573/P2000-Handgun",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_aq_p2000_boom_light_large.39f01b0b86b795bea56300432fecfbf93415ee58.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-JmPj5DLfYkWNF18lwmO7Eu9-sjgTlqUM-a2-hI4-QIFNvZF7T-lG6wuy50MXq7svAynZiv3V34HfD30vgvQ9NEX0/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-JmPj5DLfYkWNF18lwmO7Eu9-sjgTlqUM-a2-hI4-QIFNvZF7T-lG6wuy50MXq7svAynZiv3V34HfD30vgvQ9NEX0/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-JmPj5DLbUkmJE5fp9i_vG8MKl0QXg8xVtY2D2IdeScQA-aFvS-Qfvwua90JTtuZyfnXE2vSMgtHrdgVXp1iztJgWM/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-JmPj5DLbUkmJE5fp9i_vG8MKl0QXg8xVtY2D2IdeScQA-aFvS-Qfvwua90JTtuZyfnXE2vSMgtHrdgVXp1iztJgWM/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-JmPj5DLPUl31I18lwmO7Eu46ni1fhr0FlZTj3d4fBe1A_YVGGrFC3krzqh56-7pifyHQ1sikr4SzD30vg_sHNf4w/512fx384f"
+        },
+        "desc": "It has been custom painted with a hand making an aiming gesture.",
+        "lore": "No more fun and games"
       },
       {
-        "MP9 | Ruby Poison Dart": [
-          {
-            "url": "https://csgostash.com/skin/575/MP9-Ruby-Poison-Dart"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_am_mp9_nitrogen_light_large.3a0b5a7cd31a7cfd5f0d90b9a0a1dbfcdb642cca.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj4OrzZglRd6dd2j6eS9Nz33VXjqBdvYjj0d9DBd1A-NVHQqFjvwb_u0cTq78mbz3Zh6XNz-z-DyBQ3E_ml/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj4OrzZglRd6dd2j6eS9Nz33VXjqBdvYjj0d9DBd1A-NVHQqFjvwb_u0cTq78mbz3Zh6XNz-z-DyBQ3E_ml/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj5Nr_Yg2Zu5MRjjeyPoY2k0VXh-0NqMWr6dtDBIAFvYFCGrFXqyOq6gpfvtZvNwHJquXIl42GdwUJM_pmjsw/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj5Nr_Yg2Zu5MRjjeyPoY2k0VXh-0NqMWr6dtDBIAFvYFCGrFXqyOq6gpfvtZvNwHJquXIl42GdwUJM_pmjsw/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj8NrrHj1Rd6dd2j6fErNnw2Qfm_UM4ZWz7JoXGe1U5ZFuF_1Ltwri615Tp7p6YwXRq63Uh-z-DyBK9ouK_/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been painted with red and purple metallic paints over a black base coat."
-          },
-          {
-            "lore": "Who says diamonds are a girl's best friend?"
-          }
-        ]
+        "title": "MP9 | Ruby Poison Dart",
+        "url": "https://csgostash.com/skin/575/MP9-Ruby-Poison-Dart",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_am_mp9_nitrogen_light_large.3a0b5a7cd31a7cfd5f0d90b9a0a1dbfcdb642cca.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj4OrzZglRd6dd2j6eS9Nz33VXjqBdvYjj0d9DBd1A-NVHQqFjvwb_u0cTq78mbz3Zh6XNz-z-DyBQ3E_ml/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj4OrzZglRd6dd2j6eS9Nz33VXjqBdvYjj0d9DBd1A-NVHQqFjvwb_u0cTq78mbz3Zh6XNz-z-DyBQ3E_ml/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj5Nr_Yg2Zu5MRjjeyPoY2k0VXh-0NqMWr6dtDBIAFvYFCGrFXqyOq6gpfvtZvNwHJquXIl42GdwUJM_pmjsw/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj5Nr_Yg2Zu5MRjjeyPoY2k0VXh-0NqMWr6dtDBIAFvYFCGrFXqyOq6gpfvtZvNwHJquXIl42GdwUJM_pmjsw/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj8NrrHj1Rd6dd2j6fErNnw2Qfm_UM4ZWz7JoXGe1U5ZFuF_1Ltwri615Tp7p6YwXRq63Uh-z-DyBK9ouK_/512fx384f"
+        },
+        "desc": "It has been painted with red and purple metallic paints over a black base coat.",
+        "lore": "Who says diamonds are a girl's best friend?"
       },
       {
-        "FAMAS | Neural Net": [
-          {
-            "url": "https://csgostash.com/skin/577/FAMAS-Neural-Net"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_am_famas_dots_light_large.dc6f19278bac52ea06b8e3576fa324624f2f82b4.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73dzxP7c-JkI-fhMj4OrzZglRd6dd2j6fF9trz2Q3m_Es-Mjr2JtPEcgBsaQ3T_1a4l7_sh5K6vpmfyyRruHIm-z-DyAW7Mz8a/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73dzxP7c-JkI-fhMj4OrzZglRd6dd2j6fF9trz2Q3m_Es-Mjr2JtPEcgBsaQ3T_1a4l7_sh5K6vpmfyyRruHIm-z-DyAW7Mz8a/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73dzxP7c-JkI-fhMj5Nr_Yg2Zu5MRjjeyP99_z3QC3_0BlZGmnIoWdIwJqZVDYrwS9yOu8jMK5vJufm3JgvyUmtGGdwUIXAw2_8A/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73dzxP7c-JkI-fhMj5Nr_Yg2Zu5MRjjeyP99_z3QC3_0BlZGmnIoWdIwJqZVDYrwS9yOu8jMK5vJufm3JgvyUmtGGdwUIXAw2_8A/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73dzxP7c-JkI-fhMj8NrrHj1Rd6dd2j6fFodr30Q3i8xdlYGvwIY_EcVVsZwnY_gC_wbzv0ZO57smYyiZi7yBw-z-DyOWaxoLN/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been painted with a translucent hydrographic over a metallic base coat."
-          },
-          {
-            "lore": "I know. But it was the right thing to do... - A Family Affair Part 2"
-          }
-        ]
+        "title": "FAMAS | Neural Net",
+        "url": "https://csgostash.com/skin/577/FAMAS-Neural-Net",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_am_famas_dots_light_large.dc6f19278bac52ea06b8e3576fa324624f2f82b4.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73dzxP7c-JkI-fhMj4OrzZglRd6dd2j6fF9trz2Q3m_Es-Mjr2JtPEcgBsaQ3T_1a4l7_sh5K6vpmfyyRruHIm-z-DyAW7Mz8a/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73dzxP7c-JkI-fhMj4OrzZglRd6dd2j6fF9trz2Q3m_Es-Mjr2JtPEcgBsaQ3T_1a4l7_sh5K6vpmfyyRruHIm-z-DyAW7Mz8a/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73dzxP7c-JkI-fhMj5Nr_Yg2Zu5MRjjeyP99_z3QC3_0BlZGmnIoWdIwJqZVDYrwS9yOu8jMK5vJufm3JgvyUmtGGdwUIXAw2_8A/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73dzxP7c-JkI-fhMj5Nr_Yg2Zu5MRjjeyP99_z3QC3_0BlZGmnIoWdIwJqZVDYrwS9yOu8jMK5vJufm3JgvyUmtGGdwUIXAw2_8A/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73dzxP7c-JkI-fhMj8NrrHj1Rd6dd2j6fFodr30Q3i8xdlYGvwIY_EcVVsZwnY_gC_wbzv0ZO57smYyiZi7yBw-z-DyOWaxoLN/512fx384f"
+        },
+        "desc": "It has been painted with a translucent hydrographic over a metallic base coat.",
+        "lore": "I know. But it was the right thing to do... - A Family Affair Part 2"
       }
     ],
     "Mil-Spec Skins": [
       {
-        "Galil AR | Rocket Pop": [
-          {
-            "url": "https://csgostash.com/skin/583/Galil-AR-Rocket-Pop"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galilar_particles_light_large.8732f64d53dbc9b0c732641655d4f99124d8cacc.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mIGZqOf1Ia_YlWdU-_p9g-7J4bP5iUazrl1kZGrxcoCRJgM9NQqD8wO-kunsh5C4vZvMzCZn7Ckr5H3Zyx3k0EsfcKUx0tENzMgC/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mIGZqOf1Ia_YlWdU-_p9g-7J4bP5iUazrl1kZGrxcoCRJgM9NQqD8wO-kunsh5C4vZvMzCZn7Ckr5H3Zyx3k0EsfcKUx0tENzMgC/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mIGZqOf1Ia_YlWdU-_p8j-3I4IHKhFWmrBZyMT-gcIHDdg42Y1mG8wS2kLvo1pXuupvOnSdgsyIg43iLn0Hj1ElJOvsv26IIRmYCig/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mIGZqOf1Ia_YlWdU-_p8j-3I4IHKhFWmrBZyMT-gcIHDdg42Y1mG8wS2kLvo1pXuupvOnSdgsyIg43iLn0Hj1ElJOvsv26IIRmYCig/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mIGZqOf1Ia_YlWdU-_p5j-jX7LP5iUazrl1taj2lJdCTdABoNVrU_Vi4wufqgMDtvpyfnydluCIksSyOzhe3005EcKUx0ggb5EOO/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted with a graphic design of stripes and pixellated particles."
-          },
-          {
-            "lore": "The perfect thing for a hot summer's day"
-          }
-        ]
+        "title": "Galil AR | Rocket Pop",
+        "url": "https://csgostash.com/skin/583/Galil-AR-Rocket-Pop",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galilar_particles_light_large.8732f64d53dbc9b0c732641655d4f99124d8cacc.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mIGZqOf1Ia_YlWdU-_p9g-7J4bP5iUazrl1kZGrxcoCRJgM9NQqD8wO-kunsh5C4vZvMzCZn7Ckr5H3Zyx3k0EsfcKUx0tENzMgC/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mIGZqOf1Ia_YlWdU-_p9g-7J4bP5iUazrl1kZGrxcoCRJgM9NQqD8wO-kunsh5C4vZvMzCZn7Ckr5H3Zyx3k0EsfcKUx0tENzMgC/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mIGZqOf1Ia_YlWdU-_p8j-3I4IHKhFWmrBZyMT-gcIHDdg42Y1mG8wS2kLvo1pXuupvOnSdgsyIg43iLn0Hj1ElJOvsv26IIRmYCig/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mIGZqOf1Ia_YlWdU-_p8j-3I4IHKhFWmrBZyMT-gcIHDdg42Y1mG8wS2kLvo1pXuupvOnSdgsyIg43iLn0Hj1ElJOvsv26IIRmYCig/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mIGZqOf1Ia_YlWdU-_p5j-jX7LP5iUazrl1taj2lJdCTdABoNVrU_Vi4wufqgMDtvpyfnydluCIksSyOzhe3005EcKUx0ggb5EOO/512fx384f"
+        },
+        "desc": "It has been custom painted with a graphic design of stripes and pixellated particles.",
+        "lore": "The perfect thing for a hot summer's day"
       },
       {
-        "USP-S | Torque": [
-          {
-            "url": "https://csgostash.com/skin/578/USP-S-Torque"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_progressiv_light_large.91cde781cd0c8502bbbb66f37cc7f1baf2a10c05.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteXI8oTht1i1uRQ5fWDyd9LAdQ4_MgzQqVm7wey918TuupufynUw6Sd05C2MyRfmgBgfbuBxxavJa8F12Qc/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteXI8oTht1i1uRQ5fWDyd9LAdQ4_MgzQqVm7wey918TuupufynUw6Sd05C2MyRfmgBgfbuBxxavJa8F12Qc/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteTE8YXghWu4qgE7Nnf0d4-UcQY-NFnX-FC-kuu71JPu6J6Yn3Rm63N34yrdl0fmhUlEbrM8m7XAHqZWJnsT/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteTE8YXghWu4qgE7Nnf0d4-UcQY-NFnX-FC-kuu71JPu6J6Yn3Rm63N34yrdl0fmhUlEbrM8m7XAHqZWJnsT/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteHE9Jrst1i1uRQ5fW6lLIeQJgNsMFjXqFi_lbu8hcO0tZ3LmHEy73Ertn3Zy0a1001La7RxxavJuOoLFgs/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted in a modern black, white and yellow design."
-          },
-          {
-            "lore": "They're manipulating you Kotaro. And if you can't see that, you're in more trouble than you know... - Felix Riley, Commanding Officer"
-          }
-        ]
+        "title": "USP-S | Torque",
+        "url": "https://csgostash.com/skin/578/USP-S-Torque",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_progressiv_light_large.91cde781cd0c8502bbbb66f37cc7f1baf2a10c05.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteXI8oTht1i1uRQ5fWDyd9LAdQ4_MgzQqVm7wey918TuupufynUw6Sd05C2MyRfmgBgfbuBxxavJa8F12Qc/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteXI8oTht1i1uRQ5fWDyd9LAdQ4_MgzQqVm7wey918TuupufynUw6Sd05C2MyRfmgBgfbuBxxavJa8F12Qc/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteTE8YXghWu4qgE7Nnf0d4-UcQY-NFnX-FC-kuu71JPu6J6Yn3Rm63N34yrdl0fmhUlEbrM8m7XAHqZWJnsT/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteTE8YXghWu4qgE7Nnf0d4-UcQY-NFnX-FC-kuu71JPu6J6Yn3Rm63N34yrdl0fmhUlEbrM8m7XAHqZWJnsT/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteHE9Jrst1i1uRQ5fW6lLIeQJgNsMFjXqFi_lbu8hcO0tZ3LmHEy73Ertn3Zy0a1001La7RxxavJuOoLFgs/512fx384f"
+        },
+        "desc": "It has been custom painted in a modern black, white and yellow design.",
+        "lore": "They're manipulating you Kotaro. And if you can't see that, you're in more trouble than you know... - Felix Riley, Commanding Officer"
       },
       {
-        "P90 | Elite Build": [
-          {
-            "url": "https://csgostash.com/skin/580/P90-Elite-Build"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90_mastery_light_large.f58ff489c92ffa8c6e4c42814bad01c352df0ab6.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPv9NLPFqWdQ-sJ0xO-UrYrz3AztqEpuNT-iLNWTJwJtZVrY-1XskLrvhMW_uZ-dn3Iy6CY8pSGK7PES7n8/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPv9NLPFqWdQ-sJ0xO-UrYrz3AztqEpuNT-iLNWTJwJtZVrY-1XskLrvhMW_uZ-dn3Iy6CY8pSGK7PES7n8/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPrxN7LEm1Rd6dd2j6fFrdzzjVDm_RBvMDvzcNeRcwA6ZQzVqFLtyebv1pG-tM-az3o16CV3-z-DyAE2ajl0/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPrxN7LEm1Rd6dd2j6fFrdzzjVDm_RBvMDvzcNeRcwA6ZQzVqFLtyebv1pG-tM-az3o16CV3-z-DyAE2ajl0/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqP_xMq3IqWdQ-sJ0xOyS9t-t2VHg_EVvZT_7IY6cegRtNVqE_FS4wr_v0MDousnOmyA16HI8pSGK5tWLb_I/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals."
-          },
-          {
-            "lore": "Tread softly Naomi...people in your line of work aren't known for their longevity - The Shield and The Serpent Part 2"
-          }
-        ]
+        "title": "P90 | Elite Build",
+        "url": "https://csgostash.com/skin/580/P90-Elite-Build",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90_mastery_light_large.f58ff489c92ffa8c6e4c42814bad01c352df0ab6.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPv9NLPFqWdQ-sJ0xO-UrYrz3AztqEpuNT-iLNWTJwJtZVrY-1XskLrvhMW_uZ-dn3Iy6CY8pSGK7PES7n8/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPv9NLPFqWdQ-sJ0xO-UrYrz3AztqEpuNT-iLNWTJwJtZVrY-1XskLrvhMW_uZ-dn3Iy6CY8pSGK7PES7n8/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPrxN7LEm1Rd6dd2j6fFrdzzjVDm_RBvMDvzcNeRcwA6ZQzVqFLtyebv1pG-tM-az3o16CV3-z-DyAE2ajl0/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPrxN7LEm1Rd6dd2j6fFrdzzjVDm_RBvMDvzcNeRcwA6ZQzVqFLtyebv1pG-tM-az3o16CV3-z-DyAE2ajl0/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqP_xMq3IqWdQ-sJ0xOyS9t-t2VHg_EVvZT_7IY6cegRtNVqE_FS4wr_v0MDousnOmyA16HI8pSGK5tWLb_I/512fx384f"
+        },
+        "desc": "It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.",
+        "lore": "Tread softly Naomi...people in your line of work aren't known for their longevity - The Shield and The Serpent Part 2"
       },
       {
-        "Glock-18 | Bunsen Burner": [
-          {
-            "url": "https://csgostash.com/skin/582/Glock-18-Bunsen-Burner"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aq_glock18_flames_blue_light_large.5fed23d5a32793c25914eeb99b45f1a2b0cb9d6c.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3djFN79fnzL-Nm_b5NqjulGdE7fp9g-7J4bP5iUazrl1pNTynJoXBd1c9Y1_Z-QK8xOfugcPp7pTAm3Zm7CFz5y3dzEe-1R4fcKUx0gkHdoQp/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3djFN79fnzL-Nm_b5NqjulGdE7fp9g-7J4bP5iUazrl1pNTynJoXBd1c9Y1_Z-QK8xOfugcPp7pTAm3Zm7CFz5y3dzEe-1R4fcKUx0gkHdoQp/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3djFN79fnzL-Nm_b5NqjulGdE7fp8j-3I4IHKhFWmrBZyY23zctKQdFU6Zg2EqwC7xe680cO8uZufyCAx63Eg7X_emUfliUtEb_sv26ID4uMQqQ/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3djFN79fnzL-Nm_b5NqjulGdE7fp8j-3I4IHKhFWmrBZyY23zctKQdFU6Zg2EqwC7xe680cO8uZufyCAx63Eg7X_emUfliUtEb_sv26ID4uMQqQ/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3djFN79fnzL-Nm_b5NqjulGdE7fp5j-jX7LP5iUazrl1uYjigJoTGclBtY1HX-VfrwLvqjJ64u8iYyiA2vnVz7X7ZyhewiE1NcKUx0tGyAusX/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been given a blue patina which has been polished off parts of the slide to result in a graphic flame design."
-          },
-          {
-            "lore": "KNOCK KNOCK"
-          }
-        ]
+        "title": "Glock-18 | Bunsen Burner",
+        "url": "https://csgostash.com/skin/582/Glock-18-Bunsen-Burner",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aq_glock18_flames_blue_light_large.5fed23d5a32793c25914eeb99b45f1a2b0cb9d6c.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3djFN79fnzL-Nm_b5NqjulGdE7fp9g-7J4bP5iUazrl1pNTynJoXBd1c9Y1_Z-QK8xOfugcPp7pTAm3Zm7CFz5y3dzEe-1R4fcKUx0gkHdoQp/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3djFN79fnzL-Nm_b5NqjulGdE7fp9g-7J4bP5iUazrl1pNTynJoXBd1c9Y1_Z-QK8xOfugcPp7pTAm3Zm7CFz5y3dzEe-1R4fcKUx0gkHdoQp/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3djFN79fnzL-Nm_b5NqjulGdE7fp8j-3I4IHKhFWmrBZyY23zctKQdFU6Zg2EqwC7xe680cO8uZufyCAx63Eg7X_emUfliUtEb_sv26ID4uMQqQ/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3djFN79fnzL-Nm_b5NqjulGdE7fp8j-3I4IHKhFWmrBZyY23zctKQdFU6Zg2EqwC7xe680cO8uZufyCAx63Eg7X_emUfliUtEb_sv26ID4uMQqQ/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3djFN79fnzL-Nm_b5NqjulGdE7fp5j-jX7LP5iUazrl1uYjigJoTGclBtY1HX-VfrwLvqjJ64u8iYyiA2vnVz7X7ZyhewiE1NcKUx0tGyAusX/512fx384f"
+        },
+        "desc": "It has been given a blue patina which has been polished off parts of the slide to result in a graphic flame design.",
+        "lore": "KNOCK KNOCK"
       },
       {
-        "UMP-45 | Riot": [
-          {
-            "url": "https://csgostash.com/skin/579/UMP-45-Riot"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_uproar_light_large.04cd84320c4370bced14a3989b0e141cff67ec88.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLfYkWNF18lwmO7Eu9yhi1Ds_0BuYzr3J4GVIFVrNVnUq1K3yee9hcO9uJyanyRlvXVx7XfD30vggrNaWnM/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLfYkWNF18lwmO7Eu9yhi1Ds_0BuYzr3J4GVIFVrNVnUq1K3yee9hcO9uJyanyRlvXVx7XfD30vggrNaWnM/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLbUkmJE5fp9i_vG8MKh31Lnqko5Y2HxJ46SeldvMw6B-FW-l7ju1JTpvc_IyXRk7yAgsH_fgVXp1oQp02-z/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLbUkmJE5fp9i_vG8MKh31Lnqko5Y2HxJ46SeldvMw6B-FW-l7ju1JTpvc_IyXRk7yAgsH_fgVXp1oQp02-z/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLPUl31I18lwmO7Eu9vziQLlrRJqZ2v6JYKRJwY3MFmG-lPrlevq05W0u5XBnCNkvXEh5CrD30vgK1lTqQ4/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been painted using a combination of hydrographics and heat-transfer decals."
-          },
-          {
-            "lore": "If you didn't want collateral damage, perhaps you should have been more specific... - Javier Alviso, Fist of the Phoenix"
-          }
-        ]
+        "title": "Nova | Ranger",
+        "url": "https://csgostash.com/skin/581/Nova-Ranger",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_ranger_light_large.e3e9d3d47d5707092223a268ef59adb53ce76278.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD0863moeOhcj4OrzZglRd6dd2j6fEpomsjAew_0Q4Zm7zI4accAQ8YgnS_Fnrl-vm1MLuuZ6anHVluCcq-z-DyOIsbpmX/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD0863moeOhcj4OrzZglRd6dd2j6fEpomsjAew_0Q4Zm7zI4accAQ8YgnS_Fnrl-vm1MLuuZ6anHVluCcq-z-DyOIsbpmX/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD0863moeOhcj5Nr_Yg2Zu5MRjjeyP9Nij3Qe18ko_YWH0INTEcFU5N1_U-VK4xObsgp-6753JyHZjsyYms2GdwULhglVRhA/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD0863moeOhcj5Nr_Yg2Zu5MRjjeyP9Nij3Qe18ko_YWH0INTEcFU5N1_U-VK4xObsgp-6753JyHZjsyYms2GdwULhglVRhA/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD0863moeOhcj8NrrHj1Rd6dd2j6eVpd_22A3mqkY6amv0I9WXewA3Nw3VrFm8wb3nh8C8u5jAnXtjvyUl-z-DyNkBXHE5/512fx384f"
+        },
+        "desc": "It has been painted with a brush stroke hydrographic and detailed with heat-transfer decals.",
+        "lore": "Who's keeping score?"
       },
       {
-        "Nova | Ranger": [
-          {
-            "url": "https://csgostash.com/skin/581/Nova-Ranger"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_ranger_light_large.e3e9d3d47d5707092223a268ef59adb53ce76278.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD0863moeOhcj4OrzZglRd6dd2j6fEpomsjAew_0Q4Zm7zI4accAQ8YgnS_Fnrl-vm1MLuuZ6anHVluCcq-z-DyOIsbpmX/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD0863moeOhcj4OrzZglRd6dd2j6fEpomsjAew_0Q4Zm7zI4accAQ8YgnS_Fnrl-vm1MLuuZ6anHVluCcq-z-DyOIsbpmX/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD0863moeOhcj5Nr_Yg2Zu5MRjjeyP9Nij3Qe18ko_YWH0INTEcFU5N1_U-VK4xObsgp-6753JyHZjsyYms2GdwULhglVRhA/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD0863moeOhcj5Nr_Yg2Zu5MRjjeyP9Nij3Qe18ko_YWH0INTEcFU5N1_U-VK4xObsgp-6753JyHZjsyYms2GdwULhglVRhA/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD0863moeOhcj8NrrHj1Rd6dd2j6eVpd_22A3mqkY6amv0I9WXewA3Nw3VrFm8wb3nh8C8u5jAnXtjvyUl-z-DyNkBXHE5/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been painted with a brush stroke hydrographic and detailed with heat-transfer decals."
-          },
-          {
-            "lore": "Who's keeping score?"
-          }
-        ]
+        "title": "UMP-45 | Riot",
+        "url": "https://csgostash.com/skin/579/UMP-45-Riot",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_uproar_light_large.04cd84320c4370bced14a3989b0e141cff67ec88.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLfYkWNF18lwmO7Eu9yhi1Ds_0BuYzr3J4GVIFVrNVnUq1K3yee9hcO9uJyanyRlvXVx7XfD30vggrNaWnM/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLfYkWNF18lwmO7Eu9yhi1Ds_0BuYzr3J4GVIFVrNVnUq1K3yee9hcO9uJyanyRlvXVx7XfD30vggrNaWnM/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLbUkmJE5fp9i_vG8MKh31Lnqko5Y2HxJ46SeldvMw6B-FW-l7ju1JTpvc_IyXRk7yAgsH_fgVXp1oQp02-z/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLbUkmJE5fp9i_vG8MKh31Lnqko5Y2HxJ46SeldvMw6B-FW-l7ju1JTpvc_IyXRk7yAgsH_fgVXp1oQp02-z/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLPUl31I18lwmO7Eu9vziQLlrRJqZ2v6JYKRJwY3MFmG-lPrlevq05W0u5XBnCNkvXEh5CrD30vgK1lTqQ4/512fx384f"
+        },
+        "desc": "It has been painted using a combination of hydrographics and heat-transfer decals.",
+        "lore": "If you didn't want collateral damage, perhaps you should have been more specific... - Javier Alviso, Fist of the Phoenix"
       }
     ]
   }
-]
+}

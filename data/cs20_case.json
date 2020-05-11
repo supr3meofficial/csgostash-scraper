@@ -1,442 +1,251 @@
-[
-  {
-    "url": "https://csgostash.com/case/293/CS20-Case"
-  },
-  {
-    "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU0naHKIj9D7oTgl4LelaGnMuqIwDgFusR337HCpYmhiwzm8ktqMjv2INKLMlhprbp6CTE/256fx256f"
-  },
-  {
+{
+  "url": "https://csgostash.com/case/293/CS20-Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU0naHKIj9D7oTgl4LelaGnMuqIwDgFusR337HCpYmhiwzm8ktqMjv2INKLMlhprbp6CTE/256fx256f",
+  "content": {
     "Covert Skins": [
       {
-        "AWP | Wildfire": [
-          {
-            "url": "https://csgostash.com/skin/1113/AWP-Wildfire"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_wildfire_light_large.61e36b12eb45a39836cdb5badb5a536737684861.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj4OrzZglRd6dd2j6eXpImm3lbl-RY-Z2yiJ4-dcQBtNQrVqADqk-u-gJW6u57Oz3pnsiYj-z-DyLDxQcXO/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj4OrzZglRd6dd2j6eXpImm3lbl-RY-Z2yiJ4-dcQBtNQrVqADqk-u-gJW6u57Oz3pnsiYj-z-DyLDxQcXO/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj5Nr_Yg2Zu5MRjjeyP9tWh0FXnqkFqN2miI9OQdlNraF2E_ADrxLzujJa7vcmczSFgviV3tGGdwULCeAiZTA/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj5Nr_Yg2Zu5MRjjeyP9tWh0FXnqkFqN2miI9OQdlNraF2E_ADrxLzujJa7vcmczSFgviV3tGGdwULCeAiZTA/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj8NrrHj1Rd6dd2j6eS8473jlHm-RVsYmuhJNPGI1c-YVrR-lfqxevu1p-9tZuYm3BluXUi-z-DyJUaejYK/512fx384f"
-            }
-          },
-          {
-            "desc": "The Operation Wildfire logo has been hand painted over a black and red base."
-          },
-          {
-            "lore": "The nail that sticks out gets the hammer"
-          }
-        ]
+        "title": "AWP | Wildfire",
+        "url": "https://csgostash.com/skin/1113/AWP-Wildfire",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_wildfire_light_large.61e36b12eb45a39836cdb5badb5a536737684861.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj4OrzZglRd6dd2j6eXpImm3lbl-RY-Z2yiJ4-dcQBtNQrVqADqk-u-gJW6u57Oz3pnsiYj-z-DyLDxQcXO/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj4OrzZglRd6dd2j6eXpImm3lbl-RY-Z2yiJ4-dcQBtNQrVqADqk-u-gJW6u57Oz3pnsiYj-z-DyLDxQcXO/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj5Nr_Yg2Zu5MRjjeyP9tWh0FXnqkFqN2miI9OQdlNraF2E_ADrxLzujJa7vcmczSFgviV3tGGdwULCeAiZTA/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj5Nr_Yg2Zu5MRjjeyP9tWh0FXnqkFqN2miI9OQdlNraF2E_ADrxLzujJa7vcmczSFgviV3tGGdwULCeAiZTA/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj8NrrHj1Rd6dd2j6eS8473jlHm-RVsYmuhJNPGI1c-YVrR-lfqxevu1p-9tZuYm3BluXUi-z-DyJUaejYK/512fx384f"
+        },
+        "desc": "The Operation Wildfire logo has been hand painted over a black and red base.",
+        "lore": "The nail that sticks out gets the hammer"
       },
       {
-        "FAMAS | Commemoration": [
-          {
-            "url": "https://csgostash.com/skin/1114/FAMAS-Commemoration"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_gs_famas_legacy_gold_light_large.34013884c12276d1c83ceb4ea9fb83428df02920.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmIWMlvTtDLzemm9u5Mx2gv3--Y3nj1H6-EdsYmr7LILGcwQ8Zl6E-wK2wr2615Lp7ZSfm3pgviIqsSndnRy1gQYMMLK6CbACJQ/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmIWMlvTtDLzemm9u5Mx2gv3--Y3nj1H6-EdsYmr7LILGcwQ8Zl6E-wK2wr2615Lp7ZSfm3pgviIqsSndnRy1gQYMMLK6CbACJQ/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmIWMlvTtDLzemm9u5cB1g_zMyoD0mlOx5UY_MT_xcIfGdgFrZF3Z-FG8kr_vhcC_6prLzndrvnFzt36JzUHigxlSLrs4R2CbkEM/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmIWMlvTtDLzemm9u5cB1g_zMyoD0mlOx5UY_MT_xcIfGdgFrZF3Z-FG8kr_vhcC_6prLzndrvnFzt36JzUHigxlSLrs4R2CbkEM/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmIWMlvTtDLzemm9u4MBwnPD--Y3nj1H6rhVsZGn0IoCcdVM7Yl2D8le7xbjqg5a-uJuYnyA1vnIh5yvYzkawiAYMMLKjkhFOqg/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted gold and features various details celebrating 20 years of Counter-Strike."
-          },
-          {
-            "lore": "Here's to 20 more"
-          }
-        ]
+        "title": "FAMAS | Commemoration",
+        "url": "https://csgostash.com/skin/1114/FAMAS-Commemoration",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_gs_famas_legacy_gold_light_large.34013884c12276d1c83ceb4ea9fb83428df02920.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmIWMlvTtDLzemm9u5Mx2gv3--Y3nj1H6-EdsYmr7LILGcwQ8Zl6E-wK2wr2615Lp7ZSfm3pgviIqsSndnRy1gQYMMLK6CbACJQ/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmIWMlvTtDLzemm9u5Mx2gv3--Y3nj1H6-EdsYmr7LILGcwQ8Zl6E-wK2wr2615Lp7ZSfm3pgviIqsSndnRy1gQYMMLK6CbACJQ/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmIWMlvTtDLzemm9u5cB1g_zMyoD0mlOx5UY_MT_xcIfGdgFrZF3Z-FG8kr_vhcC_6prLzndrvnFzt36JzUHigxlSLrs4R2CbkEM/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmIWMlvTtDLzemm9u5cB1g_zMyoD0mlOx5UY_MT_xcIfGdgFrZF3Z-FG8kr_vhcC_6prLzndrvnFzt36JzUHigxlSLrs4R2CbkEM/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmIWMlvTtDLzemm9u4MBwnPD--Y3nj1H6rhVsZGn0IoCcdVM7Yl2D8le7xbjqg5a-uJuYnyA1vnIh5yvYzkawiAYMMLKjkhFOqg/512fx384f"
+        },
+        "desc": "It has been custom painted gold and features various details celebrating 20 years of Counter-Strike.",
+        "lore": "Here's to 20 more"
       }
     ],
     "Classified Skins": [
       {
-        "MP9 | Hydra": [
-          {
-            "url": "https://csgostash.com/skin/1110/MP9-Hydra"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_hydra_light_large.b7763a811b3bc9d19d04502fba0edc6cbe355766.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJK9diklb-HnvD8J4Tdl3lW7Ytz3b6Xpo2t2QW2-BE_aj3yLdKVdgM-Yw6Cq1Hrlb3p1sTpv5jMznRlpGB8snH8MK4B/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJK9diklb-HnvD8J4Tdl3lW7Ytz3b6Xpo2t2QW2-BE_aj3yLdKVdgM-Yw6Cq1Hrlb3p1sTpv5jMznRlpGB8snH8MK4B/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJK9diklb-GkvP9JrbummpD78A_ibvAodr2jlW3_kJoYjj0ddeXe1Q9ZFnV_lfsw7zvh561tZTAyHY1vz5iuyhdS4n7Ig/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJK9diklb-GkvP9JrbummpD78A_ibvAodr2jlW3_kJoYjj0ddeXe1Q9ZFnV_lfsw7zvh561tZTAyHY1vz5iuyhdS4n7Ig/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJK9diklb-DkvbiKoTdl3lW7Ysg27GXp9jz2lXh-EM-MW3zLIKUegRvMgrXrAC2l-juhpTv6s-cmHY2pGB8stPDjmcY/512fx384f"
-            }
-          },
-          {
-            "desc": "A custom paint job referencing Operation Hydra, CS:GO's 8th Operation, has been applied."
-          },
-          {
-            "lore": "Worth the wait"
-          }
-        ]
+        "title": "MP9 | Hydra",
+        "url": "https://csgostash.com/skin/1110/MP9-Hydra",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_hydra_light_large.b7763a811b3bc9d19d04502fba0edc6cbe355766.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJK9diklb-HnvD8J4Tdl3lW7Ytz3b6Xpo2t2QW2-BE_aj3yLdKVdgM-Yw6Cq1Hrlb3p1sTpv5jMznRlpGB8snH8MK4B/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJK9diklb-HnvD8J4Tdl3lW7Ytz3b6Xpo2t2QW2-BE_aj3yLdKVdgM-Yw6Cq1Hrlb3p1sTpv5jMznRlpGB8snH8MK4B/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJK9diklb-GkvP9JrbummpD78A_ibvAodr2jlW3_kJoYjj0ddeXe1Q9ZFnV_lfsw7zvh561tZTAyHY1vz5iuyhdS4n7Ig/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJK9diklb-GkvP9JrbummpD78A_ibvAodr2jlW3_kJoYjj0ddeXe1Q9ZFnV_lfsw7zvh561tZTAyHY1vz5iuyhdS4n7Ig/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJK9diklb-DkvbiKoTdl3lW7Ysg27GXp9jz2lXh-EM-MW3zLIKUegRvMgrXrAC2l-juhpTv6s-cmHY2pGB8stPDjmcY/512fx384f"
+        },
+        "desc": "A custom paint job referencing Operation Hydra, CS:GO's 8th Operation, has been applied.",
+        "lore": "Worth the wait"
       },
       {
-        "AUG | Death by Puppy": [
-          {
-            "url": "https://csgostash.com/skin/1112/AUG-Death-by-Puppy"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_am_aug_death_by_doggy_light_large.eb9b56273d30c50b93d2cb0a2e2843b525012878.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PLddgJG6d2inL-JjsjwPLzWj1Rd4cJ5ntbN9J7yjRqxqUo-Zm_xI4XBcQZtZFiC81Lqw729hce-6Z_BzXExvyIn5X7flxK_n1gSOfCWU6Ar/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PLddgJG6d2inL-JjsjwPLzWj1Rd4cJ5ntbN9J7yjRqxqUo-Zm_xI4XBcQZtZFiC81Lqw729hce-6Z_BzXExvyIn5X7flxK_n1gSOfCWU6Ar/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PLddgJG6d2inL-JjsjwPLzWj1Rc7cF4n-T--Y3nj1H6rUU4N2v7LdSdcQ5rY1nY_QS4xuu5gcO0vp_ByHcxunEm53rcyhHkhAYMMLLTRvG6GA/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PLddgJG6d2inL-JjsjwPLzWj1Rc7cF4n-T--Y3nj1H6rUU4N2v7LdSdcQ5rY1nY_QS4xuu5gcO0vp_ByHcxunEm53rcyhHkhAYMMLLTRvG6GA/512fx384f"
-            }
-          },
-          {
-            "desc": "A multicolored Pop Dog pattern has been applied."
-          },
-          {
-            "lore": "Not to be confused with \"ladder\""
-          }
-        ]
+        "title": "AUG | Death by Puppy",
+        "url": "https://csgostash.com/skin/1112/AUG-Death-by-Puppy",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_am_aug_death_by_doggy_light_large.eb9b56273d30c50b93d2cb0a2e2843b525012878.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PLddgJG6d2inL-JjsjwPLzWj1Rd4cJ5ntbN9J7yjRqxqUo-Zm_xI4XBcQZtZFiC81Lqw729hce-6Z_BzXExvyIn5X7flxK_n1gSOfCWU6Ar/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PLddgJG6d2inL-JjsjwPLzWj1Rd4cJ5ntbN9J7yjRqxqUo-Zm_xI4XBcQZtZFiC81Lqw729hce-6Z_BzXExvyIn5X7flxK_n1gSOfCWU6Ar/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PLddgJG6d2inL-JjsjwPLzWj1Rc7cF4n-T--Y3nj1H6rUU4N2v7LdSdcQ5rY1nY_QS4xuu5gcO0vp_ByHcxunEm53rcyhHkhAYMMLLTRvG6GA/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PLddgJG6d2inL-JjsjwPLzWj1Rc7cF4n-T--Y3nj1H6rUU4N2v7LdSdcQ5rY1nY_QS4xuu5gcO0vp_ByHcxunEm53rcyhHkhAYMMLLTRvG6GA/512fx384f"
+        },
+        "desc": "A multicolored Pop Dog pattern has been applied.",
+        "lore": "Not to be confused with \"ladder\""
       },
       {
-        "P90 | Nostalgia": [
-          {
-            "url": "https://csgostash.com/skin/1111/P90-Nostalgia"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90_nostalgia_light_large.8d1cfe3582915ab9702b57e1376eb0d0ffab2331.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJM48-ilYyMnvbLP7LWnn9u5MRjjeyPrYiki1Kx-EZkYWDyIdfHewE-YwrV_QS_wunp0MS86J2fnyMxuCMh5GGdwUIVw48tkA/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJM48-ilYyMnvbLP7LWnn9u5MRjjeyPrYiki1Kx-EZkYWDyIdfHewE-YwrV_QS_wunp0MS86J2fnyMxuCMh5GGdwUIVw48tkA/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJM48-ilYyMnvbLPr7Vn35c18lwmO7Eu4302gaxrRE-YTj3LIaQJ1A6Ml7T_wK_kOfu1sDvtMibzXdisiF2tHfD30vgZ0UIxp4/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJM48-ilYyMnvbLPr7Vn35c18lwmO7Eu4302gaxrRE-YTj3LIaQJ1A6Ml7T_wK_kOfu1sDvtMibzXdisiF2tHfD30vgZ0UIxp4/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJM48-ilYyMnvbLO77QgHJu5MRjjeyP94-gjgbk-0c9MDqlJoCRJlc8NAvUrwK7wOm-hpbptJXBmnExvHR07GGdwUL-eRwUJQ/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted with a CT from the main menu of the original Counter-Strike."
-          },
-          {
-            "lore": "Minutes to install but a lifetime to master"
-          }
-        ]
+        "title": "P90 | Nostalgia",
+        "url": "https://csgostash.com/skin/1111/P90-Nostalgia",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90_nostalgia_light_large.8d1cfe3582915ab9702b57e1376eb0d0ffab2331.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJM48-ilYyMnvbLP7LWnn9u5MRjjeyPrYiki1Kx-EZkYWDyIdfHewE-YwrV_QS_wunp0MS86J2fnyMxuCMh5GGdwUIVw48tkA/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJM48-ilYyMnvbLP7LWnn9u5MRjjeyPrYiki1Kx-EZkYWDyIdfHewE-YwrV_QS_wunp0MS86J2fnyMxuCMh5GGdwUIVw48tkA/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJM48-ilYyMnvbLPr7Vn35c18lwmO7Eu4302gaxrRE-YTj3LIaQJ1A6Ml7T_wK_kOfu1sDvtMibzXdisiF2tHfD30vgZ0UIxp4/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJM48-ilYyMnvbLPr7Vn35c18lwmO7Eu4302gaxrRE-YTj3LIaQJ1A6Ml7T_wK_kOfu1sDvtMibzXdisiF2tHfD30vgZ0UIxp4/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJM48-ilYyMnvbLO77QgHJu5MRjjeyP94-gjgbk-0c9MDqlJoCRJlc8NAvUrwK7wOm-hpbptJXBmnExvHR07GGdwUL-eRwUJQ/512fx384f"
+        },
+        "desc": "It has been custom painted with a CT from the main menu of the original Counter-Strike.",
+        "lore": "Minutes to install but a lifetime to master"
       }
     ],
     "Restricted Skins": [
       {
-        "MP5-SD | Agent": [
-          {
-            "url": "https://csgostash.com/skin/1106/MP5-SD-Agent"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5_fbi_light_large.98c397d31feb201fd3d754a2e0b1d1508d75b2b9.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09q0nb-HnvD8J4Tdl3lW7Yso0uqSrNvx2wWyrhFuY2ilcIXBdQM6MFqF-gO_le_qhZ7ou5ibyyBqpGB8skTxF_xK/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09q0nb-HnvD8J4Tdl3lW7Yso0uqSrNvx2wWyrhFuY2ilcIXBdQM6MFqF-gO_le_qhZ7ou5ibyyBqpGB8skTxF_xK/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09q0nb-GkvP9JrbummpD78A_jO-Z9o72jQXj-xFuYm2icYOUdA9vNV3R_1HvyOu9gZ_t6Z7BnyAwsj5iuyjIUHAMMQ/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09q0nb-GkvP9JrbummpD78A_jO-Z9o72jQXj-xFuYm2icYOUdA9vNV3R_1HvyOu9gZ_t6Z7BnyAwsj5iuyjIUHAMMQ/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09q0nb-DkvbiKoTdl3lW7Yty3OiWptnxjAbgqkJuZj37LIKTIVRqM1qBrlG6w-i618e_vpnNynRqpGB8siww7KG6/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted in FBI blue and finished with yellow accents."
-          },
-          {
-            "lore": "\"It's time to earn our stories\""
-          }
-        ]
+        "title": "MP5-SD | Agent",
+        "url": "https://csgostash.com/skin/1106/MP5-SD-Agent",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5_fbi_light_large.98c397d31feb201fd3d754a2e0b1d1508d75b2b9.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09q0nb-HnvD8J4Tdl3lW7Yso0uqSrNvx2wWyrhFuY2ilcIXBdQM6MFqF-gO_le_qhZ7ou5ibyyBqpGB8skTxF_xK/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09q0nb-HnvD8J4Tdl3lW7Yso0uqSrNvx2wWyrhFuY2ilcIXBdQM6MFqF-gO_le_qhZ7ou5ibyyBqpGB8skTxF_xK/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09q0nb-GkvP9JrbummpD78A_jO-Z9o72jQXj-xFuYm2icYOUdA9vNV3R_1HvyOu9gZ_t6Z7BnyAwsj5iuyjIUHAMMQ/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09q0nb-GkvP9JrbummpD78A_jO-Z9o72jQXj-xFuYm2icYOUdA9vNV3R_1HvyOu9gZ_t6Z7BnyAwsj5iuyjIUHAMMQ/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09q0nb-DkvbiKoTdl3lW7Yty3OiWptnxjAbgqkJuZj37LIKTIVRqM1qBrlG6w-i618e_vpnNynRqpGB8siww7KG6/512fx384f"
+        },
+        "desc": "It has been custom painted in FBI blue and finished with yellow accents.",
+        "lore": "\"It's time to earn our stories\""
       },
       {
-        "P250 | Inferno": [
-          {
-            "url": "https://csgostash.com/skin/1108/P250-Inferno"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_gs_p250_inferno_light_large.89b435cf4b1eab8a9fed8f7aa19228fe9421b4eb.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09W4koWZmfjLP7LWnn9u5MRjjeyPrdX33AfhqBVoMWimddSdIw9oNAzYrFbvkO_mh5S06sjAzXBi6CR3t2GdwUKzOAMUbw/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09W4koWZmfjLP7LWnn9u5MRjjeyPrdX33AfhqBVoMWimddSdIw9oNAzYrFbvkO_mh5S06sjAzXBi6CR3t2GdwUKzOAMUbw/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09W4koWZmfjLPr7Vn35c18lwmO7Eu96j0VLkqEptNj2gItDGdQRvZgyFr1K3kOq518C-6c6dyXRgsyUk5ivD30vglx4HWOE/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09W4koWZmfjLPr7Vn35c18lwmO7Eu96j0VLkqEptNj2gItDGdQRvZgyFr1K3kOq518C-6c6dyXRgsyUk5ivD30vglx4HWOE/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09W4koWZmfjLO77QgHJu5MRjjeyPpNSsiwaxqBdqZG2nJ4-QdAE_ZFCF_1HvwO_rgJTv7ZiaySYyuyYg5GGdwUKBZPSpqQ/512fx384f"
-            }
-          },
-          {
-            "desc": "A custom paint job which reflects the ethos of de_inferno has been applied."
-          },
-          {
-            "lore": "\"But look at the time!\""
-          }
-        ]
+        "title": "P250 | Inferno",
+        "url": "https://csgostash.com/skin/1108/P250-Inferno",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_gs_p250_inferno_light_large.89b435cf4b1eab8a9fed8f7aa19228fe9421b4eb.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09W4koWZmfjLP7LWnn9u5MRjjeyPrdX33AfhqBVoMWimddSdIw9oNAzYrFbvkO_mh5S06sjAzXBi6CR3t2GdwUKzOAMUbw/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09W4koWZmfjLP7LWnn9u5MRjjeyPrdX33AfhqBVoMWimddSdIw9oNAzYrFbvkO_mh5S06sjAzXBi6CR3t2GdwUKzOAMUbw/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09W4koWZmfjLPr7Vn35c18lwmO7Eu96j0VLkqEptNj2gItDGdQRvZgyFr1K3kOq518C-6c6dyXRgsyUk5ivD30vglx4HWOE/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09W4koWZmfjLPr7Vn35c18lwmO7Eu96j0VLkqEptNj2gItDGdQRvZgyFr1K3kOq518C-6c6dyXRgsyUk5ivD30vglx4HWOE/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09W4koWZmfjLO77QgHJu5MRjjeyPpNSsiwaxqBdqZG2nJ4-QdAE_ZFCF_1HvwO_rgJTv7ZiaySYyuyYg5GGdwUKBZPSpqQ/512fx384f"
+        },
+        "desc": "A custom paint job which reflects the ethos of de_inferno has been applied.",
+        "lore": "\"But look at the time!\""
       },
       {
-        "UMP-45 | Plastique": [
-          {
-            "url": "https://csgostash.com/skin/1109/UMP-45-Plastique"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump_bomb_light_large.48162f997295cb72c35acb2eafbef620b60a1659.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS0965mYK0m_7zO6_ummpD78A_3rGQo97z0Q3j-UppMDv0JtWWd1dtM1qFqwfslLjph5buup2YyHRmsz5iuygoROZNCw/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS0965mYK0m_7zO6_ummpD78A_3rGQo97z0Q3j-UppMDv0JtWWd1dtM1qFqwfslLjph5buup2YyHRmsz5iuygoROZNCw/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS0965mYK0mvLwOq7cqWdQ-sJ0xLCW99322FLkrkQ9ZTjycoKQegY_NwnVqFTvwr--gJS-u5qcnXQy7nY8pSGKW6ScGV4/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS0965mYK0mvLwOq7cqWdQ-sJ0xLCW99322FLkrkQ9ZTjycoKQegY_NwnVqFTvwr--gJS-u5qcnXQy7nY8pSGKW6ScGV4/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS0965mYK0n_L1JaLummpD78A_0-jE94nx2AHn_kJla27wJIHEIQBqYAnR_FS9k-i9gZHovJ3ByXNkvz5iuyjSlwSm6A/512fx384f"
-            }
-          },
-          {
-            "desc": "A custom paint job of wires, a green circuit board, and a number pad has been applied."
-          },
-          {
-            "lore": "73556**"
-          }
-        ]
+        "title": "UMP-45 | Plastique",
+        "url": "https://csgostash.com/skin/1109/UMP-45-Plastique",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump_bomb_light_large.48162f997295cb72c35acb2eafbef620b60a1659.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS0965mYK0m_7zO6_ummpD78A_3rGQo97z0Q3j-UppMDv0JtWWd1dtM1qFqwfslLjph5buup2YyHRmsz5iuygoROZNCw/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS0965mYK0m_7zO6_ummpD78A_3rGQo97z0Q3j-UppMDv0JtWWd1dtM1qFqwfslLjph5buup2YyHRmsz5iuygoROZNCw/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS0965mYK0mvLwOq7cqWdQ-sJ0xLCW99322FLkrkQ9ZTjycoKQegY_NwnVqFTvwr--gJS-u5qcnXQy7nY8pSGKW6ScGV4/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS0965mYK0mvLwOq7cqWdQ-sJ0xLCW99322FLkrkQ9ZTjycoKQegY_NwnVqFTvwr--gJS-u5qcnXQy7nY8pSGKW6ScGV4/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS0965mYK0n_L1JaLummpD78A_0-jE94nx2AHn_kJla27wJIHEIQBqYAnR_FS9k-i9gZHovJ3ByXNkvz5iuyjSlwSm6A/512fx384f"
+        },
+        "desc": "A custom paint job of wires, a green circuit board, and a number pad has been applied.",
+        "lore": "73556**"
       },
       {
-        "Five-SeveN | Buddy": [
-          {
-            "url": "https://csgostash.com/skin/1107/Five-SeveN-Buddy"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_gsg9_light_large.870dec48f951d3a6420bdb332f0acd25ee1254b1.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTWhWwI18l4jeHVyoD0mlOx5UtrYz2md4KdJA87YAzTq1e6w-690cS_v5-fySMw7iInsCrcnRCz0xlSLrs4aHy31kQ/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTWhWwI18l4jeHVyoD0mlOx5UtrYz2md4KdJA87YAzTq1e6w-690cS_v5-fySMw7iInsCrcnRCz0xlSLrs4aHy31kQ/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTWhWwI18h0juDU-LP5iUazrl05Ymj6doaXewM4ZlDX_Ffqx-bog5bqtZjLyCEx73Yq4XaMy0e-iEpPcKUx0kBr5TQD/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTWhWwI18h0juDU-LP5iUazrl05Ymj6doaXewM4ZlDX_Ffqx-bog5bqtZjLyCEx73Yq4XaMy0e-iEpPcKUx0kBr5TQD/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTWhWwI1810i__YyoD0mlOx5RFlZGD7IdPAIwA5M1nV_FfvyefvhZS47pjKyXs36CJ37S3cm0PhgBhSLrs41M2KOA4/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted with camo patterns and a CT beneath the rear sight."
-          },
-          {
-            "lore": "I've got your six"
-          }
-        ]
+        "title": "Five-SeveN | Buddy",
+        "url": "https://csgostash.com/skin/1107/Five-SeveN-Buddy",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_gsg9_light_large.870dec48f951d3a6420bdb332f0acd25ee1254b1.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTWhWwI18l4jeHVyoD0mlOx5UtrYz2md4KdJA87YAzTq1e6w-690cS_v5-fySMw7iInsCrcnRCz0xlSLrs4aHy31kQ/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTWhWwI18l4jeHVyoD0mlOx5UtrYz2md4KdJA87YAzTq1e6w-690cS_v5-fySMw7iInsCrcnRCz0xlSLrs4aHy31kQ/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTWhWwI18h0juDU-LP5iUazrl05Ymj6doaXewM4ZlDX_Ffqx-bog5bqtZjLyCEx73Yq4XaMy0e-iEpPcKUx0kBr5TQD/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTWhWwI18h0juDU-LP5iUazrl05Ymj6doaXewM4ZlDX_Ffqx-bog5bqtZjLyCEx73Yq4XaMy0e-iEpPcKUx0kBr5TQD/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTWhWwI1810i__YyoD0mlOx5RFlZGD7IdPAIwA5M1nV_FfvyefvhZS47pjKyXs36CJ37S3cm0PhgBhSLrs41M2KOA4/512fx384f"
+        },
+        "desc": "It has been custom painted with camo patterns and a CT beneath the rear sight.",
+        "lore": "I've got your six"
       },
       {
-        "M249 | Aztec": [
-          {
-            "url": "https://csgostash.com/skin/1105/M249-Aztec"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_aq_m249_aztec_light_large.81173c5b61be806039e643a0c273e4dce33bd5ee.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhhwszFI2kb092sgIWIqPv9NLPFqWdQ-sJ0xLGQpNumiwG2_UI-NmHzIoaWe1M4ZVuB-gK8xu26gcLv6Z7KmyZm73U8pSGKNCKmBkk/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhhwszFI2kb092sgIWIqPv9NLPFqWdQ-sJ0xLGQpNumiwG2_UI-NmHzIoaWe1M4ZVuB-gK8xu26gcLv6Z7KmyZm73U8pSGKNCKmBkk/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhhwszFI2kb092sgIWIqPrxN7LEm1Rd6dd2j6fErI-njA22qEptYW6hLdDEJgE4YV_Z_ADvwLvugMS76pSYynFi6CYq-z-DyMeJws-D/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhhwszFI2kb092sgIWIqPrxN7LEm1Rd6dd2j6fErI-njA22qEptYW6hLdDEJgE4YV_Z_ADvwLvugMS76pSYynFi6CYq-z-DyMeJws-D/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhhwszFI2kb092sgIWIqP_xMq3IqWdQ-sJ0xLyZ8I73jgzn_xJpZWH2dY-SJlVoYlmB8lC6kuvmg8e8tZSYm3Vruic8pSGKAOS1Fzo/512fx384f"
-            }
-          },
-          {
-            "desc": "Excavated from Aztec ruins, parts of this M249 have rusted and been covered in moss."
-          },
-          {
-            "lore": "Never trust a rope bridge"
-          }
-        ]
+        "title": "M249 | Aztec",
+        "url": "https://csgostash.com/skin/1105/M249-Aztec",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_aq_m249_aztec_light_large.81173c5b61be806039e643a0c273e4dce33bd5ee.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhhwszFI2kb092sgIWIqPv9NLPFqWdQ-sJ0xLGQpNumiwG2_UI-NmHzIoaWe1M4ZVuB-gK8xu26gcLv6Z7KmyZm73U8pSGKNCKmBkk/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhhwszFI2kb092sgIWIqPv9NLPFqWdQ-sJ0xLGQpNumiwG2_UI-NmHzIoaWe1M4ZVuB-gK8xu26gcLv6Z7KmyZm73U8pSGKNCKmBkk/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhhwszFI2kb092sgIWIqPrxN7LEm1Rd6dd2j6fErI-njA22qEptYW6hLdDEJgE4YV_Z_ADvwLvugMS76pSYynFi6CYq-z-DyMeJws-D/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhhwszFI2kb092sgIWIqPrxN7LEm1Rd6dd2j6fErI-njA22qEptYW6hLdDEJgE4YV_Z_ADvwLvugMS76pSYynFi6CYq-z-DyMeJws-D/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhhwszFI2kb092sgIWIqP_xMq3IqWdQ-sJ0xLyZ8I73jgzn_xJpZWH2dY-SJlVoYlmB8lC6kuvmg8e8tZSYm3Vruic8pSGKAOS1Fzo/512fx384f"
+        },
+        "desc": "Excavated from Aztec ruins, parts of this M249 have rusted and been covered in moss.",
+        "lore": "Never trust a rope bridge"
       }
     ],
     "Mil-Spec Skins": [
       {
-        "Glock-18 | Sacrifice": [
-          {
-            "url": "https://csgostash.com/skin/1104/Glock-18-Sacrifice"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_hero_light_large.7b0f5975c7e0ba3ce1694c4795520184fc56c367.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnIWZmMj4OrzZglRd6dd2j6eW99zz3Q3j_hBrNmmhdYXGJwc4aFyD_la3xOvthZe0uMuazHQwuSYl-z-DyKtTZWhf/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnIWZmMj4OrzZglRd6dd2j6eW99zz3Q3j_hBrNmmhdYXGJwc4aFyD_la3xOvthZe0uMuazHQwuSYl-z-DyKtTZWhf/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnIWZmMj5Nr_Yg2Zu5MRjjeyPp9_ziQe2-0ZuMDugdY-ccAA9Mg3T-le6wLrvgZHovc_Jy3Ziu3Eq52GdwUIjbvlCZQ/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnIWZmMj5Nr_Yg2Zu5MRjjeyPp9_ziQe2-0ZuMDugdY-ccAA9Mg3T-le6wLrvgZHovc_Jy3Ziu3Eq52GdwUIjbvlCZQ/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnIWZmMj8NrrHj1Rd6dd2j6fD99qjjlHmrxBsZ2ihcoLAdwM7Z1DR81fqwuy-1JS7v8yYwXUx63V2-z-DyMgCbLJ-/512fx384f"
-            }
-          },
-          {
-            "desc": "This custom paint job pays homage to olofmeister's burning defuse on Overpass at ESL One Cologne 2014."
-          },
-          {
-            "lore": "\"The defuse is coming in\u2014he's still going!\""
-          }
-        ]
+        "title": "Glock-18 | Sacrifice",
+        "url": "https://csgostash.com/skin/1104/Glock-18-Sacrifice",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_hero_light_large.7b0f5975c7e0ba3ce1694c4795520184fc56c367.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnIWZmMj4OrzZglRd6dd2j6eW99zz3Q3j_hBrNmmhdYXGJwc4aFyD_la3xOvthZe0uMuazHQwuSYl-z-DyKtTZWhf/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnIWZmMj4OrzZglRd6dd2j6eW99zz3Q3j_hBrNmmhdYXGJwc4aFyD_la3xOvthZe0uMuazHQwuSYl-z-DyKtTZWhf/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnIWZmMj5Nr_Yg2Zu5MRjjeyPp9_ziQe2-0ZuMDugdY-ccAA9Mg3T-le6wLrvgZHovc_Jy3Ziu3Eq52GdwUIjbvlCZQ/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnIWZmMj5Nr_Yg2Zu5MRjjeyPp9_ziQe2-0ZuMDugdY-ccAA9Mg3T-le6wLrvgZHovc_Jy3Ziu3Eq52GdwUIjbvlCZQ/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnIWZmMj8NrrHj1Rd6dd2j6fD99qjjlHmrxBsZ2ihcoLAdwM7Z1DR81fqwuy-1JS7v8yYwXUx63V2-z-DyMgCbLJ-/512fx384f"
+        },
+        "desc": "This custom paint job pays homage to olofmeister's burning defuse on Overpass at ESL One Cologne 2014.",
+        "lore": "\"The defuse is coming in\u2014he's still going!\""
       },
       {
-        "FAMAS | Decommissioned": [
-          {
-            "url": "https://csgostash.com/skin/1103/FAMAS-Decommissioned"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_cu_famas_nuke_tension_light_large.0cf9412e22f626e675b76506cf2f240a64a05b22.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmpWAksjgNrXCn2Rf18l4jeHVyoD0mlOx5UM_NWD3JYTAcARoZ1rWr1e5xLzog5O8us6fyyRhviBz43uMnxDlgxpSLrs4241xVvs/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmpWAksjgNrXCn2Rf18l4jeHVyoD0mlOx5UM_NWD3JYTAcARoZ1rWr1e5xLzog5O8us6fyyRhviBz43uMnxDlgxpSLrs4241xVvs/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmpWAksjgNrXCn2Rf18h0juDU-LP5iUazrl1qMWnyJtCdJ1BoZV7ZrFO2yem8h5e_tJnPyHIwsyUisXzdzh210xpLcKUx0iIqOshv/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmpWAksjgNrXCn2Rf18h0juDU-LP5iUazrl1qMWnyJtCdJ1BoZV7ZrFO2yem8h5e_tJnPyHIwsyUisXzdzh210xpLcKUx0iIqOshv/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmpWAksjgNrXCn2Rf1810i__YyoD0mlOx5UNsZ2n3JYWQelc-N1vXrlO8yers1pbouZjBn3Zm7nUjsHjblhWygxhSLrs4whtAyq8/512fx384f"
-            }
-          },
-          {
-            "desc": "This custom paint job is inspired by elements found on de_nuke from Counter-Strike 1.6."
-          },
-          {
-            "lore": "If found please return to Cedar Creek Nuclear Power Plant"
-          }
-        ]
+        "title": "FAMAS | Decommissioned",
+        "url": "https://csgostash.com/skin/1103/FAMAS-Decommissioned",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_cu_famas_nuke_tension_light_large.0cf9412e22f626e675b76506cf2f240a64a05b22.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmpWAksjgNrXCn2Rf18l4jeHVyoD0mlOx5UM_NWD3JYTAcARoZ1rWr1e5xLzog5O8us6fyyRhviBz43uMnxDlgxpSLrs4241xVvs/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmpWAksjgNrXCn2Rf18l4jeHVyoD0mlOx5UM_NWD3JYTAcARoZ1rWr1e5xLzog5O8us6fyyRhviBz43uMnxDlgxpSLrs4241xVvs/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmpWAksjgNrXCn2Rf18h0juDU-LP5iUazrl1qMWnyJtCdJ1BoZV7ZrFO2yem8h5e_tJnPyHIwsyUisXzdzh210xpLcKUx0iIqOshv/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmpWAksjgNrXCn2Rf18h0juDU-LP5iUazrl1qMWnyJtCdJ1BoZV7ZrFO2yem8h5e_tJnPyHIwsyUisXzdzh210xpLcKUx0iIqOshv/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmpWAksjgNrXCn2Rf1810i__YyoD0mlOx5UNsZ2n3JYWQelc-N1vXrlO8yers1pbouZjBn3Zm7nUjsHjblhWygxhSLrs4whtAyq8/512fx384f"
+        },
+        "desc": "This custom paint job is inspired by elements found on de_nuke from Counter-Strike 1.6.",
+        "lore": "If found please return to Cedar Creek Nuclear Power Plant"
       },
       {
-        "MAC-10 | Classic Crate": [
-          {
-            "url": "https://csgostash.com/skin/1100/MAC-10-Classic-Crate"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_gs_mac10_dust_crate_light_large.988816a75bc41f34cb18aff91ce6256299a9a52c.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJkJWYg8j3IbrFk1Rd4cJ5ntbN9J7yjRrt80tkYm-iI4PHIQI_N1vUqQO_yb-505-978jPy3dluCkrtHaMmhfkn1gSOWILGKqQ/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJkJWYg8j3IbrFk1Rd4cJ5ntbN9J7yjRrt80tkYm-iI4PHIQI_N1vUqQO_yb-505-978jPy3dluCkrtHaMmhfkn1gSOWILGKqQ/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJkJWYg8j3IbrFk1Rc7cF4n-T--Y3nj1H6_EVsNmGgJNLEcgU3NV_Rr1G5lee7hsS_6JXLz3Zqvygg5HndlhS11AYMMLLLdL8udQ/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJkJWYg8j3IbrFk1Rc7cF4n-T--Y3nj1H6_EVsNmGgJNLEcgU3NV_Rr1G5lee7hsS_6JXLz3Zqvygg5HndlhS11AYMMLLLdL8udQ/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJkJWYg8j3IbrFk1RZ7cRnk9bN9J7yjRq1-ko-a2nyIoeUIVc7YV3XrljowO6-hsXouc6dyydhs3Yr4yzUmEO3n1gSOe5YVSFp/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been hand painted to resemble the green metal crates originally found on de_dust2."
-          },
-          {
-            "lore": "Rush B, don't stop"
-          }
-        ]
+        "title": "MAC-10 | Classic Crate",
+        "url": "https://csgostash.com/skin/1100/MAC-10-Classic-Crate",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_gs_mac10_dust_crate_light_large.988816a75bc41f34cb18aff91ce6256299a9a52c.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJkJWYg8j3IbrFk1Rd4cJ5ntbN9J7yjRrt80tkYm-iI4PHIQI_N1vUqQO_yb-505-978jPy3dluCkrtHaMmhfkn1gSOWILGKqQ/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJkJWYg8j3IbrFk1Rd4cJ5ntbN9J7yjRrt80tkYm-iI4PHIQI_N1vUqQO_yb-505-978jPy3dluCkrtHaMmhfkn1gSOWILGKqQ/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJkJWYg8j3IbrFk1Rc7cF4n-T--Y3nj1H6_EVsNmGgJNLEcgU3NV_Rr1G5lee7hsS_6JXLz3Zqvygg5HndlhS11AYMMLLLdL8udQ/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJkJWYg8j3IbrFk1Rc7cF4n-T--Y3nj1H6_EVsNmGgJNLEcgU3NV_Rr1G5lee7hsS_6JXLz3Zqvygg5HndlhS11AYMMLLLdL8udQ/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJkJWYg8j3IbrFk1RZ7cRnk9bN9J7yjRq1-ko-a2nyIoeUIVc7YV3XrljowO6-hsXouc6dyydhs3Yr4yzUmEO3n1gSOe5YVSFp/512fx384f"
+        },
+        "desc": "It has been hand painted to resemble the green metal crates originally found on de_dust2.",
+        "lore": "Rush B, don't stop"
       },
       {
-        "Tec-9 | Flash Out": [
-          {
-            "url": "https://csgostash.com/skin/1099/Tec-9-Flash-Out"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_cu_tec9_flash_light_large.977076b5fe7a2fdb9337de2a3ff7c4b867e9b674.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqPv9NLPFqWdQ-sJ0xLCWotyi3lbhrRZrMmulcNSccQU5NQ3Sq1Lol-m8gcS0upqcwCBlvSQ8pSGKcKA2Srg/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqPv9NLPFqWdQ-sJ0xLCWotyi3lbhrRZrMmulcNSccQU5NQ3Sq1Lol-m8gcS0upqcwCBlvSQ8pSGKcKA2Srg/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqPrxN7LEm1Rd6dd2j6fCoo-l0AWxqhZlZj_wJdWScA5sMl2E_lW-lb_p0MDpus_Iynprvicr-z-DyB-TKs2a/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqPrxN7LEm1Rd6dd2j6fCoo-l0AWxqhZlZj_wJdWScA5sMl2E_lW-lb_p0MDpus_Iynprvicr-z-DyB-TKs2a/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqP_xMq3IqWdQ-sJ0xLmR9NXzjgWwrxVoajj6LICVIQdvZl-Gq1K8k7rv08S_6c7LzHowuyk8pSGKs64QEKE/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted to resemble a flashbang grenade."
-          },
-          {
-            "lore": "Re"
-          }
-        ]
+        "title": "Tec-9 | Flash Out",
+        "url": "https://csgostash.com/skin/1099/Tec-9-Flash-Out",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_cu_tec9_flash_light_large.977076b5fe7a2fdb9337de2a3ff7c4b867e9b674.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqPv9NLPFqWdQ-sJ0xLCWotyi3lbhrRZrMmulcNSccQU5NQ3Sq1Lol-m8gcS0upqcwCBlvSQ8pSGKcKA2Srg/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqPv9NLPFqWdQ-sJ0xLCWotyi3lbhrRZrMmulcNSccQU5NQ3Sq1Lol-m8gcS0upqcwCBlvSQ8pSGKcKA2Srg/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqPrxN7LEm1Rd6dd2j6fCoo-l0AWxqhZlZj_wJdWScA5sMl2E_lW-lb_p0MDpus_Iynprvicr-z-DyB-TKs2a/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqPrxN7LEm1Rd6dd2j6fCoo-l0AWxqhZlZj_wJdWScA5sMl2E_lW-lb_p0MDpus_Iynprvicr-z-DyB-TKs2a/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqP_xMq3IqWdQ-sJ0xLmR9NXzjgWwrxVoajj6LICVIQdvZl-Gq1K8k7rv08S_6c7LzHowuyk8pSGKs64QEKE/512fx384f"
+        },
+        "desc": "It has been custom painted to resemble a flashbang grenade.",
+        "lore": "Re"
       },
       {
-        "MAG-7 | Popdog": [
-          {
-            "url": "https://csgostash.com/skin/1101/MAG-7-Popdog"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_gs_mag7_popdog_light_large.3c45fd23cd1947bb9b1747e36823980a44feaed4.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV08y5hISEkMj4OrzZglRd6dd2j6eS9tigjlDm-BA4YmD3I9THe1Q_ZlzXr1K4yezsjJ687ZnNnycy73Qm-z-DyKAIbOaD/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV08y5hISEkMj4OrzZglRd6dd2j6eS9tigjlDm-BA4YmD3I9THe1Q_ZlzXr1K4yezsjJ687ZnNnycy73Qm-z-DyKAIbOaD/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV08y5hISEkMj5Nr_Yg2Zu5MRjjeyPptihiVe3rko4Z276IYDDJgQ_ZFiD-1Tvwrzvhp_u7cnOnycxvyFztmGdwULBETHLIg/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV08y5hISEkMj5Nr_Yg2Zu5MRjjeyPptihiVe3rko4Z276IYDDJgQ_ZFiD-1Tvwrzvhp_u7cnOnycxvyFztmGdwULBETHLIg/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV08y5hISEkMj8NrrHj1Rd6dd2j6fH8Y6liwXmqRU9Njj2LYCcJw89aVCG_Ae8lOrvh8O_uJ3OynsxvCgn-z-DyMg5W0co/512fx384f"
-            }
-          },
-          {
-            "desc": "It has been custom painted to resemble a train car with Pop Dog painted on the side."
-          },
-          {
-            "lore": "The dog that refreshes!"
-          }
-        ]
+        "title": "MAG-7 | Popdog",
+        "url": "https://csgostash.com/skin/1101/MAG-7-Popdog",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_gs_mag7_popdog_light_large.3c45fd23cd1947bb9b1747e36823980a44feaed4.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV08y5hISEkMj4OrzZglRd6dd2j6eS9tigjlDm-BA4YmD3I9THe1Q_ZlzXr1K4yezsjJ687ZnNnycy73Qm-z-DyKAIbOaD/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV08y5hISEkMj4OrzZglRd6dd2j6eS9tigjlDm-BA4YmD3I9THe1Q_ZlzXr1K4yezsjJ687ZnNnycy73Qm-z-DyKAIbOaD/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV08y5hISEkMj5Nr_Yg2Zu5MRjjeyPptihiVe3rko4Z276IYDDJgQ_ZFiD-1Tvwrzvhp_u7cnOnycxvyFztmGdwULBETHLIg/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV08y5hISEkMj5Nr_Yg2Zu5MRjjeyPptihiVe3rko4Z276IYDDJgQ_ZFiD-1Tvwrzvhp_u7cnOnycxvyFztmGdwULBETHLIg/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV08y5hISEkMj8NrrHj1Rd6dd2j6fH8Y6liwXmqRU9Njj2LYCcJw89aVCG_Ae8lOrvh8O_uJ3OynsxvCgn-z-DyMg5W0co/512fx384f"
+        },
+        "desc": "It has been custom painted to resemble a train car with Pop Dog painted on the side.",
+        "lore": "The dog that refreshes!"
       },
       {
-        "Dual Berettas | Elite 1.6": [
-          {
-            "url": "https://csgostash.com/skin/1098/Dual-Berettas-Elite-1.6"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dual_elites_classic_light_large.a899ad9f2e1bb8522fdeb022c99c64c2456826d1.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLMLfQhXhY6_p9g-7J4bP5iUazrl09a2D6ddKcJARrYAqC8lS8w7i70MS8vp-awHswvCRx53vYmR21h0xNcKUx0nQnrd-d/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLMLfQhXhY6_p9g-7J4bP5iUazrl09a2D6ddKcJARrYAqC8lS8w7i70MS8vp-awHswvCRx53vYmR21h0xNcKUx0nQnrd-d/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLMLfQhXhY6_p8j-3I4IHKhFWmrBZyZT31I4GVcgVtYw3V-1e-wL--gcTv6sjKnCZkuCkn4HiMyRLlhBlObvsv26J_LLRylg/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLMLfQhXhY6_p8j-3I4IHKhFWmrBZyZT31I4GVcgVtYw3V-1e-wL--gcTv6sjKnCZkuCkn4HiMyRLlhBlObvsv26J_LLRylg/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLMLfQhXhY6_p5j-jX7LP5iUazrl0-MmrxI46VdwNsZw3X_VO6wby8gcK9vcyayiZhvSMm7HvbmhW0gh1NcKUx0g4YrHb3/512fx384f"
-            }
-          },
-          {
-            "desc": "ELITE has been stamped on the side of these classic Dual Berettas."
-          },
-          {
-            "lore": "Source material"
-          }
-        ]
+        "title": "Dual Berettas | Elite 1.6",
+        "url": "https://csgostash.com/skin/1098/Dual-Berettas-Elite-1.6",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dual_elites_classic_light_large.a899ad9f2e1bb8522fdeb022c99c64c2456826d1.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLMLfQhXhY6_p9g-7J4bP5iUazrl09a2D6ddKcJARrYAqC8lS8w7i70MS8vp-awHswvCRx53vYmR21h0xNcKUx0nQnrd-d/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLMLfQhXhY6_p9g-7J4bP5iUazrl09a2D6ddKcJARrYAqC8lS8w7i70MS8vp-awHswvCRx53vYmR21h0xNcKUx0nQnrd-d/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLMLfQhXhY6_p8j-3I4IHKhFWmrBZyZT31I4GVcgVtYw3V-1e-wL--gcTv6sjKnCZkuCkn4HiMyRLlhBlObvsv26J_LLRylg/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLMLfQhXhY6_p8j-3I4IHKhFWmrBZyZT31I4GVcgVtYw3V-1e-wL--gcTv6sjKnCZkuCkn4HiMyRLlhBlObvsv26J_LLRylg/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLMLfQhXhY6_p5j-jX7LP5iUazrl0-MmrxI46VdwNsZw3X_VO6wby8gcK9vcyayiZhvSMm7HvbmhW0gh1NcKUx0g4YrHb3/512fx384f"
+        },
+        "desc": "ELITE has been stamped on the side of these classic Dual Berettas.",
+        "lore": "Source material"
       },
       {
-        "SCAR-20 | Assault": [
-          {
-            "url": "https://csgostash.com/skin/1102/SCAR-20-Assault"
-          },
-          {
-            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_cu_scar_assault_light_large.57aa89979dfaab334bb3e91c09f54269e98cf47a.png"
-          },
-          {
-            "possible_wears": {
-              "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6JlZOYluL4J4Tdn2xZ_Pp9i_vG8MKg31W180plZGCnctfEIAU9ZQqC-QS3wL3vjMC5uJ_PwCdqsnN04XiMgVXp1qjN3NFX/512fx384f",
-              "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6JlZOYluL4J4Tdn2xZ_Pp9i_vG8MKg31W180plZGCnctfEIAU9ZQqC-QS3wL3vjMC5uJ_PwCdqsnN04XiMgVXp1qjN3NFX/512fx384f",
-              "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6JlZOYluL4J4Tck29Y_chOhujT8om73QDs_xdoYm6gJNSSdAU5NAmD-VXslL-9hJXu7p_Mz3syvHR04XbZnAv330-B0V40Cg/512fx384f",
-              "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6JlZOYluL4J4Tck29Y_chOhujT8om73QDs_xdoYm6gJNSSdAU5NAmD-VXslL-9hJXu7p_Mz3syvHR04XbZnAv330-B0V40Cg/512fx384f",
-              "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6JlZOYluL4J4TZk2pH8fp9i_vG8MKnjVfi-xI5MTzxJI_GcwU3NV-C8lO9xr-808Po75_By3Y16yck5CuIgVXp1nVM6rLm/512fx384f"
-            }
-          },
-          {
-            "desc": "The logo of a research facility has been hand painted in white over a blue base."
-          },
-          {
-            "lore": "Also available in red"
-          }
-        ]
+        "title": "SCAR-20 | Assault",
+        "url": "https://csgostash.com/skin/1102/SCAR-20-Assault",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_cu_scar_assault_light_large.57aa89979dfaab334bb3e91c09f54269e98cf47a.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6JlZOYluL4J4Tdn2xZ_Pp9i_vG8MKg31W180plZGCnctfEIAU9ZQqC-QS3wL3vjMC5uJ_PwCdqsnN04XiMgVXp1qjN3NFX/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6JlZOYluL4J4Tdn2xZ_Pp9i_vG8MKg31W180plZGCnctfEIAU9ZQqC-QS3wL3vjMC5uJ_PwCdqsnN04XiMgVXp1qjN3NFX/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6JlZOYluL4J4Tck29Y_chOhujT8om73QDs_xdoYm6gJNSSdAU5NAmD-VXslL-9hJXu7p_Mz3syvHR04XbZnAv330-B0V40Cg/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6JlZOYluL4J4Tck29Y_chOhujT8om73QDs_xdoYm6gJNSSdAU5NAmD-VXslL-9hJXu7p_Mz3syvHR04XbZnAv330-B0V40Cg/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6JlZOYluL4J4TZk2pH8fp9i_vG8MKnjVfi-xI5MTzxJI_GcwU3NV-C8lO9xr-808Po75_By3Y16yck5CuIgVXp1nVM6rLm/512fx384f"
+        },
+        "desc": "The logo of a research facility has been hand painted in white over a blue base.",
+        "lore": "Also available in red"
       }
     ]
   }
-]
+}

@@ -27,7 +27,7 @@ Use the following syntax `python3 main.py --method 1 --indent 2`
 What it looks like
 --
 **Command-line:**
-```python
+```cmd
 >>> python3 main.py --method 1 --indent 2
 This process can take a while, please be patient..
 Adding case: Prisma 2 Case [1/33]
@@ -36,37 +36,23 @@ Done!
 ```
 **File:**
 ```json
-{
-  "Prisma 2 Case": [
-    {
-      "url": "https://csgostash.com/case/303/Prisma-2-Case"
-    },
-    {
-      "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU1nfbOIj8W7oWzkYLdlPOsMOmIk2kGscAj2erE99Sn2AGw_0M4NW2hIYOLMlhpcmY0CRM/256fx256f"
-    },
-    {
-      "Covert Skins": [
-        {
-          "title": "M4A1-S | Player Two"
+"CS:GO Weapon Case": {
+  "url": "https://csgostash.com/case/1/CS:GO-Weapon-Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5_T3eAQ3i6DMIW0X7ojiwoHax6egMOKGxj4G68Nz3-jCp4itjFWx-ktqfSmtcwqVx6sT/256fx256f",
+  "content": {
+    "Covert Skins": [
+      {
+        "title": "AWP | Lightning Strike",
+        "url": "https://csgostash.com/skin/79/AWP-Lightning-Strike",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_am_lightning_awp_light_large.3761894103ee0fec90af459928635933ba27e36d.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7P_BdjVW4tW4k7-KgOfLP7LWnn9u5MRjjeyPptuj2Qzt_0JsYDymJNDAIQ8-MA7U_1i3w-bphpO1v56bmHBk7yMksWGdwUJq4NI0lg/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7P_BdjVW4tW4k7-KgOfLP7LWnn9u5MRjjeyPptuj2Qzt_0JsYDymJNDAIQ8-MA7U_1i3w-bphpO1v56bmHBk7yMksWGdwUJq4NI0lg/512fx384f"
         },
-        {
-          "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_csgo2048_light_large.6531225ca224416df4dc6aa12c6ecea582b1e110.png"
-        },
-        {
-          "possible_wears": [
-            "fn",
-            "mw",
-            "ft",
-            "ww",
-            "bs"
-          ]
-        },
-        {
-          "desc": "It has been custom painted with bright colors and features animated versions of a GIGN CT and Pop Dog."
-        },
-        {
-          "lore": "Press Start..."
-        },
+        "desc": "It has been painted with a lightning strike motif using anodizing effect paints over a metallic base coat.",
+        "lore": "Sometimes you don't need to strike the same place twice"
+      }
+    ],
 ```
 
 License
