@@ -5,6 +5,7 @@ import json
 import time
 import click
 import os
+import pprint as pp
 
 def get_parsed_page(url):
     headers = {
@@ -33,6 +34,10 @@ class CasesHandler():
         page_content = page.find_all("div", {"class": "marker-value cursor-default"})
         min_wear = page_content[0].text
         max_wear = page_content[1].text
+        wear_img = []
+        for url in page.find_all("a"):
+            if url.get('data-hoverimg') != None:
+                wear_img.append(url.get('data-hoverimg'))
         # Define possible wears
         if float(min_wear) < 0.07 and float(max_wear) > 0.00:
             possible_wears.append("fn")
@@ -44,6 +49,8 @@ class CasesHandler():
             possible_wears.append("ww")
         if float(min_wear) < 1 and float(max_wear) > 0.45:
             possible_wears.append("bs")
+        # Zip lists
+        possible_wears = dict(zip(possible_wears, wear_img))
         # Return
         return possible_wears
 
@@ -76,15 +83,17 @@ class CasesHandler():
             possible_wears = self._get_skin_wears(skin_url)
             # Description & Lore
             description,lore = self._get_skin_description_and_lore(skin_url)
-            # Add
+            # Full Skin details
+            skin_details = {title : [{"url" : skin_url}, {"image" : image_url}, {"possible_wears" : possible_wears}, {"desc" : description}, {"lore" : lore}]}
+            # Add to case_content
             if rarity == 'Covert':
-                case_content['Covert Skins'] += [{"title" : title}, {"image" : image_url}, {"possible_wears" : possible_wears}, {"desc" : description}, {"lore" : lore}]
+                case_content['Covert Skins'].append(skin_details)
             elif rarity == 'Classified':
-                case_content['Classified Skins'] += [{"title" : title}, {"image" : image_url}, {"possible_wears" : possible_wears}, {"desc" : description}, {"lore" : lore}]
+                case_content['Classified Skins'].append(skin_details)
             elif rarity == 'Restricted':
-                case_content['Restricted Skins'] += [{"title" : title}, {"image" : image_url}, {"possible_wears" : possible_wears}, {"desc" : description}, {"lore" : lore}]
+                case_content['Restricted Skins'].append(skin_details)
             elif rarity == 'Mil-Spec':
-                case_content['Mil-Spec Skins'] += [{"title" : title}, {"image" : image_url}, {"possible_wears" : possible_wears}, {"desc" : description}, {"lore" : lore}]
+                case_content['Mil-Spec Skins'].append(skin_details)
         return case_content
 
     def _get_all_cases(self):
@@ -117,7 +126,7 @@ class CasesHandler():
 
 
 @click.command()
-@click.option('--method', default=1, type=click.IntRange(1,2), help="Sets the data saving method")
+@click.option('--method', default=1, type=click.IntRange(1,3), help="Sets the data saving method")
 @click.option('--indent', default=2, help="Sets the JSON indentation level")
 def dump_data(method, indent):
     """supr3me's csgostash-scraper
@@ -125,6 +134,7 @@ def dump_data(method, indent):
     Available methods:
     1 - Save in a single file
     2 - Save in separate files
+    3 - Save in single & separate files
     """
     # Preload data
     print('This process can take a while, please be patient..')
@@ -143,6 +153,16 @@ def dump_data(method, indent):
             json.dump(data_to_dump, fp, indent=indent)
         print("\nFinished! Data saved to 'data\output.json'")
     elif method == 2: # Dump into separate case files
+        for case in data_to_dump:
+            filename = str(case).lower().replace(" ","_")
+            with open(f'{filename}.json', 'w') as fp:
+                json.dump(data_to_dump[case], fp, indent=indent)
+            print(f"Creating 'data\{filename}.json'")
+        print("Finished!")
+    elif method == 3: # Dump into single and separate case files
+        with open('output.json', 'w') as fp:
+            json.dump(data_to_dump, fp, indent=indent)
+        print(f"Creating 'data\output.json'")
         for case in data_to_dump:
             filename = str(case).lower().replace(" ","_")
             with open(f'{filename}.json', 'w') as fp:
