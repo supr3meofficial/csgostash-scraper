@@ -2,6 +2,344 @@
   "url": "https://csgostash.com/case/179/Glove-Case",
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY1naTMdzwTtNrukteIkqT2MO_Uwz5Q6cYhibyXo4rw2ALsrkRoYjuncNCLMlhpEV4XDTk/256fx256f",
   "content": {
+    "Rare Special Items": [
+      {
+        "title": "Bloodhound Gloves | Snakebite",
+        "url": "https://csgostash.com/glove/4/Bloodhound-Gloves-Snakebite",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_bloodhound_gloves_bloodhound_snakeskin_brass_light_large.7e478dfcfe8c89cf4f4651ee547bb1b0ed0f05f9.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOmefA_onmg126lBEuMiqwS9rMJV56DgSBuAbr3-m6gZG06Muanydr6SgrtinZyRGxhBkZO-BrgqfMSA6eUvFJSqCHUHrO8MckMX7MiPk/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOmefA_onmg126lBEuMiqwS9rMJV56DgSBuAbr3-m6gZG06Muanydr6SgrtinZyRGxhBkZO-BrgqfMSA6eUvFJSqCHUHrO8MckMX7MiPk/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOmefA_onmg126lBEuMiqwS9vAJl97PDeMqxPplPDthZboup3BwCZr6Clwsy3ezBPjiEsdZrZv1vXLH1mXAvFPH_aBBSeCrtktH0Dge7H5/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOmefA_onmg126lBEuMiqwS9vAJl97PDeMqxPplPDthZboup3BwCZr6Clwsy3ezBPjiEsdZrZv1vXLH1mXAvFPH_aBBSeCrtktH0Dge7H5/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOmefA_onmg126lBEuMiqwS97AI0B3DgSBuAbr3-zn1pbttZXPzXVluyYl5SzbyhPl1R9OabQ706eZTF-fVKUaFKiAUnXO8MckcTCBLXg/512fx384f"
+        },
+        "desc": "These fingerless gloves have been decorated with metal studs and the Operation Bloodhound logo. It was crafted with a mix of leather and snakeskin.",
+        "lore": "Let's be honest... no one misses Sergei - Hans Kriegeld, Phoenix Tactician"
+      },
+      {
+        "title": "Bloodhound Gloves | Guerrilla",
+        "url": "https://csgostash.com/glove/2/Bloodhound-Gloves-Guerrilla",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_bloodhound_gloves_bloodhound_guerrilla_light_large.3afeaecd54a38013c2efd2ff3086aad6b52aceb4.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOjfzE5578hFi1lB81NDG3S9rEMFFrf1uBrATvlL27gJLtv5XJyHEwuHV0sX2LyRa3iR4dP7Fp1_CcGA_LVaFXXP7V2aGjGpM/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOjfzE5578hFi1lB81NDG3S9rEMFFrf1uBrATvlL27gJLtv5XJyHEwuHV0sX2LyRa3iR4dP7Fp1_CcGA_LVaFXXP7V2aGjGpM/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOjfzE5578hFi1lB45NzC2eenJI0RpNEbX-Fa5xuvohJ_t6pzJzScyuyYl5X7alkfmhBEZb7M9gvzITQ3PUfYaAuDcUW_UGkXA/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOjfzE5578hFi1lB45NzC2eenJI0RpNEbX-Fa5xuvohJ_t6pzJzScyuyYl5X7alkfmhBEZb7M9gvzITQ3PUfYaAuDcUW_UGkXA/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOjfzE5578hFi1lBs5Mi-6S9rEMFFrfwzX-1G-ybvugJO9v56dyXFqsyZwt3eJmUG-1BhPPLNp0KSYTw-fUqxXXP7VG4dAI2k/512fx384f"
+        },
+        "desc": "These fingerless gloves have been decorated with metal studs and the Operation Bloodhound logo. It was made with a mix of brown leather and synthetic leather with a camo print.",
+        "lore": "Valeria plans on retribution, of that there can be no doubt... - Sebastien Hennequet, Sniper"
+      },
+      {
+        "title": "Bloodhound Gloves | Charred",
+        "url": "https://csgostash.com/glove/1/Bloodhound-Gloves-Charred",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_bloodhound_gloves_bloodhound_black_silver_light_large.36a1f3b18c240487ae6aba735429754c706aca70.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOiOXA9ofKm124vRYuDDWqc97RHVpvIw-F5FK4kO-5hsS9tM7LzXJnsidzsHmMzUSwgh1IbOxogPHNTlyYVvYYG6CcRi2H1bTFDpA/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOiOXA9ofKm124vRYuDDWqc97RHVpvIw-F5FK4kO-5hsS9tM7LzXJnsidzsHmMzUSwgh1IbOxogPHNTlyYVvYYG6CcRi2H1bTFDpA/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOiOXA9ofKm124vRYuDDSmcN_QL2liMBqHr0-4yb-8gJe5vZXLwSNrvCIns3uOykG3hx8daeBvhqabS1qaDvNAH6mDGDOO53etONSb/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOiOXA9ofKm124vRYuDDSmcN_QL2liMBqHr0-4yb-8gJe5vZXLwSNrvCIns3uOykG3hx8daeBvhqabS1qaDvNAH6mDGDOO53etONSb/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOiOXA9ofKm124vRYuDDGmdcDcHVpvIw-F5FTtx7rq0cPqucnLyHI2unQrs3rZlhDjhElKaLdogqSbHQmbA_ZOGKScRi2HOixl3-k/512fx384f"
+        },
+        "desc": "These fingerless gloves have been decorated with metal studs and the Operation Bloodhound logo. It was crafted out of classic black supple leather.",
+        "lore": "Challenge coins are great, but they don't draw blood when you backfist someone - Carmen Cocinero, Extraction Expert"
+      },
+      {
+        "title": "Bloodhound Gloves | Bronzed",
+        "url": "https://csgostash.com/glove/3/Bloodhound-Gloves-Bronzed",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_bloodhound_gloves_bloodhound_metallic_light_large.5a09f347d9be3d3552bd3dd6abba816e5bf1b349.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOh-zV9ID5gVeLpxo7Oy2ceNfXJVMgZAnQ8we9xem7jMTpv8nKzHdh6HQhsSvbzkfl0BBNaLBq16OfG1-aDrsJQvcRjAdgdw/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOh-zV9ID5gVeLpxo7Oy2ceNfXJVMgZAnQ8we9xem7jMTpv8nKzHdh6HQhsSvbzkfl0BBNaLBq16OfG1-aDrsJQvcRjAdgdw/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOh-zV9ID5gVeLphY4OiyuS9rEMFFrf1vY_QDokL3mgpG47cvOyCExvnMitCrdmx3l1U4ZbeJt0PybTF7ID6JXXP7Vyjx_Thw/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOh-zV9ID5gVeLphY4OiyuS9rEMFFrf1vY_QDokL3mgpG47cvOyCExvnMitCrdmx3l1U4ZbeJt0PybTF7ID6JXXP7Vyjx_Thw/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOh-zV9ID5gVeLoxY9JSCceNfXJVMgYQrU_wS6l-vph5a5u5rNmiRquHMn5yzeyUey1RhEbLdsh6aXHVXKDrsJQvdhdMudzQ/512fx384f"
+        },
+        "desc": "These fingerless gloves have been decorated with metal studs and the Operation Bloodhound logo. The leather has been dyed gun metal and bronze.",
+        "lore": "Operation Bloodhound marked the end of rouge sniper Chase Turner"
+      },
+      {
+        "title": "Driver Gloves | Crimson Weave",
+        "url": "https://csgostash.com/glove/11/Driver-Gloves-Crimson-Weave",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_red_light_large.137455fd6486c53fef15a523f86e2928743de97e.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmyq4yCkP_gDLfQhGxUppQi3b2UoIrx3gDs_RBpYD-mcoeQIwM8Yg7Y_AS8yOzngpK_6MjAzid9-n51DgI4TYA/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmyq4yCkP_gDLfQhGxUppQi3b2UoIrx3gDs_RBpYD-mcoeQIwM8Yg7Y_AS8yOzngpK_6MjAzid9-n51DgI4TYA/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmyq42Ok_7hPoTdl3lW7Ysn27jA8dyh2FLk-kQ-a276doTGIQY8aVvZ81Lql-u81pLqvcjMmCY1pGB8soKYr6Bu/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmyq42Ok_7hPoTdl3lW7Ysn27jA8dyh2FLk-kQ-a276doTGIQY8aVvZ81Lql-u81pLqvcjMmCY1pGB8soKYr6Bu/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmyq4iOluHtDLfQhGxUppQj2e2Vpo2j3Ffm-RBlYD_3JY-XcgdqMAzUqVLrkrvuhZG575-bmCd9-n51r6-V7-4/512fx384f"
+        },
+        "desc": "These driving gloves offer protection from the elements while still maintaining tactile sensation. Black suede has been interwoven with scarlet leather to give these gloves a timeless look.",
+        "lore": "Leave your mark, not your fingerprints"
+      },
+      {
+        "title": "Driver Gloves | Diamondback",
+        "url": "https://csgostash.com/glove/12/Driver-Gloves-Diamondback",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_snakeskin_yellow_light_large.017f2c7fab2cecceb4444c05c80fa238f46264e0.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKLUmmde__p9g-7J4bP5iUazrl1sYm6lJtWSJFdsYwuFqQLrk-rrgZLvvJiawXI16yIh7SnZmRexhU1McKUx0oSSfN1A/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKLUmmde__p9g-7J4bP5iUazrl1sYm6lJtWSJFdsYwuFqQLrk-rrgZLvvJiawXI16yIh7SnZmRexhU1McKUx0oSSfN1A/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKLUmmde__p8j-3I4IHKhFWmrBZyNmqlJ4bBewZsZA7TrADql7u8hZ--tMzJzCQ36Sgh7XrdmBK3hh9MbPsv26J_OCqpOQ/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKLUmmde__p8j-3I4IHKhFWmrBZyNmqlJ4bBewZsZA7TrADql7u8hZ--tMzJzCQ36Sgh7XrdmBK3hh9MbPsv26J_OCqpOQ/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKLUmmde__p5j-jX7LP5iUazrl1qYmqmLY-dIQdrNFGBqFTqkOa5g8e_uZjMy3FruyIn7X3bnBfh10pFcKUx0tG7PBkz/512fx384f"
+        },
+        "desc": "These driving gloves offer protection from the elements while still maintaining tactile sensation. It has been crafted out of a mix of tan leather, black leather, and snakeskin.",
+        "lore": "Standard issue is for suckers... - Imogen, Arms Dealer In Training"
+      },
+      {
+        "title": "Driver Gloves | Lunar Weave",
+        "url": "https://csgostash.com/glove/9/Driver-Gloves-Lunar-Weave",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_black_light_large.1a38e5968c549d49e791cf55bc4f89232e19e26f.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0m_7zO6_ummpD78A_2-iSrYmg0QLsqEZoaj33LdOSewdtN13VqAK6l-bmh5W-6ZzAnHBl7D5iuyjjIkA5BA/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0m_7zO6_ummpD78A_2-iSrYmg0QLsqEZoaj33LdOSewdtN13VqAK6l-bmh5W-6ZzAnHBl7D5iuyjjIkA5BA/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0mvLwOq7cqWdQ-sJ0xO_Ao9-j0AXs-0E-Mj-iIoTAI1A8YVmE8la9l7zvgZ-4vZucmnFkuyg8pSGKx3FGZk8/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0mvLwOq7cqWdQ-sJ0xO_Ao9-j0AXs-0E-Mj-iIoTAI1A8YVmE8la9l7zvgZ-4vZucmnFkuyg8pSGKx3FGZk8/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0n_L1JaLummpD78A_3r6R84mh3Qe3rxJlYTqlI9PEcARsMl_T-Ve4w-nt0cTp7p_PzyY1uz5iuyhy0h6PSw/512fx384f"
+        },
+        "desc": "These driving gloves offer protection from the elements while still maintaining tactile sensation. Midnight blue suede has been interwoven with jet black leather to give these gloves a timeless look.",
+        "lore": "Keeps the blood off your hands...metaphorically speaking"
+      },
+      {
+        "title": "Driver Gloves | Convoy",
+        "url": "https://csgostash.com/glove/10/Driver-Gloves-Convoy",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_military_light_large.8da6c198b3bfb8a70f63bbd99a02ce8fc09c9a95.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ94dW6nZSKhe7LP7LWnn9u5MRjjeyPrYj03lfl8ks-YDuldo7EdQZoZ1uCqAW3yL_vh8XptMuayXsws3Er4GGdwULV1ZH2Ag/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ94dW6nZSKhe7LP7LWnn9u5MRjjeyPrYj03lfl8ks-YDuldo7EdQZoZ1uCqAW3yL_vh8XptMuayXsws3Er4GGdwULV1ZH2Ag/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ94dW6nZSKhe7LPr7Vn35c18lwmO7Eu92s2FW1-ko4NWjxJYGdegE-YA3U-wC_lbvmgMe_tcidzXdquikntH3D30vgtGG3lFU/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ94dW6nZSKhe7LPr7Vn35c18lwmO7Eu92s2FW1-ko4NWjxJYGdegE-YA3U-wC_lbvmgMe_tcidzXdquikntH3D30vgtGG3lFU/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ94dW6nZSKhe7LO77QgHJu5MRjjeyPpI2ni1Cw-BZsMWjzJoOcdAc6M1-DrFTslbzrhcXpuJqbynVjuXMg4mGdwULUCJdHpw/512fx384f"
+        },
+        "desc": "These driving gloves offer protection from the elements while still maintaining tactile sensation. It has been made with a mix of brown soft leather and dyed suede.",
+        "lore": "Sometimes discretion is called for"
+      },
+      {
+        "title": "Hand Wraps | Slaughter",
+        "url": "https://csgostash.com/glove/16/Hand-Wraps-Slaughter",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_red_slaughter_light_large.98f0b6ff0cb2fa356b57fe42d317549bea92978b.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jmNr_uhWdQ_cJ5nuzTyoD8j1yglB89IT6mOo-dJAZsZw6G-gLsw7i-hpO67pjOnydnuHQh5HjYmxzl1ElFbOxojaeACQLJ3-08_Xs/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jmNr_uhWdQ_cJ5nuzTyoD8j1yglB89IT6mOo-dJAZsZw6G-gLsw7i-hpO67pjOnydnuHQh5HjYmxzl1ElFbOxojaeACQLJ3-08_Xs/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jmNr_uhWdQ_cJ5nuzTyoHwjF2hpiwwMiukcZiTcQ82NF3Q_FLqx-a505W4vJ3ByXEyuCAg53mOmEa-1x8abuBo1PWfVxzAUGFOgq-F/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jmNr_uhWdQ_cJ5nuzTyoHwjF2hpiwwMiukcZiTcQ82NF3Q_FLqx-a505W4vJ3ByXEyuCAg53mOmEa-1x8abuBo1PWfVxzAUGFOgq-F/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jmNr_uhWdQ_cJ5nuzTyoTwiUKtlB89IT6mOoPGdldtMg7SrFG4kOe908W1uJqcySEwviQjsX6OnhbihUoabeNugPKACQLJaQPumo0/512fx384f"
+        },
+        "desc": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching. Dyed crimson, these wraps make it hard to see where the fabric ends and the bloodstains begin",
+        "lore": "Who doesn't love working with their hands?"
+      },
+      {
+        "title": "Hand Wraps | Spruce DDPAT",
+        "url": "https://csgostash.com/glove/13/Hand-Wraps-Spruce-DDPAT",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_camo_grey_light_large.04557b1a8d68bccdd60b18521346091328756ded.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j3MrbeqWxD7dxOhuDG_ZjKhFWmrBZyY232IYHHc1c2NV7YqALtlbrphcS9tJjLyHFnvCAr5HzflxKyh0wZOvsv26LAj2w_NQ/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j3MrbeqWxD7dxOhuDG_ZjKhFWmrBZyY232IYHHc1c2NV7YqALtlbrphcS9tJjLyHFnvCAr5HzflxKyh0wZOvsv26LAj2w_NQ/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j3MrbeqWxD7dxOh-zF_Jn4t1i1uRQ5fT2lcY6VdwQ8ZQyE_1jvlLjsg5Hpus7JwHc2siZ3sHrUmRfl1UsZaexxxavJAECGPg0/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j3MrbeqWxD7dxOh-zF_Jn4t1i1uRQ5fT2lcY6VdwQ8ZQyE_1jvlLjsg5Hpus7JwHc2siZ3sHrUmRfl1UsZaexxxavJAECGPg0/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j3MrbeqWxD7dxOguzA45XKhFWmrBZyNTunJIHHeg42YQzU-QW5wO-80cC5v8udziNr6XF27S6LmBbiiRhJb_sv26Jttf9xiw/512fx384f"
+        },
+        "desc": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching. The outer wrap is fabric screen printed with grey digital camo.",
+        "lore": "Some people say they're tough... others show it"
+      },
+      {
+        "title": "Hand Wraps | Badlands",
+        "url": "https://csgostash.com/glove/14/Hand-Wraps-Badlands",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_fabric_orange_camo_light_large.f8453c60f74a846bd3c05310de4f004cd95a1aa2.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu59dwhO7Eyo_0hVuLpxo7Oy2ceNfXJVMgN1DU_1Ltx-65gpLttJnPmyZg6SAn5n7dy0Cz1xhMarY7jPDPSA3PBbsJQvf6eanOuA/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu59dwhO7Eyo_0hVuLpxo7Oy2ceNfXJVMgN1DU_1Ltx-65gpLttJnPmyZg6SAn5n7dy0Cz1xhMarY7jPDPSA3PBbsJQvf6eanOuA/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu59dwhO7Eyo_0hVuLphY4OiyuS9rEMFFrfwrV_1a8lLvmh8Tu6pXLzHEx7yEi5SyOmxDj1R5OPew9h_bNHQqfU_NXXP7VG7anfgw/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu59dwhO7Eyo_0hVuLphY4OiyuS9rEMFFrfwrV_1a8lLvmh8Tu6pXLzHEx7yEi5SyOmxDj1R5OPew9h_bNHQqfU_NXXP7VG7anfgw/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu59dwhO7Eyo_0hVuLoxY9JSCceNfXJVMgY1iG81G5x7q-gJfvtJ3AmHJm6CJ243aOnBDjiBpLaeNv1veZGlnPUbsJQvd_b2okwg/512fx384f"
+        },
+        "desc": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching. This DIY hand protection is made of scavenged materials.",
+        "lore": "Felix turns a blind eye towards the Colation Taskforce's unsanctioned boxing league"
+      },
+      {
+        "title": "Hand Wraps | Leather",
+        "url": "https://csgostash.com/glove/15/Hand-Wraps-Leather",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_leathery_light_large.a5f11c43b3d6f4958dc880a4f9986f0728bcfd3c.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp9g-7J4bP5iUazrl09Zj_yJdWRcVQ9NV6G_li7ybq8jZ687ZmfwHtrvHYi4n3VzUbh1RsfcKUx0hi_kNRQ/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp9g-7J4bP5iUazrl09Zj_yJdWRcVQ9NV6G_li7ybq8jZ687ZmfwHtrvHYi4n3VzUbh1RsfcKUx0hi_kNRQ/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp8j-3I4IHKhFWmrBZyNWmlLNOQeg4_ZQuB_lHtkrjvhcK77ZXKm3Viuygj4yncnkPkhRpIOvsv26LNnKiQNQ/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp8j-3I4IHKhFWmrBZyNWmlLNOQeg4_ZQuB_lHtkrjvhcK77ZXKm3Viuygj4yncnkPkhRpIOvsv26LNnKiQNQ/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp5j-jX7LP5iUazrl1sYGuhLYKUewE_aV6DrwK-x-rv0cfovcydnSM3vCcj4i7cy0bliRsYcKUx0uIx_ZsL/512fx384f"
+        },
+        "desc": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching. They are made of leather, gauze, and wicked intent.",
+        "lore": "Become notorious"
+      },
+      {
+        "title": "Moto Gloves | Spearmint",
+        "url": "https://csgostash.com/glove/18/Moto-Gloves-Spearmint",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_mint_triangle_light_large.db023ffa169740fdcdfed112bdde36367f732c12.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbYmH9u_Nd4i-fG-YnKhF2zowcDPzixc9OLJlQ-Y1uGrAC_x-fogZbq6M6dnyc3uyEgtyuJyhaxgh5LOOJsh6afS0LeWfKD9ED27A/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbYmH9u_Nd4i-fG-YnKhF2zowcDPzixc9OLJlQ-Y1uGrAC_x-fogZbq6M6dnyc3uyEgtyuJyhaxgh5LOOJsh6afS0LeWfKD9ED27A/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbYmH9u_Nd4i-fG-YnKhVGwogYxDDWiZtHAbFBqYV2BqFm8k-3n1JPv6c_OyyMw7nQm4HuLnBHlhU1MZuA6gPaYH1yAR_seFZ1ThSM/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbYmH9u_Nd4i-fG-YnKhVGwogYxDDWiZtHAbFBqYV2BqFm8k-3n1JPv6c_OyyMw7nQm4HuLnBHlhU1MZuA6gPaYH1yAR_seFZ1ThSM/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbYmH9u_Nd4i-fG-YnKgFG1vQoDPzixc9OLcVdsNV-D-FHvx-y5hMK6usyfznA1u3Yj4X_bnEG2gEweO7Foh6OfT0LeWfLaLmLUig/512fx384f"
+        },
+        "desc": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph. White leather and red stitching make these gloves as stylish as they are comfortable.",
+        "lore": "For what he's charging us, you'd think Huxley could at least throw in a tin of mints... - Felix Riley, Commanding Officer"
+      },
+      {
+        "title": "Moto Gloves | Cool Mint",
+        "url": "https://csgostash.com/glove/20/Moto-Gloves-Cool-Mint",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_triangle_blue_light_large.0fd19089bab85024b9458d7865e215d7d017fd84.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2pf78l0tevN4InKhF2zowcDPzixc9OLclBqYFHQ8ljskLzngJa-uM_AzXdr7icq43qInRSy1R8YbuRo06GWTULeWfIJUakEYg/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2pf78l0tevN4InKhF2zowcDPzixc9OLclBqYFHQ8ljskLzngJa-uM_AzXdr7icq43qInRSy1R8YbuRo06GWTULeWfIJUakEYg/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2pf78l0tevN4InKhVGwogYxDDWiZtHAbAc4ZVDZ_AO9wry-18S5v8-fmHNjsylx7HqJmR3liUlKO-Ju1vGZHVmAR_se7dA8TbI/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2pf78l0tevN4InKhVGwogYxDDWiZtHAbAc4ZVDZ_AO9wry-18S5v8-fmHNjsylx7HqJmR3liUlKO-Ju1vGZHVmAR_se7dA8TbI/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2pf78l0tevN4InKgFG1vQoDPzixc9OLJ1JqMw3S81S5lOfq0ZS1uZzOzXpqsiMrs3jenUe1gh9JbOA60PPNTkLeWfLRmfBDlg/512fx384f"
+        },
+        "desc": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph. The soft blue leather has been accented with arctic colored geometric designs.",
+        "lore": "Combat has never felt so refreshing."
+      },
+      {
+        "title": "Moto Gloves | Boom!",
+        "url": "https://csgostash.com/glove/19/Moto-Gloves-Boom!",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_mono_boom_light_large.eff642bda7ceca11d5783b495442fd6ae1c3333d.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bN_Iv9nGu4qgE7NnemctCTdgRsNQnXqQTtkO_u0ZO7tJ6bzXtmviQgsyvbzkC20htPbeY7m7XAHhlqr6GE/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bN_Iv9nGu4qgE7NnemctCTdgRsNQnXqQTtkO_u0ZO7tJ6bzXtmviQgsyvbzkC20htPbeY7m7XAHhlqr6GE/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bM8Ij8nVmLpxIuNDztdYORJgVoZF-C_wO-wbu6hsPp6J3JyXJjvyQmtHfVlxe1iUlObeVo0-veFwvNdiHvnQ/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bM8Ij8nVmLpxIuNDztdYORJgVoZF-C_wO-wbu6hsPp6J3JyXJjvyQmtHfVlxe1iUlObeVo0-veFwvNdiHvnQ/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bJ8I3jkWu4qgE7Nnf7ctOXIVM-NFzV-VS_xLvpjJDtvc6Yy3A3uCYr5S7YnRS_gh8eOLZrm7XAHhnmQDx4/512fx384f"
+        },
+        "desc": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph. This pair has been covered in comic book onomatopoeia.",
+        "lore": "POW! BOOM! BIFF!"
+      },
+      {
+        "title": "Moto Gloves | Eclipse",
+        "url": "https://csgostash.com/glove/17/Moto-Gloves-Eclipse",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_basic_black_light_large.9a849bc145404258c8961449980d893ba9eff27e.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoD8j1yglB89IT6mOo_EegI3MwvR_lS6wertgJ7vtJTPyHZnsykq5SvVlhbl0BEZOLNtgqCACQLJu5kk5I0/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoD8j1yglB89IT6mOo_EegI3MwvR_lS6wertgJ7vtJTPyHZnsykq5SvVlhbl0BEZOLNtgqCACQLJu5kk5I0/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoHwjF2hpiwwMiukcZicegQ9NwmF-VfvkLvu08C9tJ7Lmidk73R2t3eLyUPigxBNOOY70fTPVxzAULnApTN1/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoHwjF2hpiwwMiukcZicegQ9NwmF-VfvkLvu08C9tJ7Lmidk73R2t3eLyUPigxBNOOY70fTPVxzAULnApTN1/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoTwiUKtlB89IT6mOtfBJAdrZAyE-Fbryeq7g8C-7ZvJmCFkvykqtC7amh20gRFJP7NshqSACQLJPMxEAok/512fx384f"
+        },
+        "desc": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph. This is the original classic black design that made Tortue a household name.",
+        "lore": "Don't call it a midlife crisis"
+      },
+      {
+        "title": "Specialist Gloves | Crimson Kimono",
+        "url": "https://csgostash.com/glove/23/Specialist-Gloves-Crimson-Kimono",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_kimono_diamonds_red_light_large.902d894626b290f6f0ae3867e216845519777498.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPzCkfML6Lld8Ng3O81G8lebmgZC-us_LwHI1vHYitCrelxOw1BpNaO1rgPCfQFuZAKFAFL7CWCTh-JuFUg/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPzCkfML6Lld8Ng3O81G8lebmgZC-us_LwHI1vHYitCrelxOw1BpNaO1rgPCfQFuZAKFAFL7CWCTh-JuFUg/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPjynfcPIHVpvIw-F5AW7ku_p0J6_vciYnyY3vyUi5yzUyxCx1E1FO-I90P3NSFueBKdLT6ScRi2HjGqdP_k/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPjynfcPIHVpvIw-F5AW7ku_p0J6_vciYnyY3vyUi5yzUyxCx1E1FO-I90P3NSFueBKdLT6ScRi2HjGqdP_k/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDOzyiYs_6Lld8Ng3OqALoyejvgJC7vJvOnSZn7nMq5nrezRW31BEfPOdp1vzNQViaBvAbHr7CWCSgpxYuwg/512fx384f"
+        },
+        "desc": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating. This pair of black gloves has been accented with a stark red diamond pattern.",
+        "lore": "Start seeing red"
+      },
+      {
+        "title": "Specialist Gloves | Emerald Web",
+        "url": "https://csgostash.com/glove/22/Specialist-Gloves-Emerald-Web",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_emerald_web_light_large.0ac5fb6e5faf01860ba42d0c3378369d206d6d06.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoD8j1yglB89IT6mOobEIQNoM16F_wfvl-7ujZC87szNyyZj6SMh4nfemRzjgxhKOuM7hfOACQLJqRHb_i0/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoD8j1yglB89IT6mOobEIQNoM16F_wfvl-7ujZC87szNyyZj6SMh4nfemRzjgxhKOuM7hfOACQLJqRHb_i0/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoHwjF2hpiwwMiukcZjGJg85NQnR81LolObogsLo6MvJzHBlsyl04nvUmke-hxEfPeVojPXKVxzAUDsQyVOl/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoHwjF2hpiwwMiukcZjGJg85NQnR81LolObogsLo6MvJzHBlsyl04nvUmke-hxEfPeVojPXKVxzAUDsQyVOl/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoTwiUKtlB89IT6mOoLDcw42ZlGE-lW7xuq6h8S778jAmnQ3viEq7HyIlxTiiEoaOOw51_CACQLJpai9GjA/512fx384f"
+        },
+        "desc": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating. The back of the gloves have been given a spiderweb pattern.",
+        "lore": "Discipline begets success"
+      },
+      {
+        "title": "Specialist Gloves | Foundation",
+        "url": "https://csgostash.com/glove/24/Specialist-Gloves-Foundation",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_orange_white_light_large.7eeb02d84b30e312f32d56add0dc6263e5f027c2.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP5gVO8vywwMiukcZiSJ1NsYVqE8lXswu66hpe-6p7LnXdl63R25SuOmRexgk1JOOVtgqacVxzAUP3oPC3w/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP5gVO8vywwMiukcZiSJ1NsYVqE8lXswu66hpe-6p7LnXdl63R25SuOmRexgk1JOOVtgqacVxzAUP3oPC3w/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP4jVC9vh4DPzixc9OLcAVoM1rS-AS5xuzu18PvvJnKy3oyunErtiuImhTh0x1JOOxvgfGdTULeWfIwShm6MA/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP4jVC9vh4DPzixc9OLcAVoM1rS-AS5xuzu18PvvJnKy3oyunErtiuImhTh0x1JOOxvgfGdTULeWfIwShm6MA/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP9jVWisiwwMiukcZiUcQc3Y16Dq1G2wu3ogMXttM7JmiFhunYktH7cyhe2gksfbeNn1_LNVxzAUNUeMCrA/512fx384f"
+        },
+        "desc": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating. The white and black gloves have been given orange accents",
+        "lore": "Rumor has it that Tortue was inspired by the Asiimov line of firearms"
+      },
+      {
+        "title": "Specialist Gloves | Forest DDPAT",
+        "url": "https://csgostash.com/glove/21/Specialist-Gloves-Forest-DDPAT",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_ddpat_green_camo_light_large.d9d3da7700117b222fd713f7f3bcd570e314c63d.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLpxo7Oy2ceNfXJVMgNVGE-QXvxunvhZe9u8_Ly3A17icj5inayRbl0kxJaeU6hvSaGlqdU7sJQvfphGk4-w/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLpxo7Oy2ceNfXJVMgNVGE-QXvxunvhZe9u8_Ly3A17icj5inayRbl0kxJaeU6hvSaGlqdU7sJQvfphGk4-w/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLphY4OiyuS9rEMFFrf1qG_lbokLzn08O56szNz3Fh6CEltnnUyhCy00lJOORrgaeWQAicVa1XXP7VNJB_Nmc/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLphY4OiyuS9rEMFFrf1qG_lbokLzn08O56szNz3Fh6CEltnnUyhCy00lJOORrgaeWQAicVa1XXP7VNJB_Nmc/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLoxY9JSCceNfXJVMgY1jX-wXsyL3oh8Dq6pTMzHsyuiYk7SzUnhHmghAZZrNr0PGcH16cBbsJQvdml6Dqyw/512fx384f"
+        },
+        "desc": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating. The hand stitched leather has been paired with rugged DDPAT printed fabric.",
+        "lore": "Some people don't like getting their hands dirty"
+      },
+      {
+        "title": "Sport Gloves | Pandora's Box",
+        "url": "https://csgostash.com/glove/8/Sport-Gloves-Pandoras-Box",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_purple_light_large.56ae5ad710e069f040d86caa5fac952fd35dbe48.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmgZKbm_LLP7LWnn9u5MRjjeyPoNr0jQG1r0RtYzzzIo_DcgI-NVDWqQDvxLi-1p-5vsudync36HUm7WGdwUJKXesLsw/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmgZKbm_LLP7LWnn9u5MRjjeyPoNr0jQG1r0RtYzzzIo_DcgI-NVDWqQDvxLi-1p-5vsudync36HUm7WGdwUJKXesLsw/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmgZKbm_LLPr7Vn35c18lwmO7Eu9ut2Fa1rUFtMmiiJdKWIFI5ZgmCqFe9kOy80Z7v7cnImHpkuSQqtHfD30vgHujwGg0/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmgZKbm_LLPr7Vn35c18lwmO7Eu9ut2Fa1rUFtMmiiJdKWIFI5ZgmCqFe9kOy80Z7v7cnImHpkuSQqtHfD30vgHujwGg0/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmgZKbm_LLO77QgHJu5MRjjeyPo46i0A3lqhJsYzr6dYHDdgc_N16G_1C7l7jpg8O_vs6fzHcx6SV0tGGdwUINRWWZ1w/512fx384f"
+        },
+        "desc": "Synthetic fabrics make these athletic gloves durable and eye-catching. The black and purple gloves have a subtle pattern printed on the palms.",
+        "lore": "A must have for any demolitions expert with sweaty palms"
+      },
+      {
+        "title": "Sport Gloves | Superconductor",
+        "url": "https://csgostash.com/glove/6/Sport-Gloves-Superconductor",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_light_blue_light_large.ad70bb6b45be4dd9fefb19dea2819fba270b7022.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO6nYeDg8j2P67UqWdY781lteXA54vwxlWw_EM-MW-hIIPHJwJqNVGGrwfswOe70Me-tJzAnyAyuCcit3jdnRepwUYbcIIuwIc/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO6nYeDg8j2P67UqWdY781lteXA54vwxlWw_EM-MW-hIIPHJwJqNVGGrwfswOe70Me-tJzAnyAyuCcit3jdnRepwUYbcIIuwIc/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO6nYeDg8j2P67UqWZU7Mxkh9bN9J7yjRqy_0RkYGjwddCTJA5qM1iF_lHrku7nh5676p7BnHRqv3Mrt3nZnxWwn1gSOSn3eWSL/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO6nYeDg8j2P67UqWZU7Mxkh9bN9J7yjRqy_0RkYGjwddCTJA5qM1iF_lHrku7nh5676p7BnHRqv3Mrt3nZnxWwn1gSOSn3eWSL/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO6nYeDg8j2P67UqWNU6dNoteXA54vwxlbi-0duYWulLIHDcVdtNF7S_VDrwb_vgpe-tJXNwXdmvChwtnjUnEGpwUYb1m-kts8/512fx384f"
+        },
+        "desc": "Synthetic fabrics make these athletic gloves durable and eye-catching. The blue and black gloves are ideal for those who wish to be phenomenal.",
+        "lore": "They don't want none"
+      },
+      {
+        "title": "Sport Gloves | Hedge Maze",
+        "url": "https://csgostash.com/glove/5/Sport-Gloves-Hedge-Maze",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_green_light_large.356ff62954a4dc34cd1fe2e39e70fbb3a3468063.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOxhoWOmcj4OrzZglRd6dd2j6eSoNrzjgLm8kZoMm2nd4WRIVI_Nw3Sr1K3lOnv08Tuv8zKzXRruiYh-z-DyGOjExbS/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOxhoWOmcj4OrzZglRd6dd2j6eSoNrzjgLm8kZoMm2nd4WRIVI_Nw3Sr1K3lOnv08Tuv8zKzXRruiYh-z-DyGOjExbS/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOxhoWOmcj5Nr_Yg2Zu5MRjjeyPpdX22gbhqkppMWz7coGcIAE9ZVvV8le2wOq7h5TotM7My3FkuCEk42GdwUK5qPdDsA/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOxhoWOmcj5Nr_Yg2Zu5MRjjeyPpdX22gbhqkppMWz7coGcIAE9ZVvV8le2wOq7h5TotM7My3FkuCEk42GdwUK5qPdDsA/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOxhoWOmcj8NrrHj1Rd6dd2j6eYpI6njgbt-EQ_YDryLNOcI1U5ZwyBq1jvxOy60MXvu5nAm3Fjvyh0-z-DyBZ2pDRa/512fx384f"
+        },
+        "desc": "Synthetic fabrics make these athletic gloves durable and eye-catching. The green and white gloves were manufactured by Icarus Athletics.",
+        "lore": "Only cowards fear flying close to the sun"
+      },
+      {
+        "title": "Sport Gloves | Arid",
+        "url": "https://csgostash.com/glove/7/Sport-Gloves-Arid",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_military_light_large.416a571deb198035e693ca74de172ad22ad18809.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTdn2xZ_Pp9i_vG8MKh2QK1_kRtNzyhJY-dcgU7NF7Z-QLvxuq70Je7vsydy3Ay7iEq7X_UgVXp1uxQF-Nd/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTdn2xZ_Pp9i_vG8MKh2QK1_kRtNzyhJY-dcgU7NF7Z-QLvxuq70Je7vsydy3Ay7iEq7X_UgVXp1uxQF-Nd/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTck29Y_chOhujT8om7jQK1_EVuMmv2do6RcwA5NAvTq1O-lebq1p67787PyHtquiAi5SqLyQv330-Ro46Jmw/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTck29Y_chOhujT8om7jQK1_EVuMmv2do6RcwA5NAvTq1O-lebq1p67787PyHtquiAi5SqLyQv330-Ro46Jmw/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTZk2pH8fp9i_vG8MKh2gLmrhVtZDuiJtTAJlI9aVGD-Vnvw-q915fu7czOnyM26yJw5i2OgVXp1uB83dat/512fx384f"
+        },
+        "desc": "Synthetic fabrics make these athletic gloves durable and eye-catching. Multiple shades of brown and a subtle camo print give these gloves a distinguished look.",
+        "lore": "If we're going to be heroes, we may as well look the part... - Rona Sabri, Rising Star"
+      }
+    ],
     "Covert Skins": [
       {
         "title": "M4A4 | Buzz Kill",

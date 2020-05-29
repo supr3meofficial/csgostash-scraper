@@ -2,6 +2,181 @@
   "url": "https://csgostash.com/case/80/Shadow-Case",
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF4u1qubIW4Su4mzxYHbzqGtZ-KGlz8EuJcg3rnE9NiijVe3_UY-Zzr2JJjVLFEEeiQRtg/256fx256f",
   "content": {
+    "Rare Special Items": [
+      {
+        "title": "Shadow Daggers | Fade",
+        "url": "https://csgostash.com/skin/664/Shadow-Daggers-Fade",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_aa_fade_light_large.f73d939a3358a126ffbb7b93c9f87b9b78a6c78f.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD7eOwlYSOqPv9NLPFqWdQ-sJ0xO-Wpois2w21-EBpazjyJoDDJFRsZgrZ-QK3l-bo15_uu5WYzyFksnY8pSGKbPKwSf4/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD7eOwlYSOqPv9NLPFqWdQ-sJ0xO-Wpois2w21-EBpazjyJoDDJFRsZgrZ-QK3l-bo15_uu5WYzyFksnY8pSGKbPKwSf4/512fx384f"
+        },
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training"
+      },
+      {
+        "title": "Shadow Daggers | Case Hardened",
+        "url": "https://csgostash.com/skin/662/Shadow-Daggers-Case-Hardened",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_aq_oiled_light_large.cbcb75a234d66325b56318abcf1d1cc8ebe7b893.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO5nYyOk8j4OrzZglRd6dd2j6fC94_33wG1-UBoN2_1J4SQIAM4YlnYqwPtl--7hMXvtMibnHUxsikh-z-DyF2FcTRg/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO5nYyOk8j4OrzZglRd6dd2j6fC94_33wG1-UBoN2_1J4SQIAM4YlnYqwPtl--7hMXvtMibnHUxsikh-z-DyF2FcTRg/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO5nYyOk8j5Nr_Yg2Zu5MRjjeyPpN72iVDlqEo_YD_2JNKRdVJtZw7V8li9xOq7h8DqvZqayXVmvCZ07GGdwULkTS1GEw/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO5nYyOk8j5Nr_Yg2Zu5MRjjeyPpN72iVDlqEo_YD_2JNKRdVJtZw7V8li9xOq7h8DqvZqayXVmvCZ07GGdwULkTS1GEw/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO5nYyOk8j8NrrHj1Rd6dd2j6eToN-i3VWy_EVtMDrwINeQcAA3ZlrW81C9wOrs1J7vus6awHU2snQh-z-DyIibsxxS/512fx384f"
+        },
+        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
+        "lore": "A little color never hurt anyone"
+      },
+      {
+        "title": "Shadow Daggers | Slaughter",
+        "url": "https://csgostash.com/skin/669/Shadow-Daggers-Slaughter",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_am_zebra_light_large.a09a6cf348b102f80e87226cc71d03544e502703.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eOskYKZlsj4OrzZglRd6dd2j6fApdX03ley-EdkMWjzJtCdclM2ZlrS_ALtxu-7hZW5uJmczHJhvSAh-z-DyBAi1xKI/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eOskYKZlsj4OrzZglRd6dd2j6fApdX03ley-EdkMWjzJtCdclM2ZlrS_ALtxu-7hZW5uJmczHJhvSAh-z-DyBAi1xKI/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eOskYKZlsj5Nr_Yg2Zu5MRjjeyP996m3lG3-hY6Z2ylIdOVc1NoaAmGrAC4wu7mgZO0up_BmicxuSFz52GdwUK9R4h4_Q/512fx384f"
+        },
+        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
+        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers"
+      },
+      {
+        "title": "Shadow Daggers | Crimson Web",
+        "url": "https://csgostash.com/skin/663/Shadow-Daggers-Crimson-Web",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_hy_webs_light_large.df749be6007a8df0ed8ee572e42151235ef7cfb8.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOhkYKYqPv9NLPFqWdQ-sJ0xO3HotisilHi-0NrMmGncobAJg5rNF3X-AS6w-_qhJS_ucifziE16Cg8pSGKfk8lv9U/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOhkYKYqPv9NLPFqWdQ-sJ0xO3HotisilHi-0NrMmGncobAJg5rNF3X-AS6w-_qhJS_ucifziE16Cg8pSGKfk8lv9U/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOhkYKYqPrxN7LEm1Rd6dd2j6eSpt7z3gLi_hY5Nm-mJ4GTIQc-ZFrU-VG4wuzp18Duvc_KmCE27iIk-z-DyP8GDskT/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOhkYKYqPrxN7LEm1Rd6dd2j6eSpt7z3gLi_hY5Nm-mJ4GTIQc-ZFrU-VG4wuzp18Duvc_KmCE27iIk-z-DyP8GDskT/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOhkYKYqP_xMq3IqWdQ-sJ0xOjDpdWnjQfs-0E_MDqgd9Ccclc8NFyErADtkrvtjJHuuZnOy3JnvSc8pSGK0Zpl5Hc/512fx384f"
+        },
+        "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
+        "lore": "Be careful where you walk, you never know where the web is spread"
+      },
+      {
+        "title": "Shadow Daggers | Safari Mesh",
+        "url": "https://csgostash.com/skin/667/Shadow-Daggers-Safari-Mesh",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_sp_mesh_tan_light_large.b6b390c3652c2bc1c074cd23b3ca921bf9870b4b.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OO7kZODqOP1PYTdn2xZ_Pp9i_vG8ML33lbn8kM_YG_2JtWXIFU_MljX_gLqw-29hsXttZ_ImyRqsicit3uPgVXp1v1GlVXu/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OO7kZODqOP1PYTdn2xZ_Pp9i_vG8ML33lbn8kM_YG_2JtWXIFU_MljX_gLqw-29hsXttZ_ImyRqsicit3uPgVXp1v1GlVXu/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OO7kZODqOP1PYTck29Y_chOhujT8om72VDl-URva2qndoXEdAM7ZA2G-lLrw7rrhsPouZ_OyCBn73Zx7X7flwv330-8vWjOaw/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OO7kZODqOP1PYTck29Y_chOhujT8om72VDl-URva2qndoXEdAM7ZA2G-lLrw7rrhsPouZ_OyCBn73Zx7X7flwv330-8vWjOaw/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OO7kZODqOP1PYTZk2pH8fp9i_vG8MLx31bhqUY-ZDqmINPGcFNqYAvU_VK4wem90cK66pmYwSBk73Rxt32IgVXp1npnONnV/512fx384f"
+        },
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment"
+      },
+      {
+        "title": "Shadow Daggers | Blue Steel",
+        "url": "https://csgostash.com/skin/660/Shadow-Daggers-Blue-Steel",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_aq_blued_light_large.e0b2ecdeec3fb3066cecaf5b2d9392bfe4dbc674.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO0mJWOk8j4OrzZglRd6dd2j6fEpY6njVewrhY_YD-hJ4aTdFVrMgmG_wO8lefsjJTu6sjNnSAwvCcm-z-DyLpT_9_7/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO0mJWOk8j4OrzZglRd6dd2j6fEpY6njVewrhY_YD-hJ4aTdFVrMgmG_wO8lefsjJTu6sjNnSAwvCcm-z-DyLpT_9_7/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO0mJWOk8j5Nr_Yg2Zu5MRjjeyPrNjwjgy3_hFkNjumcdKRe1BqNwvV-Fe6yem9hMPqtc_AynFmvHEqs2GdwULgFT5oXg/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO0mJWOk8j5Nr_Yg2Zu5MRjjeyPrNjwjgy3_hFkNjumcdKRe1BqNwvV-Fe6yem9hMPqtc_AynFmvHEqs2GdwULgFT5oXg/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO0mJWOk8j8NrrHj1Rd6dd2j6fD9tSjigS1_0o-a2DwdoXAdwFoNV3R-wO6xujo0cS56pqfyiM36CIq-z-DyHxShjh7/512fx384f"
+        },
+        "desc": "It has been cold blued.",
+        "lore": "This is the malbec of weapon design - Booth, Arms Dealer"
+      },
+      {
+        "title": "Shadow Daggers | \u2605 (Vanilla)",
+        "url": "https://csgostash.com/skin/659/Shadow-Daggers-Vanilla",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_push.13f409f23e653107c90711e5ab258b52b187ff6a.png",
+        "possible_wears": {
+          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_push.13f409f23e653107c90711e5ab258b52b187ff6a.png"
+        },
+        "desc": "This item has no description",
+        "lore": "This item has no lore"
+      },
+      {
+        "title": "Shadow Daggers | Forest DDPAT",
+        "url": "https://csgostash.com/skin/665/Shadow-Daggers-Forest-DDPAT",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_hy_ddpat_light_large.a5821bfe03d91034b78b0aaf1eaa50cf556645b3.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOykJCKg8j4OrzZglRd6dd2j6fAoNSn2VayrkNvN2DyJIWRIAE2M1iBqwe_lL--gJbv6pjMz3Rnv3Ih-z-DyE2k6FdU/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOykJCKg8j4OrzZglRd6dd2j6fAoNSn2VayrkNvN2DyJIWRIAE2M1iBqwe_lL--gJbv6pjMz3Rnv3Ih-z-DyE2k6FdU/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOykJCKg8j5Nr_Yg2Zu5MRjjeyPp9qn3lXsqEI6Mj_xJdOQIVQ9ZV7R8le_lL27jZC9uZTInHdh6SB042GdwUKVvVW-4Q/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOykJCKg8j5Nr_Yg2Zu5MRjjeyPp9qn3lXsqEI6Mj_xJdOQIVQ9ZV7R8le_lL27jZC9uZTInHdh6SB042GdwUKVvVW-4Q/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOykJCKg8j8NrrHj1Rd6dd2j6fHpI6l2Vew-0I4ZjumdYSUdgNoZl3T_gPsyOa8hsTp7pvMzSZrvCgq-z-DyKtmIRvz/512fx384f"
+        },
+        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "By the time you're close enough to notice the pixels it's already too late"
+      },
+      {
+        "title": "Shadow Daggers | Scorched",
+        "url": "https://csgostash.com/skin/668/Shadow-Daggers-Scorched",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_sp_dapple_light_large.2f7cde55a22c5cd038bceb38533f5397a9fc8252.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLP7LWnn9u5MRjjeyPp4qii1Cx_kY9YWugIdXBcgU2MwuFqFK2xO3s05O_tZqYwCQwsiIn52GdwULIb8P_jA/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLP7LWnn9u5MRjjeyPp4qii1Cx_kY9YWugIdXBcgU2MwuFqFK2xO3s05O_tZqYwCQwsiIn52GdwULIb8P_jA/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLPr7Vn35c18lwmO7Eu9Wh2Va1_EFua2ugIo_GewQ6MFzZ81Pswujqgsfo6pTIm3Mw6Skk4nzD30vgLAbe998/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLPr7Vn35c18lwmO7Eu9Wh2Va1_EFua2ugIo_GewQ6MFzZ81Pswujqgsfo6pTIm3Mw6Skk4nzD30vgLAbe998/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLO77QgHJu5MRjjeyP99qsjVfj_BZuNWvxINWUdwQ4Z17T_VXrlee818Xqu8jOwCFqvyIkt2GdwUK3jb73mw/512fx384f"
+        },
+        "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary"
+      },
+      {
+        "title": "Shadow Daggers | Urban Masked",
+        "url": "https://csgostash.com/skin/671/Shadow-Daggers-Urban-Masked",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_sp_tape_urban_light_large.b443359282b2cbc75c2cc765af8c9a00e4b2dfdb.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOilZCOqOLmMbrfqWdY781lteXA54vwxlbg_0BvZmDxLITHcFVsMl_VqVPtkunpgMfqtM7AmHJj7yRw5yuLy0epwUYba3Jf2fM/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOilZCOqOLmMbrfqWdY781lteXA54vwxlbg_0BvZmDxLITHcFVsMl_VqVPtkunpgMfqtM7AmHJj7yRw5yuLy0epwUYba3Jf2fM/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOilZCOqOLmMbrfqWZU7Mxkh9bN9J7yjRri-Bc6N2umJ9fGdQJvM1uC_VDow-a6hZa5u8nMzyE27CAhsC7dlhW1n1gSOQVoKPxT/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOilZCOqOLmMbrfqWZU7Mxkh9bN9J7yjRri-Bc6N2umJ9fGdQJvM1uC_VDow-a6hZa5u8nMzyE27CAhsC7dlhW1n1gSOQVoKPxT/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOilZCOqOLmMbrfqWNU6dNoteXA54vwxgzn_UA6ZG6gJdPEIFU-aQ6F-1O3xevqhpe678zPyHZr6XQg4nvYmESpwUYbrI1KLmM/512fx384f"
+        },
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application"
+      },
+      {
+        "title": "Shadow Daggers | Stained",
+        "url": "https://csgostash.com/skin/670/Shadow-Daggers-Stained",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_aq_forced_light_large.2ceafeb104afeb40f9ba4c7a7cc4d590bc36c3dd.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eOwm5KIkvPLP7LWnn9u5MRjjeyPp4_wiVKxqUJsZzilcdSRclA3MwnUqVbvxr28gcK5tZ2bmnFl6SN2sWGdwUJ8mvnVKQ/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eOwm5KIkvPLP7LWnn9u5MRjjeyPp4_wiVKxqUJsZzilcdSRclA3MwnUqVbvxr28gcK5tZ2bmnFl6SN2sWGdwUJ8mvnVKQ/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eOwm5KIkvPLPr7Vn35c18lwmO7Eu9X2igG38kNuYDv1LNDBJwVtMFDVrFjrlL_vjJ-76pyYnHtnu3QnsS7D30vgiQV49Zo/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eOwm5KIkvPLPr7Vn35c18lwmO7Eu9X2igG38kNuYDv1LNDBJwVtMFDVrFjrlL_vjJ-76pyYnHtnu3QnsS7D30vgiQV49Zo/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eOwm5KIkvPLO77QgHJu5MRjjeyPoo-g3wPl_BJkMjrzI9KTcwM4ZlzQ_FTtwLjtgsfp6pSYyiZi7Ch2tmGdwUK7vhs7kw/512fx384f"
+        },
+        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
+        "lore": "If you think it's messy now, wait until you see it under a blacklight"
+      },
+      {
+        "title": "Shadow Daggers | Night",
+        "url": "https://csgostash.com/skin/666/Shadow-Daggers-Night",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_so_night_light_large.6bf4ccf0b4c054ad19beb4d3da884cae5fb2a302.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR4-O4nYeDg8j4OrzZglRd6dd2j6eX94qhi1ey-xFoMGn2INfBcw9sNArUrlLqkObngcXt6Zifm3AyuSAg-z-DyDWixcck/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR4-O4nYeDg8j4OrzZglRd6dd2j6eX94qhi1ey-xFoMGn2INfBcw9sNArUrlLqkObngcXt6Zifm3AyuSAg-z-DyDWixcck/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR4-O4nYeDg8j5Nr_Yg2Zu5MRjjeyPooml3gCxr0RqNWugdtDEew45Zg3Q8gS-kuy91sW1vZudnXU37nF27WGdwULFuAo5tw/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR4-O4nYeDg8j5Nr_Yg2Zu5MRjjeyPooml3gCxr0RqNWugdtDEew45Zg3Q8gS-kuy91sW1vZudnXU37nF27WGdwULFuAo5tw/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR4-O4nYeDg8j8NrrHj1Rd6dd2j6eXptj33QG3-EpkYzr6d9OQIQBvaQvZ-ATow-rsjZ66tZvMm3pgunR2-z-DyKShR5ds/512fx384f"
+        },
+        "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
+        "lore": "It's the whisper of the wind... it's the bite at your neck"
+      },
+      {
+        "title": "Shadow Daggers | Boreal Forest",
+        "url": "https://csgostash.com/skin/661/Shadow-Daggers-Boreal-Forest",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_hy_forest_boreal_light_large.81e69f4bcf6d0cd60f909a0b6722e8bc12b982ca.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOwm5KOhOPLMbTDk2pd18l4jeHVyoD0mlOx5UttNm_6coLHIVA4NViDrle-l-fvjMe87pvOy3A2snJx5H2Plh210klSLrs4qYSsVe4/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOwm5KOhOPLMbTDk2pd18l4jeHVyoD0mlOx5UttNm_6coLHIVA4NViDrle-l-fvjMe87pvOy3A2snJx5H2Plh210klSLrs4qYSsVe4/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOwm5KOhOPLMbTDk2pd18h0juDU-LP5iUazrl1uYG_2cI7AIQBvZQyC81i4lLu5gJPutZubwSYy7yZz7XfUzEbigBBOcKUx0nEYLL7e/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOwm5KOhOPLMbTDk2pd18h0juDU-LP5iUazrl1uYG_2cI7AIQBvZQyC81i4lLu5gJPutZubwSYy7yZz7XfUzEbigBBOcKUx0nEYLL7e/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOwm5KOhOPLMbTDk2pd1810i__YyoD0mlOx5RBqYjzxIIOTJgU3NwvVqAe4xry9jMO8uZmdm3QwvyQjs3yPnhC3h0lSLrs4ofY6epU/512fx384f"
+        },
+        "desc": "It has been painted using a forest camouflage hydrographic.",
+        "lore": "The woods can be a dangerous place... never travel alone"
+      }
+    ],
     "Covert Skins": [
       {
         "title": "USP-S | Kill Confirmed",
@@ -136,20 +311,6 @@
     ],
     "Mil-Spec Skins": [
       {
-        "title": "Glock-18 | Wraiths",
-        "url": "https://csgostash.com/skin/645/Glock-18-Wraiths",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_gs_glock18_wrathys_light_large.8cf4aba20d193a1646b378a3d04a6fee3f66724c.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf1OD3djFN79fnzL-chfbgO6LCqWdY781lteXA54vwxgy3rUc9MTjxJNKUewVvYF7U_AO9xua-hsK8uMzPnyc2uXYk43jfm0apwUYbzF_ISHM/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf1OD3djFN79fnzL-chfbgO6LCqWdY781lteXA54vwxgy3rUc9MTjxJNKUewVvYF7U_AO9xua-hsK8uMzPnyc2uXYk43jfm0apwUYbzF_ISHM/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf1OD3djFN79fnzL-chfbgO6LCqWZU7Mxkh9bN9J7yjRrmqBFpMDrwJIKXIQJtM16G-Fa_yLi60MO7uJjKmCMy73Yl5SrfzBG-n1gSOaOppFd7/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf1OD3djFN79fnzL-chfbgO6LCqWZU7Mxkh9bN9J7yjRrmqBFpMDrwJIKXIQJtM16G-Fa_yLi60MO7uJjKmCMy73Yl5SrfzBG-n1gSOaOppFd7/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf1OD3djFN79fnzL-chfbgO6LCqWNU6dNoteXA54vwxlDkrxdkNz_3cIacJlJsaVHS_Vi6xuft0JDotM_BySEx7nIqt3yMzhKpwUYbJnxxTrE/512fx384f"
-        },
-        "desc": "It has lost souls custom painted on the slide.",
-        "lore": "First it pierces the shroud, then it pierces the shadow"
-      },
-      {
         "title": "Dual Berettas | Dualing Dragons",
         "url": "https://csgostash.com/skin/643/Dual-Berettas-Dualing-Dragons",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_dualberretta_dragons_light_large.2742674cbf237d1ba5fb6ed9f0d90e00a03570f9.png",
@@ -162,6 +323,20 @@
         },
         "desc": "It has dragons laser-etched on the slide and barrel.",
         "lore": "Marian was always cooler than Sylvia"
+      },
+      {
+        "title": "Glock-18 | Wraiths",
+        "url": "https://csgostash.com/skin/645/Glock-18-Wraiths",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_gs_glock18_wrathys_light_large.8cf4aba20d193a1646b378a3d04a6fee3f66724c.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf1OD3djFN79fnzL-chfbgO6LCqWdY781lteXA54vwxgy3rUc9MTjxJNKUewVvYF7U_AO9xua-hsK8uMzPnyc2uXYk43jfm0apwUYbzF_ISHM/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf1OD3djFN79fnzL-chfbgO6LCqWdY781lteXA54vwxgy3rUc9MTjxJNKUewVvYF7U_AO9xua-hsK8uMzPnyc2uXYk43jfm0apwUYbzF_ISHM/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf1OD3djFN79fnzL-chfbgO6LCqWZU7Mxkh9bN9J7yjRrmqBFpMDrwJIKXIQJtM16G-Fa_yLi60MO7uJjKmCMy73Yl5SrfzBG-n1gSOaOppFd7/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf1OD3djFN79fnzL-chfbgO6LCqWZU7Mxkh9bN9J7yjRrmqBFpMDrwJIKXIQJtM16G-Fa_yLi60MO7uJjKmCMy73Yl5SrfzBG-n1gSOaOppFd7/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf1OD3djFN79fnzL-chfbgO6LCqWNU6dNoteXA54vwxlDkrxdkNz_3cIacJlJsaVHS_Vi6xuft0JDotM_BySEx7nIqt3yMzhKpwUYbJnxxTrE/512fx384f"
+        },
+        "desc": "It has lost souls custom painted on the slide.",
+        "lore": "First it pierces the shroud, then it pierces the shadow"
       },
       {
         "title": "FAMAS | Survivor Z",

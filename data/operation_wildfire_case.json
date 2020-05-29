@@ -2,6 +2,181 @@
   "url": "https://csgostash.com/case/112/Operation-Wildfire-Case",
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYxnaeQImRGu4S1x9TawfSmY-iHkmoD7cEl2LiQpIjz3wPl_ERkYWHwLY-LMlhp9pkR_UQ/256fx256f",
   "content": {
+    "Rare Special Items": [
+      {
+        "title": "Bowie Knife | Fade",
+        "url": "https://csgostash.com/skin/727/Bowie-Knife-Fade",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aa_fade_light_large.fd85e3d9fbd875ca2551b3758f5374e33d167fbf.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrrukGpV7fp9g-7J4bP5iUazrl06N2H2cYXBe1BsNVDX_wLvw-vqhMS_u5jBn3dgvSR35nyJnhOw10oacKUx0rse6B8s/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrrukGpV7fp9g-7J4bP5iUazrl06N2H2cYXBe1BsNVDX_wLvw-vqhMS_u5jBn3dgvSR35nyJnhOw10oacKUx0rse6B8s/512fx384f"
+        },
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training"
+      },
+      {
+        "title": "Bowie Knife | Crimson Web",
+        "url": "https://csgostash.com/skin/726/Bowie-Knife-Crimson-Web",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_hy_webs_light_large.d03e755f33f66df9ee9d8b1cf50b633ff458978b.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LugW5T-_p9g-7J4bP5iUazrl04Y2qmI4OQJAU9N17Wrge3lLvm0Z7uvc6fzHIxvCMhsynZmh2-hhAecKUx0qD6iv-z/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LugW5T-_p9g-7J4bP5iUazrl04Y2qmI4OQJAU9N17Wrge3lLvm0Z7uvc6fzHIxvCMhsynZmh2-hhAecKUx0qD6iv-z/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LugW5T-_p8j-3I4IHKhFWmrBZyZ2_xINLEcFA7ZV2EqQO8xO_q0MS6vZzAnXdquyl35n7Zmka3hRsfbvsv26IoeNaBLg/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LugW5T-_p8j-3I4IHKhFWmrBZyZ2_xINLEcFA7ZV2EqQO8xO_q0MS6vZzAnXdquyl35n7Zmka3hRsfbvsv26IoeNaBLg/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LugW5T-_p5j-jX7LP5iUazrl0-MD-gd4GXIwM5MgyEqFW2l--50JTo6M7JyHUxvShzt3rezUCw1E4acKUx0kJCM4Dn/512fx384f"
+        },
+        "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
+        "lore": "Be careful where you walk, you never know where the web is spread"
+      },
+      {
+        "title": "Bowie Knife | Slaughter",
+        "url": "https://csgostash.com/skin/732/Bowie-Knife-Slaughter",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_am_zebra_light_large.2ecbba9bd0e985ca0ae66ea95e7ef497358389d1.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrbujG5T-sROhuDG_ZjKhFWmrBZyYTygdtTEe1RqYQ3Z8lTtkO6-0JC66czAzCdk73Ym7Hjemh20iREYb_sv26KxNysneA/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrbujG5T-sROhuDG_ZjKhFWmrBZyYTygdtTEe1RqYQ3Z8lTtkO6-0JC66czAzCdk73Ym7Hjemh20iREYb_sv26KxNysneA/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrbujG5T-sROh-zF_Jn4t1i1uRQ5fWrzINeWcQVoZg3VrFC-wrrojJG6vpnPziRq7nZw43mPmkPkhB0Ya7RxxavJ0SiuCYk/512fx384f"
+        },
+        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
+        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers"
+      },
+      {
+        "title": "Bowie Knife | Night",
+        "url": "https://csgostash.com/skin/729/Bowie-Knife-Night",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_so_night_light_large.d0d6c2e5a296631fd0531172663499095030c2b2.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLILTumGJW4NFOhuDG_ZjKhFWmrBZyN2mnItWXJwNvY1HW_FK_l7rvgJW9vZrLz3Rgvikr5XbYnxa30hoebPsv26IdEgFJpA/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLILTumGJW4NFOhuDG_ZjKhFWmrBZyN2mnItWXJwNvY1HW_FK_l7rvgJW9vZrLz3Rgvikr5XbYnxa30hoebPsv26IdEgFJpA/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLILTumGJW4NFOh-zF_Jn4t1i1uRQ5fTj7dYeWe1RsaQvT_VDqye7n0J616s_MyyNi6HIisCyPzhG1gE4dbexxxavJKn_z1Mw/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLILTumGJW4NFOh-zF_Jn4t1i1uRQ5fTj7dYeWe1RsaQvT_VDqye7n0J616s_MyyNi6HIisCyPzhG1gE4dbexxxavJKn_z1Mw/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLILTumGJW4NFOguzA45XKhFWmrBZyYminItLEcw5qY1zV8lK4k7q8hZe06svPnSZnvCUn7XvYm0ax1B8favsv26JtBpOOmQ/512fx384f"
+        },
+        "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
+        "lore": "It's the whisper of the wind... it's the bite at your neck"
+      },
+      {
+        "title": "Bowie Knife | Case Hardened",
+        "url": "https://csgostash.com/skin/725/Bowie-Knife-Case-Hardened",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aq_oiled_light_large.5d61d6e094f21b2e857f06fc6123ad4d1fe96193.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrumWJd7cFOhuDG_ZjKhFWmrBZyZj31JdKTJwY3ZQ7S-wO8lObqgsC8usuaz3NhuXF24SvcyUC-hxlFbfsv26Le7bRreg/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrumWJd7cFOhuDG_ZjKhFWmrBZyZj31JdKTJwY3ZQ7S-wO8lObqgsC8usuaz3NhuXF24SvcyUC-hxlFbfsv26Le7bRreg/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrumWJd7cFOh-zF_Jn4t1i1uRQ5fT3zddOVdlRtZFCE_FS8lLrsg8fv6ZzJmCQw7yZw7XvUmhewgBFNbLFxxavJ0JP3WyI/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrumWJd7cFOh-zF_Jn4t1i1uRQ5fT3zddOVdlRtZFCE_FS8lLrsg8fv6ZzJmCQw7yZw7XvUmhewgBFNbLFxxavJ0JP3WyI/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrumWJd7cFOguzA45XKhFWmrBZyMj2mcoaWJAVrNFmE81i9wbrv156578uay3Jk6CUg4SqInBa0iU1OPfsv26J8VczGxA/512fx384f"
+        },
+        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
+        "lore": "A little color never hurt anyone"
+      },
+      {
+        "title": "Bowie Knife | Boreal Forest",
+        "url": "https://csgostash.com/skin/724/Bowie-Knife-Boreal-Forest",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_hy_forest_boreal_light_large.439a6bd0f88b3caa73d7ea847452a116ed1ecec7.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LukGRD7dZltevO54n0hGu4ohQ0JwavdcTCJxg6YlGB_APqwbjnjcS_78yYznE3vXVz7XvamxC10BlNaLA7hKDNHA-ZGeUXS_tH2wo9/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LukGRD7dZltevO54n0hGu4ohQ0JwavdcTCJxg6YlGB_APqwbjnjcS_78yYznE3vXVz7XvamxC10BlNaLA7hKDNHA-ZGeUXS_tH2wo9/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LukGRD7dZltevO54n0hGu5rhc1JjSceNfXJVMgM1jQrFfvlOzugsK06J7My3YysyknsXbbmxa3hEpNPexo1PGcQVucALsJQvfIgnKn9w/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LukGRD7dZltevO54n0hGu5rhc1JjSceNfXJVMgM1jQrFfvlOzugsK06J7My3YysyknsXbbmxa3hEpNPexo1PGcQVucALsJQvfIgnKn9w/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LukGRD7dZltevO54n0hGu8rhIqKgavdcTCJxhtYFvW-FW9yOfrjcXtuZvByiNmsyMitCqOyxC01RtLO-060KSbS1ucGeUXS-LuYRFa/512fx384f"
+        },
+        "desc": "It has been painted using a forest camouflage hydrographic.",
+        "lore": "The woods can be a dangerous place... never travel alone"
+      },
+      {
+        "title": "Bowie Knife | Stained",
+        "url": "https://csgostash.com/skin/733/Bowie-Knife-Stained",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aq_forced_light_large.dc9107ac17070401b6be113e1af07b1fe257c951.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrukGRD68B1teXI8oTht1i1uRQ5fT2gLYeVdVdtYF_Q_VG6we-9g8TpvZzKnHMy7CAlt36LyheyhktFa-RxxavJiy850_8/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrukGRD68B1teXI8oTht1i1uRQ5fT2gLYeVdVdtYF_Q_VG6we-9g8TpvZzKnHMy7CAlt36LyheyhktFa-RxxavJiy850_8/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrukGRD68B1teTE8YXghWu4qgE7Nnf6LNOSdAI5Z1rT81W2k-vtjMe56cucnHdmvnF35SmIyxW-0hFObbM9m7XAHpVosyuA/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrukGRD68B1teTE8YXghWu4qgE7Nnf6LNOSdAI5Z1rT81W2k-vtjMe56cucnHdmvnF35SmIyxW-0hFObbM9m7XAHpVosyuA/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrukGRD68B1teHE9Jrst1i1uRQ5fTj7IoHAJw9tNVrZ81DqlLrnjZLo7c-dmHdmuychtn2LzhzmgkpKPLBxxavJyjawacg/512fx384f"
+        },
+        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
+        "lore": "If you think it's messy now, wait until you see it under a blacklight"
+      },
+      {
+        "title": "Bowie Knife | \u2605 (Vanilla)",
+        "url": "https://csgostash.com/skin/722/Bowie-Knife-Vanilla",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_survival_bowie.01addb54d400815308b1d312290594a3177dd55f.png",
+        "possible_wears": {
+          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_survival_bowie.01addb54d400815308b1d312290594a3177dd55f.png"
+        },
+        "desc": "This item has no description",
+        "lore": "This item has no lore"
+      },
+      {
+        "title": "Bowie Knife | Blue Steel",
+        "url": "https://csgostash.com/skin/723/Bowie-Knife-Blue-Steel",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aq_blued_light_large.d24c03eb5e7feb65ba397f5aaca5f1304acefc62.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrulGdE7cFOhuDG_ZjKhFWmrBZyN2v3d4aWJ1Q7NF-GrwO4xLy-hp-76piYmCEyv3Yj5n_Zzkbi10tKbPsv26JtqJAKPg/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrulGdE7cFOhuDG_ZjKhFWmrBZyN2v3d4aWJ1Q7NF-GrwO4xLy-hp-76piYmCEyv3Yj5n_Zzkbi10tKbPsv26JtqJAKPg/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrulGdE7cFOh-zF_Jn4t1i1uRQ5fWDwd9XAI1A4YlzY_lO4krjp0J-0uZXIzSRhvygq4HiImhG1gB5LOO1xxavJwCLSHzA/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrulGdE7cFOh-zF_Jn4t1i1uRQ5fWDwd9XAI1A4YlzY_lO4krjp0J-0uZXIzSRhvygq4HiImhG1gB5LOO1xxavJwCLSHzA/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMqrulGdE7cFOguzA45XKhFWmrBZyN2mnJoOQJgdsYw6G8li4l7_mhMDo7c7MmnRjsikgs3_UnBy0gRhJafsv26Jqrk7EKQ/512fx384f"
+        },
+        "desc": "It has been cold blued.",
+        "lore": "This is the malbec of weapon design - Booth, Arms Dealer"
+      },
+      {
+        "title": "Bowie Knife | Safari Mesh",
+        "url": "https://csgostash.com/skin/730/Bowie-Knife-Safari-Mesh",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_sp_mesh_tan_light_large.360aa198bded3bec8d3c051bd1d6dc7270b3b91f.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvum25C4Ppli-f--YXygECLpxIuNDztJ4CVI1c_aFCCrgTqwry61p7ov87JzHMx7iF24yuOmBewgUpPPOxu0-veFwsN6NGreg/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvum25C4Ppli-f--YXygECLpxIuNDztJ4CVI1c_aFCCrgTqwry61p7ov87JzHMx7iF24yuOmBewgUpPPOxu0-veFwsN6NGreg/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvum25C4Ppli-f--InxgUG5lB89IT6mOoKTIQM6ZF2G-we5lb270Ja_upzPzHUyvSh05HveyRCx101MPeVogvOACQLJv2vDlqY/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvum25C4Ppli-f--InxgUG5lB89IT6mOoKTIQM6ZF2G-we5lb270Ja_upzPzHUyvSh05HveyRCx101MPeVogvOACQLJv2vDlqY/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvum25C4Ppli-f-_Yn0nk2LpxIuNDztJ4OSc1M7NQnYqQPqkOa7gpS1uZTMznMxsih05Sncy0HliU5LbrA-geveFwu7LUr5Sw/512fx384f"
+        },
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment"
+      },
+      {
+        "title": "Bowie Knife | Scorched",
+        "url": "https://csgostash.com/skin/731/Bowie-Knife-Scorched",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_sp_dapple_light_large.491c0483853ac7568ae0d98a09b5ba6e9b757411.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvukmpB-Ml0teXI8oTht1i1uRQ5fW36JdWVdg49aV3TqwK5xOjn1MO86JTBmHJq6CVwtHmIlkewhB9Ib-RxxavJC4HjlHE/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvukmpB-Ml0teXI8oTht1i1uRQ5fW36JdWVdg49aV3TqwK5xOjn1MO86JTBmHJq6CVwtHmIlkewhB9Ib-RxxavJC4HjlHE/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvukmpB-Ml0teTE8YXghWu4qgE7Nnf1d4aQdVBvNwvU-Vbox-vuhsK7vp-awHpjsyUqty7fzh220hlOabQ7m7XAHudtGzdb/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvukmpB-Ml0teTE8YXghWu4qgE7Nnf1d4aQdVBvNwvU-Vbox-vuhsK7vp-awHpjsyUqty7fzh220hlOabQ7m7XAHudtGzdb/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvukmpB-Ml0teHE9Jrst1i1uRQ5fW_7ctCUJgJvZ1iF-lG8wei-jJ7pu5ucz3JnvnMi4nvfzhbjgRkearFxxavJ7YEAdIc/512fx384f"
+        },
+        "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary"
+      },
+      {
+        "title": "Bowie Knife | Forest DDPAT",
+        "url": "https://csgostash.com/skin/728/Bowie-Knife-Forest-DDPAT",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_hy_ddpat_light_large.41ce1d0d829bdfe39882a843045a2a940da6be8f.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6Lukm9B6dFOhuDG_ZjKhFWmrBZyZ2igcYfBclI2Y1GCrgfrwufnjZTttJnKyXZm6yJz7Hvdy0Sx001EOPsv26K2d0blaw/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6Lukm9B6dFOhuDG_ZjKhFWmrBZyZ2igcYfBclI2Y1GCrgfrwufnjZTttJnKyXZm6yJz7Hvdy0Sx001EOPsv26K2d0blaw/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6Lukm9B6dFOh-zF_Jn4t1i1uRQ5fW6hLNSdIA89YgrQqQK_yenohMW4usvJyHFgvHYjsHbUzBGy0BxLa-NxxavJ16PM9BY/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6Lukm9B6dFOh-zF_Jn4t1i1uRQ5fW6hLNSdIA89YgrQqQK_yenohMW4usvJyHFgvHYjsHbUzBGy0BxLa-NxxavJ16PM9BY/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6Lukm9B6dFOguzA45XKhFWmrBZyNmilIIaXd1c3N1HXq1Ltk-q908O06ZTBm3diuSdzs3iPnxK3hUxKPfsv26IzBo9eyw/512fx384f"
+        },
+        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "By the time you're close enough to notice the pixels it's already too late"
+      },
+      {
+        "title": "Bowie Knife | Urban Masked",
+        "url": "https://csgostash.com/skin/734/Bowie-Knife-Urban-Masked",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_sp_tape_urban_light_large.8038d2ef3b412fc5151061528702309da2a71545.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvugmpB7fpkmOvA-7P5gVO8vywwMiukcZidcgU2NVqFrFLsxe_t08W5vZjIyXRivyIq4n_fnBW-1UlOP-JugPGbVxzAUExOtIrq/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvugmpB7fpkmOvA-7P5gVO8vywwMiukcZidcgU2NVqFrFLsxe_t08W5vZjIyXRivyIq4n_fnBW-1UlOP-JugPGbVxzAUExOtIrq/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvugmpB7fpkmOvA-7P4jVC9vh4DPzixc9OLdFNraQvZ-1G8k7zm1pbquJ3BySQxvCgjsXyJzkCzgU5IPO1q0PKaS0LeWfKTXih62Q/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvugmpB7fpkmOvA-7P4jVC9vh4DPzixc9OLdFNraQvZ-1G8k7zm1pbquJ3BySQxvCgjsXyJzkCzgU5IPO1q0PKaS0LeWfKTXih62Q/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLIKvugmpB7fpkmOvA-7P9jVWisiwwMiukcZiVIQVvZA3T8lm7weq90ZC5vJ7PySY2uCQr5C3azEay0xlEarFvjPObVxzAUKEY2L7x/512fx384f"
+        },
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application"
+      }
+    ],
     "Covert Skins": [
       {
         "title": "AK-47 | Fuel Injector",
@@ -204,20 +379,6 @@
         "lore": "That's why Huxley is doing the heavy lifting, all we have to is nudge her forward... - The Serpent and The Truth Seeker, Part 2"
       },
       {
-        "title": "Tec-9 | Jambiya",
-        "url": "https://csgostash.com/skin/710/Tec-9-Jambiya",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_gs_tec9_jambiya_light_large.d1f42521bb774564f80a512c3990e768179cf111.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLP7LWnn9u5MRjjeyP8d3z3Abh-UI-MW70IIOTdlA2YQnV-1PtwufmhcO7upXIznsw7CEj5GGdwULKp4MnwA/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLP7LWnn9u5MRjjeyP8d3z3Abh-UI-MW70IIOTdlA2YQnV-1PtwufmhcO7upXIznsw7CEj5GGdwULKp4MnwA/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLPr7Vn35c18lwmO7Eu9j03gXjqRY9Y2CiI4OScAM3YljUq1i6yL_pgJfquJyYyCFisilz5XbD30vgJyu1u1U/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLPr7Vn35c18lwmO7Eu9j03gXjqRY9Y2CiI4OScAM3YljUq1i6yL_pgJfquJyYyCFisilz5XbD30vgJyu1u1U/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLO77QgHJu5MRjjeyPp9v3jAbhrhc5Y2r7IIXDdFJsYl-B8we9lLu7hcC5vZ2fy3ExvCcjsGGdwUL7rboKLQ/512fx384f"
-        },
-        "desc": "It has been hand painted and laser-etched with middle eastern patterns.",
-        "lore": "Shahrazad told 1000 tales... this is the last one you'll hear"
-      },
-      {
         "title": "MAC-10 | Lapis Gator",
         "url": "https://csgostash.com/skin/708/MAC-10-Lapis-Gator",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_am_mac10_electricity_light_large.88207515fce5ebad84df16d60ff2203a5d4a2702.png",
@@ -230,6 +391,20 @@
         },
         "desc": "It has been given a hydrographic of vibrant alligator skin.",
         "lore": "Airboat not included"
+      },
+      {
+        "title": "Tec-9 | Jambiya",
+        "url": "https://csgostash.com/skin/710/Tec-9-Jambiya",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_gs_tec9_jambiya_light_large.d1f42521bb774564f80a512c3990e768179cf111.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLP7LWnn9u5MRjjeyP8d3z3Abh-UI-MW70IIOTdlA2YQnV-1PtwufmhcO7upXIznsw7CEj5GGdwULKp4MnwA/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLP7LWnn9u5MRjjeyP8d3z3Abh-UI-MW70IIOTdlA2YQnV-1PtwufmhcO7upXIznsw7CEj5GGdwULKp4MnwA/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLPr7Vn35c18lwmO7Eu9j03gXjqRY9Y2CiI4OScAM3YljUq1i6yL_pgJfquJyYyCFisilz5XbD30vgJyu1u1U/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLPr7Vn35c18lwmO7Eu9j03gXjqRY9Y2CiI4OScAM3YljUq1i6yL_pgJfquJyYyCFisilz5XbD30vgJyu1u1U/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLO77QgHJu5MRjjeyPp9v3jAbhrhc5Y2r7IIXDdFJsYl-B8we9lLu7hcC5vZ2fy3ExvCcjsGGdwUL7rboKLQ/512fx384f"
+        },
+        "desc": "It has been hand painted and laser-etched with middle eastern patterns.",
+        "lore": "Shahrazad told 1000 tales... this is the last one you'll hear"
       }
     ]
   }
