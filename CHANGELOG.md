@@ -1,5 +1,9 @@
 
 # CHANGELOG
+## v0.2.0 -30/05/20
+* Rewrote the entire script
+* Updated scraper to match new website design
+* Added rare special items to case data
 
 ## v0.1.2 - 11/05/20
 * Redesigned data format
