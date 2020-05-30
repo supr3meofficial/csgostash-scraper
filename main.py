@@ -207,7 +207,7 @@ class CaseDataHandler:
             url = frame.a['href']
             image = frame.img['src']
             csgo_cases[title] = dict(url=url, image_url=image)
-        
+
         return csgo_cases
 
     def add_cases(self, method, indent):
@@ -226,18 +226,23 @@ class CaseDataHandler:
         if method == 1:
             with open('output.json', 'w') as fp:
                 json.dump(cases, fp, indent=indent)
+                print(f'Wrote to file: {fp.name}')
         elif method == 2:
             for case in cases:
                 filename = str(case).lower().replace(" ","_")
                 with open(f'{filename}.json', 'w') as fp:
                     json.dump(cases[case], fp, indent=indent)
+                    print(f'Wrote to file: {fp.name}')
         elif method == 3:
             with open('output.json', 'w') as fp:
                 json.dump(cases, fp, indent=indent)
+                print(f'Wrote to file: {fp.name}')
             for case in cases:
                 filename = str(case).lower().replace(" ","_")
+                filename = filename.replace(":","")
                 with open(f'{filename}.json', 'w') as fp:
                     json.dump(cases[case], fp, indent=indent)
+                    print(f'Wrote to file: {fp.name}')
 class PageHandler:
 
     def get_parsed_page(self, url):
