@@ -135,20 +135,6 @@
         "lore": "The woods can be a dangerous place... never travel alone"
       },
       {
-        "title": "Classic Knife | Urban Masked",
-        "url": "https://csgostash.com/skin/1127/Classic-Knife-Urban-Masked",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_sp_tape_urban_light_large.441ee120340e931006889e4848c673200d44b476.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTi5S08i3hIW0guX2MrXummJW4NFOhujT8om73ADlrhZtYWnwIIbAewU_YVjW8lm3lOrngZ7vuprKy3Jj7iQmt3vamQv330_GYw-PDw/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTi5S08i3hIW0guX2MrXummJW4NFOhujT8om73ADlrhZtYWnwIIbAewU_YVjW8lm3lOrngZ7vuprKy3Jj7iQmt3vamQv330_GYw-PDw/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTi5S08i3hIW0guX2MrXum25V4dB8teXA54vwxgO3rRE5ZzilJoKWJAc3ZAuErAW4lLznjMC96pSanCc3viggtneJmRapwUYbfQkYB4A/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTi5S08i3hIW0guX2MrXum25V4dB8teXA54vwxgO3rRE5ZzilJoKWJAc3ZAuErAW4lLznjMC96pSanCc3viggtneJmRapwUYbfQkYB4A/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTi5S08i3hIW0guX2MrXunm5Q_txOhujT8om7jgblrxA_YWHzJ9DDJAdrZQrW_AS3xee-jce0tMvAySA16SRxs3aOnwv330-6Y7t8yg/512fx384f"
-        },
-        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
-        "lore": "True power is demonstrated with subtle application"
-      },
-      {
         "title": "Classic Knife | Forest DDPAT",
         "url": "https://csgostash.com/skin/1121/Classic-Knife-Forest-DDPAT",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_hy_ddpat_light_large.66740db6797133d2d2d7240b3ce70f530e9a0a81.png",
@@ -161,6 +147,20 @@
         },
         "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
         "lore": "By the time you're close enough to notice the pixels it's already too late"
+      },
+      {
+        "title": "Classic Knife | Urban Masked",
+        "url": "https://csgostash.com/skin/1127/Classic-Knife-Urban-Masked",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_sp_tape_urban_light_large.441ee120340e931006889e4848c673200d44b476.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTi5S08i3hIW0guX2MrXummJW4NFOhujT8om73ADlrhZtYWnwIIbAewU_YVjW8lm3lOrngZ7vuprKy3Jj7iQmt3vamQv330_GYw-PDw/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTi5S08i3hIW0guX2MrXummJW4NFOhujT8om73ADlrhZtYWnwIIbAewU_YVjW8lm3lOrngZ7vuprKy3Jj7iQmt3vamQv330_GYw-PDw/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTi5S08i3hIW0guX2MrXum25V4dB8teXA54vwxgO3rRE5ZzilJoKWJAc3ZAuErAW4lLznjMC96pSanCc3viggtneJmRapwUYbfQkYB4A/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTi5S08i3hIW0guX2MrXum25V4dB8teXA54vwxgO3rRE5ZzilJoKWJAc3ZAuErAW4lLznjMC96pSanCc3viggtneJmRapwUYbfQkYB4A/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTi5S08i3hIW0guX2MrXunm5Q_txOhujT8om7jgblrxA_YWHzJ9DDJAdrZQrW_AS3xee-jce0tMvAySA16SRxs3aOnwv330-6Y7t8yg/512fx384f"
+        },
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application"
       },
       {
         "title": "Classic Knife | Safari Mesh",

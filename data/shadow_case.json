@@ -55,6 +55,16 @@
         "lore": "Be careful where you walk, you never know where the web is spread"
       },
       {
+        "title": "Shadow Daggers | \u2605 (Vanilla)",
+        "url": "https://csgostash.com/skin/659/Shadow-Daggers-Vanilla",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_push.13f409f23e653107c90711e5ab258b52b187ff6a.png",
+        "possible_wears": {
+          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_push.13f409f23e653107c90711e5ab258b52b187ff6a.png"
+        },
+        "desc": "This item has no description",
+        "lore": "This item has no lore"
+      },
+      {
         "title": "Shadow Daggers | Safari Mesh",
         "url": "https://csgostash.com/skin/667/Shadow-Daggers-Safari-Mesh",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_sp_mesh_tan_light_large.b6b390c3652c2bc1c074cd23b3ca921bf9870b4b.png",
@@ -83,14 +93,18 @@
         "lore": "This is the malbec of weapon design - Booth, Arms Dealer"
       },
       {
-        "title": "Shadow Daggers | \u2605 (Vanilla)",
-        "url": "https://csgostash.com/skin/659/Shadow-Daggers-Vanilla",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_push.13f409f23e653107c90711e5ab258b52b187ff6a.png",
+        "title": "Shadow Daggers | Scorched",
+        "url": "https://csgostash.com/skin/668/Shadow-Daggers-Scorched",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_sp_dapple_light_large.2f7cde55a22c5cd038bceb38533f5397a9fc8252.png",
         "possible_wears": {
-          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_push.13f409f23e653107c90711e5ab258b52b187ff6a.png"
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLP7LWnn9u5MRjjeyPp4qii1Cx_kY9YWugIdXBcgU2MwuFqFK2xO3s05O_tZqYwCQwsiIn52GdwULIb8P_jA/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLP7LWnn9u5MRjjeyPp4qii1Cx_kY9YWugIdXBcgU2MwuFqFK2xO3s05O_tZqYwCQwsiIn52GdwULIb8P_jA/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLPr7Vn35c18lwmO7Eu9Wh2Va1_EFua2ugIo_GewQ6MFzZ81Pswujqgsfo6pTIm3Mw6Skk4nzD30vgLAbe998/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLPr7Vn35c18lwmO7Eu9Wh2Va1_EFua2ugIo_GewQ6MFzZ81Pswujqgsfo6pTIm3Mw6Skk4nzD30vgLAbe998/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLO77QgHJu5MRjjeyP99qsjVfj_BZuNWvxINWUdwQ4Z17T_VXrlee818Xqu8jOwCFqvyIkt2GdwUK3jb73mw/512fx384f"
         },
-        "desc": "This item has no description",
-        "lore": "This item has no lore"
+        "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary"
       },
       {
         "title": "Shadow Daggers | Forest DDPAT",
@@ -105,20 +119,6 @@
         },
         "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
         "lore": "By the time you're close enough to notice the pixels it's already too late"
-      },
-      {
-        "title": "Shadow Daggers | Scorched",
-        "url": "https://csgostash.com/skin/668/Shadow-Daggers-Scorched",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_sp_dapple_light_large.2f7cde55a22c5cd038bceb38533f5397a9fc8252.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLP7LWnn9u5MRjjeyPp4qii1Cx_kY9YWugIdXBcgU2MwuFqFK2xO3s05O_tZqYwCQwsiIn52GdwULIb8P_jA/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLP7LWnn9u5MRjjeyPp4qii1Cx_kY9YWugIdXBcgU2MwuFqFK2xO3s05O_tZqYwCQwsiIn52GdwULIb8P_jA/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLPr7Vn35c18lwmO7Eu9Wh2Va1_EFua2ugIo_GewQ6MFzZ81Pswujqgsfo6pTIm3Mw6Skk4nzD30vgLAbe998/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLPr7Vn35c18lwmO7Eu9Wh2Va1_EFua2ugIo_GewQ6MFzZ81Pswujqgsfo6pTIm3Mw6Skk4nzD30vgLAbe998/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLO77QgHJu5MRjjeyP99qsjVfj_BZuNWvxINWUdwQ4Z17T_VXrlee818Xqu8jOwCFqvyIkt2GdwUK3jb73mw/512fx384f"
-        },
-        "desc": "It has been spray-painted in a sun-dappled pattern.",
-        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary"
       },
       {
         "title": "Shadow Daggers | Urban Masked",

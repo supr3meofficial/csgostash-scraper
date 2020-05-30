@@ -121,20 +121,6 @@
         "lore": "Spray... Pray... Paint... Stab."
       },
       {
-        "title": "Nomad Knife | Safari Mesh",
-        "url": "https://csgostash.com/skin/1209/Nomad-Knife-Safari-Mesh",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_sp_mesh_tan_light_large.7c3c80a31f6255847368dc38a96bcd8c17abca02.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-GkuT8DK_QmFRd4cJ5ntbN9J7yjRrjqEA_a2miJ4fDdAQ7ZFDU_VK4ybq8hp7ttZubmiZr6SEltC2OzhW1n1gSOaLrAW4m/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-GkuT8DK_QmFRd4cJ5ntbN9J7yjRrjqEA_a2miJ4fDdAQ7ZFDU_VK4ybq8hp7ttZubmiZr6SEltC2OzhW1n1gSOaLrAW4m/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-GkuT8DK_QmFRc7cF4n-T--Y3nj1H6rRA9ajv3IdPAdARtN1zW_Fm_levrhce_7cucznBgvSQh4nndnkbkggYMMLJug7sEMA/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-GkuT8DK_QmFRc7cF4n-T--Y3nj1H6rRA9ajv3IdPAdARtN1zW_Fm_levrhce_7cucznBgvSQh4nndnkbkggYMMLJug7sEMA/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-GkuT8DK_QmFRZ7cRnk9bN9J7yjRq2_EBoMmuhJ4bDIFRoN17U-QK6yLjtgZ-8uJ3NmnRq7iJ343jeyRPkn1gSOQg6FplG/512fx384f"
-        },
-        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
-        "lore": "A predator is a predator, no matter the environment"
-      },
-      {
         "title": "Nomad Knife | Scorched",
         "url": "https://csgostash.com/skin/1208/Nomad-Knife-Scorched",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_sp_dapple_light_large.e587077d740da85df09c4cc459608841e7d2cafd.png",
@@ -177,6 +163,20 @@
         "lore": "The woods can be a dangerous place... never travel alone"
       },
       {
+        "title": "Nomad Knife | Safari Mesh",
+        "url": "https://csgostash.com/skin/1209/Nomad-Knife-Safari-Mesh",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_sp_mesh_tan_light_large.7c3c80a31f6255847368dc38a96bcd8c17abca02.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-GkuT8DK_QmFRd4cJ5ntbN9J7yjRrjqEA_a2miJ4fDdAQ7ZFDU_VK4ybq8hp7ttZubmiZr6SEltC2OzhW1n1gSOaLrAW4m/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-GkuT8DK_QmFRd4cJ5ntbN9J7yjRrjqEA_a2miJ4fDdAQ7ZFDU_VK4ybq8hp7ttZubmiZr6SEltC2OzhW1n1gSOaLrAW4m/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-GkuT8DK_QmFRc7cF4n-T--Y3nj1H6rRA9ajv3IdPAdARtN1zW_Fm_levrhce_7cucznBgvSQh4nndnkbkggYMMLJug7sEMA/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-GkuT8DK_QmFRc7cF4n-T--Y3nj1H6rRA9ajv3IdPAdARtN1zW_Fm_levrhce_7cucznBgvSQh4nndnkbkggYMMLJug7sEMA/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-GkuT8DK_QmFRZ7cRnk9bN9J7yjRq2_EBoMmuhJ4bDIFRoN17U-QK6yLjtgZ-8uJ3NmnRq7iJ343jeyRPkn1gSOQg6FplG/512fx384f"
+        },
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment"
+      },
+      {
         "title": "Paracord Knife | Fade",
         "url": "https://csgostash.com/skin/1239/Paracord-Knife-Fade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_cord_aa_fade_light_large.9a14f355546aa33302e185e4d5ff1f7d6aacb066.png",
@@ -214,6 +214,20 @@
         "lore": "Be careful where you walk, you never know where the web is spread"
       },
       {
+        "title": "Paracord Knife | Case Hardened",
+        "url": "https://csgostash.com/skin/1243/Paracord-Knife-Case-Hardened",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_cord_aq_oiled_light_large.e8657de871b02a874d8dedf49c3a0d548572a2f0.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j4OrzZglRd6dd2j6fErdqg31Cx80RtMWnxdY6SdlI2NQ2ErFW3ku2-hcK5uJXMznAyuHYi-z-DyB9kNyA8/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j4OrzZglRd6dd2j6fErdqg31Cx80RtMWnxdY6SdlI2NQ2ErFW3ku2-hcK5uJXMznAyuHYi-z-DyB9kNyA8/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j5Nr_Yg2Zu5MRjjeyPpNqmi1HsqEE4YWD3d9DEd1JvYVjZq1brkLy81pC9vZ2anSQ3uyAq7WGdwUK1Xp2ykQ/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j5Nr_Yg2Zu5MRjjeyPpNqmi1HsqEE4YWD3d9DEd1JvYVjZq1brkLy81pC9vZ2anSQ3uyAq7WGdwUK1Xp2ykQ/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j8NrrHj1Rd6dd2j6eV8dyiiVLs-RI_Z2H7ctSScQBvMg3RqwW9wrrs18W_6J2dzHNnuyIn-z-DyA5-BJ9v/512fx384f"
+        },
+        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
+        "lore": "A little color never hurt anyone"
+      },
+      {
         "title": "Paracord Knife | \u2605 (Vanilla)",
         "url": "https://csgostash.com/skin/1238/Paracord-Knife-Vanilla",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_cord.073b5fa991a256ec2264b1c1c581401631eb51cb.png",
@@ -238,20 +252,6 @@
         "lore": "This is the malbec of weapon design - Booth, Arms Dealer"
       },
       {
-        "title": "Paracord Knife | Case Hardened",
-        "url": "https://csgostash.com/skin/1243/Paracord-Knife-Case-Hardened",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_cord_aq_oiled_light_large.e8657de871b02a874d8dedf49c3a0d548572a2f0.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j4OrzZglRd6dd2j6fErdqg31Cx80RtMWnxdY6SdlI2NQ2ErFW3ku2-hcK5uJXMznAyuHYi-z-DyB9kNyA8/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j4OrzZglRd6dd2j6fErdqg31Cx80RtMWnxdY6SdlI2NQ2ErFW3ku2-hcK5uJXMznAyuHYi-z-DyB9kNyA8/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j5Nr_Yg2Zu5MRjjeyPpNqmi1HsqEE4YWD3d9DEd1JvYVjZq1brkLy81pC9vZ2anSQ3uyAq7WGdwUK1Xp2ykQ/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j5Nr_Yg2Zu5MRjjeyPpNqmi1HsqEE4YWD3d9DEd1JvYVjZq1brkLy81pC9vZ2anSQ3uyAq7WGdwUK1Xp2ykQ/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j8NrrHj1Rd6dd2j6eV8dyiiVLs-RI_Z2H7ctSScQBvMg3RqwW9wrrs18W_6J2dzHNnuyIn-z-DyA5-BJ9v/512fx384f"
-        },
-        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
-        "lore": "A little color never hurt anyone"
-      },
-      {
         "title": "Paracord Knife | Boreal Forest",
         "url": "https://csgostash.com/skin/1245/Paracord-Knife-Boreal-Forest",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_cord_hy_forest_boreal_light_large.0ce7ec5b40e8460bf8036d6e34eb5cface471e74.png",
@@ -266,20 +266,6 @@
         "lore": "The woods can be a dangerous place... never travel alone"
       },
       {
-        "title": "Paracord Knife | Forest DDPAT",
-        "url": "https://csgostash.com/skin/1244/Paracord-Knife-Forest-DDPAT",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_cord_hy_ddpat_light_large.1e22f371cb1b745fe26e8f414f4a8f0f73687e7f.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j4OrzZglRd6dd2j6eQ8N6njgfj-hA-Yjv0IIPDJwQ4NFCG_lC6l-q-jcC86prKz3pk7yd0-z-DyImJvzYd/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j4OrzZglRd6dd2j6eQ8N6njgfj-hA-Yjv0IIPDJwQ4NFCG_lC6l-q-jcC86prKz3pk7yd0-z-DyImJvzYd/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j5Nr_Yg2Zu5MRjjeyP8Yiiilax-kc-NWD2cYGQJFQ9aAqD_ge-wee6gJ64vszIwXJks3Ils2GdwUIz3HbP2Q/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j5Nr_Yg2Zu5MRjjeyP8Yiiilax-kc-NWD2cYGQJFQ9aAqD_ge-wee6gJ64vszIwXJks3Ils2GdwUIz3HbP2Q/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j8NrrHj1Rd6dd2j6fA9tr0ilfjqhJqa236ItSTI1c2YlHT-VTqkOnnhZ7q6pmbySBjuSYm-z-DyHscsUgv/512fx384f"
-        },
-        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
-        "lore": "By the time you're close enough to notice the pixels it's already too late"
-      },
-      {
         "title": "Paracord Knife | Stained",
         "url": "https://csgostash.com/skin/1242/Paracord-Knife-Stained",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_cord_aq_forced_light_large.7d06225b469031d5821bb57461416fe6ebdd05e9.png",
@@ -292,6 +278,20 @@
         },
         "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
         "lore": "If you think it's messy now, wait until you see it under a blacklight"
+      },
+      {
+        "title": "Paracord Knife | Forest DDPAT",
+        "url": "https://csgostash.com/skin/1244/Paracord-Knife-Forest-DDPAT",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_cord_hy_ddpat_light_large.1e22f371cb1b745fe26e8f414f4a8f0f73687e7f.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j4OrzZglRd6dd2j6eQ8N6njgfj-hA-Yjv0IIPDJwQ4NFCG_lC6l-q-jcC86prKz3pk7yd0-z-DyImJvzYd/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j4OrzZglRd6dd2j6eQ8N6njgfj-hA-Yjv0IIPDJwQ4NFCG_lC6l-q-jcC86prKz3pk7yd0-z-DyImJvzYd/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j5Nr_Yg2Zu5MRjjeyP8Yiiilax-kc-NWD2cYGQJFQ9aAqD_ge-wee6gJ64vszIwXJks3Ils2GdwUIz3HbP2Q/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j5Nr_Yg2Zu5MRjjeyP8Yiiilax-kc-NWD2cYGQJFQ9aAqD_ge-wee6gJ64vszIwXJks3Ils2GdwUIz3HbP2Q/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j8NrrHj1Rd6dd2j6fA9tr0ilfjqhJqa236ItSTI1c2YlHT-VTqkOnnhZ7q6pmbySBjuSYm-z-DyHscsUgv/512fx384f"
+        },
+        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "By the time you're close enough to notice the pixels it's already too late"
       },
       {
         "title": "Paracord Knife | Night Stripe",
@@ -348,6 +348,17 @@
         },
         "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
         "lore": "True power is demonstrated with subtle application"
+      },
+      {
+        "title": "Skeleton Knife | Fade",
+        "url": "https://csgostash.com/skin/1213/Skeleton-Knife-Fade",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_skeleton_aa_fade_light_large.0651775fa2d0551359ec96559f9833e28fa07917.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlYG0kfbwNoTdn2xZ_Pp9i_vG8MKl3gHl_ERpNTjxcIaQdwc9ZFGFqVi4xOvm05-0v56cy3o16yAl7H7agVXp1u1uX2yB/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlYG0kfbwNoTdn2xZ_Pp9i_vG8MKl3gHl_ERpNTjxcIaQdwc9ZFGFqVi4xOvm05-0v56cy3o16yAl7H7agVXp1u1uX2yB/512fx384f"
+        },
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training"
       },
       {
         "title": "Skeleton Knife | Slaughter",
@@ -470,6 +481,20 @@
         "lore": "By the time you're close enough to notice the pixels it's already too late"
       },
       {
+        "title": "Skeleton Knife | Boreal Forest",
+        "url": "https://csgostash.com/skin/1219/Skeleton-Knife-Boreal-Forest",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_skeleton_hy_forest_boreal_light_large.f702dc4abc53b6f3f884a78da88178d93b209db4.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0kfjmNqjFqWle-sBwhtbN_Iv9nGu4qgE7NnelI4aXJlU6MAqD_1Lsx7js0560uMzOwSYysigj4neJlhblgxhFOrdrm7XAHmHhmQeA/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0kfjmNqjFqWle-sBwhtbN_Iv9nGu4qgE7NnelI4aXJlU6MAqD_1Lsx7js0560uMzOwSYysigj4neJlhblgxhFOrdrm7XAHmHhmQeA/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0kfjmNqjFqWle-sBwhtbM8Ij8nVmLpxIuNDztJ4STelc9NF7Q-lXrwLrq15e1v5TJn3I1snV05nveyRW31RweOOQ5geveFwv-WKPabA/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0kfjmNqjFqWle-sBwhtbM8Ij8nVmLpxIuNDztJ4STelc9NF7Q-lXrwLrq15e1v5TJn3I1snV05nveyRW31RweOOQ5geveFwv-WKPabA/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0kfjmNqjFqWle-sBwhtbJ8I3jkWu4qgE7Nnf7IoXGIFc5YFHZr1DvkO_p1pa7vJvIzHoxvHIl4CrblhOx0xwabuM6m7XAHuJBvAdR/512fx384f"
+        },
+        "desc": "It has been painted using a forest camouflage hydrographic.",
+        "lore": "The woods can be a dangerous place... never travel alone"
+      },
+      {
         "title": "Skeleton Knife | Scorched",
         "url": "https://csgostash.com/skin/1221/Skeleton-Knife-Scorched",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_skeleton_sp_dapple_light_large.6f270cc94041e24473960f9450ac1b05ef4bc91b.png",
@@ -498,31 +523,6 @@
         "lore": "A predator is a predator, no matter the environment"
       },
       {
-        "title": "Skeleton Knife | Boreal Forest",
-        "url": "https://csgostash.com/skin/1219/Skeleton-Knife-Boreal-Forest",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_skeleton_hy_forest_boreal_light_large.f702dc4abc53b6f3f884a78da88178d93b209db4.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0kfjmNqjFqWle-sBwhtbN_Iv9nGu4qgE7NnelI4aXJlU6MAqD_1Lsx7js0560uMzOwSYysigj4neJlhblgxhFOrdrm7XAHmHhmQeA/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0kfjmNqjFqWle-sBwhtbN_Iv9nGu4qgE7NnelI4aXJlU6MAqD_1Lsx7js0560uMzOwSYysigj4neJlhblgxhFOrdrm7XAHmHhmQeA/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0kfjmNqjFqWle-sBwhtbM8Ij8nVmLpxIuNDztJ4STelc9NF7Q-lXrwLrq15e1v5TJn3I1snV05nveyRW31RweOOQ5geveFwv-WKPabA/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0kfjmNqjFqWle-sBwhtbM8Ij8nVmLpxIuNDztJ4STelc9NF7Q-lXrwLrq15e1v5TJn3I1snV05nveyRW31RweOOQ5geveFwv-WKPabA/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0kfjmNqjFqWle-sBwhtbJ8I3jkWu4qgE7Nnf7IoXGIFc5YFHZr1DvkO_p1pa7vJvIzHoxvHIl4CrblhOx0xwabuM6m7XAHuJBvAdR/512fx384f"
-        },
-        "desc": "It has been painted using a forest camouflage hydrographic.",
-        "lore": "The woods can be a dangerous place... never travel alone"
-      },
-      {
-        "title": "Skeleton Knife | Fade",
-        "url": "https://csgostash.com/skin/1213/Skeleton-Knife-Fade",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_skeleton_aa_fade_light_large.0651775fa2d0551359ec96559f9833e28fa07917.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlYG0kfbwNoTdn2xZ_Pp9i_vG8MKl3gHl_ERpNTjxcIaQdwc9ZFGFqVi4xOvm05-0v56cy3o16yAl7H7agVXp1u1uX2yB/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlYG0kfbwNoTdn2xZ_Pp9i_vG8MKl3gHl_ERpNTjxcIaQdwc9ZFGFqVi4xOvm05-0v56cy3o16yAl7H7agVXp1u1uX2yB/512fx384f"
-        },
-        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
-        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training"
-      },
-      {
         "title": "Survival Knife | Fade",
         "url": "https://csgostash.com/skin/1226/Survival-Knife-Fade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_aa_fade_light_large.92876cf32de94fbd84b9ec16f405afa6858e61b5.png",
@@ -532,18 +532,6 @@
         },
         "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
         "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training"
-      },
-      {
-        "title": "Survival Knife | Slaughter",
-        "url": "https://csgostash.com/skin/1227/Survival-Knife-Slaughter",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_am_zebra_light_large.9d7f3c4d11a4306e6e7802cc7efd3cfdd3e5a157.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJjoWJhfbLP7LWnn9u5MRjjeyPrIiijge3_xdtYjj3J4aTJwBrZlDQ-ALtxru50ZXv6smdyidm6yEn4mGdwUJ5HT1E9w/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJjoWJhfbLP7LWnn9u5MRjjeyPrIiijge3_xdtYjj3J4aTJwBrZlDQ-ALtxru50ZXv6smdyidm6yEn4mGdwUJ5HT1E9w/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJjoWJhfbLPr7Vn35c18lwmO7Eu9z32gzmqBZkajqnIIKcJlJvZl6GqATtwLzq0cfvuc7BnXE3siIntinD30vg6ea05_M/512fx384f"
-        },
-        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
-        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers"
       },
       {
         "title": "Survival Knife | Crimson Web",
@@ -558,6 +546,18 @@
         },
         "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
         "lore": "Be careful where you walk, you never know where the web is spread"
+      },
+      {
+        "title": "Survival Knife | Slaughter",
+        "url": "https://csgostash.com/skin/1227/Survival-Knife-Slaughter",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_am_zebra_light_large.9d7f3c4d11a4306e6e7802cc7efd3cfdd3e5a157.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJjoWJhfbLP7LWnn9u5MRjjeyPrIiijge3_xdtYjj3J4aTJwBrZlDQ-ALtxru50ZXv6smdyidm6yEn4mGdwUJ5HT1E9w/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJjoWJhfbLP7LWnn9u5MRjjeyPrIiijge3_xdtYjj3J4aTJwBrZlDQ-ALtxru50ZXv6smdyidm6yEn4mGdwUJ5HT1E9w/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJjoWJhfbLPr7Vn35c18lwmO7Eu9z32gzmqBZkajqnIIKcJlJvZl6GqATtwLzq0cfvuc7BnXE3siIntinD30vg6ea05_M/512fx384f"
+        },
+        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
+        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers"
       },
       {
         "title": "Survival Knife | \u2605 (Vanilla)",
@@ -771,20 +771,6 @@
         "lore": "Every round is a 1v5"
       },
       {
-        "title": "MP7 | Neon Ply",
-        "url": "https://csgostash.com/skin/1192/MP7-Neon-Ply",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7_replica_light_large.f56c050cb5147918efb6872ce61fda358a684cf5.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJQ6cy6nYOKqPv9NLPFqWdQ-sJ0xO-Uo4-l3QS3qUZtZ276JY7AJFQ4aV_SqQS4wLi71JW5tMzPwXYw7CU8pSGKdmrW7WE/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJQ6cy6nYOKqPv9NLPFqWdQ-sJ0xO-Uo4-l3QS3qUZtZ276JY7AJFQ4aV_SqQS4wLi71JW5tMzPwXYw7CU8pSGKdmrW7WE/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJQ6cy6nYOKqPrxN7LEm1Rd6dd2j6fArY6g3QLgr0tvamH2cY_BJ1M7M1nT8le5yOnm1Jbu78ubnCZm6XQk-z-DyNOsjJgO/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJQ6cy6nYOKqPrxN7LEm1Rd6dd2j6fArY6g3QLgr0tvamH2cY_BJ1M7M1nT8le5yOnm1Jbu78ubnCZm6XQk-z-DyNOsjJgO/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJQ6cy6nYOKqP_xMq3IqWdQ-sJ0xOiW8d3xjlG3_EpqNWmhJNPAdQU3aVnZ_lfqlea8hJ-_7pjMzHtguXM8pSGKCP4duUI/512fx384f"
-        },
-        "desc": "It has been laminated and filled with every neon color imaginable.",
-        "lore": "\"Roy G. Biv? Never heard of 'em.\""
-      },
-      {
         "title": "P2000 | Obsidian",
         "url": "https://csgostash.com/skin/1193/P2000-Obsidian",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_obsidian_light_large.0a6ad31fe8f70401ffdd377c289309d0256282c6.png",
@@ -797,6 +783,20 @@
         },
         "desc": "It has been custom painted to look like it was submerged in lava and is solidifying into obsidian as it cools.",
         "lore": "Giving the term \"glass cannon\" a whole new meaning"
+      },
+      {
+        "title": "MP7 | Neon Ply",
+        "url": "https://csgostash.com/skin/1192/MP7-Neon-Ply",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7_replica_light_large.f56c050cb5147918efb6872ce61fda358a684cf5.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJQ6cy6nYOKqPv9NLPFqWdQ-sJ0xO-Uo4-l3QS3qUZtZ276JY7AJFQ4aV_SqQS4wLi71JW5tMzPwXYw7CU8pSGKdmrW7WE/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJQ6cy6nYOKqPv9NLPFqWdQ-sJ0xO-Uo4-l3QS3qUZtZ276JY7AJFQ4aV_SqQS4wLi71JW5tMzPwXYw7CU8pSGKdmrW7WE/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJQ6cy6nYOKqPrxN7LEm1Rd6dd2j6fArY6g3QLgr0tvamH2cY_BJ1M7M1nT8le5yOnm1Jbu78ubnCZm6XQk-z-DyNOsjJgO/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJQ6cy6nYOKqPrxN7LEm1Rd6dd2j6fArY6g3QLgr0tvamH2cY_BJ1M7M1nT8le5yOnm1Jbu78ubnCZm6XQk-z-DyNOsjJgO/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJQ6cy6nYOKqP_xMq3IqWdQ-sJ0xOiW8d3xjlG3_EpqNWmhJNPAdQU3aVnZ_lfqlea8hJ-_7pjMzHtguXM8pSGKCP4duUI/512fx384f"
+        },
+        "desc": "It has been laminated and filled with every neon color imaginable.",
+        "lore": "\"Roy G. Biv? Never heard of 'em.\""
       },
       {
         "title": "PP-Bizon | Embargo",
@@ -870,18 +870,18 @@
         "lore": "Giddy up!"
       },
       {
-        "title": "M249 | Warbird",
-        "url": "https://csgostash.com/skin/1188/M249-Warbird",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_gs_m249_warbird_veteran_light_large.29a2ee22222b037e6825fb0c230aa799718e4115.png",
+        "title": "Nova | Plume",
+        "url": "https://csgostash.com/skin/1183/Nova-Plume",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_featherswing_light_large.49e81792746dc7844ff18c45fb23030cd8b66d59.png",
         "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhnwMzFI2kb08u3hoKChfPLJb7Fk3lQ5vp9g-7J4bP5iUazrl1uajjxcdOXcAQ8YwrQ-Vbrx-btgMDuvM7LynIy6ycr7Hjcl0CzgBlJcKUx0jSSNtWg/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhnwMzFI2kb08u3hoKChfPLJb7Fk3lQ5vp9g-7J4bP5iUazrl1uajjxcdOXcAQ8YwrQ-Vbrx-btgMDuvM7LynIy6ycr7Hjcl0CzgBlJcKUx0jSSNtWg/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhnwMzFI2kb08u3hoKChfPLJb7Fk3lQ5vp8j-3I4IHKhFWmrBZyMj37JY_BJFI5aAnUr1a2ybu5g5O-u8zPyXAxsihwtnmOyRTmgRgab_sv26KMvaW1kg/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhnwMzFI2kb08u3hoKChfPLJb7Fk3lQ5vp8j-3I4IHKhFWmrBZyMj37JY_BJFI5aAnUr1a2ybu5g5O-u8zPyXAxsihwtnmOyRTmgRgab_sv26KMvaW1kg/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhnwMzFI2kb08u3hoKChfPLJb7Fk3lQ5vp5j-jX7LP5iUazrl1uMmCicY-ccgBrZ1_Trli4yea8jcW_vpTLzXJh7nQlt3aJy0DihxFPcKUx0u8eAnDb/512fx384f"
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09qzlZSDkuXnJLLfkVRd4cJ5ntbN9J7yjRrg8hZkYm76JoGRdFJtZlDU_gfowOa8gZPq7p_KyXFj6XQqt3nbyxC-n1gSOdl4EIgx/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09qzlZSDkuXnJLLfkVRd4cJ5ntbN9J7yjRrg8hZkYm76JoGRdFJtZlDU_gfowOa8gZPq7p_KyXFj6XQqt3nbyxC-n1gSOdl4EIgx/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09qzlZSDkuXnJLLfkVRc7cF4n-T--Y3nj1H6_xJuN2_zJYGdd1A2aQ2C-Vbox73ngMO9vJ7IwSBi7yMi4Xjan0CxiQYMMLJK_rQoPw/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09qzlZSDkuXnJLLfkVRc7cF4n-T--Y3nj1H6_xJuN2_zJYGdd1A2aQ2C-Vbox73ngMO9vJ7IwSBi7yMi4Xjan0CxiQYMMLJK_rQoPw/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09qzlZSDkuXnJLLfkVRZ7cRnk9bN9J7yjRqx-UA_YzyhLITEcQRqYV-F_ge7kLvr0MLo6pjKyCZl63Rx4nqPzhSwn1gSOVRfcjzU/512fx384f"
         },
-        "desc": "Originally blue with a yellow heat shield, age and use have taken their toll on its appearance.",
-        "lore": "This old bird deserves a rest"
+        "desc": "Custom painted brown feathers overlay a wooden receiver and stock.",
+        "lore": "This oughta ruffle some feathers"
       },
       {
         "title": "G3SG1 | Black Sand",
@@ -898,18 +898,18 @@
         "lore": "The Coalition Taskforce was winning, so Mikah turned to a more... aggressive approach"
       },
       {
-        "title": "Nova | Plume",
-        "url": "https://csgostash.com/skin/1183/Nova-Plume",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_featherswing_light_large.49e81792746dc7844ff18c45fb23030cd8b66d59.png",
+        "title": "M249 | Warbird",
+        "url": "https://csgostash.com/skin/1188/M249-Warbird",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_gs_m249_warbird_veteran_light_large.29a2ee22222b037e6825fb0c230aa799718e4115.png",
         "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09qzlZSDkuXnJLLfkVRd4cJ5ntbN9J7yjRrg8hZkYm76JoGRdFJtZlDU_gfowOa8gZPq7p_KyXFj6XQqt3nbyxC-n1gSOdl4EIgx/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09qzlZSDkuXnJLLfkVRd4cJ5ntbN9J7yjRrg8hZkYm76JoGRdFJtZlDU_gfowOa8gZPq7p_KyXFj6XQqt3nbyxC-n1gSOdl4EIgx/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09qzlZSDkuXnJLLfkVRc7cF4n-T--Y3nj1H6_xJuN2_zJYGdd1A2aQ2C-Vbox73ngMO9vJ7IwSBi7yMi4Xjan0CxiQYMMLJK_rQoPw/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09qzlZSDkuXnJLLfkVRc7cF4n-T--Y3nj1H6_xJuN2_zJYGdd1A2aQ2C-Vbox73ngMO9vJ7IwSBi7yMi4Xjan0CxiQYMMLJK_rQoPw/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09qzlZSDkuXnJLLfkVRZ7cRnk9bN9J7yjRqx-UA_YzyhLITEcQRqYV-F_ge7kLvr0MLo6pjKyCZl63Rx4nqPzhSwn1gSOVRfcjzU/512fx384f"
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhnwMzFI2kb08u3hoKChfPLJb7Fk3lQ5vp9g-7J4bP5iUazrl1uajjxcdOXcAQ8YwrQ-Vbrx-btgMDuvM7LynIy6ycr7Hjcl0CzgBlJcKUx0jSSNtWg/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhnwMzFI2kb08u3hoKChfPLJb7Fk3lQ5vp9g-7J4bP5iUazrl1uajjxcdOXcAQ8YwrQ-Vbrx-btgMDuvM7LynIy6ycr7Hjcl0CzgBlJcKUx0jSSNtWg/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhnwMzFI2kb08u3hoKChfPLJb7Fk3lQ5vp8j-3I4IHKhFWmrBZyMj37JY_BJFI5aAnUr1a2ybu5g5O-u8zPyXAxsihwtnmOyRTmgRgab_sv26KMvaW1kg/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhnwMzFI2kb08u3hoKChfPLJb7Fk3lQ5vp8j-3I4IHKhFWmrBZyMj37JY_BJFI5aAnUr1a2ybu5g5O-u8zPyXAxsihwtnmOyRTmgRgab_sv26KMvaW1kg/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhnwMzFI2kb08u3hoKChfPLJb7Fk3lQ5vp5j-jX7LP5iUazrl1uMmCicY-ccgBrZ1_Trli4yea8jcW_vpTLzXJh7nQlt3aJy0DihxFPcKUx0u8eAnDb/512fx384f"
         },
-        "desc": "Custom painted brown feathers overlay a wooden receiver and stock.",
-        "lore": "This oughta ruffle some feathers"
+        "desc": "Originally blue with a yellow heat shield, age and use have taken their toll on its appearance.",
+        "lore": "This old bird deserves a rest"
       }
     ]
   }

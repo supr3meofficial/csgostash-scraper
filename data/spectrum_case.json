@@ -220,17 +220,6 @@
         "lore": "Some people don't need to hide how dirty their deeds are"
       },
       {
-        "title": "Huntsman Knife | Marble Fade",
-        "url": "https://csgostash.com/skin/870/Huntsman-Knife-Marble-Fade",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_am_marble_fade_light_large.3efc76764c1aa62477fee4b4df1a380b115f5103.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_ZjKhFWmrBZyYDyld4GTdQA6MlmBq1e8xeno08PpuM_NnSRi6yMq5S3cnhDhhBlMbfsv26Jdi7qC2w/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_ZjKhFWmrBZyYDyld4GTdQA6MlmBq1e8xeno08PpuM_NnSRi6yMq5S3cnhDhhBlMbfsv26Jdi7qC2w/512fx384f"
-        },
-        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.",
-        "lore": "The blade is made of many colors, but soon it all looks red"
-      },
-      {
         "title": "Huntsman Knife | Tiger Tooth",
         "url": "https://csgostash.com/skin/871/Huntsman-Knife-Tiger-Tooth",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_an_tiger_orange_light_large.961c75c287d5cba0859ef13ed8eb638d707b1129.png",
@@ -242,12 +231,23 @@
         "lore": "Like the tiger it is rare... like the tiger it is deadly..."
       },
       {
+        "title": "Huntsman Knife | Marble Fade",
+        "url": "https://csgostash.com/skin/870/Huntsman-Knife-Marble-Fade",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_am_marble_fade_light_large.3efc76764c1aa62477fee4b4df1a380b115f5103.png",
+        "possible_wears": {
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_ZjKhFWmrBZyYDyld4GTdQA6MlmBq1e8xeno08PpuM_NnSRi6yMq5S3cnhDhhBlMbfsv26Jdi7qC2w/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_ZjKhFWmrBZyYDyld4GTdQA6MlmBq1e8xeno08PpuM_NnSRi6yMq5S3cnhDhhBlMbfsv26Jdi7qC2w/512fx384f"
+        },
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.",
+        "lore": "The blade is made of many colors, but soon it all looks red"
+      },
+      {
         "title": "Huntsman Knife | Doppler",
         "url": "https://csgostash.com/skin/869/Huntsman-Knife-Doppler",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_am_doppler_phase1_light_large.07b42e9787a77143df3cafe19202ba9ba7d90706.png",
         "possible_wears": {
           "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20k_jkI7fUhFRB4MRij7r--YXygECLpxIuNDztdoCdJAA6ZF7S_FC4x73mjMPo6p7JzSA163QlsX6LlxC2gxlFbeY9heveFwtHANm4SA/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20k_jkI7fUhFRB4MRij73--YXygECLpxIuNDztJNWSclQ2MwrQ-lS6wr_mgJO97smcwCBjuicksCuLnRXm000aaLdq0-veFwtyXSHo8w/512fx384f"
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20k_jkI7fUhFRB4MRij7j--YXygECLpxIuNDztJIHHdgRraF_Y_QC5xu_rhsLqv86YnydisyIi5y2MlkfmhkxFbuJvg-veFwtqccRzyw/512fx384f"
         },
         "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
         "lore": "Getting lost in its color can prove fatal"
@@ -296,7 +296,7 @@
         "url": "https://csgostash.com/skin/875/Shadow-Daggers-Doppler",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_am_doppler_phase1_light_large.5414da84cceba08b21dcdbb35b77f43c358921ea.png",
         "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eOym5Cbm_LmDKvZl3hUvPp9g-7J4bP5iUazrl1pa2GmdobBJAY5YVvTqFG6le_v08Dvu87AyHU1uyRw5Snelka_iR4fcKUx0sJH3gNu/512fx384f",
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eOym5Cbm_LmDKvZl3hUufp9g-7J4bP5iUazrl1pZ2j3cNeddlVtNAqB-lnsw--71sLu7p7Mm3Vk7CQhtnzYlxy1gE0dcKUx0oRKvnRX/512fx384f",
           "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eOym5Cbm_LmDKvZl3hUu_p9g-7J4bP5iUazrl06NWihJY6WdFA3MFmF_VW8wu27hMfvuJ6fn3Q37yIl43neyRfkgh0acKUx0jswQogI/512fx384f"
         },
         "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
@@ -466,18 +466,18 @@
         "lore": "Conservation is not a priority"
       },
       {
-        "title": "XM1014 | Seasons",
-        "url": "https://csgostash.com/skin/844/XM1014-Seasons",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_aq_xm_leaf_fade_light_large.f753b1b710a8023e299d1918ca150b42483ca1cd.png",
+        "title": "Galil AR | Crimson Tsunami",
+        "url": "https://csgostash.com/skin/840/Galil-AR-Crimson-Tsunami",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_sp_galil_wave_light_large.0a4761ebb660428a77a622885054e1c44cf03959.png",
         "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVP09CzlYa0kfbwNoTdn2xZ_Pp9i_vG8MLz3wHnqUI-ZGjzdY6VcAVrY1HZrlC3wOa81Je5vM_Ny3ZruXNz5CyJgVXp1kEBvvfY/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVP09CzlYa0kfbwNoTdn2xZ_Pp9i_vG8MLz3wHnqUI-ZGjzdY6VcAVrY1HZrlC3wOa81Je5vM_Ny3ZruXNz5CyJgVXp1kEBvvfY/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVP09CzlYa0kfbwNoTck29Y_chOhujT8om72QLj-UZvZG-hLIHAcAJoZwnS-lK6kujnh5K875TLz3YysnF24S7ayQv3308WTGJTBg/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVP09CzlYa0kfbwNoTck29Y_chOhujT8om72QLj-UZvZG-hLIHAcAJoZwnS-lK6kujnh5K875TLz3YysnF24S7ayQv3308WTGJTBg/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVP09CzlYa0kfbwNoTZk2pH8fp9i_vG8MKj3Azg_0ttMj2nJI-RJlI4Nw2C-gW2w-e8gsDutZ-dz3dmunEk5X2LgVXp1saES9aZ/512fx384f"
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLfYkWNF18lwmO7Eu9z03APi-hY-MW_1JIKXelc5ZgnW-FO2yevvgJLpvc7NzSE1uiMr4HbD30vg7rDTf40/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLfYkWNF18lwmO7Eu9z03APi-hY-MW_1JIKXelc5ZgnW-FO2yevvgJLpvc7NzSE1uiMr4HbD30vg7rDTf40/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLbUkmJE5fp9i_vG8MKm3AXl-UFvNWjxdY_HIAM3YgmE8lXqye_qjZ-1vcjAyCNn7HZw7XyIgVXp1vgj4uFS/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLbUkmJE5fp9i_vG8MKm3AXl-UFvNWjxdY_HIAM3YgmE8lXqye_qjZ-1vcjAyCNn7HZw7XyIgVXp1vgj4uFS/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLPUl31I18lwmO7Eu46hjQ3h-hJrYj2mIo7AdQM-YFzU_Fm2lO-8jcLvucnLyCFivyQn4nnD30vgVjgVk-0/512fx384f"
         },
-        "desc": "It has been hand painted with a randomized multicolored leaf pattern.",
-        "lore": "Spring, summer, fall, and rarely winter"
+        "desc": "A spray-painted, blue wave pattern sits atop a maroon base.",
+        "lore": "Westward breaks"
       },
       {
         "title": "MAC-10 | Last Dive",
@@ -494,18 +494,18 @@
         "lore": "There's beauty in chaos"
       },
       {
-        "title": "Galil AR | Crimson Tsunami",
-        "url": "https://csgostash.com/skin/840/Galil-AR-Crimson-Tsunami",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_sp_galil_wave_light_large.0a4761ebb660428a77a622885054e1c44cf03959.png",
+        "title": "XM1014 | Seasons",
+        "url": "https://csgostash.com/skin/844/XM1014-Seasons",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_aq_xm_leaf_fade_light_large.f753b1b710a8023e299d1918ca150b42483ca1cd.png",
         "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLfYkWNF18lwmO7Eu9z03APi-hY-MW_1JIKXelc5ZgnW-FO2yevvgJLpvc7NzSE1uiMr4HbD30vg7rDTf40/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLfYkWNF18lwmO7Eu9z03APi-hY-MW_1JIKXelc5ZgnW-FO2yevvgJLpvc7NzSE1uiMr4HbD30vg7rDTf40/512fx384f",
-          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLbUkmJE5fp9i_vG8MKm3AXl-UFvNWjxdY_HIAM3YgmE8lXqye_qjZ-1vcjAyCNn7HZw7XyIgVXp1vgj4uFS/512fx384f",
-          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLbUkmJE5fp9i_vG8MKm3AXl-UFvNWjxdY_HIAM3YgmE8lXqye_qjZ-1vcjAyCNn7HZw7XyIgVXp1vgj4uFS/512fx384f",
-          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLPUl31I18lwmO7Eu46hjQ3h-hJrYj2mIo7AdQM-YFzU_Fm2lO-8jcLvucnLyCFivyQn4nnD30vgVjgVk-0/512fx384f"
+          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVP09CzlYa0kfbwNoTdn2xZ_Pp9i_vG8MLz3wHnqUI-ZGjzdY6VcAVrY1HZrlC3wOa81Je5vM_Ny3ZruXNz5CyJgVXp1kEBvvfY/512fx384f",
+          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVP09CzlYa0kfbwNoTdn2xZ_Pp9i_vG8MLz3wHnqUI-ZGjzdY6VcAVrY1HZrlC3wOa81Je5vM_Ny3ZruXNz5CyJgVXp1kEBvvfY/512fx384f",
+          "ft": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVP09CzlYa0kfbwNoTck29Y_chOhujT8om72QLj-UZvZG-hLIHAcAJoZwnS-lK6kujnh5K875TLz3YysnF24S7ayQv3308WTGJTBg/512fx384f",
+          "ww": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVP09CzlYa0kfbwNoTck29Y_chOhujT8om72QLj-UZvZG-hLIHAcAJoZwnS-lK6kujnh5K875TLz3YysnF24S7ayQv3308WTGJTBg/512fx384f",
+          "bs": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVP09CzlYa0kfbwNoTZk2pH8fp9i_vG8MKj3Azg_0ttMj2nJI-RJlI4Nw2C-gW2w-e8gsDutZ-dz3dmunEk5X2LgVXp1saES9aZ/512fx384f"
         },
-        "desc": "A spray-painted, blue wave pattern sits atop a maroon base.",
-        "lore": "Westward breaks"
+        "desc": "It has been hand painted with a randomized multicolored leaf pattern.",
+        "lore": "Spring, summer, fall, and rarely winter"
       }
     ],
     "Mil-Spec Skins": [
