@@ -1,299 +1,161 @@
-import re
-import requests
-from bs4 import BeautifulSoup
-import json
-import time
-import click
+# -*- coding: utf-8 -*-
+
+"""
+MIT License
+
+Copyright (c) 2020 supr3me
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+"""
+
 import os
+import pickle
+import json
 
-class ItemHandler:
+from csgostash_scraper.modules.objects.souvenirpackage import SouvenirPackage
+from csgostash_scraper.modules.objectfactory import CollectionFactory, ContainerFactory
+from csgostash_scraper.modules.scraper import RetrieveCollection, RetrieveCase, RetrieveSouvenirPackage
 
-    def _get_skin_title(self, page_url):
-        """Returns skin title"""
-        # Parse page
-        page = PageHandler().get_parsed_page(page_url)
-        # Extract title from meta
-        title = page.find("meta", property="og:title")
-        title = title['content'].split(' - CS:GO Stash')[0]
-        # Return
-        return title
+main_dir = os.getcwd()
 
-    def _get_skin_url(self, page_context):
-        """Returns skin URL"""
-        try:
-            skin_url = page_context.find_all(href=re.compile('https://csgostash.com/skin/'))
-            skin_url = str(skin_url).split('">')[0].split('"')[1]
-        except IndexError or TypeError:
-            skin_url = page_context.h3
-            skin_url = skin_url.a['href']
-        # Return
-        return skin_url
 
-    def _get_skin_image_url(self, page_url):
-        """Returns skin image url"""
-        # Parse page
-        page = PageHandler().get_parsed_page(page_url)
-        # Extract image from meta
-        image_url = page.find("meta", property="og:image")
-        image_url = image_url['content']
-        # Return
-        return image_url
+def root_path():
+    return os.path.abspath(main_dir)
 
-    def _get_skin_collection(self, page_url):
-        # Parse page
-        page = PageHandler().get_parsed_page(page_url)
-        # Get case (or collection) name(s)
-        collections = []
-        collection_p = page.find_all("p", {"class": "collection-text-label"})
-        for collection in collection_p:
-            collections.append(collection.text)
-        return collections
 
-    def _get_skin_rarity(self, page_url):
-        """Returns skin rarity"""
-        # Parse page
-        page = PageHandler().get_parsed_page(page_url)
-        # Isolate elements related to rarity
-        div = page.find("div", {"class": "well result-box nomargin"})
-        rarity = div.find("p", {"class": "nomargin"})
-        rarity = rarity.text
-        # Return
-        return rarity
+data_path = os.path.join(root_path(), 'data')
 
-    def _get_skin_description_and_lore(self, page_url):
-        """Returns skin description and lore"""
-        possible_wears = []
-        # Parse page
-        page = PageHandler().get_parsed_page(page_url)
-        page_paragraphs = page.find_all("p")
-        # Set default values
-        description = "This item has no description"
-        lore = "This item has no lore"
-        # Replace them if possible
-        for paragraph in page_paragraphs:
-            if paragraph.strong != None:
-                if 'Description' in paragraph.strong.text:
-                    description = paragraph.text
-                    description = description.split(': ')[1]
-                elif 'Flavor Text' in paragraph.strong.text:
-                    lore = paragraph.text
-                    lore = lore.split(': ')[1]
-        # Return
-        return description,lore
 
-    def _get_skin_wears(self, page_url):
-        """Returns skin possible wears and their preview images"""
-        possible_wears = []
-        # Parse page
-        page = PageHandler().get_parsed_page(page_url)
-        # Isolate elements related to the skin wear
-        div = page.find_all("div", {"class": "marker-value cursor-default"})
-        # If skin has no wear, mark it as Vanilla
-        is_vanilla = False
-        try:
-            min_wear = div[0].text
-            max_wear = div[1].text
-        except IndexError:
-            is_vanilla = True
+def filename(name):
+    name_replacements = {'II': '2',
+                         ':': '',
+                         ' ': '_'}
 
-        wear_img = []
-        for url in page.find_all("a"):
-            if url.get('data-hoverimg') != None:
-                wear_img.append(url.get('data-hoverimg'))
+    for i in name_replacements:
+        name = name.replace(i, name_replacements[i])
 
-        if len(wear_img) == 0: # Vanilla skin, get default skin image
-            wear_img.append(self._get_skin_image_url(page_url))
+    return name.lower()
 
-        # Define possible wears
-        if is_vanilla:
-            possible_wears.append("vanilla")
+
+def fmt_dict(container):
+
+    rare = []
+    covert = []
+    classified = []
+    restricted = []
+    milspec = []
+    industrial = []
+    consumer = []
+
+    for item in container:
+        itemdict = {"name": item.name,
+                    "desc": item.description,
+                    "lore": item.lore,
+                    "can_be_souvenir": item.can_be_souvenir,
+                    "can_be_stattrak": item.can_be_stattrak,
+                    "wears": item.wears}
+
+        if "★" in item.name:
+            rare.append(itemdict)
         else:
-            if float(min_wear) < 0.07 and float(max_wear) > 0.00:
-                possible_wears.append("fn")
-            if float(min_wear) < 0.15 and float(max_wear) > 0.07:
-                possible_wears.append("mw")
-            if float(min_wear) < 0.38 and float(max_wear) > 0.15:
-                possible_wears.append("ft")
-            if float(min_wear) < 0.45 and float(max_wear) > 0.38:
-                possible_wears.append("ww")
-            if float(min_wear) < 1 and float(max_wear) > 0.45:
-                possible_wears.append("bs")
-        # Zip lists
-        possible_wears = dict(zip(possible_wears, wear_img))
-        # Return
-        return possible_wears
+            rar = {"Extraordinary": rare,
+                   "Covert": covert,
+                   "Classified": classified,
+                   "Restricted": restricted,
+                   "Mil-Spec": milspec,
+                   "Industrial": industrial,
+                   "Consumer": consumer}
 
-    def _get_skin_details(self, page_context):
-        """Returns every skin detail"""
-        # Set variables that need page context
-        skin_url = self._get_skin_url(page_context)
-        # Set variables that need skin url
-        rarity = self._get_skin_rarity(skin_url)
-        image = self._get_skin_image_url(skin_url)
-        title = self._get_skin_title(skin_url)
-        possible_wears = self._get_skin_wears(skin_url)
-        desc,lore = self._get_skin_description_and_lore(skin_url)
-        collection = self._get_skin_collection(skin_url)
-        return rarity,skin_url,image,title,possible_wears,desc,lore,collection
+            rar[item.rarity].append(itemdict)
 
-    def _get_special_items(self, page_url):
-        """Retrieves all rare special items"""
-        special_items = {}
-        item_frames = PageHandler().get_item_frames(page_url)
-        total_items = len(item_frames)
-        i=0
-        # Get each item individually
-        for frame in item_frames:
-            i+=1
-            if i == 1:
-                continue
-            # Set skin details
-            rarity,skin_url,image,title,possible_wears,desc,lore,collection = self._get_skin_details(frame)
-            skin_details = dict(title=title,url=skin_url,image=image,possible_wears=possible_wears,desc=desc,lore=lore)
-            special_items[title] = skin_details
-            print(f'[+] [{i-1}/{total_items-1}] {title}')
-        return special_items
+    content = {"Rare Special Items": rare,
+               "Covert Skins": covert,
+               "Classified Skins": classified,
+               "Restricted Skins": restricted,
+               "Mil-Spec Skins": milspec,
+               "Industrial Grade Skins": industrial,
+               "Consumer Grade Skins": consumer}
 
-class CaseDataHandler:
+    fmt_dict = {"name": container.name,
+                "image_url": container.icon,
+                "content": content}
 
-    def _get_containers_case_content(self, page_url, case):
-        """Returns entire case contents"""
-        XRAY_PACKAGE_PAGE = 'https://csgostash.com/case/292/X-Ray-P250-Package'
-        case_content = {
-        "Rare Special Items": [],
-        "Covert Skins" : [],
-        "Classified Skins" : [],
-        "Restricted Skins" : [],
-        "Mil-Spec Skins" : []
-        }
-        item_frames = PageHandler().get_item_frames(page_url)
-        # Get each skin individually
-        total_skins = len(item_frames)
-        i=0
-        for frame in item_frames:
-            i+=1
-            if i == 1 and page_url != XRAY_PACKAGE_PAGE: # Special Items page frame
-                page_url = frame.a['href']
-                print('[=] Rare Special Items')
-                special_items = ItemHandler()._get_special_items(page_url)
-                for special_item in special_items:
-                    case_content['Rare Special Items'].append(special_items[special_item])
-                print('[=] Weapon Skins')
-                continue
-            # Set skin details
-            rarity,skin_url,image,title,possible_wears,desc,lore,collection = ItemHandler()._get_skin_details(frame)
-            skin_details = dict(title=title,url=skin_url,image=image,possible_wears=possible_wears,desc=desc,lore=lore)
-            # Add to case_content separated by rarity
-            print(f'[+] [{i-1}/{total_skins-1}] {title}')
-            if 'Covert' in rarity:
-                case_content['Covert Skins'].append(skin_details)
-            elif 'Classified' in rarity:
-                case_content['Classified Skins'].append(skin_details)
-            elif 'Restricted' in rarity:
-                case_content['Restricted Skins'].append(skin_details)
-            elif 'Mil-Spec' in rarity:
-                case_content['Mil-Spec Skins'].append(skin_details)
+    return fmt_dict
 
-        return case_content
 
-    def _get_containers_case_(self):
-        """Retrieves all the cases available and their info"""
-        PAGE_CASES = 'https://csgostash.com/containers/skin-cases'
-        csgo_cases = {}
-        item_frames = PageHandler().get_item_frames(PAGE_CASES)
-        # Get each case individually
-        for frame in item_frames:
-            title = frame.h4.text
-            url = frame.a['href']
-            image = frame.img['src']
-            csgo_cases[title] = dict(url=url, image_url=image)
+def save_data(*, obj='', save_to='', overwrite=False):
+    """Retrieves data and saves it as a pickle and json"""
 
-        return csgo_cases
+    # Set file save location
+    object_retrieve = {
+        "collections": RetrieveCollection,
+        "cases": RetrieveCase,
+        "souvenir_packages": RetrieveSouvenirPackage
+    }
 
-    def add_cases(self, method, indent):
-        """Adds cases to the database"""
-        cases = self._get_containers_case_()
-        total_cases = len(cases)
-        i=0
-        print('\n[*] Retrieving cases:')
-        for case in cases:
-            i+=1
-            print(f'\n[{i}/{total_cases}] Adding {case} contents:\n')
-            content = self._get_containers_case_content(cases[case]['url'], case)
-            cases[case]['content'] = content
-            time.sleep(1) # Sleep to prevent overload
-        # Dump data
-        if method == 1:
-            with open('output.json', 'w') as fp:
-                json.dump(cases, fp, indent=indent)
-                print(f'Wrote to file: {fp.name}')
-        elif method == 2:
-            for case in cases:
-                filename = str(case).lower().replace(" ","_")
-                with open(f'{filename}.json', 'w') as fp:
-                    json.dump(cases[case], fp, indent=indent)
-                    print(f'Wrote to file: {fp.name}')
-        elif method == 3:
-            with open('output.json', 'w') as fp:
-                json.dump(cases, fp, indent=indent)
-                print(f'Wrote to file: {fp.name}')
-            for case in cases:
-                filename = str(case).lower().replace(" ","_")
-                filename = filename.replace(":","")
-                with open(f'{filename}.json', 'w') as fp:
-                    json.dump(cases[case], fp, indent=indent)
-                    print(f'Wrote to file: {fp.name}')
-class PageHandler:
+    object_factory = {
+        "collections": CollectionFactory.create_collection,
+        "cases": ContainerFactory.create_case,
+        "souvenir_packages": ContainerFactory.create_souvenir_package
+    }
 
-    def get_parsed_page(self, url):
-        headers = {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-        }
+    object_retrieve = object_retrieve[obj]
+    object_factory = object_factory[obj]
 
-        return BeautifulSoup(requests.get(url, headers=headers).text, "lxml")
+    if save_to == '':
+        save_to = obj
+        # Set CWD to root path
+        os.chdir(root_path())
+        os.chdir(os.path.join(data_path, save_to))
+    for url in object_retrieve.get_all_urls():
+        # Retrieve title for filename and overwrite checks
+        _ = object_retrieve._from_page_url(url)
+        fname = filename(_.get_title())
+        del _
 
-    def get_item_frames(self, url):
-        """Retrieves item frame contents"""
-        page = PageHandler().get_parsed_page(url)
-        _item_frames =  page.find_all("div", {"class": "col-lg-4 col-md-6 col-widen text-center"})
-        item_frames = []
-        for item_frame in _item_frames:
-            item_frames.append(item_frame)
-        return item_frames
+        for ext in ('pickle', 'json'):
+            if (overwrite) or (not os.path.isfile(f'{ext}/{fname}.{ext}')):
+                # Create object
+                if obj != 'souvenir_packages':
+                    container = object_factory(url)
+                else:
+                    container = object_factory(
+                        url, path=f"{data_path}/collections/pickle/")
+                # Dump
+                if ext == 'pickle':
+                    with open(f'{ext}/{fname}.{ext}', 'wb') as fp:
+                        pickle.dump(container, fp)
+                elif ext == 'json':
+                    with open(f'{ext}/{fname}.{ext}', 'w') as fp:
+                        if type(container) == SouvenirPackage and container.has_multiple_collections:
+                            fmtdict = {}
+                            for col in container.collection:
+                                fmtdict[col.name] = fmt_dict(col)
+                        else:
+                            fmtdict = fmt_dict(container)
+                        json.dump(fmtdict, fp, indent=2,
+                                  ensure_ascii=False)
 
-    def get_dropdown_items(self, tree):
-        """Retrieves dropdown menu item links"""
-        page = PageHandler().get_parsed_page('https://csgostash.com/')
-        _dropdown_items = page.find_all("li", {"class": "dropdown"})
-        dropdown_items = []
-        for item in _dropdown_items:
-            if item.a.text == tree:
-                for link in item.find_all("a"):
-                    dropdown_items.append(link.get('href'))
-        dropdown_items.pop(0) # Delete '#' entry
-        return dropdown_items
 
-@click.command()
-@click.option('--method', default=1, type=click.IntRange(1,3), help="Sets the data saving method")
-@click.option('--indent', default=2, help="Sets the JSON indentation level")
-def dump_data(method, indent):
-    """supr3me's csgostash-scraper
-    Command-line syntax: python3 main.py --method 1 --indent 2
-    Available methods:
-    1 - Save in a single file
-    2 - Save in separate files
-    3 - Save in single & separate files
-    """
+to_be_scraped = ("collections",
+                 "cases",
+                 "souvenir_packages")
 
-    # Save output onto data folder, create one if it doesn't exist
-    if os.path.exists('data'):
-        os.chdir('data')
-    else:
-        os.mkdir('data')
-        os.chdir('data')
-
-    # Save Cases
-    CaseDataHandler().add_cases(method, indent)
-
-if __name__ == '__main__':
-    dump_data()
+for obj in to_be_scraped:
+    save_data(obj=obj, overwrite=True)
