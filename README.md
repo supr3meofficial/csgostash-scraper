@@ -2,6 +2,10 @@
 # csgostash-scraper
 Scrapes skin data from [CSGOStash](https://csgostash.com/) and saves it in JSON format.
 
+How does it work?
+--
+Data is scraped from CSGOStash and transformed into specific objects, which are then saved onto pickles for easy loading onto projects (like my [Neon's Case Opening feature](https://github.com/supr3meofficial/neon/blob/V3-develop/cogs/caseopening.py))
+
 Installation
 --
 1. **Install Python 3**
@@ -57,4 +61,4 @@ Done!
 
 License
 --
-Released under the [GNU](LICENSE) license.
+Released under the [MIT](LICENSE) license.

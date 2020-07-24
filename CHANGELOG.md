@@ -1,6 +1,16 @@
 
 # CHANGELOG
-## v0.2.0 -30/05/20
+## v0.4.0 - 23/07/20
+* Added collections
+* New json format
+
+## v0.3.0 - 10/06/20
+* Restructured the project
+* Fully rewritten to be Object Oriented
+* Added Souvenir Packages
+* Contents are saved as pickles and json
+
+## v0.2.0 - 30/05/20
 * Rewrote the entire script
 * Updated scraper to match new website design
 * Added rare special items to case data
