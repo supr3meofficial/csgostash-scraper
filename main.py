@@ -134,28 +134,28 @@ def save_data(*, obj='', save_to='', overwrite=False):
         fname = filename(_.get_title())
         del _
 
+        if (overwrite) or (not os.path.isfile(f'{ext}/{fname}.{ext}')):
+            # Create object
+            if obj != 'souvenir_packages':
+                container = object_factory(url)
+            else:
+                container = object_factory(
+                    url, path=f"{data_path}/collections/pickle/")
         for ext in ('pickle', 'json'):
-            if (overwrite) or (not os.path.isfile(f'{ext}/{fname}.{ext}')):
-                # Create object
-                if obj != 'souvenir_packages':
-                    container = object_factory(url)
-                else:
-                    container = object_factory(
-                        url, path=f"{data_path}/collections/pickle/")
-                # Dump
-                if ext == 'pickle':
-                    with open(f'{ext}/{fname}.{ext}', 'wb') as fp:
-                        pickle.dump(container, fp)
-                elif ext == 'json':
-                    with open(f'{ext}/{fname}.{ext}', 'w') as fp:
-                        if type(container) == SouvenirPackage and container.has_multiple_collections:
-                            fmtdict = {}
-                            for col in container.collection:
-                                fmtdict[col.name] = fmt_dict(col)
-                        else:
-                            fmtdict = fmt_dict(container)
-                        json.dump(fmtdict, fp, indent=2,
-                                  ensure_ascii=False)
+            # Dump
+            if ext == 'pickle':
+                with open(f'{ext}/{fname}.{ext}', 'wb') as fp:
+                    pickle.dump(container, fp)
+            elif ext == 'json':
+                with open(f'{ext}/{fname}.{ext}', 'w') as fp:
+                    if type(container) == SouvenirPackage and container.has_multiple_collections:
+                        fmtdict = {}
+                        for col in container.collection:
+                            fmtdict[col.name] = fmt_dict(col)
+                    else:
+                        fmtdict = fmt_dict(container)
+                    json.dump(fmtdict, fp, indent=2,
+                              ensure_ascii=False)
 
 
 to_be_scraped = ("collections",
