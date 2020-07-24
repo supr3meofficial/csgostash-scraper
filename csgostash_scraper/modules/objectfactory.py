@@ -126,7 +126,7 @@ class CollectionFactory(Factory):
         col = Collection._from_data(data_dict)
 
         logging.debug(f'Created object: {repr(col)}')
-        logging.info(f'Retrieving: {col.name}')
+        logging.info(f'Adding retrieved items to \'{col.name}\'')
 
         return col
 
@@ -150,7 +150,7 @@ class ContainerFactory(Factory):
         case = SkinCase._from_data(data_dict)
 
         logging.debug(f'Created object: {repr(case)}')
-        logging.info(f'Retrieving: {case.name}')
+        logging.info(f'Adding retrieved items to \'{case.name}\'')
 
         return case
 
@@ -194,6 +194,6 @@ class ContainerFactory(Factory):
         package = SouvenirPackage._from_data(data_dict)
 
         logging.debug(f'Created object: {repr(package)}')
-        logging.info(f'Retrieving: {package.name}')
+        logging.info(f'Adding retrieved items to \'{package.name}\'')
 
         return package
