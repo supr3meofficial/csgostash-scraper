@@ -2,6 +2,13 @@
 # csgostash-scraper
 Scrapes skin data from [CSGOStash](https://csgostash.com/) and saves it in JSON format.
 
+Current Release: v0.4
+
+What data does it scrape?
+--
+Cases, Collections and Souvenir Packages and their respective items. \
+More to be added.
+
 How does it work?
 --
 Data is scraped from CSGOStash and transformed into specific objects, which are then saved onto pickles for easy loading onto projects (like my [Neon's Case Opening feature](https://github.com/supr3meofficial/neon/blob/V3-develop/cogs/caseopening.py))
@@ -30,33 +37,37 @@ Use the following syntax `python3 main.py --method 1 --indent 2`
 
 What it looks like
 --
-**Command-line:**
-```cmd
->>> python3 main.py --method 1 --indent 2
-This process can take a while, please be patient..
-Adding case: Prisma 2 Case [1/33]
-Done!
+**Terminal:**
+```sh
+$ python3 main.py
+Retrieving: MAC-10 | Copper Borre
+Retrieving: XM1014 | Frost Borre
+Retrieving: CZ75-Auto | Emerald Quartz
+Retrieving: SCAR-20 | Brass
 ..
 ```
-**File:**
+**JSON File:**
 ```json
-"CS:GO Weapon Case": {
-  "url": "https://csgostash.com/case/1/CS:GO-Weapon-Case",
+{
+  "name": "CS:GO Weapon Case",
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5_T3eAQ3i6DMIW0X7ojiwoHax6egMOKGxj4G68Nz3-jCp4itjFWx-ktqfSmtcwqVx6sT/256fx256f",
   "content": {
-    "Covert Skins": [
+    "Rare Special Items": [
       {
-        "title": "AWP | Lightning Strike",
-        "url": "https://csgostash.com/skin/79/AWP-Lightning-Strike",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_am_lightning_awp_light_large.3761894103ee0fec90af459928635933ba27e36d.png",
-        "possible_wears": {
-          "fn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7P_BdjVW4tW4k7-KgOfLP7LWnn9u5MRjjeyPptuj2Qzt_0JsYDymJNDAIQ8-MA7U_1i3w-bphpO1v56bmHBk7yMksWGdwUJq4NI0lg/512fx384f",
-          "mw": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7P_BdjVW4tW4k7-KgOfLP7LWnn9u5MRjjeyPptuj2Qzt_0JsYDymJNDAIQ8-MA7U_1i3w-bphpO1v56bmHBk7yMksWGdwUJq4NI0lg/512fx384f"
-        },
-        "desc": "It has been painted with a lightning strike motif using anodizing effect paints over a metallic base coat.",
-        "lore": "Sometimes you don't need to strike the same place twice"
-      }
-    ],
+        "name": "★ Bayonet | Boreal Forest",
+        "desc": "It has been painted using a forest camouflage hydrographic.",
+        "lore": "The woods can be a dangerous place... never travel alone",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJE486zh5S0lfjmNrrdqWdY781lteXA54vwxgCxqBE6Nzv0IIbBdQU6ZAuC-Vm6wu68hMe46MzIzCE26SQk7S3YzECpwUYbTEk7wBI/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJE486zh5S0lfjmNrrdqWdY781lteXA54vwxgCxqBE6Nzv0IIbBdQU6ZAuC-Vm6wu68hMe46MzIzCE26SQk7S3YzECpwUYbTEk7wBI/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJE486zh5S0lfjmNrrdqWZU7Mxkh9bN9J7yjRrl_kFrYGjxcNOWewQ3MAmE-FG2yOe7gpW0uZyam3A2siVw7S6MzR3in1gSOUa5wz9E/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJE486zh5S0lfjmNrrdqWZU7Mxkh9bN9J7yjRrl_kFrYGjxcNOWewQ3MAmE-FG2yOe7gpW0uZyam3A2siVw7S6MzR3in1gSOUa5wz9E/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJE486zh5S0lfjmNrrdqWNU6dNoteXA54vwxgDhrxJtMGj7II7GcVI5MgqE-gDsyObng5W_vM-bmyFi6CkitnbayRKpwUYbBWXvKcI/512fx384f"
+        }
+      } 
+...
 ```
 
 License
