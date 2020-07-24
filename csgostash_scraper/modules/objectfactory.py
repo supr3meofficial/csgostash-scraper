@@ -32,7 +32,7 @@ from .scraper import PageHandler, RetrieveCollection, RetrieveCase, RetrieveSouv
 from .scraper import ItemHasNoWear, ItemNoCollection, ItemNoStattrakSouvenir, ItemHasNoDescription, ItemHasNoLore
 from .objects import Collection, SkinCase, SouvenirPackage, WeaponSkin
 
-logging.basicConfig(level=logging.DEBUG)
+# logging.basicConfig(level=logging.DEBUG)
 
 
 def filename(name):
@@ -102,6 +102,7 @@ class ItemFactory(Factory):
             pass
 
         logging.debug(f'Created object: {repr(item)}')
+        logging.info(f'Retrieving: {item.name}')
 
         return item
 
@@ -125,6 +126,7 @@ class CollectionFactory(Factory):
         col = Collection._from_data(data_dict)
 
         logging.debug(f'Created object: {repr(col)}')
+        logging.info(f'Retrieving: {col.name}')
 
         return col
 
@@ -148,6 +150,7 @@ class ContainerFactory(Factory):
         case = SkinCase._from_data(data_dict)
 
         logging.debug(f'Created object: {repr(case)}')
+        logging.info(f'Retrieving: {case.name}')
 
         return case
 
@@ -191,5 +194,6 @@ class ContainerFactory(Factory):
         package = SouvenirPackage._from_data(data_dict)
 
         logging.debug(f'Created object: {repr(package)}')
+        logging.info(f'Retrieving: {package.name}')
 
         return package

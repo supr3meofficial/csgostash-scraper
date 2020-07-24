@@ -27,10 +27,15 @@ SOFTWARE.
 import os
 import pickle
 import json
+import logging
 
 from csgostash_scraper.modules.objects.souvenirpackage import SouvenirPackage
 from csgostash_scraper.modules.objectfactory import CollectionFactory, ContainerFactory
 from csgostash_scraper.modules.scraper import RetrieveCollection, RetrieveCase, RetrieveSouvenirPackage
+
+logging.basicConfig(level=logging.INFO,
+                    format='%(message)s',)
+
 
 main_dir = os.getcwd()
 
