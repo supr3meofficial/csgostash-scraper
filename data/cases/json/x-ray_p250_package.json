@@ -1,0 +1,26 @@
+{
+  "name": "X-Ray P250 Package",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsS091PDtH5O_1FAthwfTNP2kTvomzzYHdlqLxZb7XlW4IuJwk3u2S8NWl3QS1_EA6YT2iddeXdgIgIQaHHJc2aVo/256fx256f",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "P250 | X-Ray",
+        "desc": "A custom painted P250 showing its internals with an X-Ray",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszQYzxb08zkwdC0m_7zO6_ummpD78A_3uuY89ql21HlqkI4N22ncYTBdAJrYV2CrFO_wOjn18W07p3OySA1uD5iuyiPLEDzxw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszQYzxb08zkwdC0m_7zO6_ummpD78A_3uuY89ql21HlqkI4N22ncYTBdAJrYV2CrFO_wOjn18W07p3OySA1uD5iuyiPLEDzxw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszQYzxb08zkwdC0mvLwOq7cqWdQ-sJ0xO-Q8Nyt2gDtqRVpYjv6IIDBcFA4Nw6Er1a4w7-51JO7ucibwCE27HE8pSGKBI8tbWI/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

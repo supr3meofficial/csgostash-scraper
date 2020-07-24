@@ -1,0 +1,26 @@
+{
+  "name": "The Blacksite Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_blacksite_collection.png?id=e221b078739a175c73c7",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "MP5-SD | Lab Rats",
+        "desc": "It features a hydrographic pattern depicting a mischief of rats.",
+        "lore": "—REDACTED—",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://csgostash.com/img/items/missing/skin.png",
+          "Minimal Wear": "https://csgostash.com/img/items/missing/skin.png",
+          "Field-Tested": "https://csgostash.com/img/items/missing/skin.png"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

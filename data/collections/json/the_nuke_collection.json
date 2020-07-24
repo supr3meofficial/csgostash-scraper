@@ -1,0 +1,143 @@
+{
+  "name": "The Nuke Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_nuke_collection.png?id=4cf859c68f1946a73d5f",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "P250 | Nuclear Threat",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWdY781lteXA54vwxgTt8hA5YGzxd9LGJA49YVzQqwDqxu_tjJC06J3PzyRhvCAm5naOnRepwUYbH0dTvU8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWdY781lteXA54vwxgTt8hA5YGzxd9LGJA49YVzQqwDqxu_tjJC06J3PzyRhvCAm5naOnRepwUYbH0dTvU8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWZU7Mxkh9bN9J7yjRrj8kBqZDqgII_GdA89YlnU8lLqyei615fqu5TLynJj6ycl5ivdmhW_n1gSOe9RdDBG/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWZU7Mxkh9bN9J7yjRrj8kBqZDqgII_GdA89YlnU8lLqyei615fqu5TLynJj6ycl5ivdmhW_n1gSOe9RdDBG/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWNU6dNoteXA54vwxgTl80o9ZD32ctPAcQZtaQ6EqVK5lObsgcO8tMufznsxvSVx5yqInhapwUYbh-Ttohg/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Nuclear Threat",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zGZDZH_8iknZCOqPDmNr7fqX9U65xOhuDG_ZjKhFWmrBZyY2n1I4WWcQA8ZAqG-1Dol7_mhsK7vJidnSdmvyNw4S3fzUOx1xBOPfsv26K75-WM4g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zGZDZH_8iknZCOqPDmNr7fqX9U65xOhuDG_ZjKhFWmrBZyY2n1I4WWcQA8ZAqG-1Dol7_mhsK7vJidnSdmvyNw4S3fzUOx1xBOPfsv26K75-WM4g/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zGZDZH_8iknZCOqPDmNr7fqX9U65xOh-zF_Jn4t1i1uRQ5fWn7IIeRJ1I2Y1rX8lG4lbvm05G76c7NnHpnuSMj4HreyhfjiBpPa-FxxavJhAbgJls/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zGZDZH_8iknZCOqPDmNr7fqX9U65xOh-zF_Jn4t1i1uRQ5fWn7IIeRJ1I2Y1rX8lG4lbvm05G76c7NnHpnuSMj4HreyhfjiBpPa-FxxavJhAbgJls/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zGZDZH_8iknZCOqPDmNr7fqX9U65xOguzA45XKhFWmrBZyMTrxI4CTcAQ_ZArUrwO_wersjZe4v57JwXFhv3Jz7HiOmUPhgBxLO_sv26LUIULb6Q/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "M4A4 | Radiation Hazard",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zGZDZH_8iknZCOqPjmMrXWk1Rd4cJ5ntbN9J7yjRqwrhFvamD2cdWVIFI5YVrRqQe9wr2-hZ616pydwXpq7HIr5y6Pzhyzn1gSORU55uYZ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zGZDZH_8iknZCOqPjmMrXWk1Rd4cJ5ntbN9J7yjRqwrhFvamD2cdWVIFI5YVrRqQe9wr2-hZ616pydwXpq7HIr5y6Pzhyzn1gSORU55uYZ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zGZDZH_8iknZCOqPjmMrXWk1Rc7cF4n-T--Y3nj1H6qBFoYWr0cdPHdgBoNFvY8wTslL-9h8Tq7p_AnXtgunYq43bUyhSz1QYMMLJner3f7w/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zGZDZH_8iknZCOqPjmMrXWk1Rc7cF4n-T--Y3nj1H6qBFoYWr0cdPHdgBoNFvY8wTslL-9h8Tq7p_AnXtgunYq43bUyhSz1QYMMLJner3f7w/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zGZDZH_8iknZCOqPjmMrXWk1RZ7cRnk9bN9J7yjRq2rxVqYj_wd9eRe1c4NF_W-lDtlOe515DoupqaynZquCAhtC3aykPhn1gSOXw9P50Y/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "XM1014 | Fallout Warning",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODYTjNX59mlgJKCh_LLPrrDmWRf18l4jeHVyoD0mlOx5Us-ZT-id9CWclNqZ1jV_VS-yLi81MC-75WYzncyuiRx53nflhe3gklSLrs4H8v8SRE/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODYTjNX59mlgJKCh_LLPrrDmWRf18l4jeHVyoD0mlOx5Us-ZT-id9CWclNqZ1jV_VS-yLi81MC-75WYzncyuiRx53nflhe3gklSLrs4H8v8SRE/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODYTjNX59mlgJKCh_LLPrrDmWRf18h0juDU-LP5iUazrl1vZDyhLYHHdwY5MAvZqVS2xL-91pa4vJ2cm3FlvXFwsSnenBbm0hwecKUx0ivpdrOh/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODYTjNX59mlgJKCh_LLPrrDmWRf18h0juDU-LP5iUazrl1vZDyhLYHHdwY5MAvZqVS2xL-91pa4vJ2cm3FlvXFwsSnenBbm0hwecKUx0ivpdrOh/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODYTjNX59mlgJKCh_LLPrrDmWRf1810i__YyoD0mlOx5UBoNWilJYWXewJraFrT-wTrkr_q0cPt75vPySBk6Cd2tHjamROzgk5SLrs4jqkjyWo/512fx384f"
+        }
+      },
+      {
+        "name": "UMP-45 | Fallout Warning",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwOP3fyhJ6c-ihombksj5MqnemWVu5Mx2gv3--Y3nj1H68kFlZW72coKRJAY9YVuG_VbolbrqgJC_uJXLwHZivSh3tinfnEHlgAYMMLLVtCnHHQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwOP3fyhJ6c-ihombksj5MqnemWVu5Mx2gv3--Y3nj1H68kFlZW72coKRJAY9YVuG_VbolbrqgJC_uJXLwHZivSh3tinfnEHlgAYMMLLVtCnHHQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwOP3fyhJ6c-ihombksj5MqnemWVu5cB1g_zMyoD0mlOx5RE5Zmv3cYXBcAFqYVHUrFa7wbzo1sS17s-an3NlsiEgtCzZnBXl1xFSLrs4xsLvqiQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwOP3fyhJ6c-ihombksj5MqnemWVu5cB1g_zMyoD0mlOx5RE5Zmv3cYXBcAFqYVHUrFa7wbzo1sS17s-an3NlsiEgtCzZnBXl1xFSLrs4xsLvqiQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwOP3fyhJ6c-ihombksj5MqnemWVu4MBwnPD--Y3nj1H6rkE9ZjugJYPGcwM2MAzXqQW4lL3pjMC0vcnJmHs2uXEm43nZnUG-0AYMMLJqle-q-A/512fx384f"
+        }
+      },
+      {
+        "name": "P90 | Fallout Warning",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P3dejhR-M6_hIW0mvbmPLTfqWdY781lteXA54vwxlfn8kJpNm7xJ9SdcAdtYQzQ-QftkLjqhZC9vpSby3E1uyZwsSmLn0OpwUYbHyUnERQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P3dejhR-M6_hIW0mvbmPLTfqWdY781lteXA54vwxlfn8kJpNm7xJ9SdcAdtYQzQ-QftkLjqhZC9vpSby3E1uyZwsSmLn0OpwUYbHyUnERQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P3dejhR-M6_hIW0mvbmPLTfqWZU7Mxkh9bN9J7yjRqy_RU6ajqhJIDGelQ_ZVjYrFe8ybq9gp66vpXBmnE3viQksS6IzEO_n1gSOa9j1TOO/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P3dejhR-M6_hIW0mvbmPLTfqWZU7Mxkh9bN9J7yjRqy_RU6ajqhJIDGelQ_ZVjYrFe8ybq9gp66vpXBmnE3viQksS6IzEO_n1gSOa9j1TOO/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P3dejhR-M6_hIW0mvbmPLTfqWNU6dNoteXA54vwxgy2_0A4a2uhcYadIAVvZVrR_lG3w-bthcW9uMnNnXU3vCgls3ral0CpwUYbhsailS8/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "MAG-7 | Irradiated Alert",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhzw8zGZDZH_8iknZCOqPXmPKzfqWdY781lteXA54vwxlHlr0RpZ2mhdYOUcQdvYw3SqQe9x7_n05Hvusidmntr7iBxsXvenkSpwUYbW8CwXwk/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhzw8zGZDZH_8iknZCOqPXmPKzfqWdY781lteXA54vwxlHlr0RpZ2mhdYOUcQdvYw3SqQe9x7_n05Hvusidmntr7iBxsXvenkSpwUYbW8CwXwk/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhzw8zGZDZH_8iknZCOqPXmPKzfqWZU7Mxkh9bN9J7yjRq2_UI_MjzxINWVdwFtZ1-BqVW7xOfpg5boupvBm3U16Skh4ivZnBa-n1gSOWt2wwW0/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhzw8zGZDZH_8iknZCOqPXmPKzfqWZU7Mxkh9bN9J7yjRq2_UI_MjzxINWVdwFtZ1-BqVW7xOfpg5boupvBm3U16Skh4ivZnBa-n1gSOWt2wwW0/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhzw8zGZDZH_8iknZCOqPXmPKzfqWNU6dNoteXA54vwxgLs_0NtazymcNCVIFM6MFqCqwS-xurm08C_tZrJnyNluSQn4SrZmhCpwUYbScSgq9k/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Irradiated Alert",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fyhJ6c-ihombksj2IbTGmFRd4cJ5ntbN9J7yjRrt8kA_Yjr1cdKTIFA6MFrT81O4yejqhMO4vZjJmyFn6yYj4CnfmRa1n1gSOTpzqiAu/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fyhJ6c-ihombksj2IbTGmFRd4cJ5ntbN9J7yjRrt8kA_Yjr1cdKTIFA6MFrT81O4yejqhMO4vZjJmyFn6yYj4CnfmRa1n1gSOTpzqiAu/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fyhJ6c-ihombksj2IbTGmFRc7cF4n-T--Y3nj1H6r0NlZzr3dtfBdVA3MgnVqVTvkL_tgZ65vp-dnXVguidw4yzfmRHiggYMMLIqVGezWA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fyhJ6c-ihombksj2IbTGmFRc7cF4n-T--Y3nj1H6r0NlZzr3dtfBdVA3MgnVqVTvkL_tgZ65vp-dnXVguidw4yzfmRHiggYMMLIqVGezWA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fyhJ6c-ihombksj2IbTGmFRZ7cRnk9bN9J7yjRq3_UtoNW-idoSRdAFqNV7WqwW6w7y6jcC97p_Ny3Y2vyYi7S3alx20n1gSOVWpmEEq/512fx384f"
+        }
+      },
+      {
+        "name": "Sawed-Off | Irradiated Alert",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp9g-7J4bP5iUazrl1qMmr6dtOcIFM8YlHZ8ge6xL_sgse56prImnRnvCd2tCyPmBe_0BhPcKUx0oYPWdWA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp9g-7J4bP5iUazrl1qMmr6dtOcIFM8YlHZ8ge6xL_sgse56prImnRnvCd2tCyPmBe_0BhPcKUx0oYPWdWA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp8j-3I4IHKhFWmrBZyMWClIIOVIQY7M1DVrFm_lbjmhpS-u8-fyCAwvnMgt3-OzES11BEdPfsv26LQjT224g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp8j-3I4IHKhFWmrBZyMWClIIOVIQY7M1DVrFm_lbjmhpS-u8-fyCAwvnMgt3-OzES11BEdPfsv26LQjT224g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp5j-jX7LP5iUazrl1lMG_zINKSJAQ6M1zY-FLolOzuh8C-vJyfzHZj6yImtHuOmES21RBKcKUx0lQt44LI/512fx384f"
+        }
+      }
+    ]
+  }
+}

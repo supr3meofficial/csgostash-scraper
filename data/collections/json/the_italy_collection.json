@@ -1,0 +1,219 @@
+{
+  "name": "The Italy Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_italy_collection.png?id=3d26a509b630071369aa",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "AWP | Pit Viper",
+        "desc": "It has been painted with a snakeskin patterned hydrographic.",
+        "lore": "I know you don't believe in the cause...and when I expose you, Valeria will have your head - The Shield and The Serpent Part 1",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957ODGcDZH_9e_mr-HnvD8J4Tdl3lW7Yt03OjF8Y733A21_ENuZz_7JIbEcQNtaA3Q8lC6wey-h8W0up7IyXBrpGB8sr1DtlQN/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957ODGcDZH_9e_mr-GkvP9JrbummpD78A_0-iZrI702le1qkQ4ZGClLdOSJwE-NF3Y_lHtw7q5gZK6vpnBznsw6z5iuyixL7hzgA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957ODGcDZH_9e_mr-GkvP9JrbummpD78A_0-iZrI702le1qkQ4ZGClLdOSJwE-NF3Y_lHtw7q5gZK6vpnBznsw6z5iuyixL7hzgA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957ODGcDZH_9e_mr-DkvbiKoTdl3lW7Ysl2LrDoYqm3AHj8kNqamv1LYHBJlI8Zg7TrlO8l7vq0J-9vJqfyHtipGB8sr59xNTV/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Sawed-Off | Full Stop",
+        "desc": "It has been painted using a VariCamo patterned hydrographic.",
+        "lore": "Rebuilding only comes in the wake of destruction",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR9-t2knYOKmvjLIb7VqWdY781lteXA54vwxgywqUdsazr3J4eSJwc3Mw6ErFnvlb3p1pW9tJ7Ky3VrvCYm53zZmxCpwUYbcQjvAKc/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR9-t2knYOKmvjLIb7VqWdY781lteXA54vwxgywqUdsazr3J4eSJwc3Mw6ErFnvlb3p1pW9tJ7Ky3VrvCYm53zZmxCpwUYbcQjvAKc/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR9-t2knYOKmvjLIb7VqWZU7Mxkh9bN9J7yjRq3-BZpZ22nLdSVdwA_ZVnV_AS6yefmjcXov5rNySQx6HMq7XuMnka-n1gSOV2Cwp69/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR9-t2knYOKmvjLIb7VqWZU7Mxkh9bN9J7yjRq3-BZpZ22nLdSVdwA_ZVnV_AS6yefmjcXov5rNySQx6HMq7XuMnka-n1gSOV2Cwp69/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR9-t2knYOKmvjLIb7VqWNU6dNoteXA54vwxgO1qRJkNm6lJIKQcFBoZVHS_gC-xr-6hcPvvc_OwXsy6SAg7H_UmxypwUYb4XlU1C8/512fx384f"
+        }
+      },
+      {
+        "name": "Glock-18 | Candy Apple",
+        "desc": "It has individual parts spray-painted solid colors in a red and black color scheme.",
+        "lore": "Great on cars, better on weapons",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3YzhG09C_k4ifqPv1IbzU2DoG6pQpi7qV9Njx0ADk8kNpZmH0cY-Uelc2ZFjQ_1a4lOfu15bv7pTXiSw0KjtfQAI/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3YzhG09C_k4ifqPv1IbzU2DoG6pQpi7qV9Njx0ADk8kNpZmH0cY-Uelc2ZFjQ_1a4lOfu15bv7pTXiSw0KjtfQAI/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3YzhG09GzkImemsj4MqnWkyVTuJNy3r6SrNqkjgex8kBvaz_0LNLDegA9MAnW_AK-wL-6gZO_vpqY1zI97bGraKet/512fx384f"
+        }
+      },
+      {
+        "name": "MP7 | Anodized Navy",
+        "desc": "It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZu7P3JZyR94NWxnJS0m_bmNL6fwWkGuJAi2b_Cponw3APmrxFlYGr6J4eQewFoYQmC-1i_w-_o15Xo74OJlyUGuP7Z9g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZu7P3JZyR94NWxnJS0m_bmNL6fwWkGuJAi2b_Cponw3APmrxFlYGr6J4eQewFoYQmC-1i_w-_o15Xo74OJlyUGuP7Z9g/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Dual Berettas | Stained",
+        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
+        "lore": "If you think it's messy now, wait until you see it under a blacklight",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq4yCkP_gDLfQhGxUpsYn372ToNqj2Qex-0tlYDvyItTAcAFvZl7S-wTtxejm1JC_7ZTAzHd9-n510gMu2hs/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq4yCkP_gDLfQhGxUpsYn372ToNqj2Qex-0tlYDvyItTAcAFvZl7S-wTtxejm1JC_7ZTAzHd9-n510gMu2hs/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq42Ok_7hPoTdl3lW7YskjruVrY6g3le2-0VsZzvyIdeXewE_aAmErlC3x7rthMC_7svOmCc2pGB8svqiQbT5/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq42Ok_7hPoTdl3lW7YskjruVrY6g3le2-0VsZzvyIdeXewE_aAmErlC3x7rthMC_7svOmCc2pGB8svqiQbT5/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq4iOluHtDLfQhGxUppYm3uuVrY2liVfm_UtkamDwIIbEcgU3aAzUrFPsw-rmjJa07pnNnXd9-n51N7ZHtHM/512fx384f"
+        }
+      },
+      {
+        "name": "P2000 | Granite Marbleized",
+        "desc": "It has been painted in a marbleized pattern.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPv9NLPFqWdQ-sJ0xLqR8dr03gy3_kFuMjz2cNKVIVA5MF7Xr1G5lL2815C678vMySBjvnM8pSGK6X0incY/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPv9NLPFqWdQ-sJ0xLqR8dr03gy3_kFuMjz2cNKVIVA5MF7Xr1G5lL2815C678vMySBjvnM8pSGK6X0incY/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPrxN7LEm1Rd6dd2j6eR99Wh2ADhrRBoYjyiJdXDIAdrYl_UqFK2lL-9hsXt7cvKwHMyvCAg-z-DyIQOpr_N/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPrxN7LEm1Rd6dd2j6eR99Wh2ADhrRBoYjyiJdXDIAdrYl_UqFK2lL-9hsXt7cvKwHMyvCAg-z-DyIQOpr_N/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqP_xMq3IqWdQ-sJ0xLnDpIr33ATl-EJlN2qnJY-TJFc3NVDRqwDsk7-6hcO9upmayXAwsik8pSGK6xMdpGI/512fx384f"
+        }
+      },
+      {
+        "name": "UMP-45 | Gunsmoke",
+        "desc": "It has been painted using a hydrographic of a gel pen doodle.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3djhO_Nm4q4yCkP_gDLfQhGxUppIojruT842l2FDg_0dsazj0JY_HdVc2ZViBq1W6yOm60MTv7ZvBnyB9-n51HaeYVhU/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3djhO_Nm4q4yCkP_gDLfQhGxUppIojruT842l2FDg_0dsazj0JY_HdVc2ZViBq1W6yOm60MTv7ZvBnyB9-n51HaeYVhU/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3djhO_Nm4q42Ok_7hPoTdl3lW7Ysn3LuZpoms3FG1qhBtMWvzJIHAdA5vMF_Y_li4xebsgpDp7prOnHNkpGB8svv-yFby/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3djhO_Nm4q42Ok_7hPoTdl3lW7Ysn3LuZpoms3FG1qhBtMWvzJIHAdA5vMF_Y_li4xebsgpDp7prOnHNkpGB8svv-yFby/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3djhO_Nm4q4iOluHtDLfQhGxUpsFy3u3ArI3z2gW2_UdvMj-gcY_AIVI9N1rUqVbokLvsjJTvu8uYmyB9-n51kir8Uxw/512fx384f"
+        }
+      },
+      {
+        "name": "XM1014 | CaliCamo",
+        "desc": "It has been painted using a VariCamo patterned hydrographic.",
+        "lore": "Rebuilding only comes in the wake of destruction",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTitD_tW1lY2EqPPxIL7DglRd4cJ5ntbN9J7yjRrs8kBtMDulcoTEIwU8aFHS8li5xurthcK8uZvIzyBguiZ3t3-MlhThn1gSOeHXP8_A/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTitD_tW1lY2EqPPxIL7DglRd4cJ5ntbN9J7yjRrs8kBtMDulcoTEIwU8aFHS8li5xurthcK8uZvIzyBguiZ3t3-MlhThn1gSOeHXP8_A/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTitD_tW1lY2EqPPxIL7DglRc7cF4n-T--Y3nj1H6-UJoa2GlcteQdQ5qYF-E8lm9x-rmjcC4vs_KnHFjuygh4iuJzRaz1AYMMLIrvO5lfg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTitD_tW1lY2EqPPxIL7DglRc7cF4n-T--Y3nj1H6-UJoa2GlcteQdQ5qYF-E8lm9x-rmjcC4vs_KnHFjuygh4iuJzRaz1AYMMLIrvO5lfg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTitD_tW1lY2EqPPxIL7DglRZ7cRnk9bN9J7yjRrj_BBpMjygLY-VcQ83Z1iBrlHoyLrq0MK8uZXOyyRrsnYn5XfUmRK0n1gSOcN1N2jS/512fx384f"
+        }
+      },
+      {
+        "name": "Nova | Candy Apple",
+        "desc": "It has individual parts spray-painted solid colors in a red and black color scheme.",
+        "lore": "Great on cars, better on weapons",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzadDl94NWxnJS0m_bmNL6fkDoIsJ0njrnFpd3w3wfkrRBtNmn2JIKUdFc4Z1zS_lm2xOzp1J-474OJlyVSKLZX4g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzadDl94NWxnJS0m_bmNL6fkDoIsJ0njrnFpd3w3wfkrRBtNmn2JIKUdFc4Z1zS_lm2xOzp1J-474OJlyVSKLZX4g/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzadDl94dmynZWGqPv1IbzU2DsFsJBzjrnApYqkjQXkqkRpMmr6JteUJwBqM17Uq1Lvk-7t0MW_7ZzXiSw0M3Gpabs/512fx384f"
+        }
+      },
+      {
+        "name": "M4A1-S | Boreal Forest",
+        "desc": "It has been painted using a forest camouflage hydrographic.",
+        "lore": "The woods can be a dangerous place... never travel alone",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO-jb-NmOXxIK_ulGRD7cR9teXI8oTht1i1uRQ5fWiiI9CWcQJsZ12E-wfowL_r1se87s_NmHMxuyYmsXnZnBSxiE5FZudxxavJsLkS_p0/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO-jb-NmOXxIK_ulGRD7cR9teXI8oTht1i1uRQ5fWiiI9CWcQJsZ12E-wfowL_r1se87s_NmHMxuyYmsXnZnBSxiE5FZudxxavJsLkS_p0/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO-jb-NmOXxIK_ulGRD7cR9teTE8YXghWu4qgE7Nnf2ctWSIA82N17V8lK6ybq7gce4uZuczHRmsikns33Umhbm0BhEbORmm7XAHq4bWHSW/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO-jb-NmOXxIK_ulGRD7cR9teTE8YXghWu4qgE7Nnf2ctWSIA82N17V8lK6ybq7gce4uZuczHRmsikns33Umhbm0BhEbORmm7XAHq4bWHSW/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO-jb-NmOXxIK_ulGRD7cR9teHE9Jrst1i1uRQ5fTylI4KWIQ5rZgyF81TvyOznhpa7vc-bwSE3uXQltH6Pzh2whRAeZuFxxavJddk5MlE/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Nova | Sand Dune",
+        "desc": "It has individual parts spray-painted solid colors in a sand dune color scheme.",
+        "lore": "With Turner dead, we have a new priority: rescue Alex Kincaide - Felix Riley, Commanding Officer",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzbcDNG09C_k4ifqPv1IbzU2DgCsJAl37mZpt-tjVbg80NtYGHzd4HBdVI9Y1CG-FO2xL-7hse7uJvXiSw0TII3i7o/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzbcDNG09C_k4ifqPv1IbzU2DgCsJAl37mZpt-tjVbg80NtYGHzd4HBdVI9Y1CG-FO2xL-7hse7uJvXiSw0TII3i7o/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzbcDNG09GzkImemsj4MqnWkyVVu50m3rCZ8dnxjVC2qkZlaz32II6Tc1RoaQ7T_ATvxujv0ZTuvZic1zI97Y6pmocY/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzbcDNG09GzkImemsj4MqnWkyVVu50m3rCZ8dnxjVC2qkZlaz32II6Tc1RoaQ7T_ATvxujv0ZTuvZic1zI97Y6pmocY/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzbcDNG09SzlZaSqPv1IbzU2DxQupEk37mRp9_02QHs8kRramjwdYLEIwc5NAvQ-lO3wu_mhpC-uM_XiSw0w1f0jPc/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Groundwater",
+        "desc": "It has individual parts spray-painted solid colors in an olive drab color scheme.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO6nYeDg8j4MqnWkyUH65YkjLvC99rwjgSy80pvNWnxcIGVdQM3Ml3S8gfrxefqjcfo6c-a1zI97ca4WGIp/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO6nYeDg8j4MqnWkyUH65YkjLvC99rwjgSy80pvNWnxcIGVdQM3Ml3S8gfrxefqjcfo6c-a1zI97ca4WGIp/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO7kYSCgvrLP7rDkW4f6cNz277CotStiwXn80o9MTilJIOScVRoMFiC_1XoxLvoh5W775qan2wj5HcVoyFI5w/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO7kYSCgvrLP7rDkW4f6cNz277CotStiwXn80o9MTilJIOScVRoMFiC_1XoxLvoh5W775qan2wj5HcVoyFI5w/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO-kYGdjsj4MqnWkyUGsZEk07uWoIijiwW2_EVrMT-lcoPHIQ89YF3Qq1TowrjqhZC-tc_L1zI97TFu1Ht6/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Sand Dashed",
+        "desc": "It has been spray-painted using short pieces of tape as stencils.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jnMrXVqWdY781lteXA54vwxlC3rUptYDjwdYLDIVI6Y1nQ-1O6yey6jcW978_MzCZjv3Qr7X3VyRypwUYbjiZbIu8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jnMrXVqWdY781lteXA54vwxlC3rUptYDjwdYLDIVI6Y1nQ-1O6yey6jcW978_MzCZjv3Qr7X3VyRypwUYbjiZbIu8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jnMrXVqWZU7Mxkh9bN9J7yjRrm8xI5ajr0IYXGclI3Z16DqVLqlb_t0MPvvc7KzCMyvyUns3ndzkTkn1gSOcRWfgr_/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jnMrXVqWZU7Mxkh9bN9J7yjRrm8xI5ajr0IYXGclI3Z16DqVLqlb_t0MPvvc7KzCMyvyUns3ndzkTkn1gSOcRWfgr_/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jnMrXVqWNU6dNoteXA54vwxlXmr0Nlaz_0cYLAcQ46aVmC-QXrxr-7gsO5v5vOmyQ36HVwtyzVnhGpwUYbx_OWVMs/512fx384f"
+        }
+      },
+      {
+        "name": "FAMAS | Colony",
+        "desc": "It has individual parts spray-painted khaki and grey.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwPz3Yi1D79mJmYGZnvnxDLfYkWNF18lwmO7Eu4722FXl-kNkYzr6doXHdwZtYFuErgPrxb-51JXqusvAz3Fiu3Z3tnvD30vgxIiUCnE/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwPz3Yi1D79mJmYGZnvnxDLfYkWNF18lwmO7Eu4722FXl-kNkYzr6doXHdwZtYFuErgPrxb-51JXqusvAz3Fiu3Z3tnvD30vgxIiUCnE/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwPz3Yi1D79mJmYGZnvnxDLbUkmJE5fp9i_vG8MKs0VCxrhI_Zzj1JoaTclc3YV2D81O9ley-jJe_ucvLmHNkuHMmsyyJgVXp1tzp3BGP/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwPz3Yi1D79mJmYGZnvnxDLbUkmJE5fp9i_vG8MKs0VCxrhI_Zzj1JoaTclc3YV2D81O9ley-jJe_ucvLmHNkuHMmsyyJgVXp1tzp3BGP/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwPz3Yi1D79mJmYGZnvnxDLPUl31I18lwmO7Eu933igfg-hY-NWCgctSTIw5qN13Z_QTrx7znjMTotc6dnHIxuHJx4ivD30vggTWRqsA/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Contractor",
+        "desc": "It has individual parts spray-painted tan, navy and dark green.",
+        "lore": "Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJO5du-gL-HluXzNvXUxGoBvsdw3-2X9tik2gDk8xduZ230cYeTcAM5Y1DR_QTrwevt18K_ot2XnjXwFDLa/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJO5du-gL-HluXzNvXUxGoBvsdw3-2X9tik2gDk8xduZ230cYeTcAM5Y1DR_QTrwevt18K_ot2XnjXwFDLa/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJP6di_gY20m_bmNL6fwDlTvZUk0r7ArIqkila28hBkNzrzdofDdwY9ZlDY-wTolbjoh8Pqv4OJlyX3iSNzEQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJP6di_gY20m_bmNL6fwDlTvZUk0r7ArIqkila28hBkNzrzdofDdwY9ZlDY-wTolbjoh8Pqv4OJlyX3iSNzEQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJK6d2gjb-HluXzNvWEzm5X7Jx02LGZrdut2wy3rxA_NjuiIYCSJlBsZFmEq1W4w-i9g5O1ot2XnvjLm6nU/512fx384f"
+        }
+      }
+    ]
+  }
+}

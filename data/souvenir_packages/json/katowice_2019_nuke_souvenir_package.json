@@ -1,0 +1,270 @@
+{
+  "name": "Katowice 2019 Nuke Souvenir Package",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsWFxgKhNetb_3e1Y57OPafjBN09izq46enPK6YurQk2hVvcYi2u-W84qhiQOx_kVvYDzyJdWUJA88Ml_U-VfoxuzsjYj84sqZEQQDQg/256fx256f",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [
+      {
+        "name": "Tec-9 | Remote Control",
+        "desc": "It has been hand painted with colorful dials and switches atop a blue base.",
+        "lore": "Don't touch that dial",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09m4go-SqPv9NLPFqWdQ-sJ0xLmXrY6ti1bgrhdsNW3zIoKTcAI2Y1iCrFPtl-3r0MXvuM7KwSZr6CI8pSGK7hbAQJE/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09m4go-SqPv9NLPFqWdQ-sJ0xLmXrY6ti1bgrhdsNW3zIoKTcAI2Y1iCrFPtl-3r0MXvuM7KwSZr6CI8pSGK7hbAQJE/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09m4go-SqPrxN7LEm1Rd6dd2j6eZ9473iQLh-EA-aj-ncdeQe1I8ZlHZ_le6lOq7g8K1upiYznNr7iAq-z-DyJTX5-QZ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09m4go-SqPrxN7LEm1Rd6dd2j6eZ9473iQLh-EA-aj-ncdeQe1I8ZlHZ_le6lOq7g8K1upiYznNr7iAq-z-DyJTX5-QZ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09m4go-SqP_xMq3IqWdQ-sJ0xOyXodSliQPn-xdqNWynLdOSewc-MA3Z-VTsxOvm15K17p_OmyRrunQ8pSGKd1xwo-U/512fx384f"
+        }
+      },
+      {
+        "name": "M4A1-S | Control Panel",
+        "desc": "It has been hand painted with colorful dials and switches atop a blue base.",
+        "lore": "\"Is this line secure?\"",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbN_Iv9nGu4qgE7NnfycYSQdQc_Yg3V8lm6wL-7hZC9v8_NnHBlsnQn5CvfnBzj1x5FP-U6m7XAHoDuEUTn/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbN_Iv9nGu4qgE7NnfycYSQdQc_Yg3V8lm6wL-7hZC9v8_NnHBlsnQn5CvfnBzj1x5FP-U6m7XAHoDuEUTn/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbM8Ij8nVmLpxIuNDztJ46RdAc9YA7UqFXrle_rgcPpupmbmCYxsnMg5X-My0e1gh9JOLdm0OveFwv7Z_lN1w/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbM8Ij8nVmLpxIuNDztJ46RdAc9YA7UqFXrle_rgcPpupmbmCYxsnMg5X-My0e1gh9JOLdm0OveFwv7Z_lN1w/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbJ8I3jkWu4qgE7Nnf2JIWRdwI8MF-G8gW9w-zog8W9vM-YyCcxvXZzsC7byRKwiUlLOudtm7XAHhiD2Xey/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "MAG-7 | Core Breach",
+        "desc": "An orange pattern of radioactive symbols has been applied over a black base.",
+        "lore": "Safety protocols have failed",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszGZD5O6d2kq4iEg_jmMrXWk1Rd4cJ5ntbN9J7yjRrn_kBqZG70J9SddwY_NwnQ_lTvlea8gJ6_tJqazyRnsnZx7XvVnxGyn1gSOTsT04mg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszGZD5O6d2kq4iEg_jmMrXWk1Rd4cJ5ntbN9J7yjRrn_kBqZG70J9SddwY_NwnQ_lTvlea8gJ6_tJqazyRnsnZx7XvVnxGyn1gSOTsT04mg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszGZD5O6d2kq4iEg_jmMrXWk1Rc7cF4n-T--Y3nj1H6-UNtZTj1ItScewBtNw3WqQTvybjthJW078zKzidl6yFw4iyMykaxgAYMMLIb1NrMzg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszGZD5O6d2kq4iEg_jmMrXWk1Rc7cF4n-T--Y3nj1H6-UNtZTj1ItScewBtNw3WqQTvybjthJW078zKzidl6yFw4iyMykaxgAYMMLIb1NrMzg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszGZD5O6d2kq4iEg_jmMrXWk1RZ7cRnk9bN9J7yjRq2-ko-NmD1coeXIAE8YQuFr1G2w7rt1sW_up_NzSdivCYn5niOzBKzn1gSOY-r3WTa/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Random Access",
+        "desc": "A red circuit board pattern has been applied over a black base.",
+        "lore": "The journey is random; the result is not",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5Mx2gv3--Y3nj1H6rxJlNW7wJILDdg5oaA7Q-ALqkurqh8Tqu5rPyHZmuHYqsyqOmUfkgwYMMLK3Ecp8JA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5Mx2gv3--Y3nj1H6rxJlNW7wJILDdg5oaA7Q-ALqkurqh8Tqu5rPyHZmuHYqsyqOmUfkgwYMMLK3Ecp8JA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5cB1g_zMyoD0mlOx5RZrZ2j1JIbHewA2NVDW8gC3kL3s15DptcjPyCM2uCMn4HyIl0a_gkxSLrs4qFpzzW0/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5cB1g_zMyoD0mlOx5RZrZ2j1JIbHewA2NVDW8gC3kL3s15DptcjPyCM2uCMn4HyIl0a_gkxSLrs4qFpzzW0/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u4MBwnPD--Y3nj1H6qRU_Y23zJYSWegM_Y1DR-lftye7shZ7tv5rIyHs173Ygs3iOzkbhgQYMMLLlMgWhUw/512fx384f"
+        }
+      },
+      {
+        "name": "Glock-18 | Nuclear Garden",
+        "desc": "The slide features a toxic, neon green pattern.",
+        "lore": "A nuclear fission product",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73fyhB4Nm3hr-YnOL4P6jukXlU7ctOhuDG_ZjKhFWmrBZyYG6gJ4GTd1A3Y1CB-gC-wey7h56_752fmHU1vnYm5XaLm0PmiE1EbPsv26InNt9zoA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73fyhB4Nm3hr-YnOL4P6jukXlU7ctOhuDG_ZjKhFWmrBZyYG6gJ4GTd1A3Y1CB-gC-wey7h56_752fmHU1vnYm5XaLm0PmiE1EbPsv26InNt9zoA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73fyhB4Nm3hr-YnOL4P6jukXlU7ctOh-zF_Jn4t1i1uRQ5fTvydYGQI1I2NVCD_lfsl-3s1J_utJmYnHFnuSkqtH7flhHh1BlKa-FxxavJlq0x5oI/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73fyhB4Nm3hr-YnOL4P6jukXlU7ctOh-zF_Jn4t1i1uRQ5fTvydYGQI1I2NVCD_lfsl-3s1J_utJmYnHFnuSkqtH7flhHh1BlKa-FxxavJlq0x5oI/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73fyhB4Nm3hr-YnOL4P6jukXlU7ctOguzA45XKhFWmrBZyMDz2JYSTelJtYArR-1G_yOa91Jbtusian3MwvXZxsXfezUSy0h1Navsv26Kk7myqpA/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "P250 | Exchanger",
+        "desc": "A hydrographic pattern of interweaving pipes has been applied.",
+        "lore": "\"My life for yours\"",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMZD5W_-O0mJWOqPv9NLPFqWdQ-sJ0xL7Eptym3lDmqEJoZWD0JI6RcFVoNQzRr1XsxevtjMPpuZnByXVrvXM8pSGK5r7ZWQI/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMZD5W_-O0mJWOqPv9NLPFqWdQ-sJ0xL7Eptym3lDmqEJoZWD0JI6RcFVoNQzRr1XsxevtjMPpuZnByXVrvXM8pSGK5r7ZWQI/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMZD5W_-O0mJWOqPrxN7LEm1Rd6dd2j6fC8I_03gyx-kRpYm6lcNTDcg84Z1DS_Fntw7250Je47ZzIyyZquHVz-z-DyC90_rWf/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMZD5W_-O0mJWOqPrxN7LEm1Rd6dd2j6fC8I_03gyx-kRpYm6lcNTDcg84Z1DS_Fntw7250Je47ZzIyyZquHVz-z-DyC90_rWf/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMZD5W_-O0mJWOqP_xMq3IqWdQ-sJ0xOyXptWg0Q3g8xVoYWGiIdXEcQE-ZV_R-VG2w-3p1JHqvpzOyXZg6XU8pSGKERKgXS0/512fx384f"
+        }
+      },
+      {
+        "name": "AWP | Acheron",
+        "desc": "A multicolored hydrographic pattern has been applied.",
+        "lore": "A weapon of woe",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957P3dcjFH7c6Jh4uem_vnDKnUkmld_cBOhuDG_ZjKhFWmrBZyZWnyddeXcVA3aF6D_lm-x-rv05K_tcjJzCRhuiRx4C2JmEPm10lIZ_sv26J0jS4Vrw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957P3dcjFH7c6Jh4uem_vnDKnUkmld_cBOhuDG_ZjKhFWmrBZyZWnyddeXcVA3aF6D_lm-x-rv05K_tcjJzCRhuiRx4C2JmEPm10lIZ_sv26J0jS4Vrw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957P3dcjFH7c6Jh4uem_vnDKnUkmld_cBOh-zF_Jn4t1i1uRQ5fTzxJIDDdQQ4N1_Wq1PsxL_ngZXt75mYmyA37iQks3yIzUa_iRlJPbFxxavJcvYnYZs/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957P3dcjFH7c6Jh4uem_vnDKnUkmld_cBOh-zF_Jn4t1i1uRQ5fTzxJIDDdQQ4N1_Wq1PsxL_ngZXt75mYmyA37iQks3yIzUa_iRlJPbFxxavJcvYnYZs/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957P3dcjFH7c6Jh4uem_vnDKnUkmld_cBOguzA45XKhFWmrBZyYWGmdoKcIA47aVDV8lS-w-3r18LutcmYzXMy6ycmtCmLlhTmiB1NOPsv26I6jwPw8g/512fx384f"
+        }
+      },
+      {
+        "name": "P90 | Facility Negative",
+        "desc": "A blue and yellow hydrographic pattern resembling a nuclear power plant has been applied.",
+        "lore": "The opposite of a containment structure",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLfYkWNF18lwmO7Eu9-gjgziqUA4MmnydYWUdwU3NV2B_1i8yOvn1p-6v5jPn3Rg7iEk4nrD30vggjTcF3I/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLfYkWNF18lwmO7Eu9-gjgziqUA4MmnydYWUdwU3NV2B_1i8yOvn1p-6v5jPn3Rg7iEk4nrD30vggjTcF3I/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLbUkmJE5fp9i_vG8MLz3gfk-EQ9ZW-lddKReg46ZAvU_lG2kubo1p-_vcvKwSdrvSYrsCqIgVXp1iysFaZo/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLbUkmJE5fp9i_vG8MLz3gfk-EQ9ZW-lddKReg46ZAvU_lG2kubo1p-_vcvKwSdrvSYrsCqIgVXp1iysFaZo/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLPUl31I18lwmO7Eu4ij0VLi-EttZ2ulcoWTIQNqM1rX-lHskL2-1MC5uZycn3FrsnUq4nzD30vgEnY8-DY/512fx384f"
+        }
+      },
+      {
+        "name": "MP5-SD | Co-Processor",
+        "desc": "A blue circuit board pattern been applied.",
+        "lore": "Silently supplementing",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5Mx2gv3--Y3nj1H6-UNpNmiid4fHd1RoMwqGq1nowerrjMXvvJWbzXA363YhsHuMy0HjgwYMMLLOu2TOBA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5Mx2gv3--Y3nj1H6-UNpNmiid4fHd1RoMwqGq1nowerrjMXvvJWbzXA363YhsHuMy0HjgwYMMLLOu2TOBA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5cB1g_zMyoD0mlOx5UA5Ymunco-RdQJtZljZrlS2wu_sh5Xq6pTOyCc3s3Ei4yzVm0DjgRBSLrs4dNOl3DY/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5cB1g_zMyoD0mlOx5UA5Ymunco-RdQJtZljZrlS2wu_sh5Xq6pTOyCc3s3Ei4yzVm0DjgRBSLrs4dNOl3DY/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu4MBwnPD--Y3nj1H6_Es_YzqmLYOcewA4MljZq1a5l-3tjZC97pzNnyZqunNz43_YzBfj0wYMMLJERJUVlg/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Negev | Bulkhead",
+        "desc": "A hydrographic pattern of interweaving pipes has been applied.",
+        "lore": "Hold strong",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3dShB-M-JjYWHm_jjDLfYkWNF18lwmO7Eu9Xx0Qfn_kBuZjj3dYCcdFNtZwvSrwe5weq61pfouM_KyHNh6Shx7XjD30vgEwelr1w/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3dShB-M-JjYWHm_jjDLfYkWNF18lwmO7Eu9Xx0Qfn_kBuZjj3dYCcdFNtZwvSrwe5weq61pfouM_KyHNh6Shx7XjD30vgEwelr1w/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3dShB-M-JjYWHm_jjDLbUkmJE5fp9i_vG8MKgiQbsrxA-ZWv2d9CSIQE2Y1rXqFHrwObtjcW1v57OzXVq7iYr7CvfgVXp1qzwb0Lf/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3dShB-M-JjYWHm_jjDLbUkmJE5fp9i_vG8MKgiQbsrxA-ZWv2d9CSIQE2Y1rXqFHrwObtjcW1v57OzXVq7iYr7CvfgVXp1qzwb0Lf/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3dShB-M-JjYWHm_jjDLPUl31I18lwmO7Eu96t2FK2-Ec_NTj7I4aTelU3ZVyDrwK3wezngMO_uJmfnHUwuyFw4ynD30vgg_GcK98/512fx384f"
+        }
+      },
+      {
+        "name": "MP7 | Motherboard",
+        "desc": "A green and white circuit board pattern has been applied.",
+        "lore": "Stay connected",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZt7PDBYz5X5ci0m4GZk8jzIb7UmFRd4cJ5ntbN9J7yjRrkrxVqZGH0JYPBcAQ7Z1HS8gW2wOm8h8O0tZjOzHpks3Yi5i6JmR3in1gSOTaCjw8y/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZt7PDBYz5X5ci0m4GZk8jzIb7UmFRd4cJ5ntbN9J7yjRrkrxVqZGH0JYPBcAQ7Z1HS8gW2wOm8h8O0tZjOzHpks3Yi5i6JmR3in1gSOTaCjw8y/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZt7PDBYz5X5ci0m4GZk8jzIb7UmFRc7cF4n-T--Y3nj1H6rkQ-YDz6d9OUc1c2NF-C_1O9xua818e77s_ByHZj6yIq4HbYnEOw0gYMMLK-kwCLiA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZt7PDBYz5X5ci0m4GZk8jzIb7UmFRc7cF4n-T--Y3nj1H6rkQ-YDz6d9OUc1c2NF-C_1O9xua818e77s_ByHZj6yIq4HbYnEOw0gYMMLK-kwCLiA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZt7PDBYz5X5ci0m4GZk8jzIb7UmFRZ7cRnk9bN9J7yjRrh_RY9YmygJoWccgBoYFGCq1DvlbjrjZW_tcvMm3U37iJ04yyJzEfkn1gSOcFbBYzk/512fx384f"
+        }
+      },
+      {
+        "name": "M4A4 | Mainframe",
+        "desc": "A black and white circuit board pattern has been applied.",
+        "lore": "At the heart of it all",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szLeC9B-dWilo-KhfPLILLdgG5D18l4jeHVyoD0mlOx5UQ9YDv7IoacdABvZl-CqQO2wOzr1JTvv5Wan3YxuiQm7CmJmhG100lSLrs4MXikTMk/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szLeC9B-dWilo-KhfPLILLdgG5D18l4jeHVyoD0mlOx5UQ9YDv7IoacdABvZl-CqQO2wOzr1JTvv5Wan3YxuiQm7CmJmhG100lSLrs4MXikTMk/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szLeC9B-dWilo-KhfPLILLdgG5D18h0juDU-LP5iUazrl1lNWvwItWTe1dvaVzRqFK4weq915bq7cvOn3phuSIj4nbanRW3hB1KcKUx0or5dq6O/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szLeC9B-dWilo-KhfPLILLdgG5D18h0juDU-LP5iUazrl1lNWvwItWTe1dvaVzRqFK4weq915bq7cvOn3phuSIj4nbanRW3hB1KcKUx0or5dq6O/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szLeC9B-dWilo-KhfPLILLdgG5D1810i__YyoD0mlOx5UdpYTryItWWIAM3Zl7R-QS6x-vr08Po6Zqcm3pgvykm7HbVmh2-0kxSLrs4AY7uTwM/512fx384f"
+        }
+      },
+      {
+        "name": "Galil AR | Cold Fusion",
+        "desc": "A toxic, pale blue hydrographic pattern has been applied.",
+        "lore": "Hypotheses are never proven",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteXI8oTht1i1uRQ5fW6iLdCddg85MF2F-1a6yeu8h8Lv6J3AnCFhuXRz5n_azUa00hhKPeZxxavJ-8H9S2k/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteXI8oTht1i1uRQ5fW6iLdCddg85MF2F-1a6yeu8h8Lv6J3AnCFhuXRz5n_azUa00hhKPeZxxavJ-8H9S2k/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteTE8YXghWu4qgE7NnelIdOdd1U-YF2EqVm8x72518K5tZ7AyXUyvyZz5X2Pyhzhh0tNbrFnm7XAHpmXpZc8/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteTE8YXghWu4qgE7NnelIdOdd1U-YF2EqVm8x72518K5tZ7AyXUyvyZz5X2Pyhzhh0tNbrFnm7XAHpmXpZc8/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteHE9Jrst1i1uRQ5fTvxLdfAcgJoZF7X8la4k7vvhpO16J_Az3o36HFx5n2MyRK2gBAaaLRxxavJmUOk92A/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Five-SeveN | Coolant",
+        "desc": "The slide features a teal hydrographic pattern of interweaving pipes.",
+        "lore": "A handheld heat rejection device",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWdY781lteXA54vwxgLs_BBoMj2iI9eVewI2ZlqFrwO7k-rn1sTq6p6cmyMwvChz7SvaykGpwUYbdF1haSI/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWdY781lteXA54vwxgLs_BBoMj2iI9eVewI2ZlqFrwO7k-rn1sTq6p6cmyMwvChz7SvaykGpwUYbdF1haSI/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWZU7Mxkh9bN9J7yjRqx8hBuZzjwJNLAdQM9MFjWqQe3wO-8hZW_6pjIwSQ27iMh4CvanBzin1gSOZ8Ao7Up/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWZU7Mxkh9bN9J7yjRqx8hBuZzjwJNLAdQM9MFjWqQe3wO-8hZW_6pjIwSQ27iMh4CvanBzin1gSOZ8Ao7Up/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWNU6dNoteXA54vwxlHm8xFlYTuldYeReg84NF7RrFO3wLvt0JTvv5qaz3QyuHJwsSmMlkepwUYbJpZduf4/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Facility Sketch",
+        "desc": "A grayscale hydrographic pattern resembling a nuclear power plant has been applied.",
+        "lore": "\"Your point of entry is the ventilation system\"",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWdY781lteXA54vwxgG18xE-Zm7yJdDAIQc5ZFDY_lXoyOy90MfutMzInCExuiUms3bczUGpwUYbVtpyyys/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWdY781lteXA54vwxgG18xE-Zm7yJdDAIQc5ZFDY_lXoyOy90MfutMzInCExuiUms3bczUGpwUYbVtpyyys/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWZU7Mxkh9bN9J7yjRqw_Us9MG-hcoSSJwVoZVuFrge7weu6h5Lptc_KzHdnvSklt3bZyxLin1gSObKbZrjQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWZU7Mxkh9bN9J7yjRqw_Us9MG-hcoSSJwVoZVuFrge7weu6h5Lptc_KzHdnvSklt3bZyxLin1gSObKbZrjQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWNU6dNoteXA54vwxlC3_0Q_YDv7d9KSJ1c5aFjVqVG6kri50J-0uM6cmyZquHIrsHzYnBypwUYblTFch-k/512fx384f"
+        }
+      },
+      {
+        "name": "Nova | Mandrel",
+        "desc": "A grayscale hydrographic pattern of interweaving pipes has been applied.",
+        "lore": "Shaping rounds with each shot",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPv9NLPFqWdQ-sJ0xLzF9NX02wXmqhY4Mjz7LI6QJFA8NFyErwK6wubo08O6vZmanHY27yM8pSGKdBP_UDI/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPv9NLPFqWdQ-sJ0xLzF9NX02wXmqhY4Mjz7LI6QJFA8NFyErwK6wubo08O6vZmanHY27yM8pSGKdBP_UDI/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPrxN7LEm1Rd6dd2j6fAoIqm2AK280A4YjihIIaSJwNtY1DQr1box-rqhJTquJrAwXthvnIl-z-DyCDq5n8c/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPrxN7LEm1Rd6dd2j6fAoIqm2AK280A4YjihIIaSJwNtY1DQr1box-rqhJTquJrAwXthvnIl-z-DyCDq5n8c/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqP_xMq3IqWdQ-sJ0xOjE89mg3QXsr0VuY2yncIWUJ1BtaA7S_1brwOu8hJC_7cnInXcwuyc8pSGKpFDODoQ/512fx384f"
+        }
+      },
+      {
+        "name": "UMP-45 | Facility Dark",
+        "desc": "A blue hydrographic pattern resembling a nuclear power plant has been applied.",
+        "lore": "Cut the lights",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3czFX6cyknY6fqPX4Jr7Dk29u5Mx2gv3--Y3nj1H6-hVuNm2gJ47De1A3NF-F-wW2wOu-0MS57cvAwCFnsylx4CmLmxyygAYMMLL8emNMUA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3czFX6cyknY6fqPX4Jr7Dk29u5Mx2gv3--Y3nj1H6-hVuNm2gJ47De1A3NF-F-wW2wOu-0MS57cvAwCFnsylx4CmLmxyygAYMMLL8emNMUA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3czFX6cyknY6fqPX4Jr7Dk29u5cB1g_zMyoD0mlOx5UQ5Y27wdoHAJlBtYg3S-Qe_l-vqjJC16pSfzXVl6CEg7Hrbm0O-iR5SLrs46EUVrd4/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3czFX6cyknY6fqPX4Jr7Dk29u5cB1g_zMyoD0mlOx5UQ5Y27wdoHAJlBtYg3S-Qe_l-vqjJC16pSfzXVl6CEg7Hrbm0O-iR5SLrs46EUVrd4/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3czFX6cyknY6fqPX4Jr7Dk29u4MBwnPD--Y3nj1H6r0BrMTynddCQclM9aVnQ-lTow-rt1JHo6ZqfyHpj6yEitHjamEbj0gYMMLKwQbnM1w/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Facility Draft",
+        "desc": "It has been covered in a red hydrographic pattern resembling a nuclear power plant.",
+        "lore": "Creating energy from atoms",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLfYkWNF18lwmO7Eu43zjgGy8hFsa230IIeWIwc5ZVGF8le9x7q51p_ttZ-dyCc3vSd05irD30vg8bZaKmQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLfYkWNF18lwmO7Eu43zjgGy8hFsa230IIeWIwc5ZVGF8le9x7q51p_ttZ-dyCc3vSd05irD30vg8bZaKmQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLbUkmJE5fp9i_vG8ML33FXm_ko4amCicNCce1RtaAyG8gK4x-i91JG9vpvIwHE1uSIgtH6MgVXp1h2lFzCQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLbUkmJE5fp9i_vG8ML33FXm_ko4amCicNCce1RtaAyG8gK4x-i91JG9vpvIwHE1uSIgtH6MgVXp1h2lFzCQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLPUl31I18lwmO7Eu42h3gOwrUptYWqgIoOVcAE7NQnVqQLol7vq0cPptMycyXRj63Uq7XzD30vgVq_VVm4/512fx384f"
+        }
+      }
+    ]
+  }
+}

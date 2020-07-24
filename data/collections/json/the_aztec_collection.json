@@ -1,0 +1,97 @@
+{
+  "name": "The Aztec Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_aztec_collection.png?id=31a659be540e6755129e",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [],
+    "Mil-Spec Skins": [
+      {
+        "name": "Tec-9 | Ossified",
+        "desc": "It has been painted using a transparent lime green abstract hydrographic over a metallic base coat.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szHYi5L6sWJmImMn-PLP7rDkW4fupxz2-yVpYn2igHj80I5Nm-lIIHHdgA-NVvT_VPsxL3pg5a96JrPwWwj5HfS2E_C_w/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szHYi5L6sWJmImMn-PLP7rDkW4fupxz2-yVpYn2igHj80I5Nm-lIIHHdgA-NVvT_VPsxL3pg5a96JrPwWwj5HfS2E_C_w/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "AK-47 | Jungle Spray",
+        "desc": "It has been spray-painted freehand with short, thick lines in contrasting colors.",
+        "lore": "Perfect for the insurgent on the go",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zbYS9D9eO8gY6Mm_LLP7LWnn9u5MRjjeyP9Iqg2gCxqkVtMTzxLdfHegdqNwrT-FC8xum9jJ7tvpzIynFr7nUh4mGdwUJ0ApgG6g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zbYS9D9eO8gY6Mm_LLP7LWnn9u5MRjjeyP9Iqg2gCxqkVtMTzxLdfHegdqNwrT-FC8xum9jJ7tvpzIynFr7nUh4mGdwUJ0ApgG6g/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zbYS9D9eO8gY6Mm_LLPr7Vn35c18lwmO7Eu9ij2gXk_UZuYW36JtCXdlU5M13V-Qe5le_rgcC6v5nIm3tn7HYn4yvD30vgFUbvgVU/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zbYS9D9eO8gY6Mm_LLPr7Vn35c18lwmO7Eu9ij2gXk_UZuYW36JtCXdlU5M13V-Qe5le_rgcC6v5nIm3tn7HYn4yvD30vgFUbvgVU/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zbYS9D9eO8gY6Mm_LLO77QgHJu5MRjjeyPoY6higXm8kBqazuhItKRIQc6NV7UrFK5w-a5jMe07c-dmHVmviAq5GGdwULfUvNkPw/512fx384f"
+        }
+      },
+      {
+        "name": "M4A4 | Jungle Tiger",
+        "desc": "It has been painted using a jungle tiger hydrographic.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszeTilL69mkq4yCkP_gDLfQhGxUpsZ1jLrHrYmh2wCxqkBqa23xcteQcAZtMAqFqVm_w7u-18e_6p-fmHd9-n51Fr9hoF8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszeTilL69mkq4yCkP_gDLfQhGxUpsZ1jLrHrYmh2wCxqkBqa23xcteQcAZtMAqFqVm_w7u-18e_6p-fmHd9-n51Fr9hoF8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszeTilL69mkq42Ok_7hPoTdl3lW7Ysk3b7E9Nn02QzgqkFrZGiiJtCVdgZoN1nZrlS3xurqgJW-6sjMwSQxpGB8sj55H4re/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszeTilL69mkq42Ok_7hPoTdl3lW7Ysk3b7E9Nn02QzgqkFrZGiiJtCVdgZoN1nZrlS3xurqgJW-6sjMwSQxpGB8sj55H4re/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszeTilL69mkq4iOluHtDLfQhGxUpsZzjrqUoYr32wSw-hJlMWmlItTBegY-N1nX81HvlO7o1JHvvZXJmnZ9-n51JDYaak0/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "SSG 08 | Lichen Dashed",
+        "desc": "It has been spray-painted using short pieces of tape as stencils.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YjVN_siJgIGbksj4OrzZglRd6dd2j6fHp4qg3APi_RVrYTr7LIfHIQY8YQrZ-FXslOu-0Ja-usman3Jlv3Rz-z-DyBPTG33v/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YjVN_siJgIGbksj4OrzZglRd6dd2j6fHp4qg3APi_RVrYTr7LIfHIQY8YQrZ-FXslOu-0Ja-usman3Jlv3Rz-z-DyBPTG33v/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YjVN_siJgIGbksj5Nr_Yg2Zu5MRjjeyPoNz3jgbt-hA6Zmz0IY-RelQ5Y1DY-VO8xLvrjJC5vZicySMxuSEj42GdwUJ9eEZ5nQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YjVN_siJgIGbksj5Nr_Yg2Zu5MRjjeyPoNz3jgbt-hA6Zmz0IY-RelQ5Y1DY-VO8xLvrjJC5vZicySMxuSEj42GdwUJ9eEZ5nQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YjVN_siJgIGbksj8NrrHj1Rd6dd2j6eWrI_z0FHhqEM4YW3zcICQJwM2NQ3W_wK4w-680J-5upvAnXpr7CYi-z-DyGxs8ZNf/512fx384f"
+        }
+      },
+      {
+        "name": "Five-SeveN | Jungle",
+        "desc": "It has individual parts spray-painted solid colors in a jungle color scheme.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N09ajmoeHksj4OrzZglRd6dd2j6fFrNTw2gHh-UtvMmGgctKVe1dvMgrS_1W-xL_tg8O5tJ2cyiZiuCl0-z-DyOSIRCS_/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N09ajmoeHksj4OrzZglRd6dd2j6fFrNTw2gHh-UtvMmGgctKVe1dvMgrS_1W-xL_tg8O5tJ2cyiZiuCl0-z-DyOSIRCS_/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N09ajmoeHksj5Nr_Yg2Zu5MRjjeyP99msiwDnrUM_ZG_xI9CUewNrYljR8lC8kOq61JW8tZycwHI3uCIh7WGdwULVYjnE5g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N09ajmoeHksj5Nr_Yg2Zu5MRjjeyP99msiwDnrUM_ZG_xI9CUewNrYljR8lC8kOq61JW8tZycwHI3uCIh7WGdwULVYjnE5g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N09ajmoeHksj8NrrHj1Rd6dd2j6fEp9T031Dg_kJlNTvyco-ddQ9tYVDQ_Fa7lO68jMC86MvOynZgvCQr-z-DyKRZB5bD/512fx384f"
+        }
+      },
+      {
+        "name": "Nova | Forest Leaves",
+        "desc": "It has been spray-painted using leaves as stencils.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmImMn-PLP7rDkW4f6pIkieuR9t330Aa3_xBtMmz2LdCVIAdqNFvR-1Ltl-fpgpa-tZzOz2wj5HcauyDGAQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmImMn-PLP7rDkW4f6pIkieuR9t330Aa3_xBtMmz2LdCVIAdqNFvR-1Ltl-fpgpa-tZzOz2wj5HcauyDGAQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmYWPnuL5DLfQhGxUppFyj7qRptykiQewrxdoajz2LYLHc1U_Zw7R_gW8k-m6gZ67v8nPnCF9-n51YbtfjYE/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmYWPnuL5DLfQhGxUppFyj7qRptykiQewrxdoajz2LYLHc1U_Zw7R_gW8k-m6gZ67v8nPnCF9-n51YbtfjYE/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JnIWKge7LP7rDkW4fu8coiL2XoNWj0AKw_xI_MG76ddOccVA4MgrT_Vm7w-no1MLuvZnJy2wj5HdOrw6mEg/512fx384f"
+        }
+      }
+    ]
+  }
+}

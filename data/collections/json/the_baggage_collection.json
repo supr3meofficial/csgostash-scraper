@@ -1,0 +1,228 @@
+{
+  "name": "The Baggage Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_baggage_collection.png?id=f60a513e899dc20d74f1",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [
+      {
+        "name": "AK-47 | Jet Set",
+        "desc": "Its stock has been wrapped in brown leather. This weapon has been to a lot of cities.",
+        "lore": "Anyone paying close attention will connect the dots and see what she did. We don't have much time to find a solution... - A Father's Love Part 1",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszfdDFO08iklZaOm_LwDLrawjxu5Mx2gv3--Y3nj1H6_ENkMmzwddWRdQVqZguE-lO-wunngpDttJ-bzyBn6SAi4S2LlkS0gAYMMLJosXbvAg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszfdDFO08iklZaOm_LwDLrawjxu5Mx2gv3--Y3nj1H6_ENkMmzwddWRdQVqZguE-lO-wunngpDttJ-bzyBn6SAi4S2LlkS0gAYMMLJosXbvAg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszfdDFO08iklZaOm_LwDLrawjxu5cB1g_zMyoD0mlOx5RdlYz3wcNWRdQM7YF3Z_QC6k7280ZTouZzNwXcyuyAr4HuJmxG_gUpSLrs4hFb_dAQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszfdDFO08iklZaOm_LwDLrawjxu5cB1g_zMyoD0mlOx5RdlYz3wcNWRdQM7YF3Z_QC6k7280ZTouZzNwXcyuyAr4HuJmxG_gUpSLrs4hFb_dAQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszfdDFO08iklZaOm_LwDLrawjxu4MBwnPD--Y3nj1H68kc5MGnycIOXcwQ7Z17W-lG5l-_sgpe-tMyYnyRhsilx5H3fnhbigwYMMLIrBiDPfg/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Desert Eagle | Pilot",
+        "desc": "It has a brass inlay of a pilot's wings.",
+        "lore": "Assume crash positions",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTi1L4NOiq4SOlvD4NoTdn2xZ_Pp9i_vG8MKj2FbkrkRpZjylJYKWcwdvaVqG_we9xOftjcfovZWdmyBl63UgtHfbgVXp1nKhEEv8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTi1L4NOiq4SOlvD4NoTdn2xZ_Pp9i_vG8MKj2FbkrkRpZjylJYKWcwdvaVqG_we9xOftjcfovZWdmyBl63UgtHfbgVXp1nKhEEv8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTi1L4NOiq4SOlvD4NoTck29Y_chOhujT8om73wGy-EppY2-id47BJwVsNFnT8gC6xO68hJa4vJvAyyZivSQj43vfmwv3308jOdkizA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTi1L4NOiq4SOlvD4NoTck29Y_chOhujT8om73wGy-EppY2-id47BJwVsNFnT8gC6xO68hJa4vJvAyyZivSQj43vfmwv3308jOdkizA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTi1L4NOiq4SOlvD4NoTZk2pH8fp9i_vG8MKs2FLn_UI_YG77dYOWIQJoY1rZ_le7wb-515G_u5_OyXAwuXN0tnnUgVXp1gq5tpwP/512fx384f"
+        }
+      },
+      {
+        "name": "AK-47 | First Class",
+        "desc": "Its stock has been wrapped in green leather.",
+        "lore": "Mimosa not included",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzhH4uO6kYGfn_LmDLrawjxu5Mx2gv3--Y3nj1H68kVuYT_zcISde1I3aQmB_1G8wua8hcW1uZvPynMxvSNwtnzcmBTi1QYMMLI7CTKq-A/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzhH4uO6kYGfn_LmDLrawjxu5Mx2gv3--Y3nj1H68kVuYT_zcISde1I3aQmB_1G8wua8hcW1uZvPynMxvSNwtnzcmBTi1QYMMLI7CTKq-A/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzhH4uO6kYGfn_LmDLrawjxu5cB1g_zMyoD0mlOx5UU5azvyJYeXcgU6NVHUqQW-kurs0JDquZScySRh7yYksCzUnR3mgR9SLrs4VP3n5-U/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzhH4uO6kYGfn_LmDLrawjxu5cB1g_zMyoD0mlOx5UU5azvyJYeXcgU6NVHUqQW-kurs0JDquZScySRh7yYksCzUnR3mgR9SLrs4VP3n5-U/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzhH4uO6kYGfn_LmDLrawjxu4MBwnPD--Y3nj1H6qhZpamjwLdeQJwY-aFjS8wW9ybq-18O578idzidlu3Iht3fVzBXjgwYMMLIg_UuXVQ/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Sawed-Off | First Class",
+        "desc": "Its stock has been wrapped in green leather.",
+        "lore": "Mimosa not included",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9686zkY60m_L1J7PUhFRC6dJ0jubH87P5gVO8vywwMiukcZiUdFU2ZFvU-1HvxOjmg565tMzNnSFgsiN05XuOnEGy1BxOPOVng_afVxzAULYfMmtc/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9686zkY60m_L1J7PUhFRC6dJ0jubH87P5gVO8vywwMiukcZiUdFU2ZFvU-1HvxOjmg565tMzNnSFgsiN05XuOnEGy1BxOPOVng_afVxzAULYfMmtc/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9686zkY60m_L1J7PUhFRC6dJ0jubH87P4jVC9vh4DPzixc9OLJANsMFyBqAC6yO650Me0tcucziZh7nMh5H-Onhfl1RFEb-Vsg_eXT0LeWfJbKXp_jg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9686zkY60m_L1J7PUhFRC6dJ0jubH87P4jVC9vh4DPzixc9OLJANsMFyBqAC6yO650Me0tcucziZh7nMh5H-Onhfl1RFEb-Vsg_eXT0LeWfJbKXp_jg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9686zkY60m_L1J7PUhFRC6dJ0jubH87P9jVWisiwwMiukcZiccgFsZl7YqVTok-vtgpG7upXNmnE2uCkrt3nayxG-hBxJauQ7hveaVxzAUFymND_i/512fx384f"
+        }
+      },
+      {
+        "name": "XM1014 | Red Leather",
+        "desc": "Its stock and grip have been wrapped in red leather.",
+        "lore": "Pack your baags. Let's go kill that sonofabitch... - The Oni and The Valkyrie Part 2",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTjFH7ci-kZK0j_qlY-qFqWdY781lteXA54vwxgC2-RVqNW6ncoHBcgVoYQqGqFO5wLru0Za675TNwSAxsnN2ti3dzBWpwUYbl9Np7Yg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTjFH7ci-kZK0j_qlY-qFqWdY781lteXA54vwxgC2-RVqNW6ncoHBcgVoYQqGqFO5wLru0Za675TNwSAxsnN2ti3dzBWpwUYbl9Np7Yg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTjFH7ci-kZK0j_qlY-qFqWZU7Mxkh9bN9J7yjRq2-ERlYm3wddCddQE2aF-G-lK6lejv0ZPvuc6cwCA16HR2ti2Jn0e_n1gSOeVLPKSS/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTjFH7ci-kZK0j_qlY-qFqWZU7Mxkh9bN9J7yjRq2-ERlYm3wddCddQE2aF-G-lK6lejv0ZPvuc6cwCA16HR2ti2Jn0e_n1gSOeVLPKSS/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTjFH7ci-kZK0j_qlY-qFqWNU6dNoteXA54vwxgKyqUBqYzv7d9OSdlA_YgrY-gDtwO690MO8vsjPynJjvihz43jbyRapwUYbsObEKnk/512fx384f"
+        }
+      },
+      {
+        "name": "USP-S | Business Class",
+        "desc": "It has been custom painted with colors and patterns inspired by vintage luggage, and had some parts wrapped in brown leather.",
+        "lore": "Some people don't just want extra leg room... they want peace and quiet",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq4yekPD1NL7ug3hBpdZOhuDG_ZjKhFWmrBZyYDind9eWIQ47N12Br1PswebsgZ617ZzJzHs2uyIn4XvcmEPhhhsfZvsv26JmmzmVIg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq4yekPD1NL7ug3hBpdZOhuDG_ZjKhFWmrBZyYDind9eWIQ47N12Br1PswebsgZ617ZzJzHs2uyIn4XvcmEPhhhsfZvsv26JmmzmVIg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq4yekPD1NL7ug3hBpdZOh-zF_Jn4t1i1uRQ5fWnyd4LAcAJoZwnV-QXqyOvs0JG_vsnMmiBmvicm5nePmEbhhUsebeVxxavJxd3zero/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq4yekPD1NL7ug3hBpdZOh-zF_Jn4t1i1uRQ5fWnyd4LAcAJoZwnV-QXqyOvs0JG_vsnMmiBmvicm5nePmEbhhUsebeVxxavJxd3zero/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq4yekPD1NL7ug3hBpdZOguzA45XKhFWmrBZyZDv7ddXDJlU4MlnUq1i-k-y6gpC7vcjJmHVgvnEm4inZnB2y0xEZP_sv26KwWdsaag/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "P2000 | Coach Class",
+        "desc": "It has been painted with a plaid hydrographic and parts of the grip have been wrapped in brown leather.",
+        "lore": "It's not fancy, but it gets you where you need to go",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJO-duxlYeOqOemY-uBqWdY781lteXA54vwxgKwrRA5Mm7wddCdIwVtN1zS-lW8l7zogMTpupTKzXcw7CUn53remxKpwUYbnlIQyvE/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJO-duxlYeOqOemY-uBqWdY781lteXA54vwxgKwrRA5Mm7wddCdIwVtN1zS-lW8l7zogMTpupTKzXcw7CUn53remxKpwUYbnlIQyvE/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJO-duxlYeOqOemY-uBqWZU7Mxkh9bN9J7yjRrh_0c_MGqictKWIQ8-MwyE-1nskOjuhMK0uc_NnXJg6yR2tnbZzR3mn1gSOTDzBlT1/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJO-duxlYeOqOemY-uBqWZU7Mxkh9bN9J7yjRrh_0c_MGqictKWIQ8-MwyE-1nskOjuhMK0uc_NnXJg6yR2tnbZzR3mn1gSOTDzBlT1/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJO-duxlYeOqOemY-uBqWNU6dNoteXA54vwxgzlqBBkN26mJ9OXewdsNV2FrwW2xry915fu6svJzSNluiYgtyzUnRSpwUYbE8hlZMc/512fx384f"
+        }
+      },
+      {
+        "name": "MAC-10 | Commuter",
+        "desc": "It has been painted with a plaid hydrographic and partly wrapped in faux crocodile leather.",
+        "lore": "They took the bait, let's move... - Elliott Kingsman, Mercenary",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fShF692xkb-GlvSlY4Tdn2xZ_Pp9i_vG8MLx2AGx_UZkN2qnJYfBJwQ7YwzS-wC2w7jp1pS67ZqbzyFnvXFx5CuLgVXp1lWXpFh8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fShF692xkb-GlvSlY4Tdn2xZ_Pp9i_vG8MLx2AGx_UZkN2qnJYfBJwQ7YwzS-wC2w7jp1pS67ZqbzyFnvXFx5CuLgVXp1lWXpFh8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fShF692xkb-GlvSlY4Tck29Y_chOhujT8om731birhE_N2zzd9KRelRrMA6G_wfvx73sgpPp7c7MmHJjuXF043yIlwv330-Yi5thhA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fShF692xkb-GlvSlY4Tck29Y_chOhujT8om731birhE_N2zzd9KRelRrMA6G_wfvx73sgpPp7c7MmHJjuXF043yIlwv330-Yi5thhA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fShF692xkb-GlvSlY4TZk2pH8fp9i_vG8MLw3QCxr0Roa2-iJdSUJAJtZF-C8wO-xOi7g8Tv7pmcnyNm6CJ27HnagVXp1iC6WQ47/512fx384f"
+        }
+      },
+      {
+        "name": "SG 553 | Traveler",
+        "desc": "It has been custom painted in a stripe design inspired by vintage luggage, and had some parts wrapped in brown leather.",
+        "lore": "Everyone has a story, and Javier will pry it out before he kills you",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3fShF692xkb-YkKKhYITdn2xZ_Pp9i_vG8MKm3wC28kdlYGH3J46QcVdoMlHR-QC_xu3q15e5uMuamyA36HIks3fUgVXp1pi1gC6W/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3fShF692xkb-YkKKhYITdn2xZ_Pp9i_vG8MKm3wC28kdlYGH3J46QcVdoMlHR-QC_xu3q15e5uMuamyA36HIks3fUgVXp1pi1gC6W/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3fShF692xkb-YkKKhYITck29Y_chOhujT8om73QXn_Ec5YW3yIIeWdAVoYArX_le7wu7v1pDt6s7Az3dhvHYj4XzdyQv3309MVOELcQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3fShF692xkb-YkKKhYITck29Y_chOhujT8om73QXn_Ec5YW3yIIeWdAVoYArX_le7wu7v1pDt6s7Az3dhvHYj4XzdyQv3309MVOELcQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3fShF692xkb-YkKKhYITZk2pH8fp9i_vG8MLxiVCx80tlZjulJo-TJA9tZFrX-Vjtxeq-gZO8upzBmHNisyYlsH-MgVXp1iPo76WP/512fx384f"
+        }
+      },
+      {
+        "name": "P90 | Leather",
+        "desc": "Its stock has been wrapped in brown leather.",
+        "lore": "Don't worry, the safety is TSA compliant",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PHafipM09CzlZSDkuXLI-KBqWdY781lteXA54vwxgLt_0A-ZGHxcofGcgZqNVHT-QLvwru6hsW9tZrNwCcyuCQr4XfUlkapwUYbFW8xFOk/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PHafipM09CzlZSDkuXLI-KBqWdY781lteXA54vwxgLt_0A-ZGHxcofGcgZqNVHT-QLvwru6hsW9tZrNwCcyuCQr4XfUlkapwUYbFW8xFOk/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PHafipM09CzlZSDkuXLI-KBqWZU7Mxkh9bN9J7yjRrs-UE4YzuidoGVIwVqMFzZ-ATox-rq1se6vJWdzHNnvycitHvenh2xn1gSOQqBV1kx/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PHafipM09CzlZSDkuXLI-KBqWZU7Mxkh9bN9J7yjRrs-UE4YzuidoGVIwVqMFzZ-ATox-rq1se6vJWdzHNnvycitHvenh2xn1gSOQqBV1kx/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PHafipM09CzlZSDkuXLI-KBqWNU6dNoteXA54vwxlfn-hA6ZGv6JNWTc1c8Mg7W_QfrlL3qh5HpvcuaySNm7iYk5HvenBapwUYbbbqy89s/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "MP7 | Olive Plaid",
+        "desc": "It has been painted with a hydrographic in a beige and olive green plaid pattern.",
+        "lore": "I like it. It brings out my eyes on camera... - Rona Sabri, Rising Star",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957OPEcDRGveO6nYeDg8j4MqnWkyUEvscjjLDC94-jjA21_BI9NmqgJdPGIwI_YF3Rq1O-x-m-hJK-u8jB1zI97RVFjZ7n/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957OPEcDRGveO6nYeDg8j4MqnWkyUEvscjjLDC94-jjA21_BI9NmqgJdPGIwI_YF3Rq1O-x-m-hJK-u8jB1zI97RVFjZ7n/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957OPEcDRGveO7kYSCgvrLP7rDkW4fsZx10uvH996ijQzhqhA5amGndoaVIQI9ZF7T8le-xee7gpO9us-cy2wj5Hdi4LXS9g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957OPEcDRGveO7kYSCgvrLP7rDkW4fsZx10uvH996ijQzhqhA5amGndoaVIQI9ZF7T8le-xee7gpO9us-cy2wj5Hdi4LXS9g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957OPEcDRGveO-kYGdjsj4MqnWkyUEv5Yi27iT8d2tjQa3r0BsajynddXBJlBoYwzUqFG2lLq9hJLqtZvO1zI97Z4Z4Fak/512fx384f"
+        }
+      },
+      {
+        "name": "SSG 08 | Sand Dune",
+        "desc": "It has individual parts spray-painted solid colors in a sand dune color scheme.",
+        "lore": "With Turner dead, we have a new priority: rescue Alex Kincaide - Felix Riley, Commanding Officer",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3YjxM6OO6nYeDg8j4MqnWkyUGucZz377DrNXwjQ3hqkpuYGjzdoLDdwNqZl_Q8wPtxLjq1sW-uZic1zI97bYxd1zh/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3YjxM6OO6nYeDg8j4MqnWkyUGucZz377DrNXwjQ3hqkpuYGjzdoLDdwNqZl_Q8wPtxLjq1sW-uZic1zI97bYxd1zh/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3YjxM6OO7kYSCgvrLP7rDkW4fu5Ny0-vDrdqgiQ23_0s4N2_6IITAdVc_Zl6C-lO6w7jnh5S6u5mawWwj5HentL4ErQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3YjxM6OO7kYSCgvrLP7rDkW4fu5Ny0-vDrdqgiQ23_0s4N2_6IITAdVc_Zl6C-lO6w7jnh5S6u5mawWwj5HentL4ErQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3YjxM6OO-kYGdjsj4MqnWkyUJ7MMk2ryS897x2APmrktvNWz2IYbDJlQ7M1DS_FK5lOrrjJW06pXI1zI97QNRLPFy/512fx384f"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Green Plaid",
+        "desc": "It has been painted with a hydrographic in a taupe and blue-green plaid pattern.",
+        "lore": "It's not a bagpipe, but it plays a song before every funeral",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3YTFD5djkq4yCkP_gDLfQhGxUpp0jj7qYpI703gW3-0puNjqmJoCQJwVsNQ3R_FO9xr-9gMe5vZ3IynJ9-n51JVVo2gs/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3YTFD5djkq4yCkP_gDLfQhGxUpp0jj7qYpI703gW3-0puNjqmJoCQJwVsNQ3R_FO9xr-9gMe5vZ3IynJ9-n51JVVo2gs/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3YTFD5djkq42Ok_7hPoTdl3lW7Ysl0rCQod-s0Qbl-0I_YGGlcdPBcwA3aVnQr1W3xru-jZ_pv5qay3YxpGB8skTn1mwq/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3YTFD5djkq42Ok_7hPoTdl3lW7Ysl0rCQod-s0Qbl-0I_YGGlcdPBcwA3aVnQr1W3xru-jZ_pv5qay3YxpGB8skTn1mwq/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3YTFD5djkq4iOluHtDLfQhGxUppQg2-3H8Yrz3FKyrhA5NWz2cIbHJgQ3Ml3T_le3lOm615-77ZifziZ9-n51S3tOF4E/512fx384f"
+        }
+      },
+      {
+        "name": "G3SG1 | Contractor",
+        "desc": "It has individual parts spray-painted tan, navy and dark green.",
+        "lore": "Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwPz3YTBB09C_k4ifqPv1IbzU2D4Hu8Eo3rqQoI2giQKy_kRsYGCgd9LDd1Q4ZlqCrFe7lejvjcW0vZTXiSw0WZXUjs8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwPz3YTBB09C_k4ifqPv1IbzU2D4Hu8Eo3rqQoI2giQKy_kRsYGCgd9LDd1Q4ZlqCrFe7lejvjcW0vZTXiSw0WZXUjs8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwPz3YTBB09GzkImemsj4MqnWkyUHvcQi37yYp4-m3gOy8kRsZT-lJoWVc1RoN1DX_AK_w-zujJTt6MzL1zI97aNqR3YJ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwPz3YTBB09GzkImemsj4MqnWkyUHvcQi37yYp4-m3gOy8kRsZT-lJoWVc1RoN1DX_AK_w-zujJTt6MzL1zI97aNqR3YJ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwPz3YTBB09SzlZaSqPv1IbzU2GkHupx0jOyXrNitiQDs80c_Nm3wcITEcwM-Y1HW8lW9xevqjZW8uZ_XiSw0PMYtMsY/512fx384f"
+        }
+      },
+      {
+        "name": "MP9 | Green Plaid",
+        "desc": "It has been painted with a hydrographic in a taupe and blue-green plaid pattern.",
+        "lore": "It's not a bagpipe, but it plays a song before every funeral",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957OPEcDRGvuO6nYeDg8j4MqnWkyUBvccp3eqWoomgjge38kI_YGj0co-XJFdqZljX8lm3wLjrgce4uZ7B1zI97bFHbTTR/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957OPEcDRGvuO6nYeDg8j4MqnWkyUBvccp3eqWoomgjge38kI_YGj0co-XJFdqZljX8lm3wLjrgce4uZ7B1zI97bFHbTTR/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957OPEcDRGvuO7kYSCgvrLP7rDkW4fuJJ127HD89z33FC280Vua2zwIoWRJ1U_ZFmD-FK4wL_vhse8vpTMyGwj5HeAlCm40w/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957OPEcDRGvuO7kYSCgvrLP7rDkW4fuJJ127HD89z33FC280Vua2zwIoWRJ1U_ZFmD-FK4wL_vhse8vpTMyGwj5HeAlCm40w/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957OPEcDRGvuO-kYGdjsj4MqnWkyUB65R12LrDp9703wPmr0M6Y2v0doaXJlU6ZlrT-lW3ye3rhsC0v8yc1zI97asWFHsw/512fx384f"
+        }
+      }
+    ]
+  }
+}

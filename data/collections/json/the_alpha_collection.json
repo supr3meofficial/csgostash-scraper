@@ -1,0 +1,232 @@
+{
+  "name": "The Alpha Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_alpha_collection.png?id=be612b28a90313b83bf2",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "FAMAS | Spitfire",
+        "desc": "This memento from Cache has been painted with a shark's mouth in the style of aircraft nose art.",
+        "lore": "Jester's dead",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3Yi1L-Nq_hoW0kfb5MqjulHlQ_spOhuDG_ZjKhFWmrBZyMjr3IYPHcgE6aF_T-QO-k7q80Ja9tc7JnHIwvSQg4n-JmR2-1EpFa_sv26I6Y2Js3w/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3Yi1L-Nq_hoW0kfb5MqjulHlQ_spOhuDG_ZjKhFWmrBZyMjr3IYPHcgE6aF_T-QO-k7q80Ja9tc7JnHIwvSQg4n-JmR2-1EpFa_sv26I6Y2Js3w/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3Yi1L-Nq_hoW0kfb5MqjulHlQ_spOh-zF_Jn4t1i1uRQ5fWGlcYGQcAA_MlqC-VG6krzt1p7p6Z7AzHA3vyMq43venB3m1xtNZ7FxxavJVVopJB0/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3Yi1L-Nq_hoW0kfb5MqjulHlQ_spOh-zF_Jn4t1i1uRQ5fWGlcYGQcAA_MlqC-VG6krzt1p7p6Z7AzHA3vyMq43venB3m1xtNZ7FxxavJVVopJB0/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3Yi1L-Nq_hoW0kfb5MqjulHlQ_spOguzA45XKhFWmrBZyZGnwdY-TJwI9YFnZ-AK2we-5jZDp7Z7Az3Zmvikrti7emBPj1B1NPfsv26JoxUt0PQ/512fx384f"
+        }
+      },
+      {
+        "name": "SCAR-20 | Emerald",
+        "desc": "This memento from Chinatown has been painted with a chrome base coat and candied in transparent emerald anodized effect paint.",
+        "lore": "This is what the great Sebastien Hennequet has been reduced to? A nagging school marm? What happened to you... - The Teacher and The Iconoclast Part 2",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLGTjhP6c63mIS0leX1JbTummJW4NFOhujT8om72VKwrxI_YW-nIoSddgI7MwyD81m7x7vvgcS56ZSaz3s1vyIk5H3dzQv3309KbCHaJg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLGTjhP6c63mIS0leX1JbTummJW4NFOhujT8om72VKwrxI_YW-nIoSddgI7MwyD81m7x7vvgcS56ZSaz3s1vyIk5H3dzQv3309KbCHaJg/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "MAG-7 | Hazard",
+        "desc": "This memento from Siege has been spray-painted in a hazard stripe pattern.",
+        "lore": "DO NOT CROSS",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhzw8zAcCdD_tiJlpKKgfjLP7LWnn9u5MRjjeyPoN3z0ADn-xI5Mm31dY7DewVrZFjUrAO3lL_mgJbv6JrOy3tgunQksWGdwUJHW2a-Ug/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhzw8zAcCdD_tiJlpKKgfjLP7LWnn9u5MRjjeyPoN3z0ADn-xI5Mm31dY7DewVrZFjUrAO3lL_mgJbv6JrOy3tgunQksWGdwUJHW2a-Ug/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhzw8zAcCdD_tiJlpKKgfjLPr7Vn35c18lwmO7Eu9WtjQDj-UFvazz6LYWTcgA3MlHW_1C2wrzrjZW-vpTOyHAw6SV25i7D30vgiaD73As/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhzw8zAcCdD_tiJlpKKgfjLPr7Vn35c18lwmO7Eu9WtjQDj-UFvazz6LYWTcgA3MlHW_1C2wrzrjZW-vpTOyHAw6SV25i7D30vgiaD73As/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhzw8zAcCdD_tiJlpKKgfjLO77QgHJu5MRjjeyPrN-hjQyy-BJtYTqlIIPDe1M9N1mC_QLsxLruhpa76pvLyyFq7nQlsWGdwULZPDY_RA/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Anodized Navy",
+        "desc": "This memento from Ali has been painted with a chrome base coat and candied in transparent navy anodized effect paint.",
+        "lore": "I already lost one man to Valeria's lies... I don't intend to lose anyone else - Felix Riley, Commanding Officer",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZu7P3JZyR97s63go-0m_7zO6_ummpD78A_0rmUot-t0Fblr0RrZGn6ItWVcQBoYArSrlnskOe80Je5vZ3Kz3Vr7j5iuygOcTs-1w/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZu7P3JZyR97s63go-0m_7zO6_ummpD78A_0rmUot-t0Fblr0RrZGn6ItWVcQBoYArSrlnskOe80Je5vZ3Kz3Vr7j5iuygOcTs-1w/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Rust Coat",
+        "desc": "This memento from Siege is still perfectly operational although the exterior surfaces have rusted.",
+        "lore": "Scars build character",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0uL3YilH6dCJlpKKgfjLP7LWnn9u5MRjjeyP9I_w3QbtrhZqN2mmcdDAewc7aA2BrFG6wbzsg5Lt6JXMyiEw7Cgr5mGdwUKY38KV5g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0uL3YilH6dCJlpKKgfjLP7LWnn9u5MRjjeyP9I_w3QbtrhZqN2mmcdDAewc7aA2BrFG6wbzsg5Lt6JXMyiEw7Cgr5mGdwUKY38KV5g/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0uL3YilH6dCJlpKKgfjLPr7Vn35c18lwmO7Eu4nw3ALk-xVqYG6nJdWdIAQ_ZV7V-le9xuvr0Z7ovszPyiA36SUj5SrD30vgN55mNIs/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0uL3YilH6dCJlpKKgfjLPr7Vn35c18lwmO7Eu4nw3ALk-xVqYG6nJdWdIAQ_ZV7V-le9xuvr0Z7ovszPyiA36SUj5SrD30vgN55mNIs/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0uL3YilH6dCJlpKKgfjLO77QgHJu5MRjjeyP9Ir3igG1-0c6ZWj6IIaUI1c9MwmGrgTtkue618W-tJzMnydlvSEntGGdwULJEoZhUA/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Negev | Palm",
+        "desc": "This memento from Gwalior been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
+        "lore": "Beautiful today...ashes tomorrow",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFfwOP3YTxO4eO0hoGdmMj4OrzZglRd6dd2j6eSp9ukiQyxrxU-Z2unJYCWJAc2MFHV_QPtwOjt0cLqvJyfy3s3uSBz-z-DyPhXsH6O/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFfwOP3YTxO4eO0hoGdmMj4OrzZglRd6dd2j6eSp9ukiQyxrxU-Z2unJYCWJAc2MFHV_QPtwOjt0cLqvJyfy3s3uSBz-z-DyPhXsH6O/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFfwOP3YTxO4eO0hoGdmMj5Nr_Yg2Zu5MRjjeyPpNig0Q2y_Ec4NTv7LITGJ1NoNQzU-1K5wejmjJHtucvPnXBjsyBx7GGdwUK911UKbA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFfwOP3YTxO4eO0hoGdmMj5Nr_Yg2Zu5MRjjeyPpNig0Q2y_Ec4NTv7LITGJ1NoNQzU-1K5wejmjJHtucvPnXBjsyBx7GGdwUK911UKbA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFfwOP3YTxO4eO0hoGdmMj8NrrHj1Rd6dd2j6fAotWj3Ay280BkMj_xLYTEcg9rZV3T-AC3wezujMTvuszIz3s1uiEl-z-DyCDxTKur/512fx384f"
+        }
+      },
+      {
+        "name": "Glock-18 | Sand Dune",
+        "desc": "This memento from Gwalior has individual parts spray-painted solid colors in a sand dune color scheme.",
+        "lore": "Gonzo journalist Alex Kincaide disappeared after traveling to The Maghreb to cover Operation Vanguard",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3YjxM6OO0hoGdmMj4OrzZglRd6dd2j6fDoNyg2QXhqUo5ZDjwcYCRegY4aF-G-lO4w7rog8W1uZzBmnRm7yUi-z-DyOb8VQSL/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3YjxM6OO0hoGdmMj4OrzZglRd6dd2j6fDoNyg2QXhqUo5ZDjwcYCRegY4aF-G-lO4w7rog8W1uZzBmnRm7yUi-z-DyOb8VQSL/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3YjxM6OO0hoGdmMj5Nr_Yg2Zu5MRjjeyPp92l31fs80BqNzjxd46RcQdvaF_V_Vfowum80MO_tZnNyicw7HEl4GGdwULY2W2QCQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3YjxM6OO0hoGdmMj5Nr_Yg2Zu5MRjjeyPp92l31fs80BqNzjxd46RcQdvaF_V_Vfowum80MO_tZnNyicw7HEl4GGdwULY2W2QCQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3YjxM6OO0hoGdmMj8NrrHj1Rd6dd2j6fEp9injlKx-Bc_a2H0cdeRdFI2NVzTqwe3w73vh5Pqu8-Ym3s3vCNw-z-DyEgubqC9/512fx384f"
+        }
+      },
+      {
+        "name": "Sawed-Off | Mosaico",
+        "desc": "This memento from Ali has been painted with a mosaic hydrographic.",
+        "lore": "Patience is a virtue",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR97dC_q5SCm_LLManQgGRu5Mx2gv3--Y3nj1H68kRlMWz0IdWVd1Q3YQmC8wDrye3p08C-tJ7Az3VgvSMg5nfcl0C20wYMMLI8h15puA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR97dC_q5SCm_LLManQgGRu5Mx2gv3--Y3nj1H68kRlMWz0IdWVd1Q3YQmC8wDrye3p08C-tJ7Az3VgvSMg5nfcl0C20wYMMLI8h15puA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR97dC_q5SCm_LLManQgGRu5cB1g_zMyoD0mlOx5RJsMmn1LdeVcgQ8YlyFrAW8l7rohpDouMnOn3Zk7iAqtH7ezhCyghBSLrs419Ks9lA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR97dC_q5SCm_LLManQgGRu5cB1g_zMyoD0mlOx5RJsMmn1LdeVcgQ8YlyFrAW8l7rohpDouMnOn3Zk7iAqtH7ezhCyghBSLrs419Ks9lA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR97dC_q5SCm_LLManQgGRu4MBwnPD--Y3nj1H6qhI_Ym31dYTEIQFoZgvSr1K6kuy-h5a67p7JyHBj6HFxtnjelhPjiQYMMLJcrfGE6Q/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Facets",
+        "desc": "This memento from Agency has been painted with a polygonal patterned hydrographic.",
+        "lore": "My men are professionals, they'll get the job done right... - Elliott Kingsman, Career Criminal",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszLYyhP_NCzq4SKhfzLManQgGRu5Mx2gv3--Y3nj1H6-kZlNjzwcYXAd1U7YV-E8le3kufvjZ-1u5WYwSc3siIq7HiLzEPmhQYMMLKxVsWV7A/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszLYyhP_NCzq4SKhfzLManQgGRu5Mx2gv3--Y3nj1H6-kZlNjzwcYXAd1U7YV-E8le3kufvjZ-1u5WYwSc3siIq7HiLzEPmhQYMMLKxVsWV7A/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszLYyhP_NCzq4SKhfzLManQgGRu5cB1g_zMyoD0mlOx5RdlZD31JIeQIwY_ZVrY-Fe5x-y8hpG4u8nAnXph7Cch5HzVmhThghBSLrs4Q4Prhzw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszLYyhP_NCzq4SKhfzLManQgGRu5cB1g_zMyoD0mlOx5RdlZD31JIeQIwY_ZVrY-Fe5x-y8hpG4u8nAnXph7Cch5HzVmhThghBSLrs4Q4Prhzw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszLYyhP_NCzq4SKhfzLManQgGRu4MBwnPD--Y3nj1H6qhJvZGv6LICRcQZvMFDYqQO7kO-90Jbu6ZmYm3U3uXEi433ezUbi0wYMMLJ5ZbyYlw/512fx384f"
+        }
+      },
+      {
+        "name": "SSG 08 | Mayan Dreams",
+        "desc": "This memento from Ruins has been painted using a Mayan cloud motif hydrographic.",
+        "lore": "Sometimes a sacrifice is called for",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3fDxb7dKJkJKOlvrnDLnDl31e18l4jeHVyoD0mlOx5UVoZDj7IdPDJAY5NF7V_FTryLvtjZK1upWdwCFiu3EjsCzZnUHmhxBSLrs4pJdinOU/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3fDxb7dKJkJKOlvrnDLnDl31e18l4jeHVyoD0mlOx5UVoZDj7IdPDJAY5NF7V_FTryLvtjZK1upWdwCFiu3EjsCzZnUHmhxBSLrs4pJdinOU/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3fDxb7dKJkJKOlvrnDLnDl31e18h0juDU-LP5iUazrl1qa2GgJ9LEIAZqNFjZqwO9lLvv0ZO66JTMmnEw73IntnjYy0C00xgfcKUx0vPddBsy/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3fDxb7dKJkJKOlvrnDLnDl31e18h0juDU-LP5iUazrl1qa2GgJ9LEIAZqNFjZqwO9lLvv0ZO66JTMmnEw73IntnjYy0C00xgfcKUx0vPddBsy/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3fDxb7dKJkJKOlvrnDLnDl31e1810i__YyoD0mlOx5UVuYGiiIo-XdgI6NF2FqwS5levv0Za9uZzBzHo2s3Yis3_ZyxOz1x1SLrs4B7-gQEU/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Five-SeveN | Anodized Gunmetal",
+        "desc": "This memento from Siege has been painted with a gunmetal anodized effect paint over a chrome base coat.",
+        "lore": "You don't know Felix Riley like I do... the man is impossible to break - The Traitor and The Truthseeker Part 1",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjxM09ujmo2Og_b4DLnDl31e18l4jeHVyoD0mlOx5UU9Mj_zJ4CVcVc5NA7X_lnoxO3mgMfqvszOyno1sikrs3vfnBC1g0pSLrs4NC8DwOQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjxM09ujmo2Og_b4DLnDl31e18l4jeHVyoD0mlOx5UU9Mj_zJ4CVcVc5NA7X_lnoxO3mgMfqvszOyno1sikrs3vfnBC1g0pSLrs4NC8DwOQ/512fx384f"
+        }
+      },
+      {
+        "name": "MP7 | Groundwater",
+        "desc": "This memento from Cache has individual parts spray-painted solid colors in an olive drab color scheme.",
+        "lore": "Never take victory for granted",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7PzEeCtH096klZaEqPv9NLPFqWdQ-sJ0xO_FodX0jQS3-kI6Mm33ctSTcwc-N1yFqVjqwurpgJfouMjPn3tisiU8pSGKYIofl_A/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7PzEeCtH096klZaEqPv9NLPFqWdQ-sJ0xO_FodX0jQS3-kI6Mm33ctSTcwc-N1yFqVjqwurpgJfouMjPn3tisiU8pSGKYIofl_A/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7PzEeCtH096klZaEqPrxN7LEm1Rd6dd2j6eU8N_xjla1qBBuYjilIYSQcQA6NFjX8lW_k7q61JPu6JTAn3Nk7nQj-z-DyMECuJin/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7PzEeCtH096klZaEqPrxN7LEm1Rd6dd2j6eU8N_xjla1qBBuYjilIYSQcQA6NFjX8lW_k7q61JPu6JTAn3Nk7nQj-z-DyMECuJin/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7PzEeCtH096klZaEqP_xMq3IqWdQ-sJ0xLiWodT2ilHl-EJlYW77JYaRIVU2ZVDRqAW6wLrrhJS67ZuYyXZg7yA8pSGKLVC7x9E/512fx384f"
+        }
+      },
+      {
+        "name": "XM1014 | Jungle",
+        "desc": "This memento from Ruins has individual parts spray-painted solid colors in a jungle color scheme.",
+        "lore": "For those with an appetite for destruction",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjdX4tu6kb-JhfbiPITdn2xZ_Pp9i_vG8MKligTt8ks_YjrxIIHDJFU2ZliCqAXskuq8gJW6tZuanXoysycms3zdgVXp1u6zNQk9/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjdX4tu6kb-JhfbiPITdn2xZ_Pp9i_vG8MKligTt8ks_YjrxIIHDJFU2ZliCqAXskuq8gJW6tZuanXoysycms3zdgVXp1u6zNQk9/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjdX4tu6kb-JhfbiPITck29Y_chOhujT8om731e2_kc_Mjihco6VIVNrZFDRrwXvw-u508O8u5qYyXo16yhx7SvfzAv3308e6Dz9DA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjdX4tu6kb-JhfbiPITck29Y_chOhujT8om731e2_kc_Mjihco6VIVNrZFDRrwXvw-u508O8u5qYyXo16yhx7SvfzAv3308e6Dz9DA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjdX4tu6kb-JhfbiPITZk2pH8fp9i_vG8MKsigfl-kBrZDjxctTAcABrNQ7R-li5xOno08W6u5Wdz3cys3Ij5irbgVXp1vjTkvd7/512fx384f"
+        }
+      },
+      {
+        "name": "MP9 | Dry Season",
+        "desc": "This memento from Gwalior has been spray-painted using ripped tape strips and perforated metal as stencils.",
+        "lore": "Don't worry...business is about to pick up - Booth, Arms Dealer",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRw7OfJYTh96NOih7-JhfbiPITdn2xZ_Pp9i_vG8MLw3gLm_0FtYTr2JICXcwM8aF2GrFTsl--9gcW17snOzHBg7nIhtC3YgVXp1mh8gdyS/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRw7OfJYTh96NOih7-JhfbiPITdn2xZ_Pp9i_vG8MLw3gLm_0FtYTr2JICXcwM8aF2GrFTsl--9gcW17snOzHBg7nIhtC3YgVXp1mh8gdyS/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRw7OfJYTh96NOih7-JhfbiPITck29Y_chOhujT8om72gS3-UdoazuhJIGVdAE2ZFuB_ADrwu-708DqtJqawSAwuSZ05C3fngv330_pxod3yA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRw7OfJYTh96NOih7-JhfbiPITck29Y_chOhujT8om72gS3-UdoazuhJIGVdAE2ZFuB_ADrwu-708DqtJqawSAwuSZ05C3fngv330_pxod3yA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRw7OfJYTh96NOih7-JhfbiPITZk2pH8fp9i_vG8MLz2lDsrxI6MW73doCWI1A6Mg2E_Fe8lOznhse8uZWdnScwuXZws3_YgVXp1sDrjiYP/512fx384f"
+        }
+      },
+      {
+        "name": "M249 | Jungle DDPAT",
+        "desc": "This memento from Ruins has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "Even if you can't see it, you'll definitely hear it",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszMdS1D-OO8gY6Mm_LLManQgGRu5Mx2gv3--Y3nj1H6r0pva2jxJoWTdgI6MA6D_FbvwbrmjJLv6J6fzyQy6yQg5C7YmBS2hQYMMLIu12EkAQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszMdS1D-OO8gY6Mm_LLManQgGRu5Mx2gv3--Y3nj1H6r0pva2jxJoWTdgI6MA6D_FbvwbrmjJLv6J6fzyQy6yQg5C7YmBS2hQYMMLIu12EkAQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszMdS1D-OO8gY6Mm_LLManQgGRu5cB1g_zMyoD0mlOx5UI9ZGmlIYXDI1RqNFGB8lC2we3n1pK-7smanHJkvSknty2ImBa2h0pSLrs4BV3v17g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszMdS1D-OO8gY6Mm_LLManQgGRu5cB1g_zMyoD0mlOx5UI9ZGmlIYXDI1RqNFGB8lC2we3n1pK-7smanHJkvSknty2ImBa2h0pSLrs4BV3v17g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszMdS1D-OO8gY6Mm_LLManQgGRu4MBwnPD--Y3nj1H6_EdtZzuhJY-UcQY4NwzQqQO4ybrr0Ja06p7ImyBk7CMm4iyPmhOziAYMMLKLHshrrw/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Tornado",
+        "desc": "This memento from Ali has individual parts spray-painted solid colors in a tornado color scheme.",
+        "lore": "Words are wind, but wind can kill",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3Mzcfi9M7di5q4KZluH7DLfYkWNF18lwmO7Eu46sile1rktsNTjyLdeVIwRvYFzX_lm6xezogpW_vZrLmnBisilxt3bD30vgaodsbCg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3Mzcfi9M7di5q4KZluH7DLfYkWNF18lwmO7Eu46sile1rktsNTjyLdeVIwRvYFzX_lm6xezogpW_vZrLmnBisilxt3bD30vgaodsbCg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3Mzcfi9M7di5q4KZluH7DLbUkmJE5fp9i_vG8MKljVe2_0FkZDyhcoXDIwRsaV6D-QC-le3v1pG17pjKzyNgvCBz5inUgVXp1htiX6NT/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3Mzcfi9M7di5q4KZluH7DLbUkmJE5fp9i_vG8MKljVe2_0FkZDyhcoXDIwRsaV6D-QC-le3v1pG17pjKzyNgvCBz5inUgVXp1htiX6NT/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3Mzcfi9M7di5q4KZluH7DLPUl31I18lwmO7Eu9733QHlrRdlZWH0doGcdgc4ZwuDrwS_l-e-1JPq6Z_Im3QwsyQm7HjD30vgmZfQs8g/512fx384f"
+        }
+      }
+    ]
+  }
+}

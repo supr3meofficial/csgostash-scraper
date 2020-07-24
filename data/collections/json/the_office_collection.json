@@ -1,0 +1,97 @@
+{
+  "name": "The Office Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_office_collection.png?id=f43c0925d7781e744d8c",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [],
+    "Mil-Spec Skins": [
+      {
+        "name": "MP7 | Whiteout",
+        "desc": "It is spray-painted all white.",
+        "lore": "It looks pure, but looks can be deceiving",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7OTAeClH48miq4yCkP_gDLfQhGxUppR32L6Tot_22QztqEJlMW3xIYCSIFJqZVyGrAK9lOu90JG86czKmHZ9-n51-XhiT_o/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7OTAeClH48miq4yCkP_gDLfQhGxUppR32L6Tot_22QztqEJlMW3xIYCSIFJqZVyGrAK9lOu90JG86czKmHZ9-n51-XhiT_o/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7OTAeClH48miq42Ok_7hPoTdl3lW7YtziLuXo9jx3ge1_kZqNTvyLYTAIwI4aQuFrlC9xu7ph5_pus-bn3oxpGB8sufl2t5-/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7OTAeClH48miq42Ok_7hPoTdl3lW7YtziLuXo9jx3ge1_kZqNTvyLYTAIwI4aQuFrlC9xu7ph5_pus-bn3oxpGB8sufl2t5-/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7OTAeClH48miq4iOluHtDLfQhGxUpp0i2biYp9mkjQfh80BtMWjyIoDGdAE2M1DR_FG8wu2818C_vJSYwHF9-n51CWhWBL4/512fx384f"
+        }
+      },
+      {
+        "name": "P2000 | Silver",
+        "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
+        "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfwJR5dCgkZK0m_7zO6_ummpD78A_0r3D84injgS2rxBrMjv1JYLBe1VqZlnQ-QO5le7ohJC8upzIwXNlvD5iuyim-mGAHQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfwJR5dCgkZK0m_7zO6_ummpD78A_0r3D84injgS2rxBrMjv1JYLBe1VqZlnQ-QO5le7ohJC8upzIwXNlvD5iuyim-mGAHQ/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "G3SG1 | Arctic Camo",
+        "desc": "It has been painted using an arctic camo hydrographic.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3cC9B-NW1q4yCkP_gDLfQhGxUppV0iLyV8In3i1Hl_kJrZmjwcdXBIAU5aVDU_1jtwefsgJ61u5yfznV9-n510ezkN5M/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3cC9B-NW1q4yCkP_gDLfQhGxUppV0iLyV8In3i1Hl_kJrZmjwcdXBIAU5aVDU_1jtwefsgJ61u5yfznV9-n510ezkN5M/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3cC9B-NW1q42Ok_7hPoTdl3lW7Ysk07nEod2s31Hh_0tlY2DwJo-XJw87Y1rVqQS9wO3r0ZK8tZicznU1pGB8soCm_GdX/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3cC9B-NW1q42Ok_7hPoTdl3lW7Ysk07nEod2s31Hh_0tlY2DwJo-XJw87Y1rVqQS9wO3r0ZK8tZicznU1pGB8soCm_GdX/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3cC9B-NW1q4iOluHtDLfQhGxUppRziO2ZrdT03ATl-UFlNW-gJ9SQIFc9ZFzW_AfrxevvjZe9v5uanHt9-n51qFVEB6I/512fx384f"
+        }
+      },
+      {
+        "name": "Galil AR | Winter Forest",
+        "desc": "It has been painted using a forest camouflage hydrographic.",
+        "lore": "The woods can be a dangerous place... never travel alone",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJE486zh5S0gP76J77DqWdY781lteXA54vwxga1-xE_Zjr0LILDIQA5aVrT-lXrk-2605C06ZmfyXUwvHMr5yvezUOpwUYbyitvOt0/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJE486zh5S0gP76J77DqWdY781lteXA54vwxga1-xE_Zjr0LILDIQA5aVrT-lXrk-2605C06ZmfyXUwvHMr5yvezUOpwUYbyitvOt0/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJE486zh5S0gP76J77DqWZU7Mxkh9bN9J7yjRrkrRI9N2D1cIWUegFqYFvT_VS7wO680cW46ciYwXtl6HYi5HyLyUa_n1gSOTI8E0Pj/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJE486zh5S0gP76J77DqWZU7Mxkh9bN9J7yjRrkrRI9N2D1cIWUegFqYFvT_VS7wO680cW46ciYwXtl6HYi5HyLyUa_n1gSOTI8E0Pj/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJE486zh5S0gP76J77DqWNU6dNoteXA54vwxlGy_UtsZGz0cYKSe1A_NVvQ81PsxOe50Ze86p_OynBqviMm5H7bzh2pwUYbOguoN6c/512fx384f"
+        }
+      },
+      {
+        "name": "M249 | Blizzard Marbleized",
+        "desc": "It has been painted in a marbleized pattern.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-HnvD8J4Tdl3lW7Yt12L2WoN-liVDt_xY5YTjzd4eTdgc_ZwrY8wfqwrjsjce4v8mbn3FjpGB8sqAt40m2/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-HnvD8J4Tdl3lW7Yt12L2WoN-liVDt_xY5YTjzd4eTdgc_ZwrY8wfqwrjsjce4v8mbn3FjpGB8sqAt40m2/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-GkvP9JrbummpD78A_iLrH943w3le1_hJuNj_3Io7DcwNtMFHUqwO6lOrpjcS56J7MynJh7z5iuyj-R2rzOA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-GkvP9JrbummpD78A_iLrH943w3le1_hJuNj_3Io7DcwNtMFHUqwO6lOrpjcS56J7MynJh7z5iuyj-R2rzOA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-DkvbiKoTdl3lW7Yt30uzH9Iqt2AO3_EA_ZzulJNeTelBqaVDX_FO_wO651pC1u8ifyyc3pGB8stT3jnUw/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "FAMAS | Contrast Spray",
+        "desc": "It has been spray-painted freehand with short, thick lines in contrasting colors.",
+        "lore": "Perfect for the insurgent on the go",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3Yi1Q7cWJmImMn-PLP7rDkW4f7sAp0r_Frd6l3wDiqEM6Z2rwJ9WVJwZrMF6E-VG2xens0JS4vc7Nm2wj5HccqTTflQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3Yi1Q7cWJmImMn-PLP7rDkW4f7sAp0r_Frd6l3wDiqEM6Z2rwJ9WVJwZrMF6E-VG2xens0JS4vc7Nm2wj5HccqTTflQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3Yi1Q7cWJmYWPnuL5DLfQhGxUpsFwjrCS99uiigG3_RFoYD33IIHBcVBvYgvU_FW8yO_o1pLu7Z_Nm3Z9-n51mzQlHdg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3Yi1Q7cWJmYWPnuL5DLfQhGxUpsFwjrCS99uiigG3_RFoYD33IIHBcVBvYgvU_FW8yO_o1pLu7Z_Nm3Z9-n51mzQlHdg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3Yi1Q7cWJnIWKge7LP7rDkW4f6ZB03b2Xptv32QLsqhU6ZGD1d9PAegE9NV2BrAC2yLzmjMXvuM_MnWwj5HfhXP4wMQ/512fx384f"
+        }
+      }
+    ]
+  }
+}
