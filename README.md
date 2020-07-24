@@ -29,7 +29,7 @@ This is `pip install -U -r requirements.txt`
 
 4. **Run the script**
 
-Use the following syntax `python3 main.py --method 1 --indent 2`
+Use the following syntax `python3 main.py`
 
 **Available methods:**
 1. Save in a single file
