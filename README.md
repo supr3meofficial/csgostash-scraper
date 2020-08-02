@@ -11,7 +11,11 @@ More to be added.
 
 How does it work?
 --
-Data is scraped from CSGOStash and transformed into specific objects, which are then saved onto pickles for easy loading onto projects (like my [Neon's Case Opening feature](https://github.com/supr3meofficial/neon/blob/V3-develop/cogs/caseopening.py))
+Data is scraped from CSGOStash and is saved onto JSON files and pickle objects. 
+
+Where can I use it?
+--
+You can use the provided pickles in a Python project by importing the [csgostash_scraper folder](https://github.com/supr3meofficial/csgostash-scraper/tree/master/csgostash_scraper), or you may also use the JSON data for whatever project you would like.
 
 Installation
 --
