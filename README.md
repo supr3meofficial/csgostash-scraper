@@ -2,7 +2,7 @@
 # csgostash-scraper
 Scrapes skin data from [CSGOStash](https://csgostash.com/) and saves it in JSON format.
 
-Current Release: v0.4
+Current Release: [v0.4.0](https://github.com/supr3meofficial/csgostash-scraper/releases/tag/v0.4.0)
 
 What data does it scrape?
 --
@@ -31,9 +31,6 @@ This is `pip install -U -r requirements.txt`
 
 Use the following syntax `python3 main.py`
 
-**Available methods:**
-1. Save in a single file
-2. Save in separate files
 
 What it looks like
 --
