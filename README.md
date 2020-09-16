@@ -2,7 +2,7 @@
 # csgostash-scraper
 Scrapes skin data from [CSGOStash](https://csgostash.com/) and saves it in JSON format.
 
-Current Release: [v0.4.0](https://github.com/supr3meofficial/csgostash-scraper/releases/tag/v0.4.0)
+Current Release: [v0.4.1](https://github.com/supr3meofficial/csgostash-scraper/releases/tag/v0.4.1)
 
 What data does it scrape?
 --

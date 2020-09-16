@@ -1,5 +1,8 @@
 
 # CHANGELOG
+## v0.4.1 - 16/09/20
+* Bug fixes
+
 ## v0.4.0 - 23/07/20
 * Added collections
 * New json format
