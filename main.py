@@ -162,9 +162,11 @@ def save_data(*, obj='', save_to='', overwrite=False):
                         json.dump(fmtdict, fp, indent=2, ensure_ascii=False)
 
 
-to_be_scraped = ("collections",
+to_be_scraped = ["collections",
                  "cases",
-                 "souvenir_packages")
+                 "souvenir_packages"]
 
 for obj in to_be_scraped:
+    print(f"Scraping all {obj}...")
     save_data(obj=obj, overwrite=False)
+    print(f"All {obj} has been scraped")
