@@ -147,15 +147,14 @@ def save_data(*, obj='', save_to='', overwrite=False):
                     with open(f'{ext}/{fname}.{ext}', 'wb') as fp:
                         pickle.dump(container, fp)
                 elif ext == 'json':
-                    with open(f'{ext}/{fname}.{ext}', 'w') as fp:
+                    with open(f'{ext}/{fname}.{ext}', 'w', encoding="utf-8", errors="ignore") as fp:
                         if type(container) == SouvenirPackage and container.has_multiple_collections:
                             fmtdict = {}
                             for col in container.collection:
                                 fmtdict[col.name] = fmt_dict(col)
                         else:
                             fmtdict = fmt_dict(container)
-                        json.dump(fmtdict, fp, indent=2,
-                                ensure_ascii=False)
+                        json.dump(fmtdict, fp, indent=2, ensure_ascii=False)
 
 
 to_be_scraped = ("collections",
