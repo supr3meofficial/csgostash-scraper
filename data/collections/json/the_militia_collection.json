@@ -38,17 +38,17 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "P250 | Modern Hunter",
+        "name": "PP-Bizon | Modern Hunter",
         "desc": "It has been painted using a photographic hunting camo hydrographic.",
         "lore": "This item has no Lore",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszAZDNW6c6JmY-PkuX6DLfYkWNF18lwmO7Eu9ykjQLj_kY4ajv3JtKUdw86aVvXrFe-k7-7gp_pvMvPy3tm7nYqsS3D30vg8ImzJHM/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszAZDNW6c6JmY-PkuX6DLfYkWNF18lwmO7Eu9ykjQLj_kY4ajv3JtKUdw86aVvXrFe-k7-7gp_pvMvPy3tm7nYqsS3D30vg8ImzJHM/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszAZDNW6c6JmY-PkuX6DLbUkmJE5fp9i_vG8MKl3VHi_kQ4azr7d9CUIwE3Yw3Y_VW6w-u508e97ZuamHtkvyFx4nrVgVXp1ly80aAr/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszAZDNW6c6JmY-PkuX6DLbUkmJE5fp9i_vG8MKl3VHi_kQ4azr7d9CUIwE3Yw3Y_VW6w-u508e97ZuamHtkvyFx4nrVgVXp1ly80aAr/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszAZDNW6c6JmY-PkuX6DLPUl31I18lwmO7Eu92l3FLhqkRtYWuiLNedIFQ7YwmD-we5k7--g8O47cjBy3VjsnQrtynD30vgpiuWeXY/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3eShM-Nmkq42Ek_LmPYTdn2xZ_Pp9i_vG8MKl3Azt-kJrZTulJISddlRvZQ7Y-lG8kuy8hpS4uJiamyY2vyBz7SzbgVXp1lpTPVT2/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3eShM-Nmkq42Ek_LmPYTdn2xZ_Pp9i_vG8MKl3Azt-kJrZTulJISddlRvZQ7Y-lG8kuy8hpS4uJiamyY2vyBz7SzbgVXp1lpTPVT2/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3eShM-Nmkq42Ek_LmPYTck29Y_chOhujT8om7igXiqko4ZD3yJNfEewc-NAvWqAe8kL3pg8K8uZ-czXQx6SJwt3qIzgv330_ujn9SNQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3eShM-Nmkq42Ek_LmPYTck29Y_chOhujT8om7igXiqko4ZD3yJNfEewc-NAvWqAe8kL3pg8K8uZ-czXQx6SJwt3qIzgv330_ujn9SNQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3eShM-Nmkq42Ek_LmPYTZk2pH8fp9i_vG8MKsigzm-kpuMWymJI6WegU8NwnR_VHvwu68hp-77cjImCFh6XEksH7dgVXp1nEvbTGh/512fx384f"
         }
       },
       {
@@ -66,31 +66,17 @@
         }
       },
       {
-        "name": "PP-Bizon | Modern Hunter",
+        "name": "P250 | Modern Hunter",
         "desc": "It has been painted using a photographic hunting camo hydrographic.",
         "lore": "This item has no Lore",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3eShM-Nmkq42Ek_LmPYTdn2xZ_Pp9i_vG8MKl3Azt-kJrZTulJISddlRvZQ7Y-lG8kuy8hpS4uJiamyY2vyBz7SzbgVXp1lpTPVT2/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3eShM-Nmkq42Ek_LmPYTdn2xZ_Pp9i_vG8MKl3Azt-kJrZTulJISddlRvZQ7Y-lG8kuy8hpS4uJiamyY2vyBz7SzbgVXp1lpTPVT2/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3eShM-Nmkq42Ek_LmPYTck29Y_chOhujT8om7igXiqko4ZD3yJNfEewc-NAvWqAe8kL3pg8K8uZ-czXQx6SJwt3qIzgv330_ujn9SNQ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3eShM-Nmkq42Ek_LmPYTck29Y_chOhujT8om7igXiqko4ZD3yJNfEewc-NAvWqAe8kL3pg8K8uZ-czXQx6SJwt3qIzgv330_ujn9SNQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3eShM-Nmkq42Ek_LmPYTZk2pH8fp9i_vG8MKsigzm-kpuMWymJI6WegU8NwnR_VHvwu68hp-77cjImCFh6XEksH7dgVXp1nEvbTGh/512fx384f"
-        }
-      },
-      {
-        "name": "Nova | Modern Hunter",
-        "desc": "It has been painted using a photographic hunting camo hydrographic.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JmY-PkuX6DLfYkWNF18lwmO7Eu9iiig3lrhJrZzz7JtCTJwY6YAqDrFPqwe28hJe77sjPyyM2uCUr5XbD30vgvPMstOw/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JmY-PkuX6DLfYkWNF18lwmO7Eu9iiig3lrhJrZzz7JtCTJwY6YAqDrFPqwe28hJe77sjPyyM2uCUr5XbD30vgvPMstOw/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JmY-PkuX6DLbUkmJE5fp9i_vG8ML0ig3j-EtvMWn2ddDDcFU2NFDV-FHswb26g565uZXBwHcyuSgh5HndgVXp1qXpr0vO/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JmY-PkuX6DLbUkmJE5fp9i_vG8ML0ig3j-EtvMWn2ddDDcFU2NFDV-FHswb26g565uZXBwHcyuSgh5HndgVXp1qXpr0vO/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JmY-PkuX6DLPUl31I18lwmO7Eu4igilfh_UNsY230dYeWIFU2Mg2DrAW7k-_t1JW76svLmiYy73UitnbD30vgKZ5_stk/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszAZDNW6c6JmY-PkuX6DLfYkWNF18lwmO7Eu9ykjQLj_kY4ajv3JtKUdw86aVvXrFe-k7-7gp_pvMvPy3tm7nYqsS3D30vg8ImzJHM/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszAZDNW6c6JmY-PkuX6DLfYkWNF18lwmO7Eu9ykjQLj_kY4ajv3JtKUdw86aVvXrFe-k7-7gp_pvMvPy3tm7nYqsS3D30vg8ImzJHM/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszAZDNW6c6JmY-PkuX6DLbUkmJE5fp9i_vG8MKl3VHi_kQ4azr7d9CUIwE3Yw3Y_VW6w-u508e97ZuamHtkvyFx4nrVgVXp1ly80aAr/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszAZDNW6c6JmY-PkuX6DLbUkmJE5fp9i_vG8MKl3VHi_kQ4azr7d9CUIwE3Yw3Y_VW6w-u508e97ZuamHtkvyFx4nrVgVXp1ly80aAr/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszAZDNW6c6JmY-PkuX6DLPUl31I18lwmO7Eu92l3FLhqkRtYWuiLNedIFQ7YwmD-we5k7--g8O47cjBy3VjsnQrtynD30vgpiuWeXY/512fx384f"
         }
       },
       {
@@ -105,6 +91,20 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JloyKjfLLPKnQmGxU18h0juDU-LP5iUazrl1tZ231cdKcIAM9NAuEqVS4ybjs1JDuuZ-dwSZj7yAi5irZnBC2gR9EcKUx0jjbbcyX/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JloyKjfLLPKnQmGxU18h0juDU-LP5iUazrl1tZ231cdKcIAM9NAuEqVS4ybjs1JDuuZ-dwSZj7yAi5irZnBC2gR9EcKUx0jjbbcyX/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JloyKjfLLPKnQmGxU1810i__YyoD0mlOx5UNqNmmgJYeXdgVrN1nQ81S7xLu80Me6tZWbnXAx7yF3sy7eykPhhU1SLrs4aNqWTiM/512fx384f"
+        }
+      },
+      {
+        "name": "Nova | Modern Hunter",
+        "desc": "It has been painted using a photographic hunting camo hydrographic.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JmY-PkuX6DLfYkWNF18lwmO7Eu9iiig3lrhJrZzz7JtCTJwY6YAqDrFPqwe28hJe77sjPyyM2uCUr5XbD30vgvPMstOw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JmY-PkuX6DLfYkWNF18lwmO7Eu9iiig3lrhJrZzz7JtCTJwY6YAqDrFPqwe28hJe77sjPyyM2uCUr5XbD30vgvPMstOw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JmY-PkuX6DLbUkmJE5fp9i_vG8ML0ig3j-EtvMWn2ddDDcFU2NFDV-FHswb26g565uZXBwHcyuSgh5HndgVXp1qXpr0vO/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JmY-PkuX6DLbUkmJE5fp9i_vG8ML0ig3j-EtvMWn2ddDDcFU2NFDV-FHswb26g565uZXBwHcyuSgh5HndgVXp1qXpr0vO/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JmY-PkuX6DLPUl31I18lwmO7Eu4igilfh_UNsY230dYeWIFU2Mg2DrAW7k-_t1JW76svLmiYy73UitnbD30vgKZ5_stk/512fx384f"
         }
       }
     ],
@@ -140,20 +140,6 @@
         }
       },
       {
-        "name": "PP-Bizon | Forest Leaves",
-        "desc": "It has been spray-painted using leaves as stencils.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fThD-tmlq4yCkP_gDLfQhGxUpsZ02OiWot_x3wC3-0ZsMGj7co-cJldvMFvZrlXsx-nvjZG07c-dwHt9-n51GC-ZbRg/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fThD-tmlq4yCkP_gDLfQhGxUpsZ02OiWot_x3wC3-0ZsMGj7co-cJldvMFvZrlXsx-nvjZG07c-dwHt9-n51GC-ZbRg/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fThD-tmlq42Ok_7hPoTdl3lW7Ysp3LHHrNqnjQzs-Uc9Y2yhctSTIFc6YlGC_1O8x7q-g5S-vszBmnIxpGB8srqvmusE/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fThD-tmlq42Ok_7hPoTdl3lW7Ysp3LHHrNqnjQzs-Uc9Y2yhctSTIFc6YlGC_1O8x7q-g5S-vszBmnIxpGB8srqvmusE/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fThD-tmlq4iOluHtDLfQhGxUpsB3j7qXp9qkiQzirRVuYmyiIoTGc1BrNA2E_VO3kL26hcK77ZTIyCN9-n512OaPdB4/512fx384f"
-        }
-      },
-      {
         "name": "XM1014 | Grassland",
         "desc": "It has individual parts spray-painted solid colors in a grassland color scheme.",
         "lore": "This item has no Lore",
@@ -165,6 +151,20 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjpQ7c-lmIGFk8j5Nr_Yg2Zu5MRjjeyP8dys0QHk_kRtYzqgLIPGdFc2ZQ7Vr1foxuvpjcO67pzOnXc3u3Eg4GGdwUJowLIJMQ/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjpQ7c-lmIGFk8j5Nr_Yg2Zu5MRjjeyP8dys0QHk_kRtYzqgLIPGdFc2ZQ7Vr1foxuvpjcO67pzOnXc3u3Eg4GGdwUJowLIJMQ/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjpQ7c-lmIGFk8j8NrrHj1Rd6dd2j6eQ99v23QDm_xVuYW6lJNfGIQBrZFHX-wfsk-i-1Me175qazidm63Zz-z-DyCbzCoPD/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Forest Leaves",
+        "desc": "It has been spray-painted using leaves as stencils.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fThD-tmlq4yCkP_gDLfQhGxUpsZ02OiWot_x3wC3-0ZsMGj7co-cJldvMFvZrlXsx-nvjZG07c-dwHt9-n51GC-ZbRg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fThD-tmlq4yCkP_gDLfQhGxUpsZ02OiWot_x3wC3-0ZsMGj7co-cJldvMFvZrlXsx-nvjZG07c-dwHt9-n51GC-ZbRg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fThD-tmlq42Ok_7hPoTdl3lW7Ysp3LHHrNqnjQzs-Uc9Y2yhctSTIFc6YlGC_1O8x7q-g5S-vszBmnIxpGB8srqvmusE/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fThD-tmlq42Ok_7hPoTdl3lW7Ysp3LHHrNqnjQzs-Uc9Y2yhctSTIFc6YlGC_1O8x7q-g5S-vszBmnIxpGB8srqvmusE/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fThD-tmlq4iOluHtDLfQhGxUpsB3j7qXp9qkiQzirRVuYmyiIoTGc1BrNA2E_VO3kL26hcK77ZTIyCN9-n512OaPdB4/512fx384f"
         }
       }
     ]

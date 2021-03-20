@@ -87,31 +87,6 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "Sawed-Off | Rust Coat",
-        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
-        "lore": "Some people don't need to hide how dirty their deeds are",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0n_L1JaLummpD78A_ju_E8dT3jA2wrRBoZm71JIbEcVc4YV_R8lXqkrzujJW7u8_AmiBi7z5iuyhvCAhQsg/512fx384f"
-        }
-      },
-      {
-        "name": "MAG-7 | Silver",
-        "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
-        "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3czbeDFU6c6JmImMn-PLP7rDkW4f7sNz273DrN_x0QfkrRVlZmDxJI-SdlNqNV_YqQe4k-3u15K06sjNymwj5HcKKU8-aA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3czbeDFU6c6JmImMn-PLP7rDkW4f7sNz273DrN_x0QfkrRVlZmDxJI-SdlNqNV_YqQe4k-3u15K06sjNymwj5HcKKU8-aA/512fx384f"
-        }
-      },
-      {
         "name": "Nova | Green Apple",
         "desc": "It has individual parts spray-painted solid colors in a green and black color scheme.",
         "lore": "An apple a day keeps insurance premiums high",
@@ -136,9 +111,48 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09Svq4mFk_7zPITEhXtu5cB1g_zMyoD0mlOx5URpMD-gINPGcVRrNwrT_1K-l-y8jJO7v5ucyXVl7ygqsH2JzUaygRxSLrs4ksTxI5Q/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09Svq4mFk_7zPITEhXtu4MBwnPD--Y3nj1H6-kI_ZG3ycoCXd1JrNVCCqVi4xLzphp-5tc7InCRmvXYh43yMmxa01wYMMLLUx7-bYw/512fx384f"
         }
+      },
+      {
+        "name": "Sawed-Off | Rust Coat",
+        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
+        "lore": "Some people don't need to hide how dirty their deeds are",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0n_L1JaLummpD78A_ju_E8dT3jA2wrRBoZm71JIbEcVc4YV_R8lXqkrzujJW7u8_AmiBi7z5iuyhvCAhQsg/512fx384f"
+        }
+      },
+      {
+        "name": "MAG-7 | Silver",
+        "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
+        "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3czbeDFU6c6JmImMn-PLP7rDkW4f7sNz273DrN_x0QfkrRVlZmDxJI-SdlNqNV_YqQe4k-3u15K06sjNymwj5HcKKU8-aA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3czbeDFU6c6JmImMn-PLP7rDkW4f7sNz273DrN_x0QfkrRVlZmDxJI-SdlNqNV_YqQe4k-3u15K06sjNymwj5HcKKU8-aA/512fx384f"
+        }
       }
     ],
     "Consumer Grade Skins": [
+      {
+        "name": "MAC-10 | Indigo",
+        "desc": "It has been painted solid colors in indigo, blue and grey.",
+        "lore": "Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3eDNG5du5q4GFk8jzIb7IqWdY781lteXA54vwxg3t-0M9ZDzxdtWRJFU4ZgyG-lnqwr-505e8v5jLzyRlvCZ05CqLmBWpwUYbU7KEBRk/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3eDNG5du5q4GFk8jzIb7IqWdY781lteXA54vwxg3t-0M9ZDzxdtWRJFU4ZgyG-lnqwr-505e8v5jLzyRlvCZ05CqLmBWpwUYbU7KEBRk/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh9bN9J7yjRriqBc_YG7zd4GUd1U5ZF3S_FPvw-fvgMS6vZXJyXdrsiYnsXvbmheyn1gSOZmj73Wf/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh9bN9J7yjRriqBc_YG7zd4GUd1U5ZF3S_FPvw-fvgMS6vZXJyXdrsiYnsXvbmheyn1gSOZmj73Wf/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3eDNG5du5q4GFk8jzIb7IqWNU6dNoteXA54vwxgLnqEM4Nzr1JIbGdQ4_MF-GrAK_w7u9gZ69vZ2cynMyuylz4i7clhapwUYbP3TKmUg/512fx384f"
+        }
+      },
       {
         "name": "P90 | Storm",
         "desc": "It has individual parts spray-painted solid colors in a stormy color scheme.",
@@ -168,18 +182,6 @@
         }
       },
       {
-        "name": "Dual Berettas | Briar",
-        "desc": "It has been painted with a hydrographic of curling vines and flowers.",
-        "lore": "True Love's Kiss can't save you from its barbs",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf2-r3ZzRM6c-JmImMn-PLP7rDkW4f6sck2r_Hpd6h2Qzg-0A_azj3LNCSegQ3MwyD-le7kOnu1pXtu5qdyWwj5HeoyT8EYw/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf2-r3ZzRM6c-JmImMn-PLP7rDkW4f6sck2r_Hpd6h2Qzg-0A_azj3LNCSegQ3MwyD-le7kOnu1pXtu5qdyWwj5HeoyT8EYw/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf2-r3ZzRM6c-JmYWPnuL5DLfQhGxUpp0o2LzAotmh2gCw-xI5MGCid9XHJgVsZVuB_QW5k-3rjMLvucydzHR9-n51GgElP-8/512fx384f"
-        }
-      },
-      {
         "name": "SCAR-20 | Storm",
         "desc": "It has individual parts spray-painted solid colors in a stormy color scheme.",
         "lore": "It will be waiting for you at the monorail",
@@ -194,17 +196,15 @@
         }
       },
       {
-        "name": "MAC-10 | Indigo",
-        "desc": "It has been painted solid colors in indigo, blue and grey.",
-        "lore": "Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1",
+        "name": "Dual Berettas | Briar",
+        "desc": "It has been painted with a hydrographic of curling vines and flowers.",
+        "lore": "True Love's Kiss can't save you from its barbs",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3eDNG5du5q4GFk8jzIb7IqWdY781lteXA54vwxg3t-0M9ZDzxdtWRJFU4ZgyG-lnqwr-505e8v5jLzyRlvCZ05CqLmBWpwUYbU7KEBRk/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3eDNG5du5q4GFk8jzIb7IqWdY781lteXA54vwxg3t-0M9ZDzxdtWRJFU4ZgyG-lnqwr-505e8v5jLzyRlvCZ05CqLmBWpwUYbU7KEBRk/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh9bN9J7yjRriqBc_YG7zd4GUd1U5ZF3S_FPvw-fvgMS6vZXJyXdrsiYnsXvbmheyn1gSOZmj73Wf/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh9bN9J7yjRriqBc_YG7zd4GUd1U5ZF3S_FPvw-fvgMS6vZXJyXdrsiYnsXvbmheyn1gSOZmj73Wf/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3eDNG5du5q4GFk8jzIb7IqWNU6dNoteXA54vwxgLnqEM4Nzr1JIbGdQ4_MF-GrAK_w7u9gZ69vZ2cynMyuylz4i7clhapwUYbP3TKmUg/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf2-r3ZzRM6c-JmImMn-PLP7rDkW4f6sck2r_Hpd6h2Qzg-0A_azj3LNCSegQ3MwyD-le7kOnu1pXtu5qdyWwj5HeoyT8EYw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf2-r3ZzRM6c-JmImMn-PLP7rDkW4f6sck2r_Hpd6h2Qzg-0A_azj3LNCSegQ3MwyD-le7kOnu1pXtu5qdyWwj5HeoyT8EYw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf2-r3ZzRM6c-JmYWPnuL5DLfQhGxUpp0o2LzAotmh2gCw-xI5MGCid9XHJgVsZVuB_QW5k-3rjMLvucydzHR9-n51GgElP-8/512fx384f"
         }
       }
     ]

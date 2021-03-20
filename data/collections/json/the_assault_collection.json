@@ -7,6 +7,17 @@
     "Classified Skins": [],
     "Restricted Skins": [
       {
+        "name": "Glock-18 | Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0vL3dzxG6eO6nYeDg8j4MqnWkyUHucB1ieqXrIrz2gHmr0ZvZDj3cNKUdlQ-YF6DqAS2w-i8h5Dt6Zib1zI97Ycw1ud8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0vL3dzxG6eO6nYeDg8j4MqnWkyUHucB1ieqXrIrz2gHmr0ZvZDj3cNKUdlQ-YF6DqAS2w-i8h5Dt6Zib1zI97Ycw1ud8/512fx384f"
+        }
+      },
+      {
         "name": "MP9 | Bulldozer",
         "desc": "It has individual parts spray-painted solid colors in a production line yellow color scheme.",
         "lore": "This bone crusher is a devastator",
@@ -18,17 +29,6 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRv7OrNfTFN--O7kYSCgvrLP7rDkW4fupMgjrqSpdv2jFXt-Uo6MWv1d4_BJAM2NFrUrFa5yezr15S97cnPnWwj5HfL5d1K6Q/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRv7OrNfTFN--O7kYSCgvrLP7rDkW4fupMgjrqSpdv2jFXt-Uo6MWv1d4_BJAM2NFrUrFa5yezr15S97cnPnWwj5HfL5d1K6Q/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRv7OrNfTFN--O-kYGdjsj4MqnWkyUC7sBwjuyW8I_ziQSyrhBuZWjyJIKXdVVvYAmG8gLqxerpgJLqvJzO1zI97ffnqtn4/512fx384f"
-        }
-      },
-      {
-        "name": "Glock-18 | Fade",
-        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
-        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0vL3dzxG6eO6nYeDg8j4MqnWkyUHucB1ieqXrIrz2gHmr0ZvZDj3cNKUdlQ-YF6DqAS2w-i8h5Dt6Zib1zI97Ycw1ud8/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0vL3dzxG6eO6nYeDg8j4MqnWkyUHucB1ieqXrIrz2gHmr0ZvZDj3cNKUdlQ-YF6DqAS2w-i8h5Dt6Zib1zI97Ycw1ud8/512fx384f"
         }
       }
     ],

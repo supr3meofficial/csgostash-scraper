@@ -60,6 +60,20 @@
     ],
     "Industrial Grade Skins": [
       {
+        "name": "Negev | CaliCamo",
+        "desc": "It has been painted using a VariCamo patterned hydrographic.",
+        "lore": "Rebuilding only comes in the wake of destruction",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWdY781lteXA54vwxgXi8hE4ZDqgLY6TJFM2M1vU-1Dtw7jn0cW4tJmdmCZn73UrsymLmBSpwUYb0mvY8oc/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWdY781lteXA54vwxgXi8hE4ZDqgLY6TJFM2M1vU-1Dtw7jn0cW4tJmdmCZn73UrsymLmBSpwUYb0mvY8oc/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWZU7Mxkh9bN9J7yjRq1-ENkYG32INLEegc9MFnY-lG4yezth5-87cufmHE2uyB25ynUnB3ln1gSOQODz4fr/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWZU7Mxkh9bN9J7yjRq1-ENkYG32INLEegc9MFnY-lG4yezth5-87cufmHE2uyB25ynUnB3ln1gSOQODz4fr/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWNU6dNoteXA54vwxgXs8xA_YDj0ddfBIQJqMwyDq1K7w-jthMK1uZ2dzSE26HFx4C7fmkGpwUYbP_3NaHo/512fx384f"
+        }
+      },
+      {
         "name": "Glock-18 | Groundwater",
         "desc": "It has individual parts spray-painted solid colors in an olive drab color scheme.",
         "lore": "This item has no Lore",
@@ -71,34 +85,6 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJmYWPnuL5DLfQhGxUppEpjuiVrY2n3Fbt_xZtZW2mctLDIVc_Y1uE-QLrk725gZG9up6bwHV9-n51EZWdIBc/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJmYWPnuL5DLfQhGxUppEpjuiVrY2n3Fbt_xZtZW2mctLDIVc_Y1uE-QLrk725gZG9up6bwHV9-n51EZWdIBc/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJnIWKge7LP7rDkW4fv5VyiLCYpo7z2wLmrUtvYmD1INWTew45YFzY_VDqxL_pjZC66MjKmmwj5Hd4mLWwiw/512fx384f"
-        }
-      },
-      {
-        "name": "SSG 08 | Tropical Storm",
-        "desc": "It has been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLP7LWnn9u5MRjjeyP846n3FbhrhduMmnwdYWQIwc8N12Fr1a_x-i91pK5tMybzSM2vSd34mGdwUJeWB4MEA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLP7LWnn9u5MRjjeyP846n3FbhrhduMmnwdYWQIwc8N12Fr1a_x-i91pK5tMybzSM2vSd34mGdwUJeWB4MEA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLPr7Vn35c18lwmO7Eu4_x3QLs80Q6Zmj3I4HHIFVvZQuE_QDvxOfn18e_7snMznE3vHQq7XnD30vg2sIlWLE/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLPr7Vn35c18lwmO7Eu4_x3QLs80Q6Zmj3I4HHIFVvZQuE_QDvxOfn18e_7snMznE3vHQq7XnD30vg2sIlWLE/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLO77QgHJu5MRjjeyPp4n32lfmrUdoZW_zI4SWclJsZVnV_gO4w-nohpC1752bwXtgsih24WGdwUInathHaQ/512fx384f"
-        }
-      },
-      {
-        "name": "SG 553 | Gator Mesh",
-        "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLP7LWnn9u5MRjjeyP8ImiiQbn_kA6Z2D6ctWXcA5oaVCBqwC3yLy7gsfvuMnAnyMwuyIn4mGdwUKmQ-0CcQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLP7LWnn9u5MRjjeyP8ImiiQbn_kA6Z2D6ctWXcA5oaVCBqwC3yLy7gsfvuMnAnyMwuyIn4mGdwUKmQ-0CcQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLPr7Vn35c18lwmO7Eu4it2ATi-kM-am3yLI_GdgBtZV_VrlC9k7y80Ja96Z-dnSBruiV0s3jD30vgXiO9fJU/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLPr7Vn35c18lwmO7Eu4it2ATi-kM-am3yLI_GdgBtZV_VrlC9k7y80Ja96Z-dnSBruiV0s3jD30vgXiO9fJU/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLO77QgHJu5MRjjeyP9tin2gLs80Q4YT-mddWSegY4MwmBqVS-we29gZe76JvMwXBj6CZw7GGdwUJKbOwJoA/512fx384f"
         }
       },
       {
@@ -116,17 +102,31 @@
         }
       },
       {
-        "name": "Negev | CaliCamo",
-        "desc": "It has been painted using a VariCamo patterned hydrographic.",
-        "lore": "Rebuilding only comes in the wake of destruction",
+        "name": "SG 553 | Gator Mesh",
+        "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
+        "lore": "This item has no Lore",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWdY781lteXA54vwxgXi8hE4ZDqgLY6TJFM2M1vU-1Dtw7jn0cW4tJmdmCZn73UrsymLmBSpwUYb0mvY8oc/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWdY781lteXA54vwxgXi8hE4ZDqgLY6TJFM2M1vU-1Dtw7jn0cW4tJmdmCZn73UrsymLmBSpwUYb0mvY8oc/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWZU7Mxkh9bN9J7yjRq1-ENkYG32INLEegc9MFnY-lG4yezth5-87cufmHE2uyB25ynUnB3ln1gSOQODz4fr/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWZU7Mxkh9bN9J7yjRq1-ENkYG32INLEegc9MFnY-lG4yezth5-87cufmHE2uyB25ynUnB3ln1gSOQODz4fr/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWNU6dNoteXA54vwxgXs8xA_YDj0ddfBIQJqMwyDq1K7w-jthMK1uZ2dzSE26HFx4C7fmkGpwUYbP_3NaHo/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLP7LWnn9u5MRjjeyP8ImiiQbn_kA6Z2D6ctWXcA5oaVCBqwC3yLy7gsfvuMnAnyMwuyIn4mGdwUKmQ-0CcQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLP7LWnn9u5MRjjeyP8ImiiQbn_kA6Z2D6ctWXcA5oaVCBqwC3yLy7gsfvuMnAnyMwuyIn4mGdwUKmQ-0CcQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLPr7Vn35c18lwmO7Eu4it2ATi-kM-am3yLI_GdgBtZV_VrlC9k7y80Ja96Z-dnSBruiV0s3jD30vgXiO9fJU/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLPr7Vn35c18lwmO7Eu4it2ATi-kM-am3yLI_GdgBtZV_VrlC9k7y80Ja96Z-dnSBruiV0s3jD30vgXiO9fJU/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLO77QgHJu5MRjjeyP9tin2gLs80Q4YT-mddWSegY4MwmBqVS-we29gZe76JvMwXBj6CZw7GGdwUJKbOwJoA/512fx384f"
+        }
+      },
+      {
+        "name": "SSG 08 | Tropical Storm",
+        "desc": "It has been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLP7LWnn9u5MRjjeyP846n3FbhrhduMmnwdYWQIwc8N12Fr1a_x-i91pK5tMybzSM2vSd34mGdwUJeWB4MEA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLP7LWnn9u5MRjjeyP846n3FbhrhduMmnwdYWQIwc8N12Fr1a_x-i91pK5tMybzSM2vSd34mGdwUJeWB4MEA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLPr7Vn35c18lwmO7Eu4_x3QLs80Q6Zmj3I4HHIFVvZQuE_QDvxOfn18e_7snMznE3vHQq7XnD30vg2sIlWLE/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLPr7Vn35c18lwmO7Eu4_x3QLs80Q6Zmj3I4HHIFVvZQuE_QDvxOfn18e_7snMznE3vHQq7XnD30vg2sIlWLE/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLO77QgHJu5MRjjeyPp4n32lfmrUdoZW_zI4SWclJsZVnV_gO4w-nohpC1752bwXtgsih24WGdwUInathHaQ/512fx384f"
         }
       }
     ],
@@ -143,6 +143,34 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj5Nr_Yg2Zu5MRjjeyPpo-g31Hn_0NqYGzwJtCRelI-M1CE8ge_kOzshZXq7ZvBmyFnviZz5mGdwUKZVexurw/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj5Nr_Yg2Zu5MRjjeyPpo-g31Hn_0NqYGzwJtCRelI-M1CE8ge_kOzshZXq7ZvBmyFnviZz5mGdwUKZVexurw/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj8NrrHj1Rd6dd2j6eVpt303FfirRJqZW30IoHGdQU7aQuC_Ae6yO3m1Ja57Z_Nn3Mx7iZz-z-DyCiiyG6B/512fx384f"
+        }
+      },
+      {
+        "name": "G3SG1 | Safari Mesh",
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60m_7zO6_ummpD78A_27DA9o_w2lXl-0NsYzjxd4aWJA5oaVGEqVK3l7ju1MC_6ZWamHNqvz5iuyhFvpA91A/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60m_7zO6_ummpD78A_27DA9o_w2lXl-0NsYzjxd4aWJA5oaVGEqVK3l7ju1MC_6ZWamHNqvz5iuyhFvpA91A/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60mvLwOq7cqWdQ-sJ0xO_CrNSsiQWy80plZjv1IdCUdwI8ZF7SrADrwOnvgse-uJ-byiYwvnU8pSGKIJyreEo/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60mvLwOq7cqWdQ-sJ0xO_CrNSsiQWy80plZjv1IdCUdwI8ZF7SrADrwOnvgse-uJ-byiYwvnU8pSGKIJyreEo/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60n_L1JaLummpD78A_jriU8dv02gfkqEY9N2jzIYaScgJvNwzT-1fslevt0ZC4vM7Lm3A2uj5iuyjuyf21Cg/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Bone Mask",
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09C_k4ifqPv1IbzU2DNU68Aj2r2Wp9usiwTh_0BuZjvzcISTcQQ7ZFGEr1C6xL2605O-uMzXiSw0N5z8ZDA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09C_k4ifqPv1IbzU2DNU68Aj2r2Wp9usiwTh_0BuZjvzcISTcQQ7ZFGEr1C6xL2605O-uMzXiSw0N5z8ZDA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09GzkImemsj4MqnWkyVVuJAk37qX9Ir00Qbn-BI5Yz32IYSVJw47N1_S-VC6lOrvgJ-4ucjK1zI97UyuITnD/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09GzkImemsj4MqnWkyVVuJAk37qX9Ir00Qbn-BI5Yz32IYSVJw47N1_S-VC6lOrvgJ-4ucjK1zI97UyuITnD/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09SzlZaSqPv1IbzU2DMJuZVw3L2Qo9jwjlHmqRVpZW2idoHGdFRtMArU-wW-xO29hJe_6pzXiSw07IVx9q8/512fx384f"
         }
       },
       {
@@ -174,20 +202,6 @@
         }
       },
       {
-        "name": "P250 | Bone Mask",
-        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
-        "lore": "True power is demonstrated with subtle application",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09C_k4ifqPv1IbzU2DNU68Aj2r2Wp9usiwTh_0BuZjvzcISTcQQ7ZFGEr1C6xL2605O-uMzXiSw0N5z8ZDA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09C_k4ifqPv1IbzU2DNU68Aj2r2Wp9usiwTh_0BuZjvzcISTcQQ7ZFGEr1C6xL2605O-uMzXiSw0N5z8ZDA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09GzkImemsj4MqnWkyVVuJAk37qX9Ir00Qbn-BI5Yz32IYSVJw47N1_S-VC6lOrvgJ-4ucjK1zI97UyuITnD/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09GzkImemsj4MqnWkyVVuJAk37qX9Ir00Qbn-BI5Yz32IYSVJw47N1_S-VC6lOrvgJ-4ucjK1zI97UyuITnD/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09SzlZaSqPv1IbzU2DMJuZVw3L2Qo9jwjlHmqRVpZW2idoHGdFRtMArU-wW-xO29hJe_6pzXiSw07IVx9q8/512fx384f"
-        }
-      },
-      {
         "name": "Galil AR | Hunting Blind",
         "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
         "lore": "This item has no Lore",
@@ -199,20 +213,6 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8Nqjum25V4dB8teXA54vwxgKwqRZqa2GgctDEdgY7Yl3UrFTok725hcLtvZnKyXJk7yMgsX6PykapwUYbX0P5-qU/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8Nqjum25V4dB8teXA54vwxgKwqRZqa2GgctDEdgY7Yl3UrFTok725hcLtvZnKyXJk7yMgsX6PykapwUYbX0P5-qU/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8Nqjunm5Q_txOhujT8om7i1Hg_0I_YGDyIdKWJ1RtNw3R8lK7lL--1MPq757OzSEx73Vxt3iOnAv3309KxEWqOg/512fx384f"
-        }
-      },
-      {
-        "name": "G3SG1 | Safari Mesh",
-        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
-        "lore": "A predator is a predator, no matter the environment",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60m_7zO6_ummpD78A_27DA9o_w2lXl-0NsYzjxd4aWJA5oaVGEqVK3l7ju1MC_6ZWamHNqvz5iuyhFvpA91A/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60m_7zO6_ummpD78A_27DA9o_w2lXl-0NsYzjxd4aWJA5oaVGEqVK3l7ju1MC_6ZWamHNqvz5iuyhFvpA91A/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60mvLwOq7cqWdQ-sJ0xO_CrNSsiQWy80plZjv1IdCUdwI8ZF7SrADrwOnvgse-uJ-byiYwvnU8pSGKIJyreEo/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60mvLwOq7cqWdQ-sJ0xO_CrNSsiQWy80plZjv1IdCUdwI8ZF7SrADrwOnvgse-uJ-byiYwvnU8pSGKIJyreEo/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60n_L1JaLummpD78A_jriU8dv02gfkqEY9N2jzIYaScgJvNwzT-1fslevt0ZC4vM7Lm3A2uj5iuyjuyf21Cg/512fx384f"
         }
       }
     ]
