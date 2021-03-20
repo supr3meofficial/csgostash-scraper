@@ -127,7 +127,12 @@ def save_data(*, obj='', save_to='', overwrite=False):
         save_to = obj
         # Set CWD to root path
         os.chdir(root_path())
-        os.chdir(os.path.join(data_path, save_to))
+        # Create directories if not exist
+        os.makedirs(f"{data_path}/{save_to}/json", exist_ok=True)
+        os.makedirs(f"{data_path}/{save_to}/pickle", exist_ok=True)
+        # Use obj directory
+        os.chdir(os.path.join(data_path, obj))
+
     for url in object_retrieve.get_all_urls():
         # Retrieve title for filename and overwrite checks
         _ = object_retrieve._from_page_url(url)
