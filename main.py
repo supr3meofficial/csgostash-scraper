@@ -127,7 +127,12 @@ def save_data(*, obj='', save_to='', overwrite=False):
         save_to = obj
         # Set CWD to root path
         os.chdir(root_path())
-        os.chdir(os.path.join(data_path, save_to))
+        # Create directories if not exist
+        os.makedirs(f"{data_path}/{save_to}/json", exist_ok=True)
+        os.makedirs(f"{data_path}/{save_to}/pickle", exist_ok=True)
+        # Use obj directory
+        os.chdir(os.path.join(data_path, obj))
+
     for url in object_retrieve.get_all_urls():
         # Retrieve title for filename and overwrite checks
         _ = object_retrieve._from_page_url(url)
@@ -147,20 +152,21 @@ def save_data(*, obj='', save_to='', overwrite=False):
                     with open(f'{ext}/{fname}.{ext}', 'wb') as fp:
                         pickle.dump(container, fp)
                 elif ext == 'json':
-                    with open(f'{ext}/{fname}.{ext}', 'w') as fp:
+                    with open(f'{ext}/{fname}.{ext}', 'w', encoding="utf-8", errors="ignore") as fp:
                         if type(container) == SouvenirPackage and container.has_multiple_collections:
                             fmtdict = {}
                             for col in container.collection:
                                 fmtdict[col.name] = fmt_dict(col)
                         else:
                             fmtdict = fmt_dict(container)
-                        json.dump(fmtdict, fp, indent=2,
-                                ensure_ascii=False)
+                        json.dump(fmtdict, fp, indent=2, ensure_ascii=False)
 
 
-to_be_scraped = ("collections",
+to_be_scraped = ["collections",
                  "cases",
-                 "souvenir_packages")
+                 "souvenir_packages"]
 
 for obj in to_be_scraped:
+    print(f"Scraping all {obj}...")
     save_data(obj=obj, overwrite=False)
+    print(f"All {obj} has been scraped")

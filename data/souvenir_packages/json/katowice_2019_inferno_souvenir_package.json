@@ -6,20 +6,6 @@
     "Covert Skins": [],
     "Classified Skins": [
       {
-        "name": "SG 553 | Integrale",
-        "desc": "A custom paint job paying homage to an Italian racing car has been applied.",
-        "lore": "\"Accendete i motori!\"",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoGHm-7LP7LWnn9u5MRjjeyPrNyhigKy_EM4MG6gLNDAcwY5NVqDrgO7kL290cK87sjPn3RrvHEhs2GdwUKariuTHQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoGHm-7LP7LWnn9u5MRjjeyPrNyhigKy_EM4MG6gLNDAcwY5NVqDrgO7kL290cK87sjPn3RrvHEhs2GdwUKariuTHQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoGHm-7LPr7Vn35c18lwmO7Eu4r23APhqUtpY2n2ctWTdwA4MFrSqFXrxL3mhpa77p_IzHVjuCBwsXjD30vgg27QnWM/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoGHm-7LPr7Vn35c18lwmO7Eu4r23APhqUtpY2n2ctWTdwA4MFrSqFXrxL3mhpa77p_IzHVjuCBwsXjD30vgg27QnWM/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoGHm-7LO77QgHJu5MRjjeyP9t2kilXi-0NlYG3zI47Delc8ZwqDrAO3xe_m0Z64tZmbnCNlvSB25WGdwUI3Ew_TBA/512fx384f"
-        }
-      },
-      {
         "name": "Dual Berettas | Twin Turbo",
         "desc": "A custom paint job paying homage to an Italian racing car has been applied.",
         "lore": "Always an underdog",
@@ -31,6 +17,20 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dShD4OOzmImfkuTLIbrdmnJu5cB1g_zMyoD0mlOx5Uc_a2vycYWSegY2M1GFr1i-wu7pjZW5u5TNyyRluXYl4HuInkOzhBtSLrs4Dc2Zcgg/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dShD4OOzmImfkuTLIbrdmnJu5cB1g_zMyoD0mlOx5Uc_a2vycYWSegY2M1GFr1i-wu7pjZW5u5TNyyRluXYl4HuInkOzhBtSLrs4Dc2Zcgg/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dShD4OOzmImfkuTLIbrdmnJu4MBwnPD--Y3nj1H6-EtkYj_ydYLDcFA7YVDWqwK6ku7shJG9vsvAzHsy73Iq5Sval0G1ggYMMLJPPyvg7g/512fx384f"
+        }
+      },
+      {
+        "name": "SG 553 | Integrale",
+        "desc": "A custom paint job paying homage to an Italian racing car has been applied.",
+        "lore": "\"Accendete i motori!\"",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoGHm-7LP7LWnn9u5MRjjeyPrNyhigKy_EM4MG6gLNDAcwY5NVqDrgO7kL290cK87sjPn3RrvHEhs2GdwUKariuTHQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoGHm-7LP7LWnn9u5MRjjeyPrNyhigKy_EM4MG6gLNDAcwY5NVqDrgO7kL290cK87sjPn3RrvHEhs2GdwUKariuTHQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoGHm-7LPr7Vn35c18lwmO7Eu4r23APhqUtpY2n2ctWTdwA4MFrSqFXrxL3mhpa77p_IzHVjuCBwsXjD30vgg27QnWM/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoGHm-7LPr7Vn35c18lwmO7Eu4r23APhqUtpY2n2ctWTdwA4MFrSqFXrxL3mhpa77p_IzHVjuCBwsXjD30vgg27QnWM/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoGHm-7LO77QgHJu5MRjjeyP9t2kilXi-0NlYG3zI47Delc8ZwqDrAO3xe_m0Z64tZmbnCNlvSB25WGdwUI3Ew_TBA/512fx384f"
         }
       }
     ],
@@ -50,6 +50,18 @@
         }
       },
       {
+        "name": "MP7 | Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZh7PXJdTh94czhq4yCkP_gDLfQhGxUpsB137qWrNmj3gK3_0dpNWqhJIbEdg84aVjW-FS_xbzs18S56MnIz3R9-n51LuzV2Hc/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZh7PXJdTh94czhq4yCkP_gDLfQhGxUpsB137qWrNmj3gK3_0dpNWqhJIbEdg84aVjW-FS_xbzs18S56MnIz3R9-n51LuzV2Hc/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZh7PXJdTh94czhq42Ok_7hPoTdl3lW7Yspib2Q9o6i3A3g-EVlYzilJoKWJgE2Zw3Y_lPvyby8gJW-uZvAznEwpGB8svCSNRWD/512fx384f"
+        }
+      },
+      {
         "name": "AK-47 | Safety Net",
         "desc": "An orange mesh pattern has been applied over a white base.",
         "lore": "Your loadout; now with high visibility",
@@ -62,30 +74,20 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszFdC5K08-3koWfjvjmMrXWk1Rc7cF4n-T--Y3nj1H6-UZqN22lIoSRJw42MFHQ-la4weu61pG76M6ayHs2vnZ0sS3anx3miAYMMLKW1IYiGQ/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszFdC5K08-3koWfjvjmMrXWk1RZ7cRnk9bN9J7yjRrk_BFvYmH1IYKddwM5Yl3S_QC2l725hZfu6c7LyCZmviQlsSrUzB3mn1gSOV_Po89W/512fx384f"
         }
-      },
-      {
-        "name": "MP7 | Fade",
-        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
-        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZh7PXJdTh94czhq4yCkP_gDLfQhGxUpsB137qWrNmj3gK3_0dpNWqhJIbEdg84aVjW-FS_xbzs18S56MnIz3R9-n51LuzV2Hc/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZh7PXJdTh94czhq4yCkP_gDLfQhGxUpsB137qWrNmj3gK3_0dpNWqhJIbEdg84aVjW-FS_xbzs18S56MnIz3R9-n51LuzV2Hc/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZh7PXJdTh94czhq42Ok_7hPoTdl3lW7Yspib2Q9o6i3A3g-EVlYzilJoKWJgE2Zw3Y_lPvyby8gJW-uZvAznEwpGB8svCSNRWD/512fx384f"
-        }
       }
     ],
     "Mil-Spec Skins": [
       {
-        "name": "Sawed-Off | Brake Light",
-        "desc": "A red and white spiral pattern has been applied to the receiver.",
-        "lore": "Keep right except to pass",
+        "name": "M4A4 | Converter",
+        "desc": "A red and black mesh hydrographic has been applied.",
+        "lore": "Not so harmful after all...",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cDx9-tmkgImMmMjmNr_ummJW4NFOhujT8om70Q3t_EprNm_7doTBd1JoY1HQqFPrxOnohMS675mbnyBj7nUjsCzVzAv330-WnL27_g/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cDx9-tmkgImMmMjmNr_ummJW4NFOhujT8om70Q3t_EprNm_7doTBd1JoY1HQqFPrxOnohMS675mbnyBj7nUjsCzVzAv330-WnL27_g/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszadDl95Nmuq4yCkP_gDLfQhGxUpsZ12LiUpo3z0QC1-ENuMGnxLYWTcAY8aVHX-1fvw-e7jMDu6s-cmiN9-n51dJVIRQY/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszadDl95Nmuq4yCkP_gDLfQhGxUpsZ12LiUpo3z0QC1-ENuMGnxLYWTcAY8aVHX-1fvw-e7jMDu6s-cmiN9-n51dJVIRQY/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszadDl95Nmuq42Ok_7hPoTdl3lW7Ysg2-qTrdmm2wS2qhFqZW_1JdPHewA9Z1zX_1S5x-a-hpHt6MidnSRhpGB8suedDibD/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszadDl95Nmuq42Ok_7hPoTdl3lW7Ysg2-qTrdmm2wS2qhFqZW_1JdPHewA9Z1zX_1S5x-a-hpHt6MidnSRhpGB8suedDibD/512fx384f"
         }
       },
       {
@@ -103,6 +105,17 @@
         }
       },
       {
+        "name": "Sawed-Off | Brake Light",
+        "desc": "A red and white spiral pattern has been applied to the receiver.",
+        "lore": "Keep right except to pass",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cDx9-tmkgImMmMjmNr_ummJW4NFOhujT8om70Q3t_EprNm_7doTBd1JoY1HQqFPrxOnohMS675mbnyBj7nUjsCzVzAv330-WnL27_g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cDx9-tmkgImMmMjmNr_ummJW4NFOhujT8om70Q3t_EprNm_7doTBd1JoY1HQqFPrxOnohMS675mbnyBj7nUjsCzVzAv330-WnL27_g/512fx384f"
+        }
+      },
+      {
         "name": "USP-S | Check Engine",
         "desc": "It has been spray painted with a red mesh pattern.",
         "lore": "\"You should have that looked at…\"",
@@ -115,22 +128,23 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq42OhP_LILrXk39I-sB1teTE8YXghWu4qgE7Nnf3LdXDcAI5Z1iD-1S6xey60MO_6ZzJzyNluyVxsH2IzRzkiBAfbOY-m7XAHrcyvEA2/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq42OhP_LILrXk39I-sB1teHE9Jrst1i1uRQ5fT_1d4PAIwU-Yl6F8gftlO661sC57Z7LwHtn6Clz7C6JnEbi1B0Ya7RxxavJ_Uq2DFo/512fx384f"
         }
-      },
-      {
-        "name": "M4A4 | Converter",
-        "desc": "A red and black mesh hydrographic has been applied.",
-        "lore": "Not so harmful after all...",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszadDl95Nmuq4yCkP_gDLfQhGxUpsZ12LiUpo3z0QC1-ENuMGnxLYWTcAY8aVHX-1fvw-e7jMDu6s-cmiN9-n51dJVIRQY/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszadDl95Nmuq4yCkP_gDLfQhGxUpsZ12LiUpo3z0QC1-ENuMGnxLYWTcAY8aVHX-1fvw-e7jMDu6s-cmiN9-n51dJVIRQY/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszadDl95Nmuq42Ok_7hPoTdl3lW7Ysg2-qTrdmm2wS2qhFqZW_1JdPHewA9Z1zX_1S5x-a-hpHt6MidnSRhpGB8suedDibD/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszadDl95Nmuq42Ok_7hPoTdl3lW7Ysg2-qTrdmm2wS2qhFqZW_1JdPHewA9Z1zX_1S5x-a-hpHt6MidnSRhpGB8suedDibD/512fx384f"
-        }
       }
     ],
     "Industrial Grade Skins": [
+      {
+        "name": "MAC-10 | Calf Skin",
+        "desc": "It has been hand painted with a brown checkerboard pattern and white accents.",
+        "lore": "Included with the $1,050 Premium Package",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJl4iOlPzxIYTdn2xZ_Pp9i_vG8MKk3VHg8kBqa2D6ctTDIVc5Ml3Z8lHslObsjJ-_6ZjOmCEyviQk4X3fgVXp1iJOg83M/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJl4iOlPzxIYTdn2xZ_Pp9i_vG8MKk3VHg8kBqa2D6ctTDIVc5Ml3Z8lHslObsjJ-_6ZjOmCEyviQk4X3fgVXp1iJOg83M/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJl4iOlPzxIYTck29Y_chOhujT8om7jVey-URuMGn3dofAc1c7YwrRq1fskr3qhZTp6Z-Yyic27iYr433VmQv3308BuS_S5A/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJl4iOlPzxIYTck29Y_chOhujT8om7jVey-URuMGn3dofAc1c7YwrRq1fskr3qhZTp6Z-Yyic27iYr433VmQv3308BuS_S5A/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJl4iOlPzxIYTZk2pH8fp9i_vG8ML03wyw-kBsZDjycIeXJg88M1-E-lfsxuq8jZHtu5jMzyBh6CYh43iMgVXp1rysYRnv/512fx384f"
+        }
+      },
       {
         "name": "R8 Revolver | Nitro",
         "desc": "It has individual parts spray-painted black and tangerine orange.",
@@ -157,20 +171,6 @@
         }
       },
       {
-        "name": "MAC-10 | Calf Skin",
-        "desc": "It has been hand painted with a brown checkerboard pattern and white accents.",
-        "lore": "Included with the $1,050 Premium Package",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJl4iOlPzxIYTdn2xZ_Pp9i_vG8MKk3VHg8kBqa2D6ctTDIVc5Ml3Z8lHslObsjJ-_6ZjOmCEyviQk4X3fgVXp1iJOg83M/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJl4iOlPzxIYTdn2xZ_Pp9i_vG8MKk3VHg8kBqa2D6ctTDIVc5Ml3Z8lHslObsjJ-_6ZjOmCEyviQk4X3fgVXp1iJOg83M/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJl4iOlPzxIYTck29Y_chOhujT8om7jVey-URuMGn3dofAc1c7YwrRq1fskr3qhZTp6Z-Yyic27iYr433VmQv3308BuS_S5A/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJl4iOlPzxIYTck29Y_chOhujT8om7jVey-URuMGn3dofAc1c7YwrRq1fskr3qhZTp6Z-Yyic27iYr433VmQv3308BuS_S5A/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJl4iOlPzxIYTZk2pH8fp9i_vG8ML03wyw-kBsZDjycIeXJg88M1-E-lfsxuq8jZHtu5jMzyBh6CYh43iMgVXp1rysYRnv/512fx384f"
-        }
-      },
-      {
         "name": "PP-Bizon | Candy Apple",
         "desc": "It has individual parts spray-painted solid colors in a red and black color scheme.",
         "lore": "Great on cars, better on weapons",
@@ -184,34 +184,6 @@
       }
     ],
     "Consumer Grade Skins": [
-      {
-        "name": "MP5-SD | Dirt Drop",
-        "desc": "Black streaks have been spray painted over a dark base.",
-        "lore": "Dirt don't hurt… until it does",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANfwOP3ZTxS6eOlnI-Zg8jmMrfdj1Rd4cJ5ntbN9J7yjRrmrRc-YmmmdteUJlRoYF_Q-VHvw73vjZC76s7KwXc17yAm4XaPlhKzn1gSOQ6J1NkV/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANfwOP3ZTxS6eOlnI-Zg8jmMrfdj1Rd4cJ5ntbN9J7yjRrmrRc-YmmmdteUJlRoYF_Q-VHvw73vjZC76s7KwXc17yAm4XaPlhKzn1gSOQ6J1NkV/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANfwOP3ZTxS6eOlnI-Zg8jmMrfdj1Rc7cF4n-T--Y3nj1H6_kJtYTryJtCRIwQ-ZFvW_lK8l-y91Jbu78_OyXBmvyci4iyJnkO_1AYMMLKXcEtzQQ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANfwOP3ZTxS6eOlnI-Zg8jmMrfdj1Rc7cF4n-T--Y3nj1H6_kJtYTryJtCRIwQ-ZFvW_lK8l-y91Jbu78_OyXBmvyci4iyJnkO_1AYMMLKXcEtzQQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANfwOP3ZTxS6eOlnI-Zg8jmMrfdj1RZ7cRnk9bN9J7yjRrm_UU5N2H1dY_DIQU4NQmDrlK6wu_oh5S4vcuazSNruSgq4y7cyhfhn1gSOSrnPlQ1/512fx384f"
-        }
-      },
-      {
-        "name": "MP9 | Slide",
-        "desc": "A hydrographic pattern of orange and brown streaks has been applied.",
-        "lore": "Who needs mud guards?",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957ODYfTxW-Nmkx7-HnvD8J4Tdl3lW7Yt00r6Zp9703Ve1rhFqMm7yLIfAclM2Z17W-1Ptxuvq05G06pvPmydipGB8soGO8-k3/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957ODYfTxW-Nmkx7-HnvD8J4Tdl3lW7Yt00r6Zp9703Ve1rhFqMm7yLIfAclM2Z17W-1Ptxuvq05G06pvPmydipGB8soGO8-k3/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957ODYfTxW-Nmkx7-GkvP9JrbummpD78A_jOjF8N7x31fj8kNkY2z1IdKTewI6YArV_gXtx-nqhZG96M-fmnVi6T5iuyiHF94R4w/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957ODYfTxW-Nmkx7-GkvP9JrbummpD78A_jOjF8N7x31fj8kNkY2z1IdKTewI6YArV_gXtx-nqhZG96M-fmnVi6T5iuyiHF94R4w/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957ODYfTxW-Nmkx7-DkvbiKoTdl3lW7Ysk0--W9N-gjAK2rkJpYDjwLNWRcFBrZVrQ-FO4wbznhJa86c-fmHE3pGB8shlr_XAm/512fx384f"
-        }
-      },
       {
         "name": "UMP-45 | Mudder",
         "desc": "It has been painted in a marbleized pattern.",
@@ -238,6 +210,34 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV9_92wkZSSlfv1MLDum25V4dB8teXA54vwxg2y8hJkNWvxJYGReg4_N1mB-VC8xr3mhcftvM-dn3Bq6Cggty3VnRGpwUYblAKYImM/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV9_92wkZSSlfv1MLDum25V4dB8teXA54vwxg2y8hJkNWvxJYGReg4_N1mB-VC8xr3mhcftvM-dn3Bq6Cggty3VnRGpwUYblAKYImM/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV9_92wkZSSlfv1MLDunm5Q_txOhujT8om7jgblrxdrN2CgI4eSe1NvM1yF-Fi9w-rthZK56s_JwScyvil3sH3VnAv330-1Fjx-xA/512fx384f"
+        }
+      },
+      {
+        "name": "MP5-SD | Dirt Drop",
+        "desc": "Black streaks have been spray painted over a dark base.",
+        "lore": "Dirt don't hurt… until it does",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANfwOP3ZTxS6eOlnI-Zg8jmMrfdj1Rd4cJ5ntbN9J7yjRrmrRc-YmmmdteUJlRoYF_Q-VHvw73vjZC76s7KwXc17yAm4XaPlhKzn1gSOQ6J1NkV/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANfwOP3ZTxS6eOlnI-Zg8jmMrfdj1Rd4cJ5ntbN9J7yjRrmrRc-YmmmdteUJlRoYF_Q-VHvw73vjZC76s7KwXc17yAm4XaPlhKzn1gSOQ6J1NkV/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANfwOP3ZTxS6eOlnI-Zg8jmMrfdj1Rc7cF4n-T--Y3nj1H6_kJtYTryJtCRIwQ-ZFvW_lK8l-y91Jbu78_OyXBmvyci4iyJnkO_1AYMMLKXcEtzQQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANfwOP3ZTxS6eOlnI-Zg8jmMrfdj1Rc7cF4n-T--Y3nj1H6_kJtYTryJtCRIwQ-ZFvW_lK8l-y91Jbu78_OyXBmvyci4iyJnkO_1AYMMLKXcEtzQQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANfwOP3ZTxS6eOlnI-Zg8jmMrfdj1RZ7cRnk9bN9J7yjRrm_UU5N2H1dY_DIQU4NQmDrlK6wu_oh5S4vcuazSNruSgq4y7cyhfhn1gSOSrnPlQ1/512fx384f"
+        }
+      },
+      {
+        "name": "MP9 | Slide",
+        "desc": "A hydrographic pattern of orange and brown streaks has been applied.",
+        "lore": "Who needs mud guards?",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957ODYfTxW-Nmkx7-HnvD8J4Tdl3lW7Yt00r6Zp9703Ve1rhFqMm7yLIfAclM2Z17W-1Ptxuvq05G06pvPmydipGB8soGO8-k3/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957ODYfTxW-Nmkx7-HnvD8J4Tdl3lW7Yt00r6Zp9703Ve1rhFqMm7yLIfAclM2Z17W-1Ptxuvq05G06pvPmydipGB8soGO8-k3/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957ODYfTxW-Nmkx7-GkvP9JrbummpD78A_jOjF8N7x31fj8kNkY2z1IdKTewI6YArV_gXtx-nqhZG96M-fmnVi6T5iuyiHF94R4w/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957ODYfTxW-Nmkx7-GkvP9JrbummpD78A_jOjF8N7x31fj8kNkY2z1IdKTewI6YArV_gXtx-nqhZG96M-fmnVi6T5iuyiHF94R4w/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957ODYfTxW-Nmkx7-DkvbiKoTdl3lW7Ysk0--W9N-gjAK2rkJpYDjwLNWRcFBrZVrQ-FO4wbznhJa86c-fmHE3pGB8shlr_XAm/512fx384f"
         }
       },
       {
