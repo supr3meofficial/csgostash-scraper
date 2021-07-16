@@ -10,6 +10,7 @@
         "name": "Glock-18 | Fade",
         "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
         "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -21,6 +22,7 @@
         "name": "MP9 | Bulldozer",
         "desc": "It has individual parts spray-painted solid colors in a production line yellow color scheme.",
         "lore": "This bone crusher is a devastator",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -34,25 +36,27 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "AUG | Hot Rod",
-        "desc": "It has been painted with a chrome base coat and candied in transparent red anodized effect paint.",
-        "lore": "Automatic. Systematic. Hydromatic.",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZu7OHNdQJO5du-gL-HluXzNvWIl29TsJwljLmT9Irz3wPsrRU6amj7LNeXdlNrMFmG-gK2k-jpg565ot2XnjMC3WBZ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZu7OHNdQJO5du-gL-HluXzNvWIl29TsJwljLmT9Irz3wPsrRU6amj7LNeXdlNrMFmG-gK2k-jpg565ot2XnjMC3WBZ/512fx384f"
-        }
-      },
-      {
         "name": "Negev | Anodized Navy",
         "desc": "It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v33fzxU9eO6nYeDg8j4MqnWkyUE7MR3ibqTpY2m3Va3-0c5Y2qhdtOVIQJrZQrRqFO3wu3mjcK97smY1zI97Sh413Tv/512fx384f",
           "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v33fzxU9eO6nYeDg8j4MqnWkyUE7MR3ibqTpY2m3Va3-0c5Y2qhdtOVIQJrZQrRqFO3wu3mjcK97smY1zI97Sh413Tv/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Hot Rod",
+        "desc": "It has been painted with a chrome base coat and candied in transparent red anodized effect paint.",
+        "lore": "Automatic. Systematic. Hydromatic.",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZu7OHNdQJO5du-gL-HluXzNvWIl29TsJwljLmT9Irz3wPsrRU6amj7LNeXdlNrMFmG-gK2k-jpg565ot2XnjMC3WBZ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZu7OHNdQJO5du-gL-HluXzNvWIl29TsJwljLmT9Irz3wPsrRU6amj7LNeXdlNrMFmG-gK2k-jpg565ot2XnjMC3WBZ/512fx384f"
         }
       }
     ],
@@ -61,6 +65,7 @@
         "name": "Five-SeveN | Candy Apple",
         "desc": "It has individual parts spray-painted solid colors in a red and black color scheme.",
         "lore": "Great on cars, better on weapons",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -72,23 +77,10 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "SG 553 | Tornado",
-        "desc": "It has individual parts spray-painted solid colors in a tornado color scheme.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3ZTJQ4t2ym7-HnvD8J4Tdl3lW7Ysi2O2QoN6t2gHi-xFuY2yldoWddVVoaV_WrAK_yLq-hp69tZjIwHplpGB8ssS7XkDX/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3ZTJQ4t2ym7-HnvD8J4Tdl3lW7Ysi2O2QoN6t2gHi-xFuY2yldoWddVVoaV_WrAK_yLq-hp69tZjIwHplpGB8ssS7XkDX/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3ZTJQ4t2ym7-GkvP9JrbummpD78A_3r2Zod6t3A21_hBtZzz3cdCXdANvZlzSrFfrxrjrgZfvv5mdnyRq6T5iuyir7C5QkA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3ZTJQ4t2ym7-GkvP9JrbummpD78A_3r2Zod6t3A21_hBtZzz3cdCXdANvZlzSrFfrxrjrgZfvv5mdnyRq6T5iuyir7C5QkA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3ZTJQ4t2ym7-DkvbiKoTdl3lW7Ysk3b3H8Nmt2AXk_RFrYTz0LNSSJ1NqNwuErFG_wby5jJK46J2ayyQxpGB8sv9Gs_mb/512fx384f"
-        }
-      },
-      {
         "name": "UMP-45 | Caramel",
         "desc": "It has individual parts spray-painted solid colors in a caramel and black color scheme.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -97,6 +89,21 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3cjxQ7dGzmL-GkvP9JrbummpD78A_j7GXo9Xz31a3-ks5ZT_7JI6SclM2NFiB-Va2l73pjcfptc7BySNisj5iuyiUkezNPQ/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3cjxQ7dGzmL-GkvP9JrbummpD78A_j7GXo9Xz31a3-ks5ZT_7JI6SclM2NFiB-Va2l73pjcfptc7BySNisj5iuyiUkezNPQ/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3cjxQ7dGzmL-DkvbiKoTdl3lW7YtzjrDF8dqt2FG38hY9NTz2coWWI1Q8ZF-F8wK3lbu7jMDv6JXJmydkpGB8sjbGcUYa/512fx384f"
+        }
+      },
+      {
+        "name": "SG 553 | Tornado",
+        "desc": "It has individual parts spray-painted solid colors in a tornado color scheme.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3ZTJQ4t2ym7-HnvD8J4Tdl3lW7Ysi2O2QoN6t2gHi-xFuY2yldoWddVVoaV_WrAK_yLq-hp69tZjIwHplpGB8ssS7XkDX/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3ZTJQ4t2ym7-HnvD8J4Tdl3lW7Ysi2O2QoN6t2gHi-xFuY2yldoWddVVoaV_WrAK_yLq-hp69tZjIwHplpGB8ssS7XkDX/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3ZTJQ4t2ym7-GkvP9JrbummpD78A_3r2Zod6t3A21_hBtZzz3cdCXdANvZlzSrFfrxrjrgZfvv5mdnyRq6T5iuyir7C5QkA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3ZTJQ4t2ym7-GkvP9JrbummpD78A_3r2Zod6t3A21_hBtZzz3cdCXdANvZlzSrFfrxrjrgZfvv5mdnyRq6T5iuyir7C5QkA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3ZTJQ4t2ym7-DkvbiKoTdl3lW7Ysk3b3H8Nmt2AXk_RFrYTz0LNSSJ1NqNwuErFG_wby5jJK46J2ayyQxpGB8sv9Gs_mb/512fx384f"
         }
       }
     ]

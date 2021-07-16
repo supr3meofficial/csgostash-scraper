@@ -4,23 +4,51 @@
   "content": {
     "Rare Special Items": [
       {
-        "name": "★ Karambit | Forest DDPAT",
-        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
-        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "name": "★ Gut Knife | Safari Mesh",
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0k_PkMq_ummJW4NFOhujT8om73Fex-BdsN2z6I9eUdg4_Nw7UqQXtyLu81p7vvZrIznZr7iQr53fenQv3309FzuO8KA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0k_PkMq_ummJW4NFOhujT8om73Fex-BdsN2z6I9eUdg4_Nw7UqQXtyLu81p7vvZrIznZr7iQr53fenQv3309FzuO8KA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0k_PkMq_um25V4dB8teXA54vwxlDm-xZtNWvxcdOTIw42YF7U-Ae3yOu-jZS8vJXOzCFhvyR2ti7YnkOpwUYbHpIorac/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0k_PkMq_um25V4dB8teXA54vwxlDm-xZtNWvxcdOTIw42YF7U-Ae3yOu-jZS8vJXOzCFhvyR2ti7YnkOpwUYbHpIorac/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0k_PkMq_unm5Q_txOhujT8om7jga1rxFrYDumJNeSIVQ5NVjY8we5xu7pgpfv6JXJySBl6HRx7Crcmwv330-ZDgPvlQ/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09Gzh4i0g_b6DLfYkWNF18lwmO7Eu9nz3Qyw_ERrN271JYKdIFc-YlmC_1m5l7i5hMS87p7Nz3c3uHMm4X7D30vgVFLgw28/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09Gzh4i0g_b6DLfYkWNF18lwmO7Eu9nz3Qyw_ERrN271JYKdIFc-YlmC_1m5l7i5hMS87p7Nz3c3uHMm4X7D30vgVFLgw28/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09Gzh4i0g_b6DLbUkmJE5fp9i_vG8MLx2QSy_BdpZmmlcoWVdQdvYV2G-1bvw-zv18O96MzByCA27nYrtyqPgVXp1t9T3ex9/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09Gzh4i0g_b6DLbUkmJE5fp9i_vG8MLx2QSy_BdpZmmlcoWVdQdvYV2G-1bvw-zv18O96MzByCA27nYrtyqPgVXp1t9T3ex9/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09Gzh4i0g_b6DLPUl31I18lwmO7Eu9ml2we1_RJuZ2n6JoSUclU8ZFzRqVW_krq5gZC1tZuYmnQwsnYisCzD30vg3qUbx98/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bayonet | Forest DDPAT",
+        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJG6My3gL-HnvD8J4Tdl3lW7Yt337rC99iijASxrUs-Z2ryJYeTcgY2NAvT8li4l-a80MLuu5zLnyBmpGB8ss5wKTWe/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJG6My3gL-HnvD8J4Tdl3lW7Yt337rC99iijASxrUs-Z2ryJYeTcgY2NAvT8li4l-a80MLuu5zLnyBmpGB8ss5wKTWe/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJG6My3gL-GkvP9JrbummpD78A_27HCp9qi2FawqBduYGCgI47HdFBtMg3R-wK9l-zugZPou5zJwHAyuD5iuyjZxtS4iw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJG6My3gL-GkvP9JrbummpD78A_27HCp9qi2FawqBduYGCgI47HdFBtMg3R-wK9l-zugZPou5zJwHAyuD5iuyjZxtS4iw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJG6My3gL-DkvbiKoTdl3lW7Yt30-3HpIqsiwS18xFlY2jwLYGWdAE3aFvXrADol7zqgJC0tJ_IyHI1pGB8smaas5HW/512fx384f"
+        }
+      },
+      {
+        "name": "★ Karambit | ★ (Vanilla)",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_karambit.8b491b581a4b9c7b5298071425f2b29a39a2a12f.png"
         }
       },
       {
         "name": "★ Flip Knife | Urban Masked",
         "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
         "lore": "True power is demonstrated with subtle application",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -32,47 +60,155 @@
         }
       },
       {
-        "name": "★ Bayonet | ★ (Vanilla)",
-        "desc": "This item has no description.",
-        "lore": "This item has no Lore",
+        "name": "★ Gut Knife | Urban Masked",
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_bayonet.515de291204d6d896724d9fbb6856fcc6054a787.png"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S08i3hIW0guX2MrXummJW4NFOhujT8om73wWy_0ttYmH7LICVcFI9M1zYrFK7lO7shcTov5ScmiAw63Mls33fygv330-gpCcFhQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S08i3hIW0guX2MrXummJW4NFOhujT8om73wWy_0ttYmH7LICVcFI9M1zYrFK7lO7shcTov5ScmiAw63Mls33fygv330-gpCcFhQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S08i3hIW0guX2MrXum25V4dB8teXA54vwxgPgrkQ6ZmH6d9WRcQQ4ZFrU-Vi2x-e9h8fv6Z3PziAysiFz5XrblxSpwUYbNI9lScA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S08i3hIW0guX2MrXum25V4dB8teXA54vwxgPgrkQ6ZmH6d9WRcQQ4ZFrU-Vi2x-e9h8fv6Z3PziAysiFz5XrblxSpwUYbNI9lScA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S08i3hIW0guX2MrXunm5Q_txOhujT8om7iVCw_EJqYGygddKSI1U_NVqFrlbvw--6gpS8vJjOwCBlu3Eltn_Ungv330_hbfuoMQ/512fx384f"
         }
       },
       {
-        "name": "★ Bayonet | Blue Steel",
-        "desc": "It has been cold blued.",
-        "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
+        "name": "★ Flip Knife | Night",
+        "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
+        "lore": "It's the whisper of the wind... it's the bite at your neck",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJA4MmzkL-HnvD8J4Tdl3lW7Ysl2rCRoNum3lfn_Rc-Nzv6cIadcgE5NQyBrwPswei818S-v5qfzHpgpGB8so3I7TlV/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJA4MmzkL-HnvD8J4Tdl3lW7Ysl2rCRoNum3lfn_Rc-Nzv6cIadcgE5NQyBrwPswei818S-v5qfzHpgpGB8so3I7TlV/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJA4MmzkL-GkvP9JrbummpD78A_37vEp4rz3w21_hBrNWD7dteSeg8_M1jSrFK5wrrr18Xpu5TAwHNmsj5iuyhFiVGqLA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJA4MmzkL-GkvP9JrbummpD78A_37vEp4rz3w21_hBrNWD7dteSeg8_M1jSrFK5wrrr18Xpu5TAwHNmsj5iuyhFiVGqLA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJA4MmzkL-DkvbiKoTdl3lW7Ytzj7HFpIr3jQTiqEptYDjzcIeWJgI4YF_Z_Fm7lOvnjJbquJXKmiMypGB8sl3Uv6q3/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR4-O4nYeDg8j4OrzZglRd6dd2j6fC8dqk2wDi-xE6Nz_7II6cewRrY12G-gC6xL--hsfuvZqbzyZnvHIk-z-DyFVtBt8T/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR4-O4nYeDg8j4OrzZglRd6dd2j6fC8dqk2wDi-xE6Nz_7II6cewRrY12G-gC6xL--hsfuvZqbzyZnvHIk-z-DyFVtBt8T/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR4-O4nYeDg8j5Nr_Yg2Zu5MRjjeyPrNjz3AO2-xFsZTj6INeQJlBvYFnVrli5lOvr1pG0tJ_MyCEw6Ckm7GGdwUIjVDzoMQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR4-O4nYeDg8j5Nr_Yg2Zu5MRjjeyPrNjz3AO2-xFsZTj6INeQJlBvYFnVrli5lOvr1pG0tJ_MyCEw6Ckm7GGdwUIjVDzoMQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR4-O4nYeDg8j8NrrHj1Rd6dd2j6eS8d_02Fay_xBsYzzwI4DHcAM4Z13Q8gDqlea91pfutcydzydl7CB2-z-DyJ27qxgF/512fx384f"
         }
       },
       {
-        "name": "★ Karambit | Case Hardened",
+        "name": "★ Karambit | Urban Masked",
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0g_bkNoTEhGlQ5vp9g-7J4bP5iUazrl04YG-nJdXDegc2Y1uBrlG6x-2-gZTq6p6YwSZq6CFzsynZlhS30B9PcKUx0vKbTggh/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0g_bkNoTEhGlQ5vp9g-7J4bP5iUazrl04YG-nJdXDegc2Y1uBrlG6x-2-gZTq6p6YwSZq6CFzsynZlhS30B9PcKUx0vKbTggh/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0g_bkNoTEhGlQ5vp8j-3I4IHKhFWmrBZyYWn6cYWTd1VtM1-C81e5l-7rgsO87Z-awHAwviBxsHrUnRHkghoZb_sv26KGa0e-bg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0g_bkNoTEhGlQ5vp8j-3I4IHKhFWmrBZyYWn6cYWTd1VtM1-C81e5l-7rgsO87Z-awHAwviBxsHrUnRHkghoZb_sv26KGa0e-bg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0g_bkNoTEhGlQ5vp5j-jX7LP5iUazrl0-Yzr3LY-UIFc-NVjTrAS2wb3v1se_v8vMznFi63YgtizdmxLigh4acKUx0hPHV3-s/512fx384f"
+        }
+      },
+      {
+        "name": "★ Karambit | Boreal Forest",
+        "desc": "It has been painted using a forest camouflage hydrographic.",
+        "lore": "The woods can be a dangerous place... never travel alone",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0kfjmNqjFqWle-sBwhtbN_Iv9nGu4qgE7Nnf7dtOce1Q3M13T-Fa7xejs0MXt753AnXJruiMn7C6LnBC1h0tIO-1um7XAHtmw6SCz/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0kfjmNqjFqWle-sBwhtbN_Iv9nGu4qgE7Nnf7dtOce1Q3M13T-Fa7xejs0MXt753AnXJruiMn7C6LnBC1h0tIO-1um7XAHtmw6SCz/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0kfjmNqjFqWle-sBwhtbM8Ij8nVmLpxIuNDztd4XDd1U-MFCDqVi3kL-7gsW8upnPziQxsnF24HrcyxzkhxxEPbBp0eveFwujSqEF8A/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0kfjmNqjFqWle-sBwhtbM8Ij8nVmLpxIuNDztd4XDd1U-MFCDqVi3kL-7gsW8upnPziQxsnF24HrcyxzkhxxEPbBp0eveFwujSqEF8A/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0kfjmNqjFqWle-sBwhtbJ8I3jkWu4qgE7NnehLdKQewZrMFvRrAK9kOnv1sTp6p7My3A1viIq4S3dmRbjh04aa-dum7XAHpYVBQgv/512fx384f"
+        }
+      },
+      {
+        "name": "★ Flip Knife | Crimson Web",
+        "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
+        "lore": "Be careful where you walk, you never know where the web is spread",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOhkYKYqPv9NLPFqWdQ-sJ0xOyR94_20VHlr0NsZzulcobEJAY5MAqD-VXvx-7m1pC6uZnByncw7yY8pSGKow-GEME/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOhkYKYqPv9NLPFqWdQ-sJ0xOyR94_20VHlr0NsZzulcobEJAY5MAqD-VXvx-7m1pC6uZnByncw7yY8pSGKow-GEME/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOhkYKYqPrxN7LEm1Rd6dd2j6eSp4332AG3qhA_YWinJ4OXJFM-Z1HZqAW7wOnog8Dp78jLm3Zr63Vx-z-DyBZ1xJAE/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOhkYKYqPrxN7LEm1Rd6dd2j6eSp4332AG3qhA_YWinJ4OXJFM-Z1HZqAW7wOnog8Dp78jLm3Zr63Vx-z-DyBZ1xJAE/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOhkYKYqP_xMq3IqWdQ-sJ0xLGQ8Nyn3wLg_Utvazj2coTGJ1JsMAnZ-lTryefqgpLu75qfznFku3I8pSGK4lNmans/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bayonet | Safari Mesh",
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJP6c--q5SKmcj4OrzZglRd6dd2j6fHpY-kigPlrRduYmmhI4LHdgRqMw7X8lO7wuvqg8O77szAmHtq7iEn-z-DyIB9jWZF/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJP6c--q5SKmcj4OrzZglRd6dd2j6fHpY-kigPlrRduYmmhI4LHdgRqMw7X8lO7wuvqg8O77szAmHtq7iEn-z-DyIB9jWZF/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJP6c--q5SKmcj5Nr_Yg2Zu5MRjjeyPp9Ws0QDjqEpuNmjxJdDBIVc4ZV7U-FG8kuztgZHttMmYznFg6SQk7WGdwUKUDs9gvQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJP6c--q5SKmcj5Nr_Yg2Zu5MRjjeyPp9Ws0QDjqEpuNmjxJdDBIVc4ZV7U-FG8kuztgZHttMmYznFg6SQk7WGdwUKUDs9gvQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJP6c--q5SKmcj8NrrHj1Rd6dd2j6fCrd2s0Aaw-EA4YG73cNSWdVdoZgzV_1i2l-bu1Jfo6Z-fm3c37CJx-z-DyLk6KurC/512fx384f"
+        }
+      },
+      {
+        "name": "★ Gut Knife | Case Hardened",
         "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
         "lore": "A little color never hurt anyone",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_ummJW4NFOhujT8om73Qay8kFuaj3xLYCVJAM7ZF-B8li9kOfm1sW6u5SfyHNru3Im7SvUlwv330-EAAozoQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_ummJW4NFOhujT8om73Qay8kFuaj3xLYCVJAM7ZF-B8li9kOfm1sW6u5SfyHNru3Im7SvUlwv330-EAAozoQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_um25V4dB8teXA54vwxlfk_kU9ZWqgJ9fGJwQ3Z1vY-wK2wOfo15K1uZXJm3ox6Skqsy3emUGpwUYbA4Ce6rU/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_um25V4dB8teXA54vwxlfk_kU9ZWqgJ9fGJwQ3Z1vY-wK2wOfo15K1uZXJm3ox6Skqsy3emUGpwUYbA4Ce6rU/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_unm5Q_txOhujT8om70Abg-Bdoa2-iIoaRdlU7NA2GrlTtkuvs0MXtu5zOwHExs3Yj5neMzQv33088DhhWAw/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT09O_mIWPqPv9NLPFqWdQ-sJ0xO-Qod2i2wOy_EdpYW_7LIDBclI6aVHV-Fm_lOe-gJG5vpvKyHYwv3M8pSGKIGsDSZw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT09O_mIWPqPv9NLPFqWdQ-sJ0xO-Qod2i2wOy_EdpYW_7LIDBclI6aVHV-Fm_lOe-gJG5vpvKyHYwv3M8pSGKIGsDSZw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT09O_mIWPqPrxN7LEm1Rd6dd2j6eUrdzw0Vfg-EY9N236IoSRIFU_YV_RqFi2kOjsg5e1u5XAmnAxsiR3-z-DyDOYcv8_/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT09O_mIWPqPrxN7LEm1Rd6dd2j6eUrdzw0Vfg-EY9N236IoSRIFU_YV_RqFi2kOjsg5e1u5XAmnAxsiR3-z-DyDOYcv8_/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT09O_mIWPqP_xMq3IqWdQ-sJ0xLuYrN2s2lXhrUpkMW_zI4WVd1Q8MlzYr1C5l-nqhZC1vZTJzSZj7nQ8pSGKnPOWYls/512fx384f"
+        }
+      },
+      {
+        "name": "★ Gut Knife | Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxD09q3kIW0m_7zO6_ummpD78A_3OyZrI-n2wPk_RY9NTrwINOSdQc9MlrW_gfqlbu9jJK4uJmYwCBlvT5iuyhGHAgcYg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxD09q3kIW0m_7zO6_ummpD78A_3OyZrI-n2wPk_RY9NTrwINOSdQc9MlrW_gfqlbu9jJK4uJmYwCBlvT5iuyhGHAgcYg/512fx384f"
+        }
+      },
+      {
+        "name": "★ Karambit | Slaughter",
+        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
+        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20jfL2IbrummJW4NFOhujT8om70Azg_kQ6MTygdYKXJw9qMlnX_Fa3ye28gpC-vZSdynYxviZztyncmwv330_7Rx0jNA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20jfL2IbrummJW4NFOhujT8om70Azg_kQ6MTygdYKXJw9qMlnX_Fa3ye28gpC-vZSdynYxviZztyncmwv330_7Rx0jNA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20jfL2Ibrum25V4dB8teXA54vwxgXtrRY_ZWH3d9eRIVU9MlmB-Fa3l7q-g8S6vJSfzCQysyYr5X3flxepwUYbMQKc__M/512fx384f"
+        }
+      },
+      {
+        "name": "★ Gut Knife | Boreal Forest",
+        "desc": "It has been painted using a forest camouflage hydrographic.",
+        "lore": "The woods can be a dangerous place... never travel alone",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb09q5hoWYg8j2PKnUl2du5Mx2gv3--Y3nj1H6qUFkMm2gctSUcQJtNVCCr1TqkO3m056-6M_JnSRnuicn4njZmB3iiQYMMLJLcEs9NA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb09q5hoWYg8j2PKnUl2du5Mx2gv3--Y3nj1H6qUFkMm2gctSUcQJtNVCCr1TqkO3m056-6M_JnSRnuicn4njZmB3iiQYMMLJLcEs9NA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb09q5hoWYg8j2PKnUl2du5cB1g_zMyoD0mlOx5UVtYmDyLNPEdwVtaV-Cq1S6lO_mjJ-07szAmiQyuCQqtn7dmBO0gk1SLrs4R_gpvnA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb09q5hoWYg8j2PKnUl2du5cB1g_zMyoD0mlOx5UVtYmDyLNPEdwVtaV-Cq1S6lO_mjJ-07szAmiQyuCQqtn7dmBO0gk1SLrs4R_gpvnA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb09q5hoWYg8j2PKnUl2du4MBwnPD--Y3nj1H6rkA9MGinJYGQegU8N1DU-gDsxb3mgZ676p7KyXtq7Cdxs3rcmxK1hgYMMLKK05eNEw/512fx384f"
         }
       },
       {
         "name": "★ Bayonet | Boreal Forest",
         "desc": "It has been painted using a forest camouflage hydrographic.",
         "lore": "The woods can be a dangerous place... never travel alone",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -87,6 +223,7 @@
         "name": "★ Flip Knife | Blue Steel",
         "desc": "It has been cold blued.",
         "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -98,51 +235,25 @@
         }
       },
       {
-        "name": "★ Gut Knife | Boreal Forest",
-        "desc": "It has been painted using a forest camouflage hydrographic.",
-        "lore": "The woods can be a dangerous place... never travel alone",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb09q5hoWYg8j2PKnUl2du5Mx2gv3--Y3nj1H6qUFkMm2gctSUcQJtNVCCr1TqkO3m056-6M_JnSRnuicn4njZmB3iiQYMMLJLcEs9NA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb09q5hoWYg8j2PKnUl2du5Mx2gv3--Y3nj1H6qUFkMm2gctSUcQJtNVCCr1TqkO3m056-6M_JnSRnuicn4njZmB3iiQYMMLJLcEs9NA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb09q5hoWYg8j2PKnUl2du5cB1g_zMyoD0mlOx5UVtYmDyLNPEdwVtaV-Cq1S6lO_mjJ-07szAmiQyuCQqtn7dmBO0gk1SLrs4R_gpvnA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb09q5hoWYg8j2PKnUl2du5cB1g_zMyoD0mlOx5UVtYmDyLNPEdwVtaV-Cq1S6lO_mjJ-07szAmiQyuCQqtn7dmBO0gk1SLrs4R_gpvnA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb09q5hoWYg8j2PKnUl2du4MBwnPD--Y3nj1H6rkA9MGinJYGQegU8N1DU-gDsxb3mgZ676p7KyXtq7Cdxs3rcmxK1hgYMMLKK05eNEw/512fx384f"
-        }
-      },
-      {
-        "name": "★ Flip Knife | Crimson Web",
+        "name": "★ Gut Knife | Crimson Web",
         "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
         "lore": "Be careful where you walk, you never know where the web is spread",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOhkYKYqPv9NLPFqWdQ-sJ0xOyR94_20VHlr0NsZzulcobEJAY5MAqD-VXvx-7m1pC6uZnByncw7yY8pSGKow-GEME/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOhkYKYqPv9NLPFqWdQ-sJ0xOyR94_20VHlr0NsZzulcobEJAY5MAqD-VXvx-7m1pC6uZnByncw7yY8pSGKow-GEME/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOhkYKYqPrxN7LEm1Rd6dd2j6eSp4332AG3qhA_YWinJ4OXJFM-Z1HZqAW7wOnog8Dp78jLm3Zr63Vx-z-DyBZ1xJAE/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOhkYKYqPrxN7LEm1Rd6dd2j6eSp4332AG3qhA_YWinJ4OXJFM-Z1HZqAW7wOnog8Dp78jLm3Zr63Vx-z-DyBZ1xJAE/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOhkYKYqP_xMq3IqWdQ-sJ0xLGQ8Nyn3wLg_Utvazj2coTGJ1JsMAnZ-lTryefqgpLu75qfznFku3I8pSGK4lNmans/512fx384f"
-        }
-      },
-      {
-        "name": "★ Flip Knife | Boreal Forest",
-        "desc": "It has been painted using a forest camouflage hydrographic.",
-        "lore": "The woods can be a dangerous place... never travel alone",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOwm5KOhOPLMbTDk2pd18l4jeHVyoD0mlOx5Rdoa277LIOUdwY5MF7U81O7krzuhJa8vM-fnSMxvyVxtCqPnEC3hktSLrs4hATUWUc/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOwm5KOhOPLMbTDk2pd18l4jeHVyoD0mlOx5Rdoa277LIOUdwY5MF7U81O7krzuhJa8vM-fnSMxvyVxtCqPnEC3hktSLrs4hATUWUc/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOwm5KOhOPLMbTDk2pd18h0juDU-LP5iUazrl1lZmyiIIaSIVNraVmDqVK9ku27jJ_vu5rPmnBmvyEl7H6Oyx2y1E5JcKUx0ugc8UjH/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOwm5KOhOPLMbTDk2pd18h0juDU-LP5iUazrl1lZmyiIIaSIVNraVmDqVK9ku27jJ_vu5rPmnBmvyEl7H6Oyx2y1E5JcKUx0ugc8UjH/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOwm5KOhOPLMbTDk2pd1810i__YyoD0mlOx5UI5a2rzcY_EIQNqZA7R_QO3yeq-hMS_vsybnXsw7iJztyzZmxCyhR1SLrs4IbirlSI/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb08uzlpO0m_7zO6_ummpD78A_2LiW9Nuj0VGw-0JvYj2hJdKWI1NoZAnU-gPtyOzo0ZK4u52bm3Bh7j5iuyiVfFD71A/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb08uzlpO0m_7zO6_ummpD78A_2LiW9Nuj0VGw-0JvYj2hJdKWI1NoZAnU-gPtyOzo0ZK4u52bm3Bh7j5iuyiVfFD71A/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb08uzlpO0mvLwOq7cqWdQ-sJ0xLqZ99_w3FXt80tpMDyncY7EcARqMlyC_lO8wOrt1p-6uZzByHUxsyA8pSGK0TMvFOE/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb08uzlpO0mvLwOq7cqWdQ-sJ0xLqZ99_w3FXt80tpMDyncY7EcARqMlyC_lO8wOrt1p-6uZzByHUxsyA8pSGK0TMvFOE/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb08uzlpO0n_L1JaLummpD78A_3L2Zo9Sn31Xm-0RtajjwddLEcVBvYA7W-VjqwOfsgce_vpyfmHEx6z5iuyh_csHsVQ/512fx384f"
         }
       },
       {
         "name": "★ Gut Knife | ★ (Vanilla)",
         "desc": "This item has no description.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -150,118 +261,21 @@
         }
       },
       {
-        "name": "★ Flip Knife | Case Hardened",
-        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
-        "lore": "A little color never hurt anyone",
+        "name": "★ Flip Knife | ★ (Vanilla)",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eO5nYyOk8j4OrzZglRd6dd2j6eQodmt0VDgrUBqZWrwJIKccg48ZQ7T_AS5l-nqh5e1uJrBnHAw63J2-z-DyM8HtRGF/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eO5nYyOk8j4OrzZglRd6dd2j6eQodmt0VDgrUBqZWrwJIKccg48ZQ7T_AS5l-nqh5e1uJrBnHAw63J2-z-DyM8HtRGF/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eO5nYyOk8j5Nr_Yg2Zu5MRjjeyP896niwPkqBZsMmnxctSUcgA-N1_X-1i5x-fq05W46M6bz3Nl6Skm4mGdwUId17urZQ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eO5nYyOk8j5Nr_Yg2Zu5MRjjeyP896niwPkqBZsMmnxctSUcgA-N1_X-1i5x-fq05W46M6bz3Nl6Skm4mGdwUId17urZQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eO5nYyOk8j8NrrHj1Rd6dd2j6eVrI6silWxqEVlMjyictORIw8_YQnU_Va-wrvv1JHpuZWYnCFmvSEl-z-DyI1yZU_E/512fx384f"
-        }
-      },
-      {
-        "name": "★ Bayonet | Urban Masked",
-        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
-        "lore": "True power is demonstrated with subtle application",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJW7cyzq5WZlfb6DLfYkWNF18lwmO7Eu9SkiwCw-RJsZTrxcI7GcAE_MFqC_AXrxby8gZHqvM6bySZg7CMgtyrD30vgFNz3E8k/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJW7cyzq5WZlfb6DLfYkWNF18lwmO7Eu9SkiwCw-RJsZTrxcI7GcAE_MFqC_AXrxby8gZHqvM6bySZg7CMgtyrD30vgFNz3E8k/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJW7cyzq5WZlfb6DLbUkmJE5fp9i_vG8MKijQTl_Bc_ZT3wI4KdJ1M2Mw6ErgLqkr3n1Ja1vZTLn3FmsnQh4H_fgVXp1kJdzvEN/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJW7cyzq5WZlfb6DLbUkmJE5fp9i_vG8MKijQTl_Bc_ZT3wI4KdJ1M2Mw6ErgLqkr3n1Ja1vZTLn3FmsnQh4H_fgVXp1kJdzvEN/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJW7cyzq5WZlfb6DLPUl31I18lwmO7Eu92gjgzmqktsMDj3I9TGJFA9ZQnQr1Psl-vnjJC0usjMwXA273N05CrD30vga0eXEBM/512fx384f"
-        }
-      },
-      {
-        "name": "★ Flip Knife | Scorched",
-        "desc": "It has been spray-painted in a sun-dappled pattern.",
-        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOylZCbm_LLP7LWnn9u5MRjjeyP84jzjVHl-hdtYm37co6Udw48N1zT8gLowLi705e7uZrIziFku3EisGGdwUJi_yOknw/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOylZCbm_LLP7LWnn9u5MRjjeyP84jzjVHl-hdtYm37co6Udw48N1zT8gLowLi705e7uZrIziFku3EisGGdwUJi_yOknw/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOylZCbm_LLPr7Vn35c18lwmO7Eu4injgHlqEBuYW36IdOTdQ88ZQ3Rq1a4yea-0JK6vszPwHZj7nIm5XvD30vgloTn9T8/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOylZCbm_LLPr7Vn35c18lwmO7Eu4injgHlqEBuYW36IdOTdQ88ZQ3Rq1a4yea-0JK6vszPwHZj7nIm5XvD30vgloTn9T8/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOylZCbm_LLO77QgHJu5MRjjeyPod_00VLj-BE-Mm77JYaddgE5YF3UrgLsxbjmjJPuvpTKznRkvSknsGGdwULvXBzBsA/512fx384f"
-        }
-      },
-      {
-        "name": "★ Karambit | Urban Masked",
-        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
-        "lore": "True power is demonstrated with subtle application",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0g_bkNoTEhGlQ5vp9g-7J4bP5iUazrl04YG-nJdXDegc2Y1uBrlG6x-2-gZTq6p6YwSZq6CFzsynZlhS30B9PcKUx0vKbTggh/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0g_bkNoTEhGlQ5vp9g-7J4bP5iUazrl04YG-nJdXDegc2Y1uBrlG6x-2-gZTq6p6YwSZq6CFzsynZlhS30B9PcKUx0vKbTggh/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0g_bkNoTEhGlQ5vp8j-3I4IHKhFWmrBZyYWn6cYWTd1VtM1-C81e5l-7rgsO87Z-awHAwviBxsHrUnRHkghoZb_sv26KGa0e-bg/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0g_bkNoTEhGlQ5vp8j-3I4IHKhFWmrBZyYWn6cYWTd1VtM1-C81e5l-7rgsO87Z-awHAwviBxsHrUnRHkghoZb_sv26KGa0e-bg/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0g_bkNoTEhGlQ5vp5j-jX7LP5iUazrl0-Yzr3LY-UIFc-NVjTrAS2wb3v1se_v8vMznFi63YgtizdmxLigh4acKUx0hPHV3-s/512fx384f"
-        }
-      },
-      {
-        "name": "★ Karambit | Blue Steel",
-        "desc": "It has been cold blued.",
-        "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0lfvhNr_ummJW4NFOhujT8om72QCx8kFkMD2mcNOcc1c-ZAnU_Ve7x7y8hMe4u52anXdiv3IrsXjemgv3308svFRjrA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0lfvhNr_ummJW4NFOhujT8om72QCx8kFkMD2mcNOcc1c-ZAnU_Ve7x7y8hMe4u52anXdiv3IrsXjemgv3308svFRjrA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0lfvhNr_um25V4dB8teXA54vwxgLmqhFtYT-nIYecJgI3Z1DZ_FfqyLvqhpK-tJSbnSY2vSBx43eLn0epwUYbMQqd_ig/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0lfvhNr_um25V4dB8teXA54vwxgLmqhFtYT-nIYecJgI3Z1DZ_FfqyLvqhpK-tJSbnSY2vSBx43eLn0epwUYbMQqd_ig/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0lfvhNr_unm5Q_txOhujT8om7iQK2rhA_MWv1LIaSegc2aFjR-lK7w-q70MW67pmfzCY3syF25Hvdmwv3308f-tSK-w/512fx384f"
-        }
-      },
-      {
-        "name": "★ Karambit | Fade",
-        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
-        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlYG0kfbwNoTdn2xZ_Pp9i_vG8ML20QXi80M4ZGzwddLGcFBtMl2FrlPrxeu71MC0vZifzyZn63In5S3agVXp1g0meEXB/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlYG0kfbwNoTdn2xZ_Pp9i_vG8ML20QXi80M4ZGzwddLGcFBtMl2FrlPrxeu71MC0vZifzyZn63In5S3agVXp1g0meEXB/512fx384f"
-        }
-      },
-      {
-        "name": "★ Gut Knife | Urban Masked",
-        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
-        "lore": "True power is demonstrated with subtle application",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S08i3hIW0guX2MrXummJW4NFOhujT8om73wWy_0ttYmH7LICVcFI9M1zYrFK7lO7shcTov5ScmiAw63Mls33fygv330-gpCcFhQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S08i3hIW0guX2MrXummJW4NFOhujT8om73wWy_0ttYmH7LICVcFI9M1zYrFK7lO7shcTov5ScmiAw63Mls33fygv330-gpCcFhQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S08i3hIW0guX2MrXum25V4dB8teXA54vwxgPgrkQ6ZmH6d9WRcQQ4ZFrU-Vi2x-e9h8fv6Z3PziAysiFz5XrblxSpwUYbNI9lScA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S08i3hIW0guX2MrXum25V4dB8teXA54vwxgPgrkQ6ZmH6d9WRcQQ4ZFrU-Vi2x-e9h8fv6Z3PziAysiFz5XrblxSpwUYbNI9lScA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S08i3hIW0guX2MrXunm5Q_txOhujT8om7iVCw_EJqYGygddKSI1U_NVqFrlbvw--6gpS8vJjOwCBlu3Eltn_Ungv330_hbfuoMQ/512fx384f"
-        }
-      },
-      {
-        "name": "★ Flip Knife | Safari Mesh",
-        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
-        "lore": "A predator is a predator, no matter the environment",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OO7kZODqOP1PYTdn2xZ_Pp9i_vG8MKm3gW380dqMjr0dtXAdwc8N1_Q_Vbql-a9jcToup-dmHpgsnVwsH2IgVXp1ngZO2uX/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OO7kZODqOP1PYTdn2xZ_Pp9i_vG8MKm3gW380dqMjr0dtXAdwc8N1_Q_Vbql-a9jcToup-dmHpgsnVwsH2IgVXp1ngZO2uX/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OO7kZODqOP1PYTck29Y_chOhujT8om72VXkr0E4Z2r3J9CRIQ9tNArWq1S_lOrug8Xv7sjJwXVruyUl5XqOmQv330_24dUqqg/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OO7kZODqOP1PYTck29Y_chOhujT8om72VXkr0E4Z2r3J9CRIQ9tNArWq1S_lOrug8Xv7sjJwXVruyUl5XqOmQv330_24dUqqg/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OO7kZODqOP1PYTZk2pH8fp9i_vG8MKj2QG2-xZtMW77coDGIwI_aQrS-VHsxO7o0MPu7snNwSdmuCAg43-IgVXp1mKS_KYC/512fx384f"
+          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_flip.ebfc00735792b1e2947b30a321a07215dae8ceed.png"
         }
       },
       {
         "name": "★ Gut Knife | Stained",
         "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
         "lore": "If you think it's messy now, wait until you see it under a blacklight",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -273,126 +287,10 @@
         }
       },
       {
-        "name": "★ Flip Knife | Fade",
-        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
-        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD7eOwlYSOqPv9NLPFqWdQ-sJ0xLGQpIqtjQy1rUE5Y2n1I4PGcgI5MFGD-wS3l-7r18TpucyanHpg6CE8pSGKbZ02GvY/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD7eOwlYSOqPv9NLPFqWdQ-sJ0xLGQpIqtjQy1rUE5Y2n1I4PGcgI5MFGD-wS3l-7r18TpucyanHpg6CE8pSGKbZ02GvY/512fx384f"
-        }
-      },
-      {
-        "name": "★ Bayonet | Safari Mesh",
-        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
-        "lore": "A predator is a predator, no matter the environment",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJP6c--q5SKmcj4OrzZglRd6dd2j6fHpY-kigPlrRduYmmhI4LHdgRqMw7X8lO7wuvqg8O77szAmHtq7iEn-z-DyIB9jWZF/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJP6c--q5SKmcj4OrzZglRd6dd2j6fHpY-kigPlrRduYmmhI4LHdgRqMw7X8lO7wuvqg8O77szAmHtq7iEn-z-DyIB9jWZF/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJP6c--q5SKmcj5Nr_Yg2Zu5MRjjeyPp9Ws0QDjqEpuNmjxJdDBIVc4ZV7U-FG8kuztgZHttMmYznFg6SQk7WGdwUKUDs9gvQ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJP6c--q5SKmcj5Nr_Yg2Zu5MRjjeyPp9Ws0QDjqEpuNmjxJdDBIVc4ZV7U-FG8kuztgZHttMmYznFg6SQk7WGdwUKUDs9gvQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJP6c--q5SKmcj8NrrHj1Rd6dd2j6fCrd2s0Aaw-EA4YG73cNSWdVdoZgzV_1i2l-bu1Jfo6Z-fm3c37CJx-z-DyLk6KurC/512fx384f"
-        }
-      },
-      {
-        "name": "★ Karambit | Crimson Web",
-        "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
-        "lore": "Be careful where you walk, you never know where the web is spread",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0gPL2IITdn2xZ_Pp9i_vG8MKj2Qbl_EdlZziiddOXdAY2YAvT-wW2xrjugJG_tcvNyyBn6SEm4XuMgVXp1n8qZn5H/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0gPL2IITdn2xZ_Pp9i_vG8MKj2Qbl_EdlZziiddOXdAY2YAvT-wW2xrjugJG_tcvNyyBn6SEm4XuMgVXp1n8qZn5H/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0gPL2IITck29Y_chOhujT8om7iwLn_Ec4NWrwdoDDIFNtZlHT-QW6xOzmgZ_t6pTNznUyvnQg7Crclwv330__CL9_dg/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0gPL2IITck29Y_chOhujT8om7iwLn_Ec4NWrwdoDDIFNtZlHT-QW6xOzmgZ_t6pTNznUyvnQg7Crclwv330__CL9_dg/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0gPL2IITZk2pH8fp9i_vG8MKljQbn_hI-NT2hd4Kcc1I4Z13Y_wfvxrvmgsXvtZ6dwHtq7CQlsCmIgVXp1qIe6Gdc/512fx384f"
-        }
-      },
-      {
-        "name": "★ Bayonet | Case Hardened",
-        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
-        "lore": "A little color never hurt anyone",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJN5dCzkL-HnvD8J4Tdl3lW7Yso2LmZo9rw2lXlrUJrNT2iI4GVcFM-M1yDqFi7l-rq1J7ttM7JyXVjpGB8slOwrcti/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJN5dCzkL-HnvD8J4Tdl3lW7Yso2LmZo9rw2lXlrUJrNT2iI4GVcFM-M1yDqFi7l-rq1J7ttM7JyXVjpGB8slOwrcti/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJN5dCzkL-GkvP9JrbummpD78A_j7DEoo2njFHl_kM5Zz_1I9OUI1dtYw3U_1nskOvuhMS7vM_AnXdr7z5iuyiOIPCcdg/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJN5dCzkL-GkvP9JrbummpD78A_j7DEoo2njFHl_kM5Zz_1I9OUI1dtYw3U_1nskOvuhMS7vM_AnXdr7z5iuyiOIPCcdg/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJN5dCzkL-DkvbiKoTdl3lW7YspjrmV8N2n2wGyrxU4Yz-gJNOVcFI8M1uE_lbrlO260ZC_uZvOwXs3pGB8soiApmlV/512fx384f"
-        }
-      },
-      {
-        "name": "★ Gut Knife | Slaughter",
-        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
-        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxP08azlpKKqPv9NLPFqWdQ-sJ0xOqSotjz0FHj-hVvY2mmIIWQc1Q4aViC_FO6x7q-g5K56J6dnCNju3Q8pSGKFg_49QU/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxP08azlpKKqPv9NLPFqWdQ-sJ0xOqSotjz0FHj-hVvY2mmIIWQc1Q4aViC_FO6x7q-g5K56J6dnCNju3Q8pSGKFg_49QU/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxP08azlpKKqPrxN7LEm1Rd6dd2j6eTptSliwK2rRBuamzxdY-UIA87YQrZrljqybzsgp_t6Z3PwCNjvXQr-z-DyHD2KsrX/512fx384f"
-        }
-      },
-      {
-        "name": "★ Gut Knife | Case Hardened",
-        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
-        "lore": "A little color never hurt anyone",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT09O_mIWPqPv9NLPFqWdQ-sJ0xO-Qod2i2wOy_EdpYW_7LIDBclI6aVHV-Fm_lOe-gJG5vpvKyHYwv3M8pSGKIGsDSZw/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT09O_mIWPqPv9NLPFqWdQ-sJ0xO-Qod2i2wOy_EdpYW_7LIDBclI6aVHV-Fm_lOe-gJG5vpvKyHYwv3M8pSGKIGsDSZw/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT09O_mIWPqPrxN7LEm1Rd6dd2j6eUrdzw0Vfg-EY9N236IoSRIFU_YV_RqFi2kOjsg5e1u5XAmnAxsiR3-z-DyDOYcv8_/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT09O_mIWPqPrxN7LEm1Rd6dd2j6eUrdzw0Vfg-EY9N236IoSRIFU_YV_RqFi2kOjsg5e1u5XAmnAxsiR3-z-DyDOYcv8_/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT09O_mIWPqP_xMq3IqWdQ-sJ0xLuYrN2s2lXhrUpkMW_zI4WVd1Q8MlzYr1C5l-nqhZC1vZTJzSZj7nQ8pSGKnPOWYls/512fx384f"
-        }
-      },
-      {
-        "name": "★ Flip Knife | ★ (Vanilla)",
-        "desc": "This item has no description.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_flip.ebfc00735792b1e2947b30a321a07215dae8ceed.png"
-        }
-      },
-      {
-        "name": "★ Flip Knife | Forest DDPAT",
-        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
-        "lore": "By the time you're close enough to notice the pixels it's already too late",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOykJCKg8j4OrzZglRd6dd2j6eZrd7x2QXm-xZrNmz2LI-Tewc8YFHQ-AW4wOa71J687pXByHJm6SNz-z-DyNsSWDE9/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOykJCKg8j4OrzZglRd6dd2j6eZrd7x2QXm-xZrNmz2LI-Tewc8YFHQ-AW4wOa71J687pXByHJm6SNz-z-DyNsSWDE9/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOykJCKg8j5Nr_Yg2Zu5MRjjeyPpdun3gGy-hY_NWz2IIKQclQ7NFGE_Fe6x-zs0MPqtczBm3VgvHVw4mGdwUIWFVDAjQ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOykJCKg8j5Nr_Yg2Zu5MRjjeyPpdun3gGy-hY_NWz2IIKQclQ7NFGE_Fe6x-zs0MPqtczBm3VgvHVw4mGdwUIWFVDAjQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOykJCKg8j8NrrHj1Rd6dd2j6fDo4-kjVbl-UVuMTyhLYSVdVVrMFrV_AXskOjrgcS_7p3NyyQyuCkh-z-DyEDKmcXq/512fx384f"
-        }
-      },
-      {
-        "name": "★ Karambit | Night",
-        "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
-        "lore": "It's the whisper of the wind... it's the bite at your neck",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0mf7zO6_ummJW4NFOhujT8om73Abj_0toMWHxIo6SIA9rM1rUr1K2wOzq05Pp7ZScwHpgsiQls3nVyQv3309jjRKblA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0mf7zO6_ummJW4NFOhujT8om73Abj_0toMWHxIo6SIA9rM1rUr1K2wOzq05Pp7ZScwHpgsiQls3nVyQv3309jjRKblA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0mf7zO6_um25V4dB8teXA54vwxgbtrRVqNm_xJdKXcQVqMg7W_lDtl7vq1pe4753KynJqsnZ25n_alxapwUYbStGwX0o/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0mf7zO6_um25V4dB8teXA54vwxgbtrRVqNm_xJdKXcQVqMg7W_lDtl7vq1pe4753KynJqsnZ25n_alxapwUYbStGwX0o/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0mf7zO6_unm5Q_txOhujT8om72wPj80dsNWCmdtfAdAU3ZVrX-AK4kLjv1pa66JSby3JkuCd34y3UzQv3309AU_rxGg/512fx384f"
-        }
-      },
-      {
         "name": "★ Bayonet | Crimson Web",
         "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
         "lore": "Be careful where you walk, you never know where the web is spread",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -404,20 +302,25 @@
         }
       },
       {
-        "name": "★ Bayonet | Fade",
-        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
-        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "name": "★ Flip Knife | Safari Mesh",
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJcAJE7dizq4yCkP_gDLfQhGxUppBwib3Hod6n2ADnqUdkMW30cYKRdwVtMlrV-gK5yLi71JXpu5XBzHd9-n51Ga5qFJk/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJcAJE7dizq4yCkP_gDLfQhGxUppBwib3Hod6n2ADnqUdkMW30cYKRdwVtMlrV-gK5yLi71JXpu5XBzHd9-n51Ga5qFJk/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OO7kZODqOP1PYTdn2xZ_Pp9i_vG8MKm3gW380dqMjr0dtXAdwc8N1_Q_Vbql-a9jcToup-dmHpgsnVwsH2IgVXp1ngZO2uX/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OO7kZODqOP1PYTdn2xZ_Pp9i_vG8MKm3gW380dqMjr0dtXAdwc8N1_Q_Vbql-a9jcToup-dmHpgsnVwsH2IgVXp1ngZO2uX/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OO7kZODqOP1PYTck29Y_chOhujT8om72VXkr0E4Z2r3J9CRIQ9tNArWq1S_lOrug8Xv7sjJwXVruyUl5XqOmQv330_24dUqqg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OO7kZODqOP1PYTck29Y_chOhujT8om72VXkr0E4Z2r3J9CRIQ9tNArWq1S_lOrug8Xv7sjJwXVruyUl5XqOmQv330_24dUqqg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OO7kZODqOP1PYTZk2pH8fp9i_vG8MKj2QG2-xZtMW77coDGIwI_aQrS-VHsxO7o0MPu7snNwSdmuCAg43-IgVXp1mKS_KYC/512fx384f"
         }
       },
       {
         "name": "★ Bayonet | Scorched",
         "desc": "It has been spray-painted in a sun-dappled pattern.",
         "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -429,9 +332,51 @@
         }
       },
       {
+        "name": "★ Karambit | Scorched",
+        "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0k_bkI7fUqWdY781lteXA54vwxgzsqhc6Zmihd47BdwVrNwvQrlntweruhJLu6J3KnXFrsnUi5SvfzR2pwUYbbw402xo/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0k_bkI7fUqWdY781lteXA54vwxgzsqhc6Zmihd47BdwVrNwvQrlntweruhJLu6J3KnXFrsnUi5SvfzR2pwUYbbw402xo/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0k_bkI7fUqWZU7Mxkh9bN9J7yjRrm_UdrNW77cdKWdAY7Z1DRrlG9yey80JO7ucudyXY3uXIlt3uMzRe1n1gSOZd2wXJa/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0k_bkI7fUqWZU7Mxkh9bN9J7yjRrm_UdrNW77cdKWdAY7Z1DRrlG9yey80JO7ucudyXY3uXIlt3uMzRe1n1gSOZd2wXJa/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0k_bkI7fUqWNU6dNoteXA54vwxlLkqhJoYmqlI9OQelRsYVGGqFjsk727h8PutJvMmCBmsnIq5nrZnBGpwUYb7psWfus/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bayonet | ★ (Vanilla)",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_bayonet.515de291204d6d896724d9fbb6856fcc6054a787.png"
+        }
+      },
+      {
+        "name": "★ Karambit | Night",
+        "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
+        "lore": "It's the whisper of the wind... it's the bite at your neck",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0mf7zO6_ummJW4NFOhujT8om73Abj_0toMWHxIo6SIA9rM1rUr1K2wOzq05Pp7ZScwHpgsiQls3nVyQv3309jjRKblA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0mf7zO6_ummJW4NFOhujT8om73Abj_0toMWHxIo6SIA9rM1rUr1K2wOzq05Pp7ZScwHpgsiQls3nVyQv3309jjRKblA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0mf7zO6_um25V4dB8teXA54vwxgbtrRVqNm_xJdKXcQVqMg7W_lDtl7vq1pe4753KynJqsnZ25n_alxapwUYbStGwX0o/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0mf7zO6_um25V4dB8teXA54vwxgbtrRVqNm_xJdKXcQVqMg7W_lDtl7vq1pe4753KynJqsnZ25n_alxapwUYbStGwX0o/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0mf7zO6_unm5Q_txOhujT8om72wPj80dsNWCmdtfAdAU3ZVrX-AK4kLjv1pa66JSby3JkuCd34y3UzQv3309AU_rxGg/512fx384f"
+        }
+      },
+      {
         "name": "★ Flip Knife | Slaughter",
         "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
         "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -441,20 +386,68 @@
         }
       },
       {
-        "name": "★ Gut Knife | Fade",
-        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
-        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "name": "★ Gut Knife | Slaughter",
+        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
+        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxD09q3kIW0m_7zO6_ummpD78A_3OyZrI-n2wPk_RY9NTrwINOSdQc9MlrW_gfqlbu9jJK4uJmYwCBlvT5iuyhGHAgcYg/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxD09q3kIW0m_7zO6_ummpD78A_3OyZrI-n2wPk_RY9NTrwINOSdQc9MlrW_gfqlbu9jJK4uJmYwCBlvT5iuyhGHAgcYg/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxP08azlpKKqPv9NLPFqWdQ-sJ0xOqSotjz0FHj-hVvY2mmIIWQc1Q4aViC_FO6x7q-g5K56J6dnCNju3Q8pSGKFg_49QU/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxP08azlpKKqPv9NLPFqWdQ-sJ0xOqSotjz0FHj-hVvY2mmIIWQc1Q4aViC_FO6x7q-g5K56J6dnCNju3Q8pSGKFg_49QU/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxP08azlpKKqPrxN7LEm1Rd6dd2j6eTptSliwK2rRBuamzxdY-UIA87YQrZrljqybzsgp_t6Z3PwCNjvXQr-z-DyHD2KsrX/512fx384f"
+        }
+      },
+      {
+        "name": "★ Flip Knife | Scorched",
+        "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOylZCbm_LLP7LWnn9u5MRjjeyP84jzjVHl-hdtYm37co6Udw48N1zT8gLowLi705e7uZrIziFku3EisGGdwUJi_yOknw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOylZCbm_LLP7LWnn9u5MRjjeyP84jzjVHl-hdtYm37co6Udw48N1zT8gLowLi705e7uZrIziFku3EisGGdwUJi_yOknw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOylZCbm_LLPr7Vn35c18lwmO7Eu4injgHlqEBuYW36IdOTdQ88ZQ3Rq1a4yea-0JK6vszPwHZj7nIm5XvD30vgloTn9T8/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOylZCbm_LLPr7Vn35c18lwmO7Eu4injgHlqEBuYW36IdOTdQ88ZQ3Rq1a4yea-0JK6vszPwHZj7nIm5XvD30vgloTn9T8/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOylZCbm_LLO77QgHJu5MRjjeyPod_00VLj-BE-Mm77JYaddgE5YF3UrgLsxbjmjJPuvpTKznRkvSknsGGdwULvXBzBsA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Flip Knife | Case Hardened",
+        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
+        "lore": "A little color never hurt anyone",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eO5nYyOk8j4OrzZglRd6dd2j6eQodmt0VDgrUBqZWrwJIKccg48ZQ7T_AS5l-nqh5e1uJrBnHAw63J2-z-DyM8HtRGF/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eO5nYyOk8j4OrzZglRd6dd2j6eQodmt0VDgrUBqZWrwJIKccg48ZQ7T_AS5l-nqh5e1uJrBnHAw63J2-z-DyM8HtRGF/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eO5nYyOk8j5Nr_Yg2Zu5MRjjeyP896niwPkqBZsMmnxctSUcgA-N1_X-1i5x-fq05W46M6bz3Nl6Skm4mGdwUId17urZQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eO5nYyOk8j5Nr_Yg2Zu5MRjjeyP896niwPkqBZsMmnxctSUcgA-N1_X-1i5x-fq05W46M6bz3Nl6Skm4mGdwUId17urZQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eO5nYyOk8j8NrrHj1Rd6dd2j6eVrI6silWxqEVlMjyictORIw8_YQnU_Va-wrvv1JHpuZWYnCFmvSEl-z-DyI1yZU_E/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bayonet | Stained",
+        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
+        "lore": "If you think it's messy now, wait until you see it under a blacklight",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJE4861kYS0m_7zO6_ummpD78A_3r-RrNWti1Dl8kc6ammlIoPEJ1U_YQuDqwTvyejrgcS4vpnKySQwuj5iuyhwZ4qAMQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJE4861kYS0m_7zO6_ummpD78A_3r-RrNWti1Dl8kc6ammlIoPEJ1U_YQuDqwTvyejrgcS4vpnKySQwuj5iuyhwZ4qAMQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJE4861kYS0mvLwOq7cqWdQ-sJ0xLyZo4qk2QXt_0RrYmilJdPDdFA9ZF7T-1G5kunogJS87s-azyNis3Y8pSGKV1SJhw0/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJE4861kYS0mvLwOq7cqWdQ-sJ0xLyZo4qk2QXt_0RrYmilJdPDdFA9ZF7T-1G5kunogJS87s-azyNis3Y8pSGKV1SJhw0/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJE4861kYS0n_L1JaLummpD78A_3LDAoYn00FDj-EVtamnzJ9Wceg82YlrZ-QLtyLrthcXt6cmczSA1uz5iuygQfIQs8A/512fx384f"
         }
       },
       {
         "name": "★ Bayonet | Slaughter",
         "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
         "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -467,6 +460,7 @@
         "name": "★ Gut Knife | Night",
         "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
         "lore": "It's the whisper of the wind... it's the bite at your neck",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -478,133 +472,10 @@
         }
       },
       {
-        "name": "★ Gut Knife | Safari Mesh",
-        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
-        "lore": "A predator is a predator, no matter the environment",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09Gzh4i0g_b6DLfYkWNF18lwmO7Eu9nz3Qyw_ERrN271JYKdIFc-YlmC_1m5l7i5hMS87p7Nz3c3uHMm4X7D30vgVFLgw28/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09Gzh4i0g_b6DLfYkWNF18lwmO7Eu9nz3Qyw_ERrN271JYKdIFc-YlmC_1m5l7i5hMS87p7Nz3c3uHMm4X7D30vgVFLgw28/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09Gzh4i0g_b6DLbUkmJE5fp9i_vG8MLx2QSy_BdpZmmlcoWVdQdvYV2G-1bvw-zv18O96MzByCA27nYrtyqPgVXp1t9T3ex9/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09Gzh4i0g_b6DLbUkmJE5fp9i_vG8MLx2QSy_BdpZmmlcoWVdQdvYV2G-1bvw-zv18O96MzByCA27nYrtyqPgVXp1t9T3ex9/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09Gzh4i0g_b6DLPUl31I18lwmO7Eu9ml2we1_RJuZ2n6JoSUclU8ZFzRqVW_krq5gZC1tZuYmnQwsnYisCzD30vg3qUbx98/512fx384f"
-        }
-      },
-      {
-        "name": "★ Gut Knife | Blue Steel",
-        "desc": "It has been cold blued.",
-        "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT0966gYWPqPv9NLPFqWdQ-sJ0xLnEodz3igSx-BY-Zj2mJ9LAc1Q3Y13Y_1Lrwrvr0MW7uZifwCBlv3E8pSGKHolYdI0/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT0966gYWPqPv9NLPFqWdQ-sJ0xLnEodz3igSx-BY-Zj2mJ9LAc1Q3Y13Y_1Lrwrvr0MW7uZifwCBlv3E8pSGKHolYdI0/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT0966gYWPqPrxN7LEm1Rd6dd2j6fF89Xxiway-ktuNW7wdoKUdA5raQ7SrlW5yejoh5G5tZvNwCdmuyYm-z-DyMBqk-Qb/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT0966gYWPqPrxN7LEm1Rd6dd2j6fF89Xxiway-ktuNW7wdoKUdA5raQ7SrlW5yejoh5G5tZvNwCdmuyYm-z-DyMBqk-Qb/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT0966gYWPqP_xMq3IqWdQ-sJ0xO3DrNil3lDg-UY5N2_6LNOUI1A3aA7Y_AC4yevsh5686JifnSNnsyc8pSGKeUVXnMM/512fx384f"
-        }
-      },
-      {
-        "name": "★ Gut Knife | Scorched",
-        "desc": "It has been spray-painted in a sun-dappled pattern.",
-        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09i3hJCHksj4OrzZglRd6dd2j6eXoNv0jgLg_RVpZ2_zJIadclQ7Ml2F_Vi_wu3rhJbp7pnOyntk7HQk-z-DyOfOL3QM/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09i3hJCHksj4OrzZglRd6dd2j6eXoNv0jgLg_RVpZ2_zJIadclQ7Ml2F_Vi_wu3rhJbp7pnOyntk7HQk-z-DyOfOL3QM/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09i3hJCHksj5Nr_Yg2Zu5MRjjeyPot3zjQzi_0FrMGylLY-SIQI6Yg6B-1ntxu27gMC47smbm3thu3QqtGGdwUIO0yEj6Q/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09i3hJCHksj5Nr_Yg2Zu5MRjjeyPot3zjQzi_0FrMGylLY-SIQI6Yg6B-1ntxu27gMC47smbm3thu3QqtGGdwUIO0yEj6Q/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09i3hJCHksj8NrrHj1Rd6dd2j6eY9tj00ALh-kI_ZGrxcNPEdQI9YAvQ_lS6l-bqhpG6tMzNnCZr73R3-z-DyD8PeNWQ/512fx384f"
-        }
-      },
-      {
-        "name": "★ Gut Knife | Crimson Web",
-        "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
-        "lore": "Be careful where you walk, you never know where the web is spread",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb08uzlpO0m_7zO6_ummpD78A_2LiW9Nuj0VGw-0JvYj2hJdKWI1NoZAnU-gPtyOzo0ZK4u52bm3Bh7j5iuyiVfFD71A/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb08uzlpO0m_7zO6_ummpD78A_2LiW9Nuj0VGw-0JvYj2hJdKWI1NoZAnU-gPtyOzo0ZK4u52bm3Bh7j5iuyiVfFD71A/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb08uzlpO0mvLwOq7cqWdQ-sJ0xLqZ99_w3FXt80tpMDyncY7EcARqMlyC_lO8wOrt1p-6uZzByHUxsyA8pSGK0TMvFOE/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb08uzlpO0mvLwOq7cqWdQ-sJ0xLqZ99_w3FXt80tpMDyncY7EcARqMlyC_lO8wOrt1p-6uZzByHUxsyA8pSGK0TMvFOE/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjVb08uzlpO0n_L1JaLummpD78A_3L2Zo9Sn31Xm-0RtajjwddLEcVBvYA7W-VjqwOfsgce_vpyfmHEx6z5iuyh_csHsVQ/512fx384f"
-        }
-      },
-      {
-        "name": "★ Bayonet | Forest DDPAT",
-        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
-        "lore": "By the time you're close enough to notice the pixels it's already too late",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJG6My3gL-HnvD8J4Tdl3lW7Yt337rC99iijASxrUs-Z2ryJYeTcgY2NAvT8li4l-a80MLuu5zLnyBmpGB8ss5wKTWe/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJG6My3gL-HnvD8J4Tdl3lW7Yt337rC99iijASxrUs-Z2ryJYeTcgY2NAvT8li4l-a80MLuu5zLnyBmpGB8ss5wKTWe/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJG6My3gL-GkvP9JrbummpD78A_27HCp9qi2FawqBduYGCgI47HdFBtMg3R-wK9l-zugZPou5zJwHAyuD5iuyjZxtS4iw/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJG6My3gL-GkvP9JrbummpD78A_27HCp9qi2FawqBduYGCgI47HdFBtMg3R-wK9l-zugZPou5zJwHAyuD5iuyjZxtS4iw/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJG6My3gL-DkvbiKoTdl3lW7Yt30-3HpIqsiwS18xFlY2jwLYGWdAE3aFvXrADol7zqgJC0tJ_IyHI1pGB8smaas5HW/512fx384f"
-        }
-      },
-      {
-        "name": "★ Karambit | Slaughter",
-        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
-        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20jfL2IbrummJW4NFOhujT8om70Azg_kQ6MTygdYKXJw9qMlnX_Fa3ye28gpC-vZSdynYxviZztyncmwv330_7Rx0jNA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20jfL2IbrummJW4NFOhujT8om70Azg_kQ6MTygdYKXJw9qMlnX_Fa3ye28gpC-vZSdynYxviZztyncmwv330_7Rx0jNA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20jfL2Ibrum25V4dB8teXA54vwxgXtrRY_ZWH3d9eRIVU9MlmB-Fa3l7q-g8S6vJSfzCQysyYr5X3flxepwUYbMQKc__M/512fx384f"
-        }
-      },
-      {
-        "name": "★ Karambit | Stained",
-        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
-        "lore": "If you think it's messy now, wait until you see it under a blacklight",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWdY781lteXA54vwxgHg8xVtYj_7LNXBIw9qZgyE-Fi_xLy7gJXovZqcynNq7iIqtHndykGpwUYbOEO3hhM/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWdY781lteXA54vwxgHg8xVtYj_7LNXBIw9qZgyE-Fi_xLy7gJXovZqcynNq7iIqtHndykGpwUYbOEO3hhM/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWZU7Mxkh9bN9J7yjRqy-EY5NTrwJYSTe1I8ZwzU_QS-yOq8h8K17pzKzSA3u3Ijt33Ulxaxn1gSOW7yFo2m/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWZU7Mxkh9bN9J7yjRqy-EY5NTrwJYSTe1I8ZwzU_QS-yOq8h8K17pzKzSA3u3Ijt33Ulxaxn1gSOW7yFo2m/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWNU6dNoteXA54vwxg3mrUc-ZzuicIWXJwBtYw7VqwW-xO-5g5-9v8ucz3Ngv3Jx5naJyUapwUYbVoepRb4/512fx384f"
-        }
-      },
-      {
-        "name": "★ Karambit | Boreal Forest",
-        "desc": "It has been painted using a forest camouflage hydrographic.",
-        "lore": "The woods can be a dangerous place... never travel alone",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0kfjmNqjFqWle-sBwhtbN_Iv9nGu4qgE7Nnf7dtOce1Q3M13T-Fa7xejs0MXt753AnXJruiMn7C6LnBC1h0tIO-1um7XAHtmw6SCz/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0kfjmNqjFqWle-sBwhtbN_Iv9nGu4qgE7Nnf7dtOce1Q3M13T-Fa7xejs0MXt753AnXJruiMn7C6LnBC1h0tIO-1um7XAHtmw6SCz/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0kfjmNqjFqWle-sBwhtbM8Ij8nVmLpxIuNDztd4XDd1U-MFCDqVi3kL-7gsW8upnPziQxsnF24HrcyxzkhxxEPbBp0eveFwujSqEF8A/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0kfjmNqjFqWle-sBwhtbM8Ij8nVmLpxIuNDztd4XDd1U-MFCDqVi3kL-7gsW8upnPziQxsnF24HrcyxzkhxxEPbBp0eveFwujSqEF8A/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0kfjmNqjFqWle-sBwhtbJ8I3jkWu4qgE7NnehLdKQewZrMFvRrAK9kOnv1sTp6p7My3A1viIq4S3dmRbjh04aa-dum7XAHpYVBQgv/512fx384f"
-        }
-      },
-      {
-        "name": "★ Flip Knife | Night",
-        "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
-        "lore": "It's the whisper of the wind... it's the bite at your neck",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR4-O4nYeDg8j4OrzZglRd6dd2j6fC8dqk2wDi-xE6Nz_7II6cewRrY12G-gC6xL--hsfuvZqbzyZnvHIk-z-DyFVtBt8T/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR4-O4nYeDg8j4OrzZglRd6dd2j6fC8dqk2wDi-xE6Nz_7II6cewRrY12G-gC6xL--hsfuvZqbzyZnvHIk-z-DyFVtBt8T/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR4-O4nYeDg8j5Nr_Yg2Zu5MRjjeyPrNjz3AO2-xFsZTj6INeQJlBvYFnVrli5lOvr1pG0tJ_MyCEw6Ckm7GGdwUIjVDzoMQ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR4-O4nYeDg8j5Nr_Yg2Zu5MRjjeyPrNjz3AO2-xFsZTj6INeQJlBvYFnVrli5lOvr1pG0tJ_MyCEw6Ckm7GGdwUIjVDzoMQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR4-O4nYeDg8j8NrrHj1Rd6dd2j6eS8d_02Fay_xBsYzzwI4DHcAM4Z13Q8gDqlea91pfutcydzydl7CB2-z-DyJ27qxgF/512fx384f"
-        }
-      },
-      {
         "name": "★ Gut Knife | Forest DDPAT",
         "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
         "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -616,37 +487,76 @@
         }
       },
       {
-        "name": "★ Bayonet | Stained",
-        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
-        "lore": "If you think it's messy now, wait until you see it under a blacklight",
+        "name": "★ Karambit | Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJE4861kYS0m_7zO6_ummpD78A_3r-RrNWti1Dl8kc6ammlIoPEJ1U_YQuDqwTvyejrgcS4vpnKySQwuj5iuyhwZ4qAMQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJE4861kYS0m_7zO6_ummpD78A_3r-RrNWti1Dl8kc6ammlIoPEJ1U_YQuDqwTvyejrgcS4vpnKySQwuj5iuyhwZ4qAMQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJE4861kYS0mvLwOq7cqWdQ-sJ0xLyZo4qk2QXt_0RrYmilJdPDdFA9ZF7T-1G5kunogJS87s-azyNis3Y8pSGKV1SJhw0/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJE4861kYS0mvLwOq7cqWdQ-sJ0xLyZo4qk2QXt_0RrYmilJdPDdFA9ZF7T-1G5kunogJS87s-azyNis3Y8pSGKV1SJhw0/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJE4861kYS0n_L1JaLummpD78A_3LDAoYn00FDj-EVtamnzJ9Wceg82YlrZ-QLtyLrthcXt6cmczSA1uz5iuygQfIQs8A/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlYG0kfbwNoTdn2xZ_Pp9i_vG8ML20QXi80M4ZGzwddLGcFBtMl2FrlPrxeu71MC0vZifzyZn63In5S3agVXp1g0meEXB/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlYG0kfbwNoTdn2xZ_Pp9i_vG8ML20QXi80M4ZGzwddLGcFBtMl2FrlPrxeu71MC0vZifzyZn63In5S3agVXp1g0meEXB/512fx384f"
         }
       },
       {
-        "name": "★ Flip Knife | Stained",
-        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
-        "lore": "If you think it's messy now, wait until you see it under a blacklight",
+        "name": "★ Flip Knife | Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOwm5KIkvPLP7LWnn9u5MRjjeyP8NX03gHj_RJlYWGiJYfDIQU5ZlmC-VG8l-y9g5C5v5Sdm3Bq6CUi5mGdwUJLmy-O2g/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOwm5KIkvPLP7LWnn9u5MRjjeyP8NX03gHj_RJlYWGiJYfDIQU5ZlmC-VG8l-y9g5C5v5Sdm3Bq6CUi5mGdwUJLmy-O2g/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOwm5KIkvPLPr7Vn35c18lwmO7Eu973i1CxqRVqamuiIYfHJlNqNF7R-lC9kOnpgse5tZvJmnVl63Yq4nzD30vghgzkHKc/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOwm5KIkvPLPr7Vn35c18lwmO7Eu973i1CxqRVqamuiIYfHJlNqNF7R-lC9kOnpgse5tZvJmnVl63Yq4nzD30vghgzkHKc/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOwm5KIkvPLO77QgHJu5MRjjeyPp9ij3VLt_EpvamqlIIGUeg9vZl2Gqwe8xObthJ6-vcuaz3MwvSVz4WGdwULsq17xUA/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD7eOwlYSOqPv9NLPFqWdQ-sJ0xLGQpIqtjQy1rUE5Y2n1I4PGcgI5MFGD-wS3l-7r18TpucyanHpg6CE8pSGKbZ02GvY/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD7eOwlYSOqPv9NLPFqWdQ-sJ0xLGQpIqtjQy1rUE5Y2n1I4PGcgI5MFGD-wS3l-7r18TpucyanHpg6CE8pSGKbZ02GvY/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bayonet | Urban Masked",
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJW7cyzq5WZlfb6DLfYkWNF18lwmO7Eu9SkiwCw-RJsZTrxcI7GcAE_MFqC_AXrxby8gZHqvM6bySZg7CMgtyrD30vgFNz3E8k/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJW7cyzq5WZlfb6DLfYkWNF18lwmO7Eu9SkiwCw-RJsZTrxcI7GcAE_MFqC_AXrxby8gZHqvM6bySZg7CMgtyrD30vgFNz3E8k/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJW7cyzq5WZlfb6DLbUkmJE5fp9i_vG8MKijQTl_Bc_ZT3wI4KdJ1M2Mw6ErgLqkr3n1Ja1vZTLn3FmsnQh4H_fgVXp1kJdzvEN/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJW7cyzq5WZlfb6DLbUkmJE5fp9i_vG8MKijQTl_Bc_ZT3wI4KdJ1M2Mw6ErgLqkr3n1Ja1vZTLn3FmsnQh4H_fgVXp1kJdzvEN/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbYQJW7cyzq5WZlfb6DLPUl31I18lwmO7Eu92gjgzmqktsMDj3I9TGJFA9ZQnQr1Psl-vnjJC0usjMwXA273N05CrD30vga0eXEBM/512fx384f"
+        }
+      },
+      {
+        "name": "★ Karambit | Blue Steel",
+        "desc": "It has been cold blued.",
+        "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0lfvhNr_ummJW4NFOhujT8om72QCx8kFkMD2mcNOcc1c-ZAnU_Ve7x7y8hMe4u52anXdiv3IrsXjemgv3308svFRjrA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0lfvhNr_ummJW4NFOhujT8om72QCx8kFkMD2mcNOcc1c-ZAnU_Ve7x7y8hMe4u52anXdiv3IrsXjemgv3308svFRjrA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0lfvhNr_um25V4dB8teXA54vwxgLmqhFtYT-nIYecJgI3Z1DZ_FfqyLvqhpK-tJSbnSY2vSBx43eLn0epwUYbMQqd_ig/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0lfvhNr_um25V4dB8teXA54vwxgLmqhFtYT-nIYecJgI3Z1DZ_FfqyLvqhpK-tJSbnSY2vSBx43eLn0epwUYbMQqd_ig/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0lfvhNr_unm5Q_txOhujT8om7iQK2rhA_MWv1LIaSegc2aFjR-lK7w-q70MW67pmfzCY3syF25Hvdmwv3308f-tSK-w/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bayonet | Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJcAJE7dizq4yCkP_gDLfQhGxUppBwib3Hod6n2ADnqUdkMW30cYKRdwVtMlrV-gK5yLi71JXpu5XBzHd9-n51Ga5qFJk/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJcAJE7dizq4yCkP_gDLfQhGxUppBwib3Hod6n2ADnqUdkMW30cYKRdwVtMlrV-gK5yLi71JXpu5XBzHd9-n51Ga5qFJk/512fx384f"
         }
       },
       {
         "name": "★ Bayonet | Night",
         "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
         "lore": "It's the whisper of the wind... it's the bite at your neck",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -658,13 +568,153 @@
         }
       },
       {
-        "name": "★ Karambit | ★ (Vanilla)",
-        "desc": "This item has no description.",
-        "lore": "This item has no Lore",
+        "name": "★ Gut Knife | Blue Steel",
+        "desc": "It has been cold blued.",
+        "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_karambit.8b491b581a4b9c7b5298071425f2b29a39a2a12f.png"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT0966gYWPqPv9NLPFqWdQ-sJ0xLnEodz3igSx-BY-Zj2mJ9LAc1Q3Y13Y_1Lrwrvr0MW7uZifwCBlv3E8pSGKHolYdI0/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT0966gYWPqPv9NLPFqWdQ-sJ0xLnEodz3igSx-BY-Zj2mJ9LAc1Q3Y13Y_1Lrwrvr0MW7uZifwCBlv3E8pSGKHolYdI0/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT0966gYWPqPrxN7LEm1Rd6dd2j6fF89Xxiway-ktuNW7wdoKUdA5raQ7SrlW5yejoh5G5tZvNwCdmuyYm-z-DyMBqk-Qb/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT0966gYWPqPrxN7LEm1Rd6dd2j6fF89Xxiway-ktuNW7wdoKUdA5raQ7SrlW5yejoh5G5tZvNwCdmuyYm-z-DyMBqk-Qb/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT0966gYWPqP_xMq3IqWdQ-sJ0xO3DrNil3lDg-UY5N2_6LNOUI1A3aA7Y_AC4yevsh5686JifnSNnsyc8pSGKeUVXnMM/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bayonet | Blue Steel",
+        "desc": "It has been cold blued.",
+        "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJA4MmzkL-HnvD8J4Tdl3lW7Ysl2rCRoNum3lfn_Rc-Nzv6cIadcgE5NQyBrwPswei818S-v5qfzHpgpGB8so3I7TlV/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJA4MmzkL-HnvD8J4Tdl3lW7Ysl2rCRoNum3lfn_Rc-Nzv6cIadcgE5NQyBrwPswei818S-v5qfzHpgpGB8so3I7TlV/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJA4MmzkL-GkvP9JrbummpD78A_37vEp4rz3w21_hBrNWD7dteSeg8_M1jSrFK5wrrr18Xpu5TAwHNmsj5iuyhFiVGqLA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJA4MmzkL-GkvP9JrbummpD78A_37vEp4rz3w21_hBrNWD7dteSeg8_M1jSrFK5wrrr18Xpu5TAwHNmsj5iuyhFiVGqLA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJA4MmzkL-DkvbiKoTdl3lW7Ytzj7HFpIr3jQTiqEptYDjzcIeWJgI4YF_Z_Fm7lOvnjJbquJXKmiMypGB8sl3Uv6q3/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bayonet | Case Hardened",
+        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
+        "lore": "A little color never hurt anyone",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJN5dCzkL-HnvD8J4Tdl3lW7Yso2LmZo9rw2lXlrUJrNT2iI4GVcFM-M1yDqFi7l-rq1J7ttM7JyXVjpGB8slOwrcti/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJN5dCzkL-HnvD8J4Tdl3lW7Yso2LmZo9rw2lXlrUJrNT2iI4GVcFM-M1yDqFi7l-rq1J7ttM7JyXVjpGB8slOwrcti/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJN5dCzkL-GkvP9JrbummpD78A_j7DEoo2njFHl_kM5Zz_1I9OUI1dtYw3U_1nskOvuhMS7vM_AnXdr7z5iuyiOIPCcdg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJN5dCzkL-GkvP9JrbummpD78A_j7DEoo2njFHl_kM5Zz_1I9OUI1dtYw3U_1nskOvuhMS7vM_AnXdr7z5iuyiOIPCcdg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJN5dCzkL-DkvbiKoTdl3lW7YspjrmV8N2n2wGyrxU4Yz-gJNOVcFI8M1uE_lbrlO260ZC_uZvOwXs3pGB8soiApmlV/512fx384f"
+        }
+      },
+      {
+        "name": "★ Karambit | Crimson Web",
+        "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
+        "lore": "Be careful where you walk, you never know where the web is spread",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0gPL2IITdn2xZ_Pp9i_vG8MKj2Qbl_EdlZziiddOXdAY2YAvT-wW2xrjugJG_tcvNyyBn6SEm4XuMgVXp1n8qZn5H/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0gPL2IITdn2xZ_Pp9i_vG8MKj2Qbl_EdlZziiddOXdAY2YAvT-wW2xrjugJG_tcvNyyBn6SEm4XuMgVXp1n8qZn5H/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0gPL2IITck29Y_chOhujT8om7iwLn_Ec4NWrwdoDDIFNtZlHT-QW6xOzmgZ_t6pTNznUyvnQg7Crclwv330__CL9_dg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0gPL2IITck29Y_chOhujT8om7iwLn_Ec4NWrwdoDDIFNtZlHT-QW6xOzmgZ_t6pTNznUyvnQg7Crclwv330__CL9_dg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0gPL2IITZk2pH8fp9i_vG8MKljQbn_hI-NT2hd4Kcc1I4Z13Y_wfvxrvmgsXvtZ6dwHtq7CQlsCmIgVXp1qIe6Gdc/512fx384f"
+        }
+      },
+      {
+        "name": "★ Flip Knife | Forest DDPAT",
+        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOykJCKg8j4OrzZglRd6dd2j6eZrd7x2QXm-xZrNmz2LI-Tewc8YFHQ-AW4wOa71J687pXByHJm6SNz-z-DyNsSWDE9/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOykJCKg8j4OrzZglRd6dd2j6eZrd7x2QXm-xZrNmz2LI-Tewc8YFHQ-AW4wOa71J687pXByHJm6SNz-z-DyNsSWDE9/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOykJCKg8j5Nr_Yg2Zu5MRjjeyPpdun3gGy-hY_NWz2IIKQclQ7NFGE_Fe6x-zs0MPqtczBm3VgvHVw4mGdwUIWFVDAjQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOykJCKg8j5Nr_Yg2Zu5MRjjeyPpdun3gGy-hY_NWz2IIKQclQ7NFGE_Fe6x-zs0MPqtczBm3VgvHVw4mGdwUIWFVDAjQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOykJCKg8j8NrrHj1Rd6dd2j6fDo4-kjVbl-UVuMTyhLYSVdVVrMFrV_AXskOjrgcS_7p3NyyQyuCkh-z-DyEDKmcXq/512fx384f"
+        }
+      },
+      {
+        "name": "★ Flip Knife | Boreal Forest",
+        "desc": "It has been painted using a forest camouflage hydrographic.",
+        "lore": "The woods can be a dangerous place... never travel alone",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOwm5KOhOPLMbTDk2pd18l4jeHVyoD0mlOx5Rdoa277LIOUdwY5MF7U81O7krzuhJa8vM-fnSMxvyVxtCqPnEC3hktSLrs4hATUWUc/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOwm5KOhOPLMbTDk2pd18l4jeHVyoD0mlOx5Rdoa277LIOUdwY5MF7U81O7krzuhJa8vM-fnSMxvyVxtCqPnEC3hktSLrs4hATUWUc/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOwm5KOhOPLMbTDk2pd18h0juDU-LP5iUazrl1lZmyiIIaSIVNraVmDqVK9ku27jJ_vu5rPmnBmvyEl7H6Oyx2y1E5JcKUx0ugc8UjH/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOwm5KOhOPLMbTDk2pd18h0juDU-LP5iUazrl1lZmyiIIaSIVNraVmDqVK9ku27jJ_vu5rPmnBmvyEl7H6Oyx2y1E5JcKUx0ugc8UjH/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJK9eOwm5KOhOPLMbTDk2pd1810i__YyoD0mlOx5UI5a2rzcY_EIQNqZA7R_QO3yeq-hMS_vsybnXsw7iJztyzZmxCyhR1SLrs4IbirlSI/512fx384f"
+        }
+      },
+      {
+        "name": "★ Gut Knife | Scorched",
+        "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09i3hJCHksj4OrzZglRd6dd2j6eXoNv0jgLg_RVpZ2_zJIadclQ7Ml2F_Vi_wu3rhJbp7pnOyntk7HQk-z-DyOfOL3QM/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09i3hJCHksj4OrzZglRd6dd2j6eXoNv0jgLg_RVpZ2_zJIadclQ7Ml2F_Vi_wu3rhJbp7pnOyntk7HQk-z-DyOfOL3QM/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09i3hJCHksj5Nr_Yg2Zu5MRjjeyPot3zjQzi_0FrMGylLY-SIQI6Yg6B-1ntxu27gMC47smbm3thu3QqtGGdwUIO0yEj6Q/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09i3hJCHksj5Nr_Yg2Zu5MRjjeyPot3zjQzi_0FrMGylLY-SIQI6Yg6B-1ntxu27gMC47smbm3thu3QqtGGdwUIO0yEj6Q/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTi5S09i3hJCHksj8NrrHj1Rd6dd2j6eY9tj00ALh-kI_ZGrxcNPEdQI9YAvQ_lS6l-bqhpG6tMzNnCZr73R3-z-DyD8PeNWQ/512fx384f"
+        }
+      },
+      {
+        "name": "★ Karambit | Stained",
+        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
+        "lore": "If you think it's messy now, wait until you see it under a blacklight",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWdY781lteXA54vwxgHg8xVtYj_7LNXBIw9qZgyE-Fi_xLy7gJXovZqcynNq7iIqtHndykGpwUYbOEO3hhM/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWdY781lteXA54vwxgHg8xVtYj_7LNXBIw9qZgyE-Fi_xLy7gJXovZqcynNq7iIqtHndykGpwUYbOEO3hhM/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWZU7Mxkh9bN9J7yjRqy-EY5NTrwJYSTe1I8ZwzU_QS-yOq8h8K17pzKzSA3u3Ijt33Ulxaxn1gSOW7yFo2m/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWZU7Mxkh9bN9J7yjRqy-EY5NTrwJYSTe1I8ZwzU_QS-yOq8h8K17pzKzSA3u3Ijt33Ulxaxn1gSOW7yFo2m/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWNU6dNoteXA54vwxg3mrUc-ZzuicIWXJwBtYw7VqwW-xO-5g5-9v8ucz3Ngv3Jx5naJyUapwUYbVoepRb4/512fx384f"
+        }
+      },
+      {
+        "name": "★ Flip Knife | Stained",
+        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
+        "lore": "If you think it's messy now, wait until you see it under a blacklight",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOwm5KIkvPLP7LWnn9u5MRjjeyP8NX03gHj_RJlYWGiJYfDIQU5ZlmC-VG8l-y9g5C5v5Sdm3Bq6CUi5mGdwUJLmy-O2g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOwm5KIkvPLP7LWnn9u5MRjjeyP8NX03gHj_RJlYWGiJYfDIQU5ZlmC-VG8l-y9g5C5v5Sdm3Bq6CUi5mGdwUJLmy-O2g/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOwm5KIkvPLPr7Vn35c18lwmO7Eu973i1CxqRVqamuiIYfHJlNqNF7R-lC9kOnpgse5tZvJmnVl63Yq4nzD30vghgzkHKc/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOwm5KIkvPLPr7Vn35c18lwmO7Eu973i1CxqRVqamuiIYfHJlNqNF7R-lC9kOnpgse5tZvJmnVl63Yq4nzD30vghgzkHKc/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOwm5KIkvPLO77QgHJu5MRjjeyPp9ij3VLt_EpvamqlIIGUeg9vZl2Gqwe8xObthJ6-vcuaz3MwvSVz4WGdwULsq17xUA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Karambit | Case Hardened",
+        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
+        "lore": "A little color never hurt anyone",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_ummJW4NFOhujT8om73Qay8kFuaj3xLYCVJAM7ZF-B8li9kOfm1sW6u5SfyHNru3Im7SvUlwv330-EAAozoQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_ummJW4NFOhujT8om73Qay8kFuaj3xLYCVJAM7ZF-B8li9kOfm1sW6u5SfyHNru3Im7SvUlwv330-EAAozoQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_um25V4dB8teXA54vwxlfk_kU9ZWqgJ9fGJwQ3Z1vY-wK2wOfo15K1uZXJm3ox6Skqsy3emUGpwUYbA4Ce6rU/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_um25V4dB8teXA54vwxlfk_kU9ZWqgJ9fGJwQ3Z1vY-wK2wOfo15K1uZXJm3ox6Skqsy3emUGpwUYbA4Ce6rU/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_unm5Q_txOhujT8om70Abg-Bdoa2-iIoaRdlU7NA2GrlTtkuvs0MXtu5zOwHExs3Yj5neMzQv33088DhhWAw/512fx384f"
         }
       }
     ],
@@ -673,6 +723,7 @@
         "name": "M4A4 | X-Ray",
         "desc": "A custom painted M4 showing its internals with an X-Ray",
         "lore": "This item has no Lore",
+        "date_added": "18 December 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -687,6 +738,7 @@
         "name": "FAMAS | Afterimage",
         "desc": "It has been custom-painted with broken ribbon trails.",
         "lore": "This item has no Lore",
+        "date_added": "18 December 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -697,21 +749,10 @@
         }
       },
       {
-        "name": "Desert Eagle | Cobalt Disruption",
-        "desc": "It has been covered in a metallic foil stamped with a digital disruptive pattern.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTjlG_N2ikIWFhPLLI77QlWRS4_p9g-7J4bP5iUazrl09Z2H1cNSWcwA-MwuEqQe4k73q1JfotJzOwCFnvyBw5X2LmRe3gB1NcKUx0r3Iy7zp/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTjlG_N2ikIWFhPLLI77QlWRS4_p9g-7J4bP5iUazrl09Z2H1cNSWcwA-MwuEqQe4k73q1JfotJzOwCFnvyBw5X2LmRe3gB1NcKUx0r3Iy7zp/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTjlG_N2ikIWFhPLLI77QlWRS4_p8j-3I4IHKhFWmrBZyMG_6LYGVelc9Mw7Wrli4xOy-gpK96JvMm3Q27ykg7HrfmBG-hBpKZvsv26Jt_Dv7IA/512fx384f"
-        }
-      },
-      {
         "name": "AWP | Electric Hive",
         "desc": "It has been painted using a hexagon patterned hydrographic.",
         "lore": "This item has no Lore",
+        "date_added": "18 December 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -720,6 +761,19 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PvBZzh94dmynZWGqPv1IbzU2DMEv8Rw3-3Epo6giQyxqkFoYGChJ4adcQ46YAzY_1DswObvgMO_u8nXiSw0zFWmqYw/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PvBZzh94dmynZWGqPv1IbzU2DMEv8Rw3-3Epo6giQyxqkFoYGChJ4adcQ46YAzY_1DswObvgMO_u8nXiSw0zFWmqYw/512fx384f"
         }
+      },
+      {
+        "name": "Desert Eagle | Cobalt Disruption",
+        "desc": "It has been covered in a metallic foil stamped with a digital disruptive pattern.",
+        "lore": "This item has no Lore",
+        "date_added": "18 December 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTjlG_N2ikIWFhPLLI77QlWRS4_p9g-7J4bP5iUazrl09Z2H1cNSWcwA-MwuEqQe4k73q1JfotJzOwCFnvyBw5X2LmRe3gB1NcKUx0r3Iy7zp/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTjlG_N2ikIWFhPLLI77QlWRS4_p9g-7J4bP5iUazrl09Z2H1cNSWcwA-MwuEqQe4k73q1JfotJzOwCFnvyBw5X2LmRe3gB1NcKUx0r3Iy7zp/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTjlG_N2ikIWFhPLLI77QlWRS4_p8j-3I4IHKhFWmrBZyMG_6LYGVelc9Mw7Wrli4xOy-gpK96JvMm3Q27ykg7HrfmBG-hBpKZvsv26Jt_Dv7IA/512fx384f"
+        }
       }
     ],
     "Restricted Skins": [
@@ -727,6 +781,7 @@
         "name": "AK-47 | Blue Laminate",
         "desc": "It has been given a laminate stock.",
         "lore": "This item has no Lore",
+        "date_added": "18 December 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -740,6 +795,7 @@
         "name": "P90 | Blind Spot",
         "desc": "It has been painted using a hydrographic with an oversized camouflage pattern.",
         "lore": "This item has no Lore",
+        "date_added": "18 December 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -756,6 +812,7 @@
         "name": "Five-SeveN | Nightshade",
         "desc": "It has been painted using a hydrographic with a floral pattern in the style of the Arts and Crafts movement.",
         "lore": "This item has no Lore",
+        "date_added": "18 December 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -770,6 +827,7 @@
         "name": "Nova | Ghost Camo",
         "desc": "It has been painted using a hydrographic with an oversized camouflage pattern.",
         "lore": "This item has no Lore",
+        "date_added": "18 December 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -780,35 +838,10 @@
         }
       },
       {
-        "name": "G3SG1 | Azure Zebra",
-        "desc": "It has been spray-painted in a zebra stripe pattern.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3azhA_t21lY20lfvhNoTdn2xZ_Pp9i_vG8MKh2gXt8hVlMG2gJNTBc1BoaA7V_Fjqx7vohpK075ianCY1viYh5SnYgVXp1mYsRA_Y/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3azhA_t21lY20lfvhNoTdn2xZ_Pp9i_vG8MKh2gXt8hVlMG2gJNTBc1BoaA7V_Fjqx7vohpK075ianCY1viYh5SnYgVXp1mYsRA_Y/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3azhA_t21lY20lfvhNoTck29Y_chOhujT8om72VHj-hU_Nj37doKWJFQ8ZlqC_VnqlO67h8Lt75TAmHphvXFx4C7dlgv330_GRhOoqA/512fx384f"
-        }
-      },
-      {
-        "name": "PP-Bizon | Water Sigil",
-        "desc": "It has been painted using a hydrographic with a Japanese inspired water pattern.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZjxW6c6Jl5KOhOPLP7LWnn9u5MRjjeyP9tjx2FW1r0o_MWH0LIGVJA46N1vX-ljol-29jcPv75SfnHZrs3Qq7GGdwUJWqynhYQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZjxW6c6Jl5KOhOPLP7LWnn9u5MRjjeyP9tjx2FW1r0o_MWH0LIGVJA46N1vX-ljol-29jcPv75SfnHZrs3Qq7GGdwUJWqynhYQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZjxW6c6Jl5KOhOPLPr7Vn35c18lwmO7Eu9j2jgXh-hJtMmiicNLDcwJvZFHX8gXoybu51JW4vZycwSFivnMn7C7D30vgg1B1LWA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZjxW6c6Jl5KOhOPLPr7Vn35c18lwmO7Eu9j2jgXh-hJtMmiicNLDcwJvZFHX8gXoybu51JW4vZycwSFivnMn7C7D30vgg1B1LWA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZjxW6c6Jl5KOhOPLO77QgHJu5MRjjeyP893331XgrRBtZmmhcoLAegM2YAmC_Ffrx-a71JS-vJrLmHtr6yMi5WGdwUKpCXEZwQ/512fx384f"
-        }
-      },
-      {
         "name": "P250 | Steel Disruption",
         "desc": "It has been covered in a metallic foil stamped with a digital disruptive pattern.",
         "lore": "This item has no Lore",
+        "date_added": "18 December 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -821,10 +854,39 @@
         "name": "Galil AR | Blue Titanium",
         "desc": "It has a titanium parts whose blue color is characteristic of an oxide layer achieved via controlled anodization at 30 volts.",
         "lore": "This item has no Lore",
+        "date_added": "18 December 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
           "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJfwJW5ci3momemqSkJYTdn2xZ_Pp9i_vG8MKh2gLgrks5MGigcdLHcVRtNFvRq1m3kufsgcW6v52bnXdl7iQq5SzcgVXp1kCDJqwD/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Water Sigil",
+        "desc": "It has been painted using a hydrographic with a Japanese inspired water pattern.",
+        "lore": "This item has no Lore",
+        "date_added": "18 December 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZjxW6c6Jl5KOhOPLP7LWnn9u5MRjjeyP9tjx2FW1r0o_MWH0LIGVJA46N1vX-ljol-29jcPv75SfnHZrs3Qq7GGdwUJWqynhYQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZjxW6c6Jl5KOhOPLP7LWnn9u5MRjjeyP9tjx2FW1r0o_MWH0LIGVJA46N1vX-ljol-29jcPv75SfnHZrs3Qq7GGdwUJWqynhYQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZjxW6c6Jl5KOhOPLPr7Vn35c18lwmO7Eu9j2jgXh-hJtMmiicNLDcwJvZFHX8gXoybu51JW4vZycwSFivnMn7C7D30vgg1B1LWA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZjxW6c6Jl5KOhOPLPr7Vn35c18lwmO7Eu9j2jgXh-hJtMmiicNLDcwJvZFHX8gXoybu51JW4vZycwSFivnMn7C7D30vgg1B1LWA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZjxW6c6Jl5KOhOPLO77QgHJu5MRjjeyP893331XgrRBtZmmhcoLAegM2YAmC_Ffrx-a71JS-vJrLmHtr6yMi5WGdwUKpCXEZwQ/512fx384f"
+        }
+      },
+      {
+        "name": "G3SG1 | Azure Zebra",
+        "desc": "It has been spray-painted in a zebra stripe pattern.",
+        "lore": "This item has no Lore",
+        "date_added": "18 December 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3azhA_t21lY20lfvhNoTdn2xZ_Pp9i_vG8MKh2gXt8hVlMG2gJNTBc1BoaA7V_Fjqx7vohpK075ianCY1viYh5SnYgVXp1mYsRA_Y/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3azhA_t21lY20lfvhNoTdn2xZ_Pp9i_vG8MKh2gXt8hVlMG2gJNTBc1BoaA7V_Fjqx7vohpK075ianCY1viYh5SnYgVXp1mYsRA_Y/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3azhA_t21lY20lfvhNoTck29Y_chOhujT8om72VHj-hU_Nj37doKWJFQ8ZlqC_VnqlO67h8Lt75TAmHphvXFx4C7dlgv330_GRhOoqA/512fx384f"
         }
       }
     ],

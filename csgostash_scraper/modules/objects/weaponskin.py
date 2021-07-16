@@ -35,11 +35,11 @@ class WeaponSkin(Item):
 
     CSGOStash Page: https://csgostash.com/skin/(id)/(name)
     """
-    __slots__ = ('_spawned', 'weapon_type', 'title', 'description', 'lore', 'collection', 'collections',
+    __slots__ = ('_spawned', 'weapon_type', 'title', 'description', 'lore', 'date_added', 'collection', 'collections',
                  'found_in', 'rarity', 'wears', 'can_be_stattrak', 'can_be_souvenir', 'is_stattrak')
 
-    def __init__(self, weapon_type: str, title: str, desc: str, lore: str, collection: list, found_in: list, rarity: str, wears: dict):
-        super().__init__(title, desc, lore, collection, found_in, rarity)
+    def __init__(self, weapon_type: str, title: str, desc: str, lore: str, date_added: str, collection: list, found_in: list, rarity: str, wears: dict):
+        super().__init__(title, desc, lore, date_added, collection, found_in, rarity)
         self.weapon_type = weapon_type
         self.wears = wears
         self.can_be_stattrak = False
@@ -123,12 +123,13 @@ class WeaponSkin(Item):
         title = d['title']
         description = d['desc']
         lore = d['lore']
+        date_added = d['date_added']
         collection = d['collection']
         found_in = d['found_in']
         rarity = d['rarity']
         wears = d['wears']
 
-        _cls = cls(weapon_type, title, description, lore,
+        _cls = cls(weapon_type, title, description, lore, date_added,
                    collection, found_in, rarity, wears)
         _cls._spawned = False
         return _cls

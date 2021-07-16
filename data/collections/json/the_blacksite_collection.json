@@ -10,6 +10,7 @@
         "name": "MP5-SD | Lab Rats",
         "desc": "It features a hydrographic pattern depicting a mischief of rats.",
         "lore": "—REDACTED—",
+        "date_added": "6 December 2018",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {

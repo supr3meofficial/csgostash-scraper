@@ -8,6 +8,7 @@
         "name": "M4A1-S | Welcome to the Jungle",
         "desc": "This custom paint job features ancient iconography and a golden pit viper before a dusk-tinted jungle background.",
         "lore": "Strike without warning",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -24,6 +25,7 @@
         "name": "P90 | Run and Hide",
         "desc": "It has been custom painted with a jaguar pattern and finished with pebbled leather.",
         "lore": "Anyone can buy their way into fashion, but very few possess true style",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -38,6 +40,7 @@
         "name": "AK-47 | Panthera onca",
         "desc": "The wood on the stock and handguard feature beautiful carvings, often stealing attention from the custom painted jaguar on the side.",
         "lore": "Who said you can't change your spots?",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -51,9 +54,25 @@
     ],
     "Restricted Skins": [
       {
+        "name": "MAC-10 | Gold Brick",
+        "desc": "Its gold finish shimmers in the light, highlighting every beautiful imperfection on the weapon.",
+        "lore": "All that glitters...",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73djJO6OO0homInMj4OrzZglRd6dd2j6eSoNSmiwbtqhVrYmygIIGVcgc5Z1nU8wO9yejp1pW56M6azno3vCF3-z-DyL5HHr0U/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73djJO6OO0homInMj4OrzZglRd6dd2j6eSoNSmiwbtqhVrYmygIIGVcgc5Z1nU8wO9yejp1pW56M6azno3vCF3-z-DyL5HHr0U/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73djJO6OO0homInMj5Nr_Yg2Zu5MRjjeyP9or20FLirUtrY2n0ItCcIAc_ZAmErFS2yLi7hpe7usnLmCYwsicrt2GdwULhbCI7JA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73djJO6OO0homInMj5Nr_Yg2Zu5MRjjeyP9or20FLirUtrY2n0ItCcIAc_ZAmErFS2yLi7hpe7usnLmCYwsicrt2GdwULhbCI7JA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73djJO6OO0homInMj8NrrHj1Rd6dd2j6fArN-ljgyw-EpuMm6gLNeXclc8ZVyF8we5w7u5hcW4u5_ByiRqsyUi-z-DyHP12UeF/512fx384f"
+        }
+      },
+      {
         "name": "XM1014 | Ancient Lore",
         "desc": "A pale green, beige, and red pattern of ancient tiles has been applied.",
         "lore": "\"Hope remains, even for those who began their journey down the wrong path\"",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -68,6 +87,7 @@
         "name": "USP-S | Ancient Visions",
         "desc": "A green and red pattern featuring intricate linework and ancient creatures has been applied.",
         "lore": "The privilege is yours",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -76,27 +96,26 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4GFlP7xPa_ulHlY781lteTE8YXghWu4qgE7NnencNTBIAI2NFHV_1m4kL_s1MW7vJ_Kn3A3s3Ym43_UmkC-0xBKO-Rtm7XAHuUU2jha/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4GFlP7xPa_ulHlY781lteTE8YXghWu4qgE7NnencNTBIAI2NFHV_1m4kL_s1MW7vJ_Kn3A3s3Ym43_UmkC-0xBKO-Rtm7XAHuUU2jha/512fx384f"
         }
-      },
-      {
-        "name": "MAC-10 | Gold Brick",
-        "desc": "Its gold finish shimmers in the light, highlighting every beautiful imperfection on the weapon.",
-        "lore": "All that glitters...",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73djJO6OO0homInMj4OrzZglRd6dd2j6eSoNSmiwbtqhVrYmygIIGVcgc5Z1nU8wO9yejp1pW56M6azno3vCF3-z-DyL5HHr0U/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73djJO6OO0homInMj4OrzZglRd6dd2j6eSoNSmiwbtqhVrYmygIIGVcgc5Z1nU8wO9yejp1pW56M6azno3vCF3-z-DyL5HHr0U/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73djJO6OO0homInMj5Nr_Yg2Zu5MRjjeyP9or20FLirUtrY2n0ItCcIAc_ZAmErFS2yLi7hpe7usnLmCYwsicrt2GdwULhbCI7JA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73djJO6OO0homInMj5Nr_Yg2Zu5MRjjeyP9or20FLirUtrY2n0ItCcIAc_ZAmErFS2yLi7hpe7usnLmCYwsicrt2GdwULhbCI7JA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73djJO6OO0homInMj8NrrHj1Rd6dd2j6fArN-ljgyw-EpuMm6gLNeXclc8ZVyF8we5w7u5hcW4u5_ByiRqsyUi-z-DyHP12UeF/512fx384f"
-        }
       }
     ],
     "Mil-Spec Skins": [
       {
+        "name": "FAMAS | Dark Water",
+        "desc": "It has been painted in an aquatic-stripe pattern with charcoal metallic paints of various reflectivities over a chrome base coat.",
+        "lore": "Water gives life, but it can also take it...",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73azhA_t2JkIGZnMj4OrzZglRd6dd2j6eUp9ul2wbi8xE5Mj-hdYbHcwdtMg6F8lfowuy-hpW-78mfz3s1s3V0-z-DyHGVFGpO/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73azhA_t2JkIGZnMj5Nr_Yg2Zu5MRjjeyP8I-ijg3n-BVoNj31cdWTJlA3ZQzS8lW7k73mhce_7Z-bzyRnsyAq5WGdwULGpvWlGw/512fx384f"
+        }
+      },
+      {
         "name": "Tec-9 | Blast From the Past",
         "desc": "A pale green and beige pattern of ancient tiles has been applied.",
         "lore": "\"Hope remains, even for those began their journey down the wrong path\"",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -108,23 +127,10 @@
         }
       },
       {
-        "name": "Galil AR | Dusk Ruins",
-        "desc": "Ancient gods are obscured in the background of this foliage-adorned pattern.",
-        "lore": "\"Eyes up everyone—we're being watched...\"",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLP7LWnn9u5MRjjeyPoNql0QzmrkNsYj_3dteTJ1U6YwmE-ljoyO_s0JW_75yfnSNruyAqs2GdwUL23BtaYw/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLP7LWnn9u5MRjjeyPoNql0QzmrkNsYj_3dteTJ1U6YwmE-ljoyO_s0JW_75yfnSNruyAqs2GdwUL23BtaYw/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLPr7Vn35c18lwmO7Eu92s2lbl-xZvNWjxJIeUcQRvMwqErFa7x-vpgsXquJufzXsw6yMn5njD30vgCkRApjk/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLPr7Vn35c18lwmO7Eu92s2lbl-xZvNWjxJIeUcQRvMwqErFa7x-vpgsXquJufzXsw6yMn5njD30vgCkRApjk/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLO77QgHJu5MRjjeyP89ms2QXh_0A_Mjj2cYWXI1U9MFmE_1TrxL_sgJO87ZjJmyZivyJz4GGdwUJxTuVfuA/512fx384f"
-        }
-      },
-      {
         "name": "AUG | Carved Jade",
         "desc": "It has been painted with a chrome base coat and candied in transparent jade-green anodized effect paint.",
         "lore": "The finest of the finer things",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -134,36 +140,27 @@
         }
       },
       {
-        "name": "FAMAS | Dark Water",
-        "desc": "It has been painted in an aquatic-stripe pattern with charcoal metallic paints of various reflectivities over a chrome base coat.",
-        "lore": "Water gives life, but it can also take it...",
+        "name": "Galil AR | Dusk Ruins",
+        "desc": "Ancient gods are obscured in the background of this foliage-adorned pattern.",
+        "lore": "\"Eyes up everyone—we're being watched...\"",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73azhA_t2JkIGZnMj4OrzZglRd6dd2j6eUp9ul2wbi8xE5Mj-hdYbHcwdtMg6F8lfowuy-hpW-78mfz3s1s3V0-z-DyHGVFGpO/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73azhA_t2JkIGZnMj5Nr_Yg2Zu5MRjjeyP8I-ijg3n-BVoNj31cdWTJlA3ZQzS8lW7k73mhce_7Z-bzyRnsyAq5WGdwULGpvWlGw/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLP7LWnn9u5MRjjeyPoNql0QzmrkNsYj_3dteTJ1U6YwmE-ljoyO_s0JW_75yfnSNruyAqs2GdwUL23BtaYw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLP7LWnn9u5MRjjeyPoNql0QzmrkNsYj_3dteTJ1U6YwmE-ljoyO_s0JW_75yfnSNruyAqs2GdwUL23BtaYw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLPr7Vn35c18lwmO7Eu92s2lbl-xZvNWjxJIeUcQRvMwqErFa7x-vpgsXquJufzXsw6yMn5njD30vgCkRApjk/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLPr7Vn35c18lwmO7Eu92s2lbl-xZvNWjxJIeUcQRvMwqErFa7x-vpgsXquJufzXsw6yMn5njD30vgCkRApjk/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLO77QgHJu5MRjjeyP89ms2QXh_0A_Mjj2cYWXI1U9MFmE_1TrxL_sgJO87ZjJmyZivyJz4GGdwUJxTuVfuA/512fx384f"
         }
       }
     ],
     "Industrial Grade Skins": [
       {
-        "name": "P2000 | Panther Camo",
-        "desc": "A black panther spotted finish has been applied.",
-        "lore": "Find your shady spot",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWdY781lteXA54vwxgK2-hc4NW_zI4fEJldsZ17Y_wPol-3s08S57pjBz3BlvXV35SnUnxKpwUYbbzn7HnA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWdY781lteXA54vwxgK2-hc4NW_zI4fEJldsZ17Y_wPol-3s08S57pjBz3BlvXV35SnUnxKpwUYbbzn7HnA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWZU7Mxkh9bN9J7yjRrs_ENkMT_2JtSSdVM9NQzSqVjtxb-9g8C5vpyfzHRg7yhx7S7ZnBTkn1gSObjN98cr/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWZU7Mxkh9bN9J7yjRrs_ENkMT_2JtSSdVM9NQzSqVjtxb-9g8C5vpyfzHRg7yhx7S7ZnBTkn1gSObjN98cr/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWNU6dNoteXA54vwxgDlrUZpNz2mIYOQJAE3YFnTrFO7xOrohcXttJnMzXRr6CAl4X_anUSpwUYbUJ1WOos/512fx384f"
-        }
-      },
-      {
         "name": "MP7 | Tall Grass",
         "desc": "A green grass hydrographic pattern has been applied.",
         "lore": "Nothing good ever happens in tall grass",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -175,20 +172,25 @@
         }
       },
       {
-        "name": "CZ75-Auto | Silver",
-        "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
-        "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
+        "name": "P2000 | Panther Camo",
+        "desc": "A black panther spotted finish has been applied.",
+        "lore": "Find your shady spot",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v33YjRO-tmkq4yCkP_gDLfQhGxUpsEo3L-XoNr03FK3_hFtazvwJ9fBcQJsMgzYq1Toyb28gJbuvcvBwSd9-n5106iv1pk/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v33YjRO-tmkq4yCkP_gDLfQhGxUpsEo3L-XoNr03FK3_hFtazvwJ9fBcQJsMgzYq1Toyb28gJbuvcvBwSd9-n5106iv1pk/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWdY781lteXA54vwxgK2-hc4NW_zI4fEJldsZ17Y_wPol-3s08S57pjBz3BlvXV35SnUnxKpwUYbbzn7HnA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWdY781lteXA54vwxgK2-hc4NW_zI4fEJldsZ17Y_wPol-3s08S57pjBz3BlvXV35SnUnxKpwUYbbzn7HnA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWZU7Mxkh9bN9J7yjRrs_ENkMT_2JtSSdVM9NQzSqVjtxb-9g8C5vpyfzHRg7yhx7S7ZnBTkn1gSObjN98cr/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWZU7Mxkh9bN9J7yjRrs_ENkMT_2JtSSdVM9NQzSqVjtxb-9g8C5vpyfzHRg7yhx7S7ZnBTkn1gSObjN98cr/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWNU6dNoteXA54vwxgDlrUZpNz2mIYOQJAE3YFnTrFO7xOrohcXttJnMzXRr6CAl4X_anUSpwUYbUJ1WOos/512fx384f"
         }
       },
       {
         "name": "G3SG1 | Ancient Ritual",
         "desc": "A maroon and silver pattern featuring intricate linework and ancient creatures has been applied.",
         "lore": "The privilege is yours",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -198,55 +200,26 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf0v73cDNB5dm4gL-cnvnxDLbUkmJE5fp9i_vG8MLx21e28xA_Nm72Io6SIAI3NArSq1C5yby705G0vcmYzSdr63MrsHjegVXp1gBvz-0h/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf0v73cDNB5dm4gL-cnvnxDLPUl31I18lwmO7Eu9T32A3h-ks4Njv6d4_Bc1JrNwuCqAe2xLq805Tu75TInHswuSIksS7D30vgiDHOjnY/512fx384f"
         }
+      },
+      {
+        "name": "CZ75-Auto | Silver",
+        "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
+        "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v33YjRO-tmkq4yCkP_gDLfQhGxUpsEo3L-XoNr03FK3_hFtazvwJ9fBcQJsMgzYq1Toyb28gJbuvcvBwSd9-n5106iv1pk/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v33YjRO-tmkq4yCkP_gDLfQhGxUpsEo3L-XoNr03FK3_hFtazvwJ9fBcQJsMgzYq1Toyb28gJbuvcvBwSd9-n5106iv1pk/512fx384f"
+        }
       }
     ],
     "Consumer Grade Skins": [
       {
-        "name": "SG 553 | Lush Ruins",
-        "desc": "Ancient gods are obscured in the background of this foliage-adorned pattern.",
-        "lore": "\"Eyes up everyone—we're being watched...\"",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3YyhL4s-Jk5KOkvnLP7LWnn9u5MRjjeyPodvw3VXmrRc4YWD1coPBIFJtN1uF-1Xrkuy-hZ_u6ZvAwCAy6Chw7WGdwUI7bhtV4g/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3YyhL4s-Jk5KOkvnLP7LWnn9u5MRjjeyPodvw3VXmrRc4YWD1coPBIFJtN1uF-1Xrkuy-hZ_u6ZvAwCAy6Chw7WGdwUI7bhtV4g/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3YyhL4s-Jk5KOkvnLPr7Vn35c18lwmO7Eu9qs3lfj-kBqaj_0IIXDJA5vMFGF-QO7yLvv1pPtvs7AnyA273Mk433D30vg2w0X0KU/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3YyhL4s-Jk5KOkvnLPr7Vn35c18lwmO7Eu9qs3lfj-kBqaj_0IIXDJA5vMFGF-QO7yLvv1pPtvs7AnyA273Mk433D30vg2w0X0KU/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3YyhL4s-Jk5KOkvnLO77QgHJu5MRjjeyPrdj33ATh80Y_MW76dteUJA5sY13Z_la6ye7p15-1vcvKn3Rq6CAj5WGdwUL-cCVWQg/512fx384f"
-        }
-      },
-      {
-        "name": "P90 | Ancient Earth",
-        "desc": "A brown and gold pattern featuring intricate linework and ancient creatures has been applied.",
-        "lore": "The privilege is yours",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLP7LWnn9u5MRjjeyPo9X3i1Ltr0JlMjzwcoPHcARrYlvY-AXsl-7o0ce8tZ3Jn3JivSkk4mGdwUKR5Z08aA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLP7LWnn9u5MRjjeyPo9X3i1Ltr0JlMjzwcoPHcARrYlvY-AXsl-7o0ce8tZ3Jn3JivSkk4mGdwUKR5Z08aA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLPr7Vn35c18lwmO7Eu9jzjFfk-0I6MmCmI9PDJ1BrNF_Z8gLsyOzsgZ676ZuawXdm7iJwt3_D30vglqEeYPk/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLPr7Vn35c18lwmO7Eu9jzjFfk-0I6MmCmI9PDJ1BrNF_Z8gLsyOzsgZ676ZuawXdm7iJwt3_D30vglqEeYPk/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLO77QgHJu5MRjjeyP8Yml0ATgqBJrazuncdeccgM-N1mFqQLvxbq5jce_6s-cnXdgvnFw4GGdwUJ7MUst7Q/512fx384f"
-        }
-      },
-      {
-        "name": "SSG 08 | Jungle Dashed",
-        "desc": "It has been spray-painted using short pieces of tape as stencils.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5Mx2gv3--Y3nj1H6_0VuYDr6JtWcc1NvMFiFrFW7lOe8hZ_otJ_BmyA26Ckg4yuOzRTkhwYMMLLpL6-hww/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5Mx2gv3--Y3nj1H6_0VuYDr6JtWcc1NvMFiFrFW7lOe8hZ_otJ_BmyA26Ckg4yuOzRTkhwYMMLLpL6-hww/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5cB1g_zMyoD0mlOx5UNsZWv2JY7AegE-MF7UqQK5wOrphMK-75ydzyRi6HEr53uLnUS_gExSLrs4yCn44QA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5cB1g_zMyoD0mlOx5UNsZWv2JY7AegE-MF7UqQK5wOrphMK-75ydzyRi6HEr53uLnUS_gExSLrs4yCn44QA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u4MBwnPD--Y3nj1H6qkttMGCidY_AegE5ZQnYqwe7kOm51JTpv5XKznthsyMgtH6JzBywhgYMMLLIIp2JgA/512fx384f"
-        }
-      },
-      {
         "name": "R8 Revolver | Night",
         "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
         "lore": "It's the whisper of the wind... it's the bite at your neck",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -261,12 +234,58 @@
         "name": "Nova | Army Sheen",
         "desc": "It has been covered in a metallic foil stamped with a camouflage pattern.",
         "lore": "Remember your training",
+        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szJYzBb08--nY6OqPv9NLPFqWdQ-sJ0xOrD8Yqt0QDl_xVqNz3wIdWXJlM9YQzQqQXvyL_p0Z646s-dynBhsik8pSGKJHFomo8/512fx384f",
           "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szJYzBb08--nY6OqPv9NLPFqWdQ-sJ0xOrD8Yqt0QDl_xVqNz3wIdWXJlM9YQzQqQXvyL_p0Z646s-dynBhsik8pSGKJHFomo8/512fx384f",
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szJYzBb08--nY6OqPrxN7LEm1Rd6dd2j6fF99Wg2Azs_0o5ZT_zd9eSdFQ-MFrRrwW8xb3ngJa8tJvNy3ZjvSUj-z-DyMZ7Cl_i/512fx384f"
+        }
+      },
+      {
+        "name": "P90 | Ancient Earth",
+        "desc": "A brown and gold pattern featuring intricate linework and ancient creatures has been applied.",
+        "lore": "The privilege is yours",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLP7LWnn9u5MRjjeyPo9X3i1Ltr0JlMjzwcoPHcARrYlvY-AXsl-7o0ce8tZ3Jn3JivSkk4mGdwUKR5Z08aA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLP7LWnn9u5MRjjeyPo9X3i1Ltr0JlMjzwcoPHcARrYlvY-AXsl-7o0ce8tZ3Jn3JivSkk4mGdwUKR5Z08aA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLPr7Vn35c18lwmO7Eu9jzjFfk-0I6MmCmI9PDJ1BrNF_Z8gLsyOzsgZ676ZuawXdm7iJwt3_D30vglqEeYPk/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLPr7Vn35c18lwmO7Eu9jzjFfk-0I6MmCmI9PDJ1BrNF_Z8gLsyOzsgZ676ZuawXdm7iJwt3_D30vglqEeYPk/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLO77QgHJu5MRjjeyP8Yml0ATgqBJrazuncdeccgM-N1mFqQLvxbq5jce_6s-cnXdgvnFw4GGdwUJ7MUst7Q/512fx384f"
+        }
+      },
+      {
+        "name": "SG 553 | Lush Ruins",
+        "desc": "Ancient gods are obscured in the background of this foliage-adorned pattern.",
+        "lore": "\"Eyes up everyone—we're being watched...\"",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3YyhL4s-Jk5KOkvnLP7LWnn9u5MRjjeyPodvw3VXmrRc4YWD1coPBIFJtN1uF-1Xrkuy-hZ_u6ZvAwCAy6Chw7WGdwUI7bhtV4g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3YyhL4s-Jk5KOkvnLP7LWnn9u5MRjjeyPodvw3VXmrRc4YWD1coPBIFJtN1uF-1Xrkuy-hZ_u6ZvAwCAy6Chw7WGdwUI7bhtV4g/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3YyhL4s-Jk5KOkvnLPr7Vn35c18lwmO7Eu9qs3lfj-kBqaj_0IIXDJA5vMFGF-QO7yLvv1pPtvs7AnyA273Mk433D30vg2w0X0KU/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3YyhL4s-Jk5KOkvnLPr7Vn35c18lwmO7Eu9qs3lfj-kBqaj_0IIXDJA5vMFGF-QO7yLvv1pPtvs7AnyA273Mk433D30vg2w0X0KU/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3YyhL4s-Jk5KOkvnLO77QgHJu5MRjjeyPrdj33ATh80Y_MW76dteUJA5sY13Z_la6ye7p15-1vcvKn3Rq6CAj5WGdwUL-cCVWQg/512fx384f"
+        }
+      },
+      {
+        "name": "SSG 08 | Jungle Dashed",
+        "desc": "It has been spray-painted using short pieces of tape as stencils.",
+        "lore": "This item has no Lore",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5Mx2gv3--Y3nj1H6_0VuYDr6JtWcc1NvMFiFrFW7lOe8hZ_otJ_BmyA26Ckg4yuOzRTkhwYMMLLpL6-hww/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5Mx2gv3--Y3nj1H6_0VuYDr6JtWcc1NvMFiFrFW7lOe8hZ_otJ_BmyA26Ckg4yuOzRTkhwYMMLLpL6-hww/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5cB1g_zMyoD0mlOx5UNsZWv2JY7AegE-MF7UqQK5wOrphMK-75ydzyRi6HEr53uLnUS_gExSLrs4yCn44QA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5cB1g_zMyoD0mlOx5UNsZWv2JY7AegE-MF7UqQK5wOrphMK-75ydzyRi6HEr53uLnUS_gExSLrs4yCn44QA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u4MBwnPD--Y3nj1H6qkttMGCidY_AegE5ZQnYqwe7kOm51JTpv5XKznthsyMgtH6JzBywhgYMMLLIIp2JgA/512fx384f"
         }
       }
     ]

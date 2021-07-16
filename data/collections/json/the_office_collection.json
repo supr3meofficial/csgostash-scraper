@@ -8,9 +8,22 @@
     "Restricted Skins": [],
     "Mil-Spec Skins": [
       {
+        "name": "P2000 | Silver",
+        "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
+        "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfwJR5dCgkZK0m_7zO6_ummpD78A_0r3D84injgS2rxBrMjv1JYLBe1VqZlnQ-QO5le7ohJC8upzIwXNlvD5iuyim-mGAHQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfwJR5dCgkZK0m_7zO6_ummpD78A_0r3D84injgS2rxBrMjv1JYLBe1VqZlnQ-QO5le7ohJC8upzIwXNlvD5iuyim-mGAHQ/512fx384f"
+        }
+      },
+      {
         "name": "MP7 | Whiteout",
         "desc": "It is spray-painted all white.",
         "lore": "It looks pure, but looks can be deceiving",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -20,17 +33,6 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7OTAeClH48miq42Ok_7hPoTdl3lW7YtziLuXo9jx3ge1_kZqNTvyLYTAIwI4aQuFrlC9xu7ph5_pus-bn3oxpGB8sufl2t5-/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7OTAeClH48miq4iOluHtDLfQhGxUpp0i2biYp9mkjQfh80BtMWjyIoDGdAE2M1DR_FG8wu2818C_vJSYwHF9-n51CWhWBL4/512fx384f"
         }
-      },
-      {
-        "name": "P2000 | Silver",
-        "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
-        "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfwJR5dCgkZK0m_7zO6_ummpD78A_0r3D84injgS2rxBrMjv1JYLBe1VqZlnQ-QO5le7ohJC8upzIwXNlvD5iuyim-mGAHQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfwJR5dCgkZK0m_7zO6_ummpD78A_0r3D84injgS2rxBrMjv1JYLBe1VqZlnQ-QO5le7ohJC8upzIwXNlvD5iuyim-mGAHQ/512fx384f"
-        }
       }
     ],
     "Industrial Grade Skins": [
@@ -38,6 +40,7 @@
         "name": "G3SG1 | Arctic Camo",
         "desc": "It has been painted using an arctic camo hydrographic.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -52,6 +55,7 @@
         "name": "M249 | Blizzard Marbleized",
         "desc": "It has been painted in a marbleized pattern.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -66,6 +70,7 @@
         "name": "Galil AR | Winter Forest",
         "desc": "It has been painted using a forest camouflage hydrographic.",
         "lore": "The woods can be a dangerous place... never travel alone",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -82,6 +87,7 @@
         "name": "FAMAS | Contrast Spray",
         "desc": "It has been spray-painted freehand with short, thick lines in contrasting colors.",
         "lore": "Perfect for the insurgent on the go",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {

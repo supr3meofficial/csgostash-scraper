@@ -10,6 +10,7 @@
         "name": "P250 | X-Ray",
         "desc": "A custom painted P250 showing its internals with an X-Ray",
         "lore": "This item has no Lore",
+        "date_added": "15 October 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {

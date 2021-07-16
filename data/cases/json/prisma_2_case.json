@@ -4,23 +4,10 @@
   "content": {
     "Rare Special Items": [
       {
-        "name": "★ Stiletto Knife | Damascus Steel",
-        "desc": "It has been forged from a billet made from two different types of carbon steel.",
-        "lore": "Finally, a weapon strong enough to match your resolve",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0k_b5MqjSg3hu-Nd4meTAyoD8j1yglB89IT6mOtKScQE2NQuG-VbtkOrohpW46ZrBwCQ27iMk7H6PnhTkiB1Lb7Rs1PaACQLJACMUVno/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0k_b5MqjSg3hu-Nd4meTAyoD8j1yglB89IT6mOtKScQE2NQuG-VbtkOrohpW46ZrBwCQ27iMk7H6PnhTkiB1Lb7Rs1PaACQLJACMUVno/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0k_b5MqjSg3hu-Nd4meTAyoHwjF2hpiwwMiukcZiXdQM4YlzY-lK7kO_n1se8uJSdwXFjsiAn4n6IzhzjhE5NbeA6g_GeVxzAUNpVjW0Z/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0k_b5MqjSg3hu-Nd4meTAyoHwjF2hpiwwMiukcZiXdQM4YlzY-lK7kO_n1se8uJSdwXFjsiAn4n6IzhzjhE5NbeA6g_GeVxzAUNpVjW0Z/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0k_b5MqjSg3hu-Nd4meTAyoTwiUKtlB89IT6mOoacIFNoY17V81PokOu90cO86sjBznY2uHVx4ivUnEOx0kkeabc81PCACQLJs-AHKyc/512fx384f"
-        }
-      },
-      {
         "name": "★ Talon Knife | Marble Fade",
         "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.",
         "lore": "The blade is made of many colors, but soon it all looks red",
+        "date_added": "14 March 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -29,37 +16,22 @@
         }
       },
       {
-        "name": "★ Navaja Knife | Damascus Steel",
-        "desc": "It has been forged from a billet made from two different types of carbon steel.",
-        "lore": "Finally, a weapon strong enough to match your resolve",
+        "name": "★ Stiletto Knife | Rust Coat",
+        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
+        "lore": "Some people don't need to hide how dirty their deeds are",
+        "date_added": "14 March 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiwwOj6rYOnJI0RpNEaC-wToxO3mg5Xv75idmCcy7nUj4i3VmEThiBgdarQ8hPKdHA_IU_YcAuDcUSX2WBTN/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiwwOj6rYOnJI0RpNEaC-wToxO3mg5Xv75idmCcy7nUj4i3VmEThiBgdarQ8hPKdHA_IU_YcAuDcUSX2WBTN/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiwxNj2qYdv6Lld8Ng3O-Va5xubp0JPv787NyXpkvnV353zUnhLjghsearFvgPSXQVrPVfRIGL7CWCR_C_EvTw/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiwxNj2qYdv6Lld8Ng3O-Va5xubp0JPv787NyXpkvnV353zUnhLjghsearFvgPSXQVrPVfRIGL7CWCR_C_EvTw/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiw0Nji1benJI0RpNEaC8lW3yejv1MO7tMzIynZn6CEhtyuLzB2w1x5JPOBmgvXIG1_MAfBBAuDcUcAQiKsm/512fx384f"
-        }
-      },
-      {
-        "name": "★ Stiletto Knife | Ultraviolet",
-        "desc": "It has individual parts spray-painted solid colors in a black and purple color scheme.",
-        "lore": "Elegant design paired with brutal intent",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh4-0h-LmI7fUqWdY781lteXA54vwxga1_EJkMTz2IIWRIwNoN1mC-AO_kOy7h5G97cjMmiFguiAh5SvaykOpwUYbOly5x_c/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh4-0h-LmI7fUqWdY781lteXA54vwxga1_EJkMTz2IIWRIwNoN1mC-AO_kOy7h5G97cjMmiFguiAh5SvaykOpwUYbOly5x_c/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh4-0h-LmI7fUqWZU7Mxkh9bN9J7yjRrn_BZpa2_zJNLHJlM_ZQ2E-FXrkOe608O0upScn3Yx6yV24nbYmUayn1gSOdP31zUz/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh4-0h-LmI7fUqWZU7Mxkh9bN9J7yjRrn_BZpa2_zJNLHJlM_ZQ2E-FXrkOe608O0upScn3Yx6yV24nbYmUayn1gSOdP31zUz/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh4-0h-LmI7fUqWNU6dNoteXA54vwxlXir0U_Nzr6coCRcwY_NA3R_we_xLvtgZfptMyczSEx6SFxtC2Jn0GpwUYbhCYs6sE/512fx384f"
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0hOPxNrfunWVY7sBOh-zF_Jn4t1i1uRQ5fT-iLNTDdQJtMl-E_1a7levnjJ686ZSfzSBk6HEn5imJyRO10BEfa7NxxavJodhkMFQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0hOPxNrfunWVY7sBOguzA45XKhFWmrBZyNjjydY6RI1BtYFjZ_lO9k--5gMLqtM_ByyNguyYkty7dnhG01xgaavsv26I61aIV4g/512fx384f"
         }
       },
       {
         "name": "★ Talon Knife | Damascus Steel",
         "desc": "It has been forged from a billet made from two different types of carbon steel.",
         "lore": "Finally, a weapon strong enough to match your resolve",
+        "date_added": "14 March 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -71,75 +43,10 @@
         }
       },
       {
-        "name": "★ Navaja Knife | Tiger Tooth",
-        "desc": "It has been anodized orange and hand-etched in a tiger stripe pattern.",
-        "lore": "Like the tiger it is rare... like the tiger it is deadly...",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrfqX9Y78BjtebT9ILyjWu4ohQ0JwavdcTCJxg6YAqF-QPsl7-5g5-87sjPzntmvHIqsHiJzhy1gUpOZ-ZtgKOYGwqcGeUXS6rbv2Kf/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrfqX9Y78BjtebT9ILyjWu4ohQ0JwavdcTCJxg6YAqF-QPsl7-5g5-87sjPzntmvHIqsHiJzhy1gUpOZ-ZtgKOYGwqcGeUXS6rbv2Kf/512fx384f"
-        }
-      },
-      {
-        "name": "★ Stiletto Knife | Doppler",
-        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
-        "lore": "Getting lost in its color can prove fatal",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY20k_jkI7fUhFRB4MRij7r--YXygECLpxIuNDztcIOTdQQ7YwzSrlC-xua5gJe0vZWczXNnuHJ3tyzVmhC-gUoaPONt1OveFwse7jCorA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY20k_jkI7fUhFRB4MRij7r--YXygECLpxIuNDztcIOTdQQ7YwzSrlC-xua5gJe0vZWczXNnuHJ3tyzVmhC-gUoaPONt1OveFwse7jCorA/512fx384f"
-        }
-      },
-      {
-        "name": "★ Ursus Knife | Marble Fade",
-        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.",
-        "lore": "The blade is made of many colors, but soon it all looks red",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dGJmYGZlfvxDL3Qkm5u5Mx2gv3--Y3nj1H68hE-ZW7zLY-VcgE-NA6G_Ae8w7_u1JW5tJnMwCQxvClxsCyIn0ey0wYMMLLIK6xECQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dGJmYGZlfvxDL3Qkm5u5Mx2gv3--Y3nj1H68hE-ZW7zLY-VcgE-NA6G_Ae8w7_u1JW5tJnMwCQxvClxsCyIn0ey0wYMMLLIK6xECQ/512fx384f"
-        }
-      },
-      {
-        "name": "★ Ursus Knife | Tiger Tooth",
-        "desc": "It has been anodized orange and hand-etched in a tiger stripe pattern.",
-        "lore": "Like the tiger it is rare... like the tiger it is deadly...",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dKJgImMkuXLPKnQmGxU18l4jeHVyoD0mlOx5UBoMTz1I4DEewVoZQzWrFO5xLvvg5-86JvNmHEwvCAjsH7bnhfj0hFSLrs4wPtstOg/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dKJgImMkuXLPKnQmGxU18l4jeHVyoD0mlOx5UBoMTz1I4DEewVoZQzWrFO5xLvvg5-86JvNmHEwvCAjsH7bnhfj0hFSLrs4wPtstOg/512fx384f"
-        }
-      },
-      {
-        "name": "★ Talon Knife | Doppler",
-        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
-        "lore": "Getting lost in its color can prove fatal",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjwPKvBmm5D19V5i_rEprPigVC7vCwwOj6rYOnJI0RpNEbVrAXvlOi8gcDtvZrJziA1vCAqt3-MyRHm0hoYaec-1_3PQF7NVfNIAuDcUWvXnfMD/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjwPKvBmm5D19V5i_rEobPigVC7vCwwOj6rYOnJI0RpNEbQ-lS-xe26hZTt7pmYynE3uiErsX3ZlxOzgksaO7c8g_edQFieD6JNAuDcUVJUBbU2/512fx384f"
-        }
-      },
-      {
-        "name": "★ Talon Knife | Tiger Tooth",
-        "desc": "It has been anodized orange and hand-etched in a tiger stripe pattern.",
-        "lore": "Like the tiger it is rare... like the tiger it is deadly...",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmcjgOrzUhFRe-sR_jez--YXygECLpxIuNDztco_Gd1I7ZluB-we8wby-0569tJTBnSBkvXR0tHmLyxWygh8ePOxt0-veFwtLy8caOQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmcjgOrzUhFRe-sR_jez--YXygECLpxIuNDztco_Gd1I7ZluB-we8wby-0569tJTBnSBkvXR0tHmLyxWygh8ePOxt0-veFwtLy8caOQ/512fx384f"
-        }
-      },
-      {
         "name": "★ Ursus Knife | Rust Coat",
         "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
         "lore": "Some people don't need to hide how dirty their deeds are",
+        "date_added": "14 March 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -148,103 +55,10 @@
         }
       },
       {
-        "name": "★ Talon Knife | Ultraviolet",
-        "desc": "It has individual parts spray-painted solid colors in a black and purple color scheme.",
-        "lore": "Elegant design paired with brutal intent",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u5Mx2gv3--Y3nj1H680BvazzzI9XEJA5oZwvR-Fi5xOq9g5a5u53Az3Nh6CV35ivcmRK-1QYMMLK3GkLhkw/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u5Mx2gv3--Y3nj1H680BvazzzI9XEJA5oZwvR-Fi5xOq9g5a5u53Az3Nh6CV35ivcmRK-1QYMMLK3GkLhkw/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u5cB1g_zMyoD0mlOx5URpY22nJoCTJgQ4MAzR-FPrl7zphMLqtMnAwHRiviki4X_UmEO20hFSLrs4z0ciz-A/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u5cB1g_zMyoD0mlOx5URpY22nJoCTJgQ4MAzR-FPrl7zphMLqtMnAwHRiviki4X_UmEO20hFSLrs4z0ciz-A/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u4MBwnPD--Y3nj1H6-BdsYj2iLIXGJwU7NAyB_FTvl-frgZTuvZrLnHJjsyAg7HiJnhfigwYMMLInwifyEw/512fx384f"
-        }
-      },
-      {
-        "name": "★ Navaja Knife | Doppler",
-        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
-        "lore": "Getting lost in its color can prove fatal",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqW9e-NV9j_v-5YT0m1HnlB81NDG3S9rEMFFrf13R_Fe2wO-91pDuvsnAyiM27CAi5H3azEey0xlFauQ7jPGdHFrLVPRXXP7VmR2q7XE/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqW9e-NV9j_v-5YT0m1HllB81NDG3S9rEMFFrf1nX-lS5yObt1pHt6cvLyyZg7nEl53rbzhHmiEtPau06gvWWTg3KVfNXXP7V4EoSnS0/512fx384f"
-        }
-      },
-      {
-        "name": "★ Stiletto Knife | Rust Coat",
-        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
-        "lore": "Some people don't need to hide how dirty their deeds are",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0hOPxNrfunWVY7sBOh-zF_Jn4t1i1uRQ5fT-iLNTDdQJtMl-E_1a7levnjJ686ZSfzSBk6HEn5imJyRO10BEfa7NxxavJodhkMFQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0hOPxNrfunWVY7sBOguzA45XKhFWmrBZyNjjydY6RI1BtYFjZ_lO9k--5gMLqtM_ByyNguyYkty7dnhG01xgaavsv26I61aIV4g/512fx384f"
-        }
-      },
-      {
-        "name": "★ Navaja Knife | Rust Coat",
-        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
-        "lore": "Some people don't need to hide how dirty their deeds are",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqXhF7cB9teLP_Irwt1mxrxopPgavdcTCJxg6N17QrgW2xLu9jJbquczIzSBlvCch4Svdy0G000lJO7NtgKacSlXIGeUXS5OKwP1n/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqXhF7cB9teLP_Irwt1yxqgUlDDWiZtHAbFc2NFiCq1XtwubvjJa8tZnOnXtj6yQn4S7YzhCwhkwYOudsgfWeTVWAR_seYYf8JIc/512fx384f"
-        }
-      },
-      {
-        "name": "★ Navaja Knife | Marble Fade",
-        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.",
-        "lore": "The blade is made of many colors, but soon it all looks red",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqWZQ-sd9j9bH9Ijwt1i9rBsoDDWiZtHAbAY4NAyG_Vm8le_ujJ677ZWYyXNj73RzsHzVzhS0hhgfb-I70fDKTA2AR_seTTmGAb4/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqWZQ-sd9j9bH9Ijwt1i9rBsoDDWiZtHAbAY4NAyG_Vm8le_ujJ677ZWYyXNj73RzsHzVzhS0hhgfb-I70fDKTA2AR_seTTmGAb4/512fx384f"
-        }
-      },
-      {
-        "name": "★ Ursus Knife | Damascus Steel",
-        "desc": "It has been forged from a billet made from two different types of carbon steel.",
-        "lore": "Finally, a weapon strong enough to match your resolve",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597c2JkIGGluT3JqjuhnlY-8hwteXI8oTht1i1uRQ5fWqnJ4DHdQA_Zw3R-lPrwOjrjcS17pzBnCZisiZ2sXaMm0O11xxFO7FxxavJFD2JTFI/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597c2JkIGGluT3JqjuhnlY-8hwteXI8oTht1i1uRQ5fWqnJ4DHdQA_Zw3R-lPrwOjrjcS17pzBnCZisiZ2sXaMm0O11xxFO7FxxavJFD2JTFI/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597c2JkIGGluT3JqjuhnlY-8hwteTE8YXghWu4qgE7NnemIdfDegBoYVrSr1G5w-fng5Hotc-bnHtquygl4i2PmhK_hklFbeY6m7XAHu6p_sIj/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597c2JkIGGluT3JqjuhnlY-8hwteTE8YXghWu4qgE7NnemIdfDegBoYVrSr1G5w-fng5Hotc-bnHtquygl4i2PmhK_hklFbeY6m7XAHu6p_sIj/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597c2JkIGGluT3JqjuhnlY-8hwteHE9Jrst1i1uRQ5fWihI9OdcFdrMl_Q-lfvkL_ohJC56MnLzSYy7CF353bYnxCwhBxIZrFxxavJnYUQK64/512fx384f"
-        }
-      },
-      {
-        "name": "★ Stiletto Knife | Tiger Tooth",
-        "desc": "It has been anodized orange and hand-etched in a tiger stripe pattern.",
-        "lore": "Like the tiger it is rare... like the tiger it is deadly...",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY60g_7zNqnumXlQ5sJ0teXI8oTht1i1uRQ5fT2nIY_BJFJvZAnT-gK9lOm9hcLu6Z_Mz3pgu3Vx7H6OmxG3hEofbeFxxavJ4ASE6yw/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY60g_7zNqnumXlQ5sJ0teXI8oTht1i1uRQ5fT2nIY_BJFJvZAnT-gK9lOm9hcLu6Z_Mz3pgu3Vx7H6OmxG3hEofbeFxxavJ4ASE6yw/512fx384f"
-        }
-      },
-      {
-        "name": "★ Talon Knife | Rust Coat",
-        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
-        "lore": "Some people don't need to hide how dirty their deeds are",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KhsjnJ77UmlRa5sx3j9bM8Ij8nVmLpxIuNDztI4CQIAU9ZAzZ-1Hqwe3pgp7ouJnJmyBlu3N34CndzhS_ghBMb-M60OveFwv6WWCCSA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KhsjnJ77UmlRa5sx3j9bJ8I3jkWu4qgE7NnfyJ9WRJAc2Zw2D_VS6xOm7jcW_vpjKmycy6Sck5CyOmxy10BtLbOA8m7XAHt50ZPGE/512fx384f"
-        }
-      },
-      {
         "name": "★ Ursus Knife | Ultraviolet",
         "desc": "It has individual parts spray-painted solid colors in a black and purple color scheme.",
         "lore": "Elegant design paired with brutal intent",
+        "date_added": "14 March 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -256,20 +70,166 @@
         }
       },
       {
-        "name": "★ Ursus Knife | Doppler",
+        "name": "★ Talon Knife | Doppler",
         "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
         "lore": "Getting lost in its color can prove fatal",
+        "date_added": "14 March 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dGJkI-bh_vxIYTBnmpC7ZZOhuDG_ZjKhFWmrBZyazvwddCdIQE_YVrV8gC7l-zphpK0tZXBzSBg6XVx4y2ImEO_1R9LPPsv26JsS3ljjQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dGJkI-bh_vxIYTBnmpC7ZROhuDG_ZjKhFWmrBZyNmilJoSTJgU2ZQ6G_FLskL-8jZXo6sjJyHc16SUg4XuMl0eyiRFEaPsv26KUsGnvug/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjwPKvBmm5D19V5i_rEprPigVC7vCwwOj6rYOnJI0RpNEbVrAXvlOi8gcDtvZrJziA1vCAqt3-MyRHm0hoYaec-1_3PQF7NVfNIAuDcUWvXnfMD/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjwPKvBmm5D19V5i_rEpLPigVC7vCwwOj6rYOnJI0RpNEbT_1i7lOq-hMDoucmfy3cyviZ25HiJzBHjgklKZ7c-jPbKH17PAKIYAuDcUdPu1PLJ/512fx384f"
+        }
+      },
+      {
+        "name": "★ Stiletto Knife | Ultraviolet",
+        "desc": "It has individual parts spray-painted solid colors in a black and purple color scheme.",
+        "lore": "Elegant design paired with brutal intent",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh4-0h-LmI7fUqWdY781lteXA54vwxga1_EJkMTz2IIWRIwNoN1mC-AO_kOy7h5G97cjMmiFguiAh5SvaykOpwUYbOly5x_c/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh4-0h-LmI7fUqWdY781lteXA54vwxga1_EJkMTz2IIWRIwNoN1mC-AO_kOy7h5G97cjMmiFguiAh5SvaykOpwUYbOly5x_c/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh4-0h-LmI7fUqWZU7Mxkh9bN9J7yjRrn_BZpa2_zJNLHJlM_ZQ2E-FXrkOe608O0upScn3Yx6yV24nbYmUayn1gSOdP31zUz/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh4-0h-LmI7fUqWZU7Mxkh9bN9J7yjRrn_BZpa2_zJNLHJlM_ZQ2E-FXrkOe608O0upScn3Yx6yV24nbYmUayn1gSOdP31zUz/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh4-0h-LmI7fUqWNU6dNoteXA54vwxlXir0U_Nzr6coCRcwY_NA3R_we_xLvtgZfptMyczSEx6SFxtC2Jn0GpwUYbhCYs6sE/512fx384f"
+        }
+      },
+      {
+        "name": "★ Navaja Knife | Tiger Tooth",
+        "desc": "It has been anodized orange and hand-etched in a tiger stripe pattern.",
+        "lore": "Like the tiger it is rare... like the tiger it is deadly...",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrfqX9Y78BjtebT9ILyjWu4ohQ0JwavdcTCJxg6YAqF-QPsl7-5g5-87sjPzntmvHIqsHiJzhy1gUpOZ-ZtgKOYGwqcGeUXS6rbv2Kf/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrfqX9Y78BjtebT9ILyjWu4ohQ0JwavdcTCJxg6YAqF-QPsl7-5g5-87sjPzntmvHIqsHiJzhy1gUpOZ-ZtgKOYGwqcGeUXS6rbv2Kf/512fx384f"
+        }
+      },
+      {
+        "name": "★ Ursus Knife | Doppler",
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+        "lore": "Getting lost in its color can prove fatal",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dGJkI-bh_vxIYTBnmpC7ZROhuDG_ZjKhFWmrBZyNmilJoSTJgU2ZQ6G_FLskL-8jZXo6sjJyHc16SUg4XuMl0eyiRFEaPsv26KUsGnvug/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dGJkI-bh_vxIYTBnmpC7ZFOhuDG_ZjKhFWmrBZyNWinIdeVc1NtZF6B_ADryeu605Do6pvOn3IwuSVw4XzdlxOyiRFEafsv26Jn_2Y8Hg/512fx384f"
+        }
+      },
+      {
+        "name": "★ Navaja Knife | Damascus Steel",
+        "desc": "It has been forged from a billet made from two different types of carbon steel.",
+        "lore": "Finally, a weapon strong enough to match your resolve",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiwwOj6rYOnJI0RpNEaC-wToxO3mg5Xv75idmCcy7nUj4i3VmEThiBgdarQ8hPKdHA_IU_YcAuDcUSX2WBTN/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiwwOj6rYOnJI0RpNEaC-wToxO3mg5Xv75idmCcy7nUj4i3VmEThiBgdarQ8hPKdHA_IU_YcAuDcUSX2WBTN/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiwxNj2qYdv6Lld8Ng3O-Va5xubp0JPv787NyXpkvnV353zUnhLjghsearFvgPSXQVrPVfRIGL7CWCR_C_EvTw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiwxNj2qYdv6Lld8Ng3O-Va5xubp0JPv787NyXpkvnV353zUnhLjghsearFvgPSXQVrPVfRIGL7CWCR_C_EvTw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiw0Nji1benJI0RpNEaC8lW3yejv1MO7tMzIynZn6CEhtyuLzB2w1x5JPOBmgvXIG1_MAfBBAuDcUcAQiKsm/512fx384f"
+        }
+      },
+      {
+        "name": "★ Ursus Knife | Damascus Steel",
+        "desc": "It has been forged from a billet made from two different types of carbon steel.",
+        "lore": "Finally, a weapon strong enough to match your resolve",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597c2JkIGGluT3JqjuhnlY-8hwteXI8oTht1i1uRQ5fWqnJ4DHdQA_Zw3R-lPrwOjrjcS17pzBnCZisiZ2sXaMm0O11xxFO7FxxavJFD2JTFI/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597c2JkIGGluT3JqjuhnlY-8hwteXI8oTht1i1uRQ5fWqnJ4DHdQA_Zw3R-lPrwOjrjcS17pzBnCZisiZ2sXaMm0O11xxFO7FxxavJFD2JTFI/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597c2JkIGGluT3JqjuhnlY-8hwteTE8YXghWu4qgE7NnemIdfDegBoYVrSr1G5w-fng5Hotc-bnHtquygl4i2PmhK_hklFbeY6m7XAHu6p_sIj/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597c2JkIGGluT3JqjuhnlY-8hwteTE8YXghWu4qgE7NnemIdfDegBoYVrSr1G5w-fng5Hotc-bnHtquygl4i2PmhK_hklFbeY6m7XAHu6p_sIj/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597c2JkIGGluT3JqjuhnlY-8hwteHE9Jrst1i1uRQ5fWihI9OdcFdrMl_Q-lfvkL_ohJC56MnLzSYy7CF353bYnxCwhBxIZrFxxavJnYUQK64/512fx384f"
+        }
+      },
+      {
+        "name": "★ Navaja Knife | Doppler",
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+        "lore": "Getting lost in its color can prove fatal",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqW9e-NV9j_v-5YT0m1HnlB81NDG3S9rEMFFrf13R_Fe2wO-91pDuvsnAyiM27CAi5H3azEey0xlFauQ7jPGdHFrLVPRXXP7VmR2q7XE/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqW9e-NV9j_v-5YT0m1HnlB81NDG3S9rEMFFrf13R_Fe2wO-91pDuvsnAyiM27CAi5H3azEey0xlFauQ7jPGdHFrLVPRXXP7VmR2q7XE/512fx384f"
+        }
+      },
+      {
+        "name": "★ Navaja Knife | Rust Coat",
+        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
+        "lore": "Some people don't need to hide how dirty their deeds are",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqXhF7cB9teLP_Irwt1mxrxopPgavdcTCJxg6N17QrgW2xLu9jJbquczIzSBlvCch4Svdy0G000lJO7NtgKacSlXIGeUXS5OKwP1n/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqXhF7cB9teLP_Irwt1yxqgUlDDWiZtHAbFc2NFiCq1XtwubvjJa8tZnOnXtj6yQn4S7YzhCwhkwYOudsgfWeTVWAR_seYYf8JIc/512fx384f"
+        }
+      },
+      {
+        "name": "★ Stiletto Knife | Doppler",
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+        "lore": "Getting lost in its color can prove fatal",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY20k_jkI7fUhFRB4MRij7j--YXygECLpxIuNDztIY-UcAZqZQ6F8wK_kOy7h8W-75XKzXRluykq53rYyxW200kfaOFshOveFws_sD0ryA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY20k_jkI7fUhFRB4MRij7r--YXygECLpxIuNDztcIOTdQQ7YwzSrlC-xua5gJe0vZWczXNnuHJ3tyzVmhC-gUoaPONt1OveFwse7jCorA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Ursus Knife | Tiger Tooth",
+        "desc": "It has been anodized orange and hand-etched in a tiger stripe pattern.",
+        "lore": "Like the tiger it is rare... like the tiger it is deadly...",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dKJgImMkuXLPKnQmGxU18l4jeHVyoD0mlOx5UBoMTz1I4DEewVoZQzWrFO5xLvvg5-86JvNmHEwvCAjsH7bnhfj0hFSLrs4wPtstOg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dKJgImMkuXLPKnQmGxU18l4jeHVyoD0mlOx5UBoMTz1I4DEewVoZQzWrFO5xLvvg5-86JvNmHEwvCAjsH7bnhfj0hFSLrs4wPtstOg/512fx384f"
+        }
+      },
+      {
+        "name": "★ Talon Knife | Ultraviolet",
+        "desc": "It has individual parts spray-painted solid colors in a black and purple color scheme.",
+        "lore": "Elegant design paired with brutal intent",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u5Mx2gv3--Y3nj1H680BvazzzI9XEJA5oZwvR-Fi5xOq9g5a5u53Az3Nh6CV35ivcmRK-1QYMMLK3GkLhkw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u5Mx2gv3--Y3nj1H680BvazzzI9XEJA5oZwvR-Fi5xOq9g5a5u53Az3Nh6CV35ivcmRK-1QYMMLK3GkLhkw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u5cB1g_zMyoD0mlOx5URpY22nJoCTJgQ4MAzR-FPrl7zphMLqtMnAwHRiviki4X_UmEO20hFSLrs4z0ciz-A/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u5cB1g_zMyoD0mlOx5URpY22nJoCTJgQ4MAzR-FPrl7zphMLqtMnAwHRiviki4X_UmEO20hFSLrs4z0ciz-A/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u4MBwnPD--Y3nj1H6-BdsYj2iLIXGJwU7NAyB_FTvl-frgZTuvZrLnHJjsyAg7HiJnhfigwYMMLInwifyEw/512fx384f"
+        }
+      },
+      {
+        "name": "★ Ursus Knife | Marble Fade",
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.",
+        "lore": "The blade is made of many colors, but soon it all looks red",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dGJmYGZlfvxDL3Qkm5u5Mx2gv3--Y3nj1H68hE-ZW7zLY-VcgE-NA6G_Ae8w7_u1JW5tJnMwCQxvClxsCyIn0ey0wYMMLLIK6xECQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dGJmYGZlfvxDL3Qkm5u5Mx2gv3--Y3nj1H68hE-ZW7zLY-VcgE-NA6G_Ae8w7_u1JW5tJnMwCQxvClxsCyIn0ey0wYMMLLIK6xECQ/512fx384f"
         }
       },
       {
         "name": "★ Navaja Knife | Ultraviolet",
         "desc": "It has individual parts spray-painted solid colors in a black and purple color scheme.",
         "lore": "Elegant design paired with brutal intent",
+        "date_added": "14 March 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -281,14 +241,78 @@
         }
       },
       {
+        "name": "★ Navaja Knife | Marble Fade",
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.",
+        "lore": "The blade is made of many colors, but soon it all looks red",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqWZQ-sd9j9bH9Ijwt1i9rBsoDDWiZtHAbAY4NAyG_Vm8le_ujJ677ZWYyXNj73RzsHzVzhS0hhgfb-I70fDKTA2AR_seTTmGAb4/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqWZQ-sd9j9bH9Ijwt1i9rBsoDDWiZtHAbAY4NAyG_Vm8le_ujJ677ZWYyXNj73RzsHzVzhS0hhgfb-I70fDKTA2AR_seTTmGAb4/512fx384f"
+        }
+      },
+      {
+        "name": "★ Stiletto Knife | Damascus Steel",
+        "desc": "It has been forged from a billet made from two different types of carbon steel.",
+        "lore": "Finally, a weapon strong enough to match your resolve",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0k_b5MqjSg3hu-Nd4meTAyoD8j1yglB89IT6mOtKScQE2NQuG-VbtkOrohpW46ZrBwCQ27iMk7H6PnhTkiB1Lb7Rs1PaACQLJACMUVno/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0k_b5MqjSg3hu-Nd4meTAyoD8j1yglB89IT6mOtKScQE2NQuG-VbtkOrohpW46ZrBwCQ27iMk7H6PnhTkiB1Lb7Rs1PaACQLJACMUVno/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0k_b5MqjSg3hu-Nd4meTAyoHwjF2hpiwwMiukcZiXdQM4YlzY-lK7kO_n1se8uJSdwXFjsiAn4n6IzhzjhE5NbeA6g_GeVxzAUNpVjW0Z/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0k_b5MqjSg3hu-Nd4meTAyoHwjF2hpiwwMiukcZiXdQM4YlzY-lK7kO_n1se8uJSdwXFjsiAn4n6IzhzjhE5NbeA6g_GeVxzAUNpVjW0Z/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0k_b5MqjSg3hu-Nd4meTAyoTwiUKtlB89IT6mOoacIFNoY17V81PokOu90cO86sjBznY2uHVx4ivUnEOx0kkeabc81PCACQLJs-AHKyc/512fx384f"
+        }
+      },
+      {
         "name": "★ Stiletto Knife | Marble Fade",
         "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.",
         "lore": "The blade is made of many colors, but soon it all looks red",
+        "date_added": "14 March 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
           "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY20mvbmMbfUqW1Q7MBOhuDG_ZjKhFWmrBZyYTylLYadcgA_YAvU_1K3l-7thp6175idwHAy7CBws3nfmRy1hElIaPsv26KK2yMbfg/512fx384f",
           "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY20mvbmMbfUqW1Q7MBOhuDG_ZjKhFWmrBZyYTylLYadcgA_YAvU_1K3l-7thp6175idwHAy7CBws3nfmRy1hElIaPsv26KK2yMbfg/512fx384f"
+        }
+      },
+      {
+        "name": "★ Stiletto Knife | Tiger Tooth",
+        "desc": "It has been anodized orange and hand-etched in a tiger stripe pattern.",
+        "lore": "Like the tiger it is rare... like the tiger it is deadly...",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY60g_7zNqnumXlQ5sJ0teXI8oTht1i1uRQ5fT2nIY_BJFJvZAnT-gK9lOm9hcLu6Z_Mz3pgu3Vx7H6OmxG3hEofbeFxxavJ4ASE6yw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY60g_7zNqnumXlQ5sJ0teXI8oTht1i1uRQ5fT2nIY_BJFJvZAnT-gK9lOm9hcLu6Z_Mz3pgu3Vx7H6OmxG3hEofbeFxxavJ4ASE6yw/512fx384f"
+        }
+      },
+      {
+        "name": "★ Talon Knife | Rust Coat",
+        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
+        "lore": "Some people don't need to hide how dirty their deeds are",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KhsjnJ77UmlRa5sx3j9bM8Ij8nVmLpxIuNDztI4CQIAU9ZAzZ-1Hqwe3pgp7ouJnJmyBlu3N34CndzhS_ghBMb-M60OveFwv6WWCCSA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KhsjnJ77UmlRa5sx3j9bJ8I3jkWu4qgE7NnfyJ9WRJAc2Zw2D_VS6xOm7jcW_vpjKmycy6Sck5CyOmxy10BtLbOA8m7XAHt50ZPGE/512fx384f"
+        }
+      },
+      {
+        "name": "★ Talon Knife | Tiger Tooth",
+        "desc": "It has been anodized orange and hand-etched in a tiger stripe pattern.",
+        "lore": "Like the tiger it is rare... like the tiger it is deadly...",
+        "date_added": "14 March 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmcjgOrzUhFRe-sR_jez--YXygECLpxIuNDztco_Gd1I7ZluB-we8wby-0569tJTBnSBkvXR0tHmLyxWygh8ePOxt0-veFwtLy8caOQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmcjgOrzUhFRe-sR_jez--YXygECLpxIuNDztco_Gd1I7ZluB-we8wby-0569tJTBnSBkvXR0tHmLyxWygh8ePOxt0-veFwtLy8caOQ/512fx384f"
         }
       }
     ],
@@ -297,6 +321,7 @@
         "name": "M4A1-S | Player Two",
         "desc": "It has been custom painted with bright colors and features animated versions of a GIGN CT and Pop Dog.",
         "lore": "Press Start...",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -311,6 +336,7 @@
         "name": "Glock-18 | Bullet Queen",
         "desc": "Menacing bullets and a War Maiden in a pink jacket have been custom painted over a yellow and black base.",
         "lore": "\"I'll stop shooting when you start shushing\"",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -327,6 +353,7 @@
         "name": "AK-47 | Phantom Disruptor",
         "desc": "A mistform illusion creature has been custom painted over a matte black base.",
         "lore": "\"It can be whatever it wants, wherever it wants, and yet it chooses to reside with you…\"",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -338,23 +365,10 @@
         }
       },
       {
-        "name": "MAG-7 | Justice",
-        "desc": "It has been custom painted using the Justice tarot card as inspiration.",
-        "lore": "Judgement for all",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09ajh5SClPLLP7LWnn9u5MRjjeyP84_xiwPnqhFrZGCidoaccVNrZgzZ-gW3wL3u0JXvv5vAmyAwsnQk4GGdwULDadNVtQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09ajh5SClPLLP7LWnn9u5MRjjeyP84_xiwPnqhFrZGCidoaccVNrZgzZ-gW3wL3u0JXvv5vAmyAwsnQk4GGdwULDadNVtQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09ajh5SClPLLPr7Vn35c18lwmO7Eu4in0Ay3qBZrNW7zIIDDJA43aA7RrFPrxLu808O0uJzAmiFivSYr4X3D30vgSYA_DBc/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09ajh5SClPLLPr7Vn35c18lwmO7Eu4in0Ay3qBZrNW7zIIDDJA43aA7RrFPrxLu808O0uJzAmiFivSYr4X3D30vgSYA_DBc/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09ajh5SClPLLO77QgHJu5MRjjeyPpd3xjlLk_EI9NWn3cIeQI1A2ZwmE_gS3lL_o15S1v5vPySQxv3J27WGdwULAXgWsOw/512fx384f"
-        }
-      },
-      {
         "name": "MAC-10 | Disco Tech",
         "desc": "It has been custom painted using a pearlescent finish to resemble holographic self-adhesive vinyl. Depending on the light its appearance changes.",
         "lore": "Watch when you point that thing",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -364,27 +378,29 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJmoGIhfLLPr7Vn35c18lwmO7Eu42giVbg-RY4MTylJYSSdgQ6M1_YrlS4x-_vjZPov5nNyndjuCghtnnD30vgC8iQ-N0/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJmoGIhfLLO77QgHJu5MRjjeyP8dn0jQPm-UY9Ym72IoeVcgBraF7VqVe8wb--h8PuvpibwCBluShz5WGdwULg9h5cdw/512fx384f"
         }
+      },
+      {
+        "name": "MAG-7 | Justice",
+        "desc": "It has been custom painted using the Justice tarot card as inspiration.",
+        "lore": "Judgement for all",
+        "date_added": "31 March 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09ajh5SClPLLP7LWnn9u5MRjjeyP84_xiwPnqhFrZGCidoaccVNrZgzZ-gW3wL3u0JXvv5vAmyAwsnQk4GGdwULDadNVtQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09ajh5SClPLLP7LWnn9u5MRjjeyP84_xiwPnqhFrZGCidoaccVNrZgzZ-gW3wL3u0JXvv5vAmyAwsnQk4GGdwULDadNVtQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09ajh5SClPLLPr7Vn35c18lwmO7Eu4in0Ay3qBZrNW7zIIDDJA43aA7RrFPrxLu808O0uJzAmiFivSYr4X3D30vgSYA_DBc/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09ajh5SClPLLPr7Vn35c18lwmO7Eu4in0Ay3qBZrNW7zIIDDJA43aA7RrFPrxLu808O0uJzAmiFivSYr4X3D30vgSYA_DBc/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09ajh5SClPLLO77QgHJu5MRjjeyPpd3xjlLk_EI9NWn3cIeQI1A2ZwmE_gS3lL_o15S1v5vPySQxv3J27WGdwULAXgWsOw/512fx384f"
+        }
       }
     ],
     "Restricted Skins": [
       {
-        "name": "P2000 | Acid Etched",
-        "desc": "A randomized multicolored pattern with a rare four-leaf clover has been applied.",
-        "lore": "Do you feel lucky?",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-KlP7wDLjdmX1U-vp9g-7J4bP5iUazrl1lMW-gI9CXIQZsNVvQrgK4x-vohcW4vZzJyHNhs3UjtHnfm0TlhkpEcKUx0pjVNx96/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-KlP7wDLjdmX1U-vp9g-7J4bP5iUazrl1lMW-gI9CXIQZsNVvQrgK4x-vohcW4vZzJyHNhs3UjtHnfm0TlhkpEcKUx0pjVNx96/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-KlP7wDLjdmX1U-vp8j-3I4IHKhFWmrBZyZzymJIPBdgA8Ml_S8gS2k-fuhsK6v5ydnXQw73F27CrezBS1hB0YaPsv26Ld2vAvgg/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-KlP7wDLjdmX1U-vp8j-3I4IHKhFWmrBZyZzymJIPBdgA8Ml_S8gS2k-fuhsK6v5ydnXQw73F27CrezBS1hB0YaPsv26Ld2vAvgg/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-KlP7wDLjdmX1U-vp5j-jX7LP5iUazrl1rNmr0I9CWcQM8ZVnX-FjvkL_pgcfqvZvPmyQ3syghsHzcmBfigUwecKUx0ihDCsas/512fx384f"
-        }
-      },
-      {
         "name": "SG 553 | Darkwing",
         "desc": "A red and black custom paint job with feathers and other dark details has been applied.",
         "lore": "Eagle eyed and extremely lethal; you won't find a more dangerous flightless bird",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -396,23 +412,25 @@
         }
       },
       {
-        "name": "SSG 08 | Fever Dream",
-        "desc": "It has been custom painted with manic pink, blue, and purple drawings on a black base.",
-        "lore": "H@@HH@H@H@HA!!",
+        "name": "SCAR-20 | Enforcer",
+        "desc": "A sunset gradient has been meticulously painted on different parts of the weapon.",
+        "lore": "Automatic solutions from SYMETRY SMART GUN CORP",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5Mx2gv3--Y3nj1H6qBY_Zmz3dY6TcAY6YlzUrle6xui9jJa7vZzMwSQ3uiIr43yMnkTm0gYMMLJz5vUHjQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5Mx2gv3--Y3nj1H6qBY_Zmz3dY6TcAY6YlzUrle6xui9jJa7vZzMwSQ3uiIr43yMnkTm0gYMMLJz5vUHjQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5cB1g_zMyoD0mlOx5UE5Z2mlLdOSJ1c-N17T8wS6yO25gpO778nIyyZq6SEk7XmPnxDhhxlSLrs4wmGDtQ0/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5cB1g_zMyoD0mlOx5UE5Z2mlLdOSJ1c-N17T8wS6yO25gpO778nIyyZq6SEk7XmPnxDhhxlSLrs4wmGDtQ0/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu4MBwnPD--Y3nj1H6qkRuYmv0LIWdcA9sZlnZ-wW3w7--jcW8up2aznFivCInsS6Jlhy_0wYMMLIMCCQnpA/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRd4cJ5ntbN9J7yjRrm-xY-MmqiIdeddlA9ZFjR8wLrk-m51MfpuJiYySBnuCQktHjflhy_n1gSOYBfus65/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRd4cJ5ntbN9J7yjRrm-xY-MmqiIdeddlA9ZFjR8wLrk-m51MfpuJiYySBnuCQktHjflhy_n1gSOYBfus65/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRc7cF4n-T--Y3nj1H6-Edpa2zwJ4LBc1RraAnV-gTsl7_t08K8vZTKnXFgsygqty7YzBfkhwYMMLL39wQTOQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRc7cF4n-T--Y3nj1H6-Edpa2zwJ4LBc1RraAnV-gTsl7_t08K8vZTKnXFgsygqty7YzBfkhwYMMLL39wQTOQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRZ7cRnk9bN9J7yjRrg8xZqZTuld4bAIFQ9NQzTrFK3w7q9jJa77c6fmCFivSIr5ynUnBfmn1gSOXygokKy/512fx384f"
         }
       },
       {
         "name": "Sawed-Off | Apocalypto",
         "desc": "A decomposing hand reaching for a bomb-like planet has been custom painted over a purple outer space background.",
         "lore": "\"Have you got the time?\"",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -424,53 +442,72 @@
         }
       },
       {
-        "name": "SCAR-20 | Enforcer",
-        "desc": "A sunset gradient has been meticulously painted on different parts of the weapon.",
-        "lore": "Automatic solutions from SYMETRY SMART GUN CORP",
+        "name": "SSG 08 | Fever Dream",
+        "desc": "It has been custom painted with manic pink, blue, and purple drawings on a black base.",
+        "lore": "H@@HH@H@H@HA!!",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRd4cJ5ntbN9J7yjRrm-xY-MmqiIdeddlA9ZFjR8wLrk-m51MfpuJiYySBnuCQktHjflhy_n1gSOYBfus65/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRd4cJ5ntbN9J7yjRrm-xY-MmqiIdeddlA9ZFjR8wLrk-m51MfpuJiYySBnuCQktHjflhy_n1gSOYBfus65/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRc7cF4n-T--Y3nj1H6-Edpa2zwJ4LBc1RraAnV-gTsl7_t08K8vZTKnXFgsygqty7YzBfkhwYMMLL39wQTOQ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRc7cF4n-T--Y3nj1H6-Edpa2zwJ4LBc1RraAnV-gTsl7_t08K8vZTKnXFgsygqty7YzBfkhwYMMLL39wQTOQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRZ7cRnk9bN9J7yjRrg8xZqZTuld4bAIFQ9NQzTrFK3w7q9jJa77c6fmCFivSIr5ynUnBfmn1gSOXygokKy/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5Mx2gv3--Y3nj1H6qBY_Zmz3dY6TcAY6YlzUrle6xui9jJa7vZzMwSQ3uiIr43yMnkTm0gYMMLJz5vUHjQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5Mx2gv3--Y3nj1H6qBY_Zmz3dY6TcAY6YlzUrle6xui9jJa7vZzMwSQ3uiIr43yMnkTm0gYMMLJz5vUHjQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5cB1g_zMyoD0mlOx5UE5Z2mlLdOSJ1c-N17T8wS6yO25gpO778nIyyZq6SEk7XmPnxDhhxlSLrs4wmGDtQ0/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5cB1g_zMyoD0mlOx5UE5Z2mlLdOSJ1c-N17T8wS6yO25gpO778nIyyZq6SEk7XmPnxDhhxlSLrs4wmGDtQ0/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu4MBwnPD--Y3nj1H6qkRuYmv0LIWdcA9sZlnZ-wW3w7--jcW8up2aznFivCInsS6Jlhy_0wYMMLIMCCQnpA/512fx384f"
+        }
+      },
+      {
+        "name": "P2000 | Acid Etched",
+        "desc": "A randomized multicolored pattern with a rare four-leaf clover has been applied.",
+        "lore": "Do you feel lucky?",
+        "date_added": "31 March 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-KlP7wDLjdmX1U-vp9g-7J4bP5iUazrl1lMW-gI9CXIQZsNVvQrgK4x-vohcW4vZzJyHNhs3UjtHnfm0TlhkpEcKUx0pjVNx96/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-KlP7wDLjdmX1U-vp9g-7J4bP5iUazrl1lMW-gI9CXIQZsNVvQrgK4x-vohcW4vZzJyHNhs3UjtHnfm0TlhkpEcKUx0pjVNx96/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-KlP7wDLjdmX1U-vp8j-3I4IHKhFWmrBZyZzymJIPBdgA8Ml_S8gS2k-fuhsK6v5ydnXQw73F27CrezBS1hB0YaPsv26Ld2vAvgg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-KlP7wDLjdmX1U-vp8j-3I4IHKhFWmrBZyZzymJIPBdgA8Ml_S8gS2k-fuhsK6v5ydnXQw73F27CrezBS1hB0YaPsv26Ld2vAvgg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-KlP7wDLjdmX1U-vp5j-jX7LP5iUazrl1rNmr0I9CWcQM8ZVnX-FjvkL_pgcfqvZvPmyQ3syghsHzcmBfigUwecKUx0ihDCsas/512fx384f"
         }
       }
     ],
     "Mil-Spec Skins": [
       {
-        "name": "MP5-SD | Desert Strike",
-        "desc": "It has been custom painted with a high-tech design in tan and black.",
-        "lore": "Strike first, strike last",
+        "name": "CZ75-Auto | Distressed",
+        "desc": "The copper colored ceramic finish is wearing away with use.",
+        "lore": "Better with age",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u5Mx2gv3--Y3nj1H6_0dlZmGmJteRdQI6Z1jU-QW4kuftjMK56pmbzSdg6HVz5H-LmxTkiAYMMLJGEoqizg/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u5Mx2gv3--Y3nj1H6_0dlZmGmJteRdQI6Z1jU-QW4kuftjMK56pmbzSdg6HVz5H-LmxTkiAYMMLJGEoqizg/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u5cB1g_zMyoD0mlOx5UpuYWGhJ4eWJgM_Yw3Xr1C7xe3t15K7usvAySdrv3EhsCnUn0O2gE1SLrs49ca0tWc/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u5cB1g_zMyoD0mlOx5UpuYWGhJ4eWJgM_Yw3Xr1C7xe3t15K7usvAySdrv3EhsCnUn0O2gE1SLrs49ca0tWc/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u4MBwnPD--Y3nj1H680dtMmr1LIfGIQQ6Y1GE-Fa8xe_q0Z-56pqfmnBg6HUk5n2LlxCzhAYMMLKSiPMn8Q/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTdn2xZ_Pp9i_vG8MKnjgzm80U9ajqiJoWUcVU8YgvWrljvlea7hMW1uJvMySc1siUktnzagVXp1sHp_Hd3/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTdn2xZ_Pp9i_vG8MKnjgzm80U9ajqiJoWUcVU8YgvWrljvlea7hMW1uJvMySc1siUktnzagVXp1sHp_Hd3/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTck29Y_chOhujT8om73VG2qEplYTj0coLEd1A3M1HRr1LvwOft0MDuu5-fyHExuSAk7CuJmgv330_-dlsk9Q/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTck29Y_chOhujT8om73VG2qEplYTj0coLEd1A3M1HRr1LvwOft0MDuu5-fyHExuSAk7CuJmgv330_-dlsk9Q/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTZk2pH8fp9i_vG8MKj0Abl-BVuN2_yctecIVVsY13Y81m-l-frjJS4upnPwXQyuiJ25XeLgVXp1lj2fD2H/512fx384f"
         }
       },
       {
-        "name": "Negev | Prototype",
-        "desc": "It has been custom painted in white and red, a temporary paint job while its design is finalized.",
-        "lore": "v1.2.1, PAT. 3422107",
+        "name": "Desert Eagle | Blue Ply",
+        "desc": "It has been laminated and filled with an ash-colored grip and blue slide.",
+        "lore": "WARNING: This is a replica and has not been tested with live ammunition",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJhJKEg_jgKqvUqWdY781lteXA54vwxlDlrkZoYT37IYGQdFRoMlHWqAO9w7vp0ZTqtM_MzXo16HIg4y3fzkGpwUYboJsltMQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJhJKEg_jgKqvUqWdY781lteXA54vwxlDlrkZoYT37IYGQdFRoMlHWqAO9w7vp0ZTqtM_MzXo16HIg4y3fzkGpwUYboJsltMQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJhJKEg_jgKqvUqWZU7Mxkh9bN9J7yjRq1_EBkZjjwcoDHIQ85M1nQ_wS8wu3mg8K66Z2dmHBivSkrsXfZlxyyn1gSOdp-x_Z4/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJhJKEg_jgKqvUqWZU7Mxkh9bN9J7yjRq1_EBkZjjwcoDHIQ85M1nQ_wS8wu3mg8K66Z2dmHBivSkrsXfZlxyyn1gSOdp-x_Z4/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJhJKEg_jgKqvUqWNU6dNoteXA54vwxgXs-kU5YWH2I9eWJgE-Zw7WrFHqwOjv1JG_ucvJyXRnuXV3sHmOyUGpwUYbbZjPV3Q/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWdY781lteXA54vwxg3k-xJvY277I9LBdVA6N1vS_lK7kr3qgMO5usmaynZm7icq5S2MzkCpwUYbCa_cApM/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWdY781lteXA54vwxg3k-xJvY277I9LBdVA6N1vS_lK7kr3qgMO5usmaynZm7icq5S2MzkCpwUYbCa_cApM/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWZU7Mxkh9bN9J7yjRq3rxJla2r7J9fGdA84MFDXqVPvwufnjZHp7piYyHVmsikj5SnczR3ln1gSOUUj-CS5/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWZU7Mxkh9bN9J7yjRq3rxJla2r7J9fGdA84MFDXqVPvwufnjZHp7piYyHVmsikj5SnczR3ln1gSOUUj-CS5/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWNU6dNoteXA54vwxgLmrkBkMmigJtWWdQZraV-DqVG7weq7gpC7vc7KwSZr7igksXmJmUepwUYb9ZwlJhE/512fx384f"
         }
       },
       {
         "name": "AUG | Tom Cat",
         "desc": "Its gunmetal base coat has been finished with gold highlights, rear facing arrows, and a mischievous looking cat.",
         "lore": "Thunderstorms are nature's purr",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -485,6 +522,7 @@
         "name": "AWP | Capillary",
         "desc": "A custom paint job comprised of intricate teal and coral veins has been applied.",
         "lore": "The key to an agent's heart costs $4750",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -496,37 +534,40 @@
         }
       },
       {
-        "name": "Desert Eagle | Blue Ply",
-        "desc": "It has been laminated and filled with an ash-colored grip and blue slide.",
-        "lore": "WARNING: This is a replica and has not been tested with live ammunition",
+        "name": "MP5-SD | Desert Strike",
+        "desc": "It has been custom painted with a high-tech design in tan and black.",
+        "lore": "Strike first, strike last",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWdY781lteXA54vwxg3k-xJvY277I9LBdVA6N1vS_lK7kr3qgMO5usmaynZm7icq5S2MzkCpwUYbCa_cApM/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWdY781lteXA54vwxg3k-xJvY277I9LBdVA6N1vS_lK7kr3qgMO5usmaynZm7icq5S2MzkCpwUYbCa_cApM/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWZU7Mxkh9bN9J7yjRq3rxJla2r7J9fGdA84MFDXqVPvwufnjZHp7piYyHVmsikj5SnczR3ln1gSOUUj-CS5/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWZU7Mxkh9bN9J7yjRq3rxJla2r7J9fGdA84MFDXqVPvwufnjZHp7piYyHVmsikj5SnczR3ln1gSOUUj-CS5/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWNU6dNoteXA54vwxgLmrkBkMmigJtWWdQZraV-DqVG7weq7gpC7vc7KwSZr7igksXmJmUepwUYb9ZwlJhE/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u5Mx2gv3--Y3nj1H6_0dlZmGmJteRdQI6Z1jU-QW4kuftjMK56pmbzSdg6HVz5H-LmxTkiAYMMLJGEoqizg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u5Mx2gv3--Y3nj1H6_0dlZmGmJteRdQI6Z1jU-QW4kuftjMK56pmbzSdg6HVz5H-LmxTkiAYMMLJGEoqizg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u5cB1g_zMyoD0mlOx5UpuYWGhJ4eWJgM_Yw3Xr1C7xe3t15K7usvAySdrv3EhsCnUn0O2gE1SLrs49ca0tWc/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u5cB1g_zMyoD0mlOx5UpuYWGhJ4eWJgM_Yw3Xr1C7xe3t15K7usvAySdrv3EhsCnUn0O2gE1SLrs49ca0tWc/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u4MBwnPD--Y3nj1H680dtMmr1LIfGIQQ6Y1GE-Fa8xe_q0Z-56pqfmnBg6HUk5n2LlxCzhAYMMLKSiPMn8Q/512fx384f"
         }
       },
       {
-        "name": "CZ75-Auto | Distressed",
-        "desc": "The copper colored ceramic finish is wearing away with use.",
-        "lore": "Better with age",
+        "name": "Negev | Prototype",
+        "desc": "It has been custom painted in white and red, a temporary paint job while its design is finalized.",
+        "lore": "v1.2.1, PAT. 3422107",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTdn2xZ_Pp9i_vG8MKnjgzm80U9ajqiJoWUcVU8YgvWrljvlea7hMW1uJvMySc1siUktnzagVXp1sHp_Hd3/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTdn2xZ_Pp9i_vG8MKnjgzm80U9ajqiJoWUcVU8YgvWrljvlea7hMW1uJvMySc1siUktnzagVXp1sHp_Hd3/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTck29Y_chOhujT8om73VG2qEplYTj0coLEd1A3M1HRr1LvwOft0MDuu5-fyHExuSAk7CuJmgv330_-dlsk9Q/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTck29Y_chOhujT8om73VG2qEplYTj0coLEd1A3M1HRr1LvwOft0MDuu5-fyHExuSAk7CuJmgv330_-dlsk9Q/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTZk2pH8fp9i_vG8MKj0Abl-BVuN2_yctecIVVsY13Y81m-l-frjJS4upnPwXQyuiJ25XeLgVXp1lj2fD2H/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJhJKEg_jgKqvUqWdY781lteXA54vwxlDlrkZoYT37IYGQdFRoMlHWqAO9w7vp0ZTqtM_MzXo16HIg4y3fzkGpwUYboJsltMQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJhJKEg_jgKqvUqWdY781lteXA54vwxlDlrkZoYT37IYGQdFRoMlHWqAO9w7vp0ZTqtM_MzXo16HIg4y3fzkGpwUYboJsltMQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJhJKEg_jgKqvUqWZU7Mxkh9bN9J7yjRq1_EBkZjjwcoDHIQ85M1nQ_wS8wu3mg8K66Z2dmHBivSkrsXfZlxyyn1gSOdp-x_Z4/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJhJKEg_jgKqvUqWZU7Mxkh9bN9J7yjRq1_EBkZjjwcoDHIQ85M1nQ_wS8wu3mg8K66Z2dmHBivSkrsXfZlxyyn1gSOdp-x_Z4/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJhJKEg_jgKqvUqWNU6dNoteXA54vwxgXs-kU5YWH2I9eWJgE-Zw7WrFHqwOjv1JG_ucvJyXRnuXV3sHmOyUGpwUYbbZjPV3Q/512fx384f"
         }
       },
       {
         "name": "R8 Revolver | Bone Forged",
         "desc": "The grip of this revolver has been custom painted with the remains of an ancient sea creature.",
         "lore": "What lurks below",
+        "date_added": "31 March 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {

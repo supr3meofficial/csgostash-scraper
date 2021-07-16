@@ -7,23 +7,10 @@
     "Classified Skins": [],
     "Restricted Skins": [
       {
-        "name": "P250 | Nuclear Threat",
-        "desc": "It has been spray-painted with radiological warning hazard patterns.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWdY781lteXA54vwxgTt8hA5YGzxd9LGJA49YVzQqwDqxu_tjJC06J3PzyRhvCAm5naOnRepwUYbH0dTvU8/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWdY781lteXA54vwxgTt8hA5YGzxd9LGJA49YVzQqwDqxu_tjJC06J3PzyRhvCAm5naOnRepwUYbH0dTvU8/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWZU7Mxkh9bN9J7yjRrj8kBqZDqgII_GdA89YlnU8lLqyei615fqu5TLynJj6ycl5ivdmhW_n1gSOe9RdDBG/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWZU7Mxkh9bN9J7yjRrj8kBqZDqgII_GdA89YlnU8lLqyei615fqu5TLynJj6ycl5ivdmhW_n1gSOe9RdDBG/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWNU6dNoteXA54vwxgTl80o9ZD32ctPAcQZtaQ6EqVK5lObsgcO8tMufznsxvSVx5yqInhapwUYbh-Ttohg/512fx384f"
-        }
-      },
-      {
         "name": "Tec-9 | Nuclear Threat",
         "desc": "It has been spray-painted with radiological warning hazard patterns.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -33,6 +20,21 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zGZDZH_8iknZCOqPDmNr7fqX9U65xOh-zF_Jn4t1i1uRQ5fWn7IIeRJ1I2Y1rX8lG4lbvm05G76c7NnHpnuSMj4HreyhfjiBpPa-FxxavJhAbgJls/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zGZDZH_8iknZCOqPDmNr7fqX9U65xOguzA45XKhFWmrBZyMTrxI4CTcAQ_ZArUrwO_wersjZe4v57JwXFhv3Jz7HiOmUPhgBxLO_sv26LUIULb6Q/512fx384f"
         }
+      },
+      {
+        "name": "P250 | Nuclear Threat",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWdY781lteXA54vwxgTt8hA5YGzxd9LGJA49YVzQqwDqxu_tjJC06J3PzyRhvCAm5naOnRepwUYbH0dTvU8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWdY781lteXA54vwxgTt8hA5YGzxd9LGJA49YVzQqwDqxu_tjJC06J3PzyRhvCAm5naOnRepwUYbH0dTvU8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWZU7Mxkh9bN9J7yjRrj8kBqZDqgII_GdA89YlnU8lLqyei615fqu5TLynJj6ycl5ivdmhW_n1gSOe9RdDBG/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWZU7Mxkh9bN9J7yjRrj8kBqZDqgII_GdA89YlnU8lLqyei615fqu5TLynJj6ycl5ivdmhW_n1gSOe9RdDBG/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWNU6dNoteXA54vwxgTl80o9ZD32ctPAcQZtaQ6EqVK5lObsgcO8tMufznsxvSVx5yqInhapwUYbh-Ttohg/512fx384f"
+        }
       }
     ],
     "Mil-Spec Skins": [
@@ -40,6 +42,7 @@
         "name": "M4A4 | Radiation Hazard",
         "desc": "It has been spray-painted with radiological warning hazard patterns.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -56,6 +59,7 @@
         "name": "XM1014 | Fallout Warning",
         "desc": "It has been spray-painted with radiological warning hazard patterns.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -70,6 +74,7 @@
         "name": "UMP-45 | Fallout Warning",
         "desc": "It has been spray-painted with radiological warning hazard patterns.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -84,6 +89,7 @@
         "name": "P90 | Fallout Warning",
         "desc": "It has been spray-painted with radiological warning hazard patterns.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -97,23 +103,10 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "Sawed-Off | Irradiated Alert",
-        "desc": "It has been spray-painted with radiological warning hazard patterns.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp9g-7J4bP5iUazrl1qMmr6dtOcIFM8YlHZ8ge6xL_sgse56prImnRnvCd2tCyPmBe_0BhPcKUx0oYPWdWA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp9g-7J4bP5iUazrl1qMmr6dtOcIFM8YlHZ8ge6xL_sgse56prImnRnvCd2tCyPmBe_0BhPcKUx0oYPWdWA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp8j-3I4IHKhFWmrBZyMWClIIOVIQY7M1DVrFm_lbjmhpS-u8-fyCAwvnMgt3-OzES11BEdPfsv26LQjT224g/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp8j-3I4IHKhFWmrBZyMWClIIOVIQY7M1DVrFm_lbjmhpS-u8-fyCAwvnMgt3-OzES11BEdPfsv26LQjT224g/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp5j-jX7LP5iUazrl1lMG_zINKSJAQ6M1zY-FLolOzuh8C-vJyfzHZj6yImtHuOmES21RBKcKUx0lQt44LI/512fx384f"
-        }
-      },
-      {
         "name": "MAG-7 | Irradiated Alert",
         "desc": "It has been spray-painted with radiological warning hazard patterns.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -125,9 +118,25 @@
         }
       },
       {
+        "name": "Sawed-Off | Irradiated Alert",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp9g-7J4bP5iUazrl1qMmr6dtOcIFM8YlHZ8ge6xL_sgse56prImnRnvCd2tCyPmBe_0BhPcKUx0oYPWdWA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp9g-7J4bP5iUazrl1qMmr6dtOcIFM8YlHZ8ge6xL_sgse56prImnRnvCd2tCyPmBe_0BhPcKUx0oYPWdWA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp8j-3I4IHKhFWmrBZyMWClIIOVIQY7M1DVrFm_lbjmhpS-u8-fyCAwvnMgt3-OzES11BEdPfsv26LQjT224g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp8j-3I4IHKhFWmrBZyMWClIIOVIQY7M1DVrFm_lbjmhpS-u8-fyCAwvnMgt3-OzES11BEdPfsv26LQjT224g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp5j-jX7LP5iUazrl1lMG_zINKSJAQ6M1zY-FLolOzuh8C-vJyfzHZj6yImtHuOmES21RBKcKUx0lQt44LI/512fx384f"
+        }
+      },
+      {
         "name": "PP-Bizon | Irradiated Alert",
         "desc": "It has been spray-painted with radiological warning hazard patterns.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
