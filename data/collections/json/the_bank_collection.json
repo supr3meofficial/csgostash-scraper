@@ -9,6 +9,7 @@
         "name": "P250 | Franklin",
         "desc": "It has been painted using a hydrographic of American hundred-dollar bills.",
         "lore": "Money doesn't talk... it kills",
+        "date_added": "1 May 2014",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -24,6 +25,7 @@
         "name": "AK-47 | Emerald Pinstripe",
         "desc": "It has been given a bog oak stock and painted a white and green pinstripes.",
         "lore": "Questioning Imogen is questioning me. Now Relax, have some scotch, and let's talk business - The Father and The Phoenix Part 2",
+        "date_added": "1 May 2014",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -37,23 +39,10 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "Galil AR | Tuxedo",
-        "desc": "It has individual parts spray-painted solid colors in a black and white color scheme.",
-        "lore": "For when combat is a black tie affair",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJN_t-3q4yCkP_gDLfQhGxUppB1iL6Zotyt3ALgrkNvYjr1LIDEJwRrZlvQr1i3xrvvhJO-uszOnCN9-n51fGA66u8/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJN_t-3q4yCkP_gDLfQhGxUppB1iL6Zotyt3ALgrkNvYjr1LIDEJwRrZlvQr1i3xrvvhJO-uszOnCN9-n51fGA66u8/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJN_t-3q42Ok_7hPoTdl3lW7Yt02OyWpd6s21bm_0JuazqlcIbBdgY9MljRqAC3weq7hpTo6pTOmyZrpGB8skKORPUa/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJN_t-3q42Ok_7hPoTdl3lW7Yt02OyWpd6s21bm_0JuazqlcIbBdgY9MljRqAC3weq7hpTo6pTOmyZrpGB8skKORPUa/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJN_t-3q4iOluHtDLfQhGxUpsZ12b7FpNukjVK2_UM4N2v3IoeSIFU6Z1vYqVPoyenu1MXpv5XPySN9-n51sBO6wRc/512fx384f"
-        }
-      },
-      {
         "name": "Desert Eagle | Meteorite",
         "desc": "It has been painted with metallic paint, using a crystallizing mask to create a pattern.",
         "lore": "Everyone wants to make an impact",
+        "date_added": "1 May 2014",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -66,6 +55,7 @@
         "name": "CZ75-Auto | Tuxedo",
         "desc": "It has individual parts spray-painted solid colors in a black and white color scheme.",
         "lore": "For when combat is a black tie affair",
+        "date_added": "1 May 2014",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -75,6 +65,21 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3fi9B7eO7kYSCgvrLP7rDkW4fvpxwjr6Tpomt0QfiqRJoMjincYSWIFU6ZFyC8lnsxezq0MW47Z_MyWwj5HfDgiXXog/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3fi9B7eO-kYGdjsj4MqnWkyUFvMdw3rmX9N-h3lbs_hY-NWmmcIXBeg9oMFjQ_QO2wu7ogJ67vpSa1zI97RZWdnzz/512fx384f"
         }
+      },
+      {
+        "name": "Galil AR | Tuxedo",
+        "desc": "It has individual parts spray-painted solid colors in a black and white color scheme.",
+        "lore": "For when combat is a black tie affair",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJN_t-3q4yCkP_gDLfQhGxUppB1iL6Zotyt3ALgrkNvYjr1LIDEJwRrZlvQr1i3xrvvhJO-uszOnCN9-n51fGA66u8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJN_t-3q4yCkP_gDLfQhGxUppB1iL6Zotyt3ALgrkNvYjr1LIDEJwRrZlvQr1i3xrvvhJO-uszOnCN9-n51fGA66u8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJN_t-3q42Ok_7hPoTdl3lW7Yt02OyWpd6s21bm_0JuazqlcIbBdgY9MljRqAC3weq7hpTo6pTOmyZrpGB8skKORPUa/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJN_t-3q42Ok_7hPoTdl3lW7Yt02OyWpd6s21bm_0JuazqlcIbBdgY9MljRqAC3weq7hpTo6pTOmyZrpGB8skKORPUa/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJN_t-3q4iOluHtDLfQhGxUpsZ12b7FpNukjVK2_UM4N2v3IoeSIFU6Z1vYqVPoyenu1MXpv5XPySN9-n51sBO6wRc/512fx384f"
+        }
       }
     ],
     "Industrial Grade Skins": [
@@ -82,6 +87,7 @@
         "name": "Nova | Caged Steel",
         "desc": "It has been painted with a hex pattern using stencilled metal flake paint, then covered in an oval cutout hydrographic.",
         "lore": "Say matte!",
+        "date_added": "1 May 2014",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -94,6 +100,7 @@
         "name": "UMP-45 | Carbon Fiber",
         "desc": "It has been painted using a carbon fiber hydrographic over a graphite base coat.",
         "lore": "Just because I carried my team doesn't mean it wasn't a team effort - Rona Sabri, Rising Star",
+        "date_added": "1 May 2014",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -102,20 +109,10 @@
         }
       },
       {
-        "name": "MAC-10 | Silver",
-        "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
-        "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v33YjRO-tmkq4yCkP_gDLfQhGxUppYh0rvErN330VKwrxE4Nzr6doGXJlc6ZVvY-AfrwLq605a86szMnyN9-n51V6p-9aU/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v33YjRO-tmkq4yCkP_gDLfQhGxUppYh0rvErN330VKwrxE4Nzr6doGXJlc6ZVvY-AfrwLq605a86szMnyN9-n51V6p-9aU/512fx384f"
-        }
-      },
-      {
         "name": "G3SG1 | Green Apple",
         "desc": "It has individual parts spray-painted solid colors in a green and black color scheme.",
         "lore": "An apple a day keeps insurance premiums high",
+        "date_added": "1 May 2014",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -128,6 +125,7 @@
         "name": "Glock-18 | Death Rattle",
         "desc": "It has been painted with a snakeskin patterned hydrographic.",
         "lore": "I know you don't believe in the cause...and when I expose you, Valeria will have your head - The Shield and The Serpent Part 1",
+        "date_added": "1 May 2014",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -136,41 +134,52 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fzhQ49i_lb-GkvP9JrbummpD78A_jOjE843z0FHj_0c_Y2ugdYWRelJoNw3WqVO3ku7qhJC8tcnPyXdk7D5iuyhw2A8smw/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fzhQ49i_lb-DkvbiKoTdl3lW7YshibGToNyk2Fbm-RI4ZmD1I4GdcgBsN1CEq1XolL27gJG0vsvKn3NqpGB8sqTnu5oe/512fx384f"
         }
+      },
+      {
+        "name": "MAC-10 | Silver",
+        "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
+        "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v33YjRO-tmkq4yCkP_gDLfQhGxUppYh0rvErN330VKwrxE4Nzr6doGXJlc6ZVvY-AfrwLq605a86szMnyN9-n51V6p-9aU/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v33YjRO-tmkq4yCkP_gDLfQhGxUppYh0rvErN330VKwrxE4Nzr6doGXJlc6ZVvY-AfrwLq605a86szMnyN9-n51V6p-9aU/512fx384f"
+        }
       }
     ],
     "Consumer Grade Skins": [
       {
-        "name": "Tec-9 | Urban DDPAT",
-        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
-        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "name": "Negev | Army Sheen",
+        "desc": "It has been covered in a metallic foil stamped with a camouflage pattern.",
+        "lore": "Remember your training",
+        "date_added": "1 May 2014",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszMdS1D-OOjhoK0m_7zO6_ummpD78A_iO2Vodis2VDjrxZkZm2gJI7AcA87YA3R_ge3wejp1MDo7p7NySY3vD5iuyiusHYEXg/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszMdS1D-OOjhoK0m_7zO6_ummpD78A_iO2Vodis2VDjrxZkZm2gJI7AcA87YA3R_ge3wejp1MDo7p7NySY3vD5iuyiusHYEXg/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszMdS1D-OOjhoK0mvLwOq7cqWdQ-sJ0xLyR99WmjgXi-EFlZT3zcYeWdQBsaVCB8wS7we-9jcS875rNwXZqsig8pSGKg7HJkhk/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszMdS1D-OOjhoK0mvLwOq7cqWdQ-sJ0xLyR99WmjgXi-EFlZT3zcYeWdQBsaVCB8wS7we-9jcS875rNwXZqsig8pSGKg7HJkhk/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszMdS1D-OOjhoK0n_L1JaLummpD78A_i7qRoYjz0VWy-0o_YD31IY_GdgU4ZFzT-VXsl7-70JS4787Ny3IxuT5iuyj1No70Iw/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v73cC9P9eOlnImFksj4OrzZglRd6dd2j6eZrdil0AGy_xJtYDv0LIDDcldtZlrT_gW4wOi505a97ZXNwSRhsnQn-z-DyIobgj_p/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v73cC9P9eOlnImFksj4OrzZglRd6dd2j6eZrdil0AGy_xJtYDv0LIDDcldtZlrT_gW4wOi505a97ZXNwSRhsnQn-z-DyIobgj_p/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v73cC9P9eOlnImFksj5Nr_Yg2Zu5MRjjeyPoI2jjgzg8kY9NWymddeTcFRqNwvU_Va8wua7hZO66M_KwXA3uCArtGGdwUJV2Zztrg/512fx384f"
         }
       },
       {
-        "name": "Sawed-Off | Forest DDPAT",
-        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
-        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "name": "SG 553 | Army Sheen",
+        "desc": "It has been covered in a metallic foil stamped with a camouflage pattern.",
+        "lore": "Remember your training",
+        "date_added": "1 May 2014",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0m_7zO6_ummpD78A_j7rHodujigPi80VlYDjzIICcewJvaFiF-ADtkO7rgMK_vpScz3tmvT5iuyjiwtxI8g/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0m_7zO6_ummpD78A_j7rHodujigPi80VlYDjzIICcewJvaFiF-ADtkO7rgMK_vpScz3tmvT5iuyjiwtxI8g/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0mvLwOq7cqWdQ-sJ0xL_Dp4ig0Q3g-BJtNTihJNeSIVA_YAvT_1Tvx7_sgJG0vpibzHYxvHE8pSGKMdBlGCQ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0mvLwOq7cqWdQ-sJ0xL_Dp4ig0Q3g-BJtNTihJNeSIVA_YAvT_1Tvx7_sgJG0vpibzHYxvHE8pSGKMdBlGCQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0n_L1JaLummpD78A_3LmUp9T03la3qRA-a270cIGWcwE7Nw7Y-AS2xerogpe_v8-dy3Zn6z5iuygZ3rj4iA/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0v73cC9P9eOlnImFksj4OrzZglRd6dd2j6fApdv00QOw_hU-Mm7wddPAIVBtZAuD81K4xbvv0ZK_6JnOwXthuSch-z-DyOFryaY2/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0v73cC9P9eOlnImFksj4OrzZglRd6dd2j6fApdv00QOw_hU-Mm7wddPAIVBtZAuD81K4xbvv0ZK_6JnOwXthuSch-z-DyOFryaY2/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0v73cC9P9eOlnImFksj5Nr_Yg2Zu5MRjjeyP94_w2VW1_hc4Yz-nLYSQJAU8ZA2F_VO-wObtjZa5uZzMzHFm6Shx7GGdwUIRIUJn0A/512fx384f"
         }
       },
       {
         "name": "R8 Revolver | Bone Mask",
         "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
         "lore": "True power is demonstrated with subtle application",
+        "date_added": "8 December 2015",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -182,33 +191,25 @@
         }
       },
       {
-        "name": "SG 553 | Army Sheen",
-        "desc": "It has been covered in a metallic foil stamped with a camouflage pattern.",
-        "lore": "Remember your training",
+        "name": "Sawed-Off | Forest DDPAT",
+        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "date_added": "1 May 2014",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0v73cC9P9eOlnImFksj4OrzZglRd6dd2j6fApdv00QOw_hU-Mm7wddPAIVBtZAuD81K4xbvv0ZK_6JnOwXthuSch-z-DyOFryaY2/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0v73cC9P9eOlnImFksj4OrzZglRd6dd2j6fApdv00QOw_hU-Mm7wddPAIVBtZAuD81K4xbvv0ZK_6JnOwXthuSch-z-DyOFryaY2/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0v73cC9P9eOlnImFksj5Nr_Yg2Zu5MRjjeyP94_w2VW1_hc4Yz-nLYSQJAU8ZA2F_VO-wObtjZa5uZzMzHFm6Shx7GGdwUIRIUJn0A/512fx384f"
-        }
-      },
-      {
-        "name": "Negev | Army Sheen",
-        "desc": "It has been covered in a metallic foil stamped with a camouflage pattern.",
-        "lore": "Remember your training",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v73cC9P9eOlnImFksj4OrzZglRd6dd2j6eZrdil0AGy_xJtYDv0LIDDcldtZlrT_gW4wOi505a97ZXNwSRhsnQn-z-DyIobgj_p/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v73cC9P9eOlnImFksj4OrzZglRd6dd2j6eZrdil0AGy_xJtYDv0LIDDcldtZlrT_gW4wOi505a97ZXNwSRhsnQn-z-DyIobgj_p/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v73cC9P9eOlnImFksj5Nr_Yg2Zu5MRjjeyPoI2jjgzg8kY9NWymddeTcFRqNwvU_Va8wua7hZO66M_KwXA3uCArtGGdwUJV2Zztrg/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0m_7zO6_ummpD78A_j7rHodujigPi80VlYDjzIICcewJvaFiF-ADtkO7rgMK_vpScz3tmvT5iuyjiwtxI8g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0m_7zO6_ummpD78A_j7rHodujigPi80VlYDjzIICcewJvaFiF-ADtkO7rgMK_vpScz3tmvT5iuyjiwtxI8g/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0mvLwOq7cqWdQ-sJ0xL_Dp4ig0Q3g-BJtNTihJNeSIVA_YAvT_1Tvx7_sgJG0vpibzHYxvHE8pSGKMdBlGCQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0mvLwOq7cqWdQ-sJ0xL_Dp4ig0Q3g-BJtNTihJNeSIVA_YAvT_1Tvx7_sgJG0vpibzHYxvHE8pSGKMdBlGCQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0n_L1JaLummpD78A_3LmUp9T03la3qRA-a270cIGWcwE7Nw7Y-AS2xerogpe_v8-dy3Zn6z5iuygZ3rj4iA/512fx384f"
         }
       },
       {
         "name": "MP7 | Forest DDPAT",
         "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
         "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "date_added": "1 May 2014",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -217,6 +218,21 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957PfMYTxW09GzkImemsj4MqnWkyUDucMkj--XpYj33Q2y_BI4Z2zxLIWdc1I4Z1uD_VO3kLjrgp69vJ_J1zI97V7MRkL5/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957PfMYTxW09GzkImemsj4MqnWkyUDucMkj--XpYj33Q2y_BI4Z2zxLIWdc1I4Z1uD_VO3kLjrgp69vJ_J1zI97V7MRkL5/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957PfMYTxW09SzlZaSqPv1IbzU2DlS65Vyi7vApI722gfhqkZuN2HyIoeRcwVoMFrWqVW_lenojJHt75TXiSw0K7us0zo/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Urban DDPAT",
+        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszMdS1D-OOjhoK0m_7zO6_ummpD78A_iO2Vodis2VDjrxZkZm2gJI7AcA87YA3R_ge3wejp1MDo7p7NySY3vD5iuyiusHYEXg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszMdS1D-OOjhoK0m_7zO6_ummpD78A_iO2Vodis2VDjrxZkZm2gJI7AcA87YA3R_ge3wejp1MDo7p7NySY3vD5iuyiusHYEXg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszMdS1D-OOjhoK0mvLwOq7cqWdQ-sJ0xLyR99WmjgXi-EFlZT3zcYeWdQBsaVCB8wS7we-9jcS875rNwXZqsig8pSGKg7HJkhk/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszMdS1D-OOjhoK0mvLwOq7cqWdQ-sJ0xLyR99WmjgXi-EFlZT3zcYeWdQBsaVCB8wS7we-9jcS875rNwXZqsig8pSGKg7HJkhk/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszMdS1D-OOjhoK0n_L1JaLummpD78A_i7qRoYjz0VWy-0o_YD31IY_GdgU4ZFzT-VXsl7-70JS4787Ny3IxuT5iuyj1No70Iw/512fx384f"
         }
       }
     ]

@@ -29,7 +29,7 @@ import logging
 import os
 
 from .scraper import PageHandler, RetrieveCollection, RetrieveCase, RetrieveSouvenirPackage, RetrieveWeaponSkin
-from .scraper import ItemHasNoWear, ItemNoCollection, ItemNoStattrakSouvenir, ItemHasNoDescription, ItemHasNoLore
+from .scraper import ItemHasNoWear, ItemNoCollection, ItemNoStattrakSouvenir, ItemHasNoDescription, ItemHasNoLore, ItemHasNoDateAdded
 from .objects import Collection, SkinCase, SouvenirPackage, WeaponSkin
 
 # logging.basicConfig(level=logging.DEBUG)
@@ -73,6 +73,11 @@ class ItemFactory(Factory):
             lore = 'This item has no Lore'
 
         try:
+            date_added = ws.get_date_added()
+        except ItemHasNoDateAdded:
+            date_added = 'This item has no date_added'
+
+        try:
             collection = ws.get_collection()
         except ItemNoCollection:
             collection = 'This item does not belong to a Collection'
@@ -88,7 +93,7 @@ class ItemFactory(Factory):
         rarity = get_rarity.split(' ')[0]
         weapon_type = get_rarity.split(' ')[1]
 
-        data_dict = dict(weapon_type=weapon_type, title=title, desc=description, lore=lore,
+        data_dict = dict(weapon_type=weapon_type, title=title, desc=description, lore=lore, date_added=date_added,
                          collection=collection, found_in=found_in, rarity=rarity, wears=wears)
         item = WeaponSkin._from_data(data_dict)
 

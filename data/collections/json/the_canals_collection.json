@@ -8,6 +8,7 @@
         "name": "AWP | The Prince",
         "desc": "It has been custom painted with a red base and gold filigree.",
         "lore": "Peace be with thee",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -24,6 +25,7 @@
         "name": "MAG-7 | Cinquedea",
         "desc": "It has been custom painted with patterned glass panels and a red grip and pump.",
         "lore": "\"Whatever you paid for this, it wasn't enough\"",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -40,6 +42,7 @@
         "name": "Nova | Baroque Orange",
         "desc": "An intricate, Italian inspired red and gold pattern has been applied.",
         "lore": "Last Supper is served",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -51,23 +54,10 @@
         }
       },
       {
-        "name": "MAC-10 | Red Filigree",
-        "desc": "A red millefleur hydrographic has been applied.",
-        "lore": "Perhaps this is one piece of art better left in the past",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73YzhM086zkL-HnvD8J4Tdl3lW7Yso0rzEpY2sigPkrxBoYD_6JNTDIABraAuF-Fm9yObqg5O_tZudz3FgpGB8soYnZB1r/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73YzhM086zkL-HnvD8J4Tdl3lW7Yso0rzEpY2sigPkrxBoYD_6JNTDIABraAuF-Fm9yObqg5O_tZudz3FgpGB8soYnZB1r/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73YzhM086zkL-GkvP9JrbummpD78A_27HA9tSj3ATj-Ec4Zm_0ctCWJwBrYQnWr1DsybrqhJDqu5zOmnNj6T5iuyjZ5GALyA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73YzhM086zkL-GkvP9JrbummpD78A_27HA9tSj3ATj-Ec4Zm_0ctCWJwBrYQnWr1DsybrqhJDqu5zOmnNj6T5iuyjZ5GALyA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73YzhM086zkL-DkvbiKoTdl3lW7Ysp27HD8dz33g3g_0BoMG70JoGVJwA2Z1nTqVi-xujngZa0tZqYz3A2pGB8srF9LPsl/512fx384f"
-        }
-      },
-      {
         "name": "MP9 | Stained Glass",
         "desc": "It has been painted to resemble blue and red stained glass.",
         "lore": "You break it, you buy it",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -77,6 +67,21 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7ODccDRM6diJk4yKhOTLPr7Vn35c18lwmO7Eu4_33QHhrkY4NzryItOTdAM7Y16B_VO_xbq70Ze_uZvImiNhuHMl5XjD30vgfVjoNus/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7ODccDRM6diJk4yKhOTLO77QgHJu5MRjjeyPrNum0Q3kqhFvMmrwd4CUIVA6MAzXqFW2xb3ngpPp6ZjByntq6SJx5WGdwUIqbr2rkQ/512fx384f"
         }
+      },
+      {
+        "name": "MAC-10 | Red Filigree",
+        "desc": "A red millefleur hydrographic has been applied.",
+        "lore": "Perhaps this is one piece of art better left in the past",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73YzhM086zkL-HnvD8J4Tdl3lW7Yso0rzEpY2sigPkrxBoYD_6JNTDIABraAuF-Fm9yObqg5O_tZudz3FgpGB8soYnZB1r/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73YzhM086zkL-HnvD8J4Tdl3lW7Yso0rzEpY2sigPkrxBoYD_6JNTDIABraAuF-Fm9yObqg5O_tZudz3FgpGB8soYnZB1r/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73YzhM086zkL-GkvP9JrbummpD78A_27HA9tSj3ATj-Ec4Zm_0ctCWJwBrYQnWr1DsybrqhJDqu5zOmnNj6T5iuyjZ5GALyA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73YzhM086zkL-GkvP9JrbummpD78A_27HA9tSj3ATj-Ec4Zm_0ctCWJwBrYQnWr1DsybrqhJDqu5zOmnNj6T5iuyjZ5GALyA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73YzhM086zkL-DkvbiKoTdl3lW7Ysp27HD8dz33g3g_0BoMG70JoGVJwA2Z1nTqVi-xujngZa0tZqYz3A2pGB8srF9LPsl/512fx384f"
+        }
       }
     ],
     "Mil-Spec Skins": [
@@ -84,6 +89,7 @@
         "name": "G3SG1 | Violet Murano",
         "desc": "A pattern of orange and blue Murano beads has been applied.",
         "lore": "Death by a thousand beads",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -95,9 +101,22 @@
         }
       },
       {
+        "name": "Dual Berettas | Emerald",
+        "desc": "It has been painted with a chrome base coat and candied in transparent emerald anodized effect paint.",
+        "lore": "This is what the great Sebastien Hennequet has been reduced to? A nagging school marm? What happened to you... - The Teacher and The Iconoclast Part 2",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0v33dDBH_t26kL-HnvD8J4Tdl3lW7Ysj3rvCot2sile2rkFuNTjwcdSTdlQ5MwnR_we6yefnjMXvtZ_JySZrpGB8sqNXdmQ_/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0v33dDBH_t26kL-HnvD8J4Tdl3lW7Ysj3rvCot2sile2rkFuNTjwcdSTdlQ5MwnR_we6yefnjMXvtZ_JySZrpGB8sqNXdmQ_/512fx384f"
+        }
+      },
+      {
         "name": "SSG 08 | Orange Filigree",
         "desc": "An orange millefleur hydrographic has been applied.",
         "lore": "Perhaps this is one piece of art better left in the past",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -109,20 +128,10 @@
         }
       },
       {
-        "name": "Dual Berettas | Emerald",
-        "desc": "It has been painted with a chrome base coat and candied in transparent emerald anodized effect paint.",
-        "lore": "This is what the great Sebastien Hennequet has been reduced to? A nagging school marm? What happened to you... - The Teacher and The Iconoclast Part 2",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0v33dDBH_t26kL-HnvD8J4Tdl3lW7Ysj3rvCot2sile2rkFuNTjwcdSTdlQ5MwnR_we6yefnjMXvtZ_JySZrpGB8sqNXdmQ_/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0v33dDBH_t26kL-HnvD8J4Tdl3lW7Ysj3rvCot2sile2rkFuNTjwcdSTdlQ5MwnR_we6yefnjMXvtZ_JySZrpGB8sqNXdmQ_/512fx384f"
-        }
-      },
-      {
         "name": "P90 | Baroque Red",
         "desc": "An intricate maroon and gray Italian inspired pattern has been applied.",
         "lore": "Last Supper is served",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -136,9 +145,25 @@
     ],
     "Industrial Grade Skins": [
       {
+        "name": "AK-47 | Baroque Purple",
+        "desc": "An intricate, Italian inspired hydrographic pattern has been applied.",
+        "lore": "Last Supper is served",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLfYkWNF18lwmO7Eu9jx0VLjrUc5N2rzJ4LGJwFqZlnSqVe2x-rv0MS_v8vAn3Rl7CV2tCnD30vglFj7tRc/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLfYkWNF18lwmO7Eu9jx0VLjrUc5N2rzJ4LGJwFqZlnSqVe2x-rv0MS_v8vAn3Rl7CV2tCnD30vglFj7tRc/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLbUkmJE5fp9i_vG8MLx2Qbl-xVpYDvzLISde1c_YQ6Dr1m-we7ohpG46MjMn3Y2vnZ04HyOgVXp1mer_etC/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLbUkmJE5fp9i_vG8MLx2Qbl-xVpYDvzLISde1c_YQ6Dr1m-we7ohpG46MjMn3Y2vnZ04HyOgVXp1mer_etC/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLPUl31I18lwmO7Eu9T02Qzj_xZtYD36LNfEdQ86N12Eq1fvxui91sXu6ZXOnCRh7nZwsXbD30vg_hLcjfs/512fx384f"
+        }
+      },
+      {
         "name": "SG 553 | Candy Apple",
         "desc": "It has individual parts spray-painted solid colors in a red and black color scheme.",
         "lore": "Great on cars, better on weapons",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -150,23 +175,10 @@
         }
       },
       {
-        "name": "P250 | Dark Filigree",
-        "desc": "A deep red hydrographic pattern has been applied over a charcoal base.",
-        "lore": "Perhaps this is one piece of art better left in the past",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szadDN96N2kn7-HnvD8J4Tdl3lW7Ytyj73Fo42h0ATjqEI9YDr0LNPBcQ47Yg7QrAO5yO7v15e0vcmbySZgpGB8srebRKy8/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szadDN96N2kn7-HnvD8J4Tdl3lW7Ytyj73Fo42h0ATjqEI9YDr0LNPBcQ47Yg7QrAO5yO7v15e0vcmbySZgpGB8srebRKy8/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szadDN96N2kn7-GkvP9JrbummpD78A_2uyRoY2l2ATs-xZra2r0cNKUdQI2M16Fq1m5lLvugZ_puM-fmHsx7D5iuyjczSO4TA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szadDN96N2kn7-GkvP9JrbummpD78A_2uyRoY2l2ATs-xZra2r0cNKUdQI2M16Fq1m5lLvugZ_puM-fmHsx7D5iuyjczSO4TA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szadDN96N2kn7-DkvbiKoTdl3lW7Yt027iQoNrx2VK2-xBtZGz6cNOdIwRsNA3Z-Qe7wbvshZDvvprPzSNqpGB8svfBlkAv/512fx384f"
-        }
-      },
-      {
         "name": "Tec-9 | Orange Murano",
         "desc": "An orange hydrographic of Murano beads has been applied.",
         "lore": "Death by a thousand beads",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -178,53 +190,27 @@
         }
       },
       {
-        "name": "AK-47 | Baroque Purple",
-        "desc": "An intricate, Italian inspired hydrographic pattern has been applied.",
-        "lore": "Last Supper is served",
+        "name": "P250 | Dark Filigree",
+        "desc": "A deep red hydrographic pattern has been applied over a charcoal base.",
+        "lore": "Perhaps this is one piece of art better left in the past",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLfYkWNF18lwmO7Eu9jx0VLjrUc5N2rzJ4LGJwFqZlnSqVe2x-rv0MS_v8vAn3Rl7CV2tCnD30vglFj7tRc/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLfYkWNF18lwmO7Eu9jx0VLjrUc5N2rzJ4LGJwFqZlnSqVe2x-rv0MS_v8vAn3Rl7CV2tCnD30vglFj7tRc/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLbUkmJE5fp9i_vG8MLx2Qbl-xVpYDvzLISde1c_YQ6Dr1m-we7ohpG46MjMn3Y2vnZ04HyOgVXp1mer_etC/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLbUkmJE5fp9i_vG8MLx2Qbl-xVpYDvzLISde1c_YQ6Dr1m-we7ohpG46MjMn3Y2vnZ04HyOgVXp1mer_etC/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLPUl31I18lwmO7Eu9T02Qzj_xZtYD36LNfEdQ86N12Eq1fvxui91sXu6ZXOnCRh7nZwsXbD30vg_hLcjfs/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szadDN96N2kn7-HnvD8J4Tdl3lW7Ytyj73Fo42h0ATjqEI9YDr0LNPBcQ47Yg7QrAO5yO7v15e0vcmbySZgpGB8srebRKy8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szadDN96N2kn7-HnvD8J4Tdl3lW7Ytyj73Fo42h0ATjqEI9YDr0LNPBcQ47Yg7QrAO5yO7v15e0vcmbySZgpGB8srebRKy8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szadDN96N2kn7-GkvP9JrbummpD78A_2uyRoY2l2ATs-xZra2r0cNKUdQI2M16Fq1m5lLvugZ_puM-fmHsx7D5iuyjczSO4TA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szadDN96N2kn7-GkvP9JrbummpD78A_2uyRoY2l2ATs-xZra2r0cNKUdQI2M16Fq1m5lLvugZ_puM-fmHsx7D5iuyjczSO4TA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szadDN96N2kn7-DkvbiKoTdl3lW7Yt027iQoNrx2VK2-xBtZGz6cNOdIwRsNA3Z-Qe7wbvshZDvvprPzSNqpGB8svfBlkAv/512fx384f"
         }
       }
     ],
     "Consumer Grade Skins": [
       {
-        "name": "AUG | Navy Murano",
-        "desc": "A blue hydrographic of Murano beads has been applied.",
-        "lore": "Death by a thousand beads",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957P7dYzxM4-O0mJWOqPv9NLPFqWdQ-sJ0xOuTrNj2iVbi_Us-YGvxLYSRcQA5Z1DT8gS8xOrt1561v8_MnSEx7HE8pSGKIs76Vf0/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957P7dYzxM4-O0mJWOqPv9NLPFqWdQ-sJ0xOuTrNj2iVbi_Us-YGvxLYSRcQA5Z1DT8gS8xOrt1561v8_MnSEx7HE8pSGKIs76Vf0/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957P7dYzxM4-O0mJWOqPrxN7LEm1Rd6dd2j6eQ9N3wjg3iqUo_am2iLdTDdlU_MAmB_FS4wuzu1JG56JrNwXZkvnRw-z-DyKmRTTjz/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957P7dYzxM4-O0mJWOqPrxN7LEm1Rd6dd2j6eQ9N3wjg3iqUo_am2iLdTDdlU_MAmB_FS4wuzu1JG56JrNwXZkvnRw-z-DyKmRTTjz/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957P7dYzxM4-O0mJWOqP_xMq3IqWdQ-sJ0xO3Eoo-h3Qex-kNuZGCnJYfBclc4Zl_S-VHolO_vhcPv7snNyXM26XQ8pSGKtzBmEyM/512fx384f"
-        }
-      },
-      {
-        "name": "CZ75-Auto | Indigo",
-        "desc": "It has been painted solid colors in indigo, blue and grey.",
-        "lore": "Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3eDNG5du5q4GFk8jzIb7IqWdY781lteXA54vwxgaw_xdlYzz0IobHcw83ZFrS-le6lOfphpPovcifnSBiu3N2tC3em0OpwUYb0c-wYbM/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3eDNG5du5q4GFk8jzIb7IqWdY781lteXA54vwxgaw_xdlYzz0IobHcw83ZFrS-le6lOfphpPovcifnSBiu3N2tC3em0OpwUYb0c-wYbM/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh9bN9J7yjRq3_EE9ZWrxJ46RJFBvaA7Z_lXswO_p0Zbo7cvMnHo1uiMgtHnbmESxn1gSOSDWIdA9/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh9bN9J7yjRq3_EE9ZWrxJ46RJFBvaA7Z_lXswO_p0Zbo7cvMnHo1uiMgtHnbmESxn1gSOSDWIdA9/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3eDNG5du5q4GFk8jzIb7IqWNU6dNoteXA54vwxgbl80dsZ2DwdoGVelNrNQ7QrFS7yb3m1JC86czLwSdh6Sgr4ivenRWpwUYb4FrH0h0/512fx384f"
-        }
-      },
-      {
         "name": "Negev | Boroque Sand",
         "desc": "An intricate, Italian inspired hydrographic pattern has been applied.",
         "lore": "Last Supper is served",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -239,6 +225,7 @@
         "name": "R8 Revolver | Canal Spray",
         "desc": "It has been spray-painted with short, diagonal bursts of blue paint.",
         "lore": "You're mostly water anyways…",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -250,9 +237,40 @@
         }
       },
       {
+        "name": "CZ75-Auto | Indigo",
+        "desc": "It has been painted solid colors in indigo, blue and grey.",
+        "lore": "Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3eDNG5du5q4GFk8jzIb7IqWdY781lteXA54vwxgaw_xdlYzz0IobHcw83ZFrS-le6lOfphpPovcifnSBiu3N2tC3em0OpwUYb0c-wYbM/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3eDNG5du5q4GFk8jzIb7IqWdY781lteXA54vwxgaw_xdlYzz0IobHcw83ZFrS-le6lOfphpPovcifnSBiu3N2tC3em0OpwUYb0c-wYbM/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh9bN9J7yjRq3_EE9ZWrxJ46RJFBvaA7Z_lXswO_p0Zbo7cvMnHo1uiMgtHnbmESxn1gSOSDWIdA9/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh9bN9J7yjRq3_EE9ZWrxJ46RJFBvaA7Z_lXswO_p0Zbo7cvMnHo1uiMgtHnbmESxn1gSOSDWIdA9/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3eDNG5du5q4GFk8jzIb7IqWNU6dNoteXA54vwxgbl80dsZ2DwdoGVelNrNQ7QrFS7yb3m1JC86czLwSdh6Sgr4ivenRWpwUYb4FrH0h0/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Navy Murano",
+        "desc": "A blue hydrographic of Murano beads has been applied.",
+        "lore": "Death by a thousand beads",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957P7dYzxM4-O0mJWOqPv9NLPFqWdQ-sJ0xOuTrNj2iVbi_Us-YGvxLYSRcQA5Z1DT8gS8xOrt1561v8_MnSEx7HE8pSGKIs76Vf0/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957P7dYzxM4-O0mJWOqPv9NLPFqWdQ-sJ0xOuTrNj2iVbi_Us-YGvxLYSRcQA5Z1DT8gS8xOrt1561v8_MnSEx7HE8pSGKIs76Vf0/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957P7dYzxM4-O0mJWOqPrxN7LEm1Rd6dd2j6eQ9N3wjg3iqUo_am2iLdTDdlU_MAmB_FS4wuzu1JG56JrNwXZkvnRw-z-DyKmRTTjz/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957P7dYzxM4-O0mJWOqPrxN7LEm1Rd6dd2j6eQ9N3wjg3iqUo_am2iLdTDdlU_MAmB_FS4wuzu1JG56JrNwXZkvnRw-z-DyKmRTTjz/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957P7dYzxM4-O0mJWOqP_xMq3IqWdQ-sJ0xO3Eoo-h3Qex-kNuZGCnJYfBclc4Zl_S-VHolO_vhcPv7snNyXM26XQ8pSGKtzBmEyM/512fx384f"
+        }
+      },
+      {
         "name": "SCAR-20 | Stone Mosaico",
         "desc": "It has been painted with a tan colored cracked tile hydrographic.",
         "lore": "Watch your step",
+        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {

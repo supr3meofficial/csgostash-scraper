@@ -11,6 +11,7 @@
         "name": "Tec-9 | Ossified",
         "desc": "It has been painted using a transparent lime green abstract hydrographic over a metallic base coat.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -24,6 +25,7 @@
         "name": "AK-47 | Jungle Spray",
         "desc": "It has been spray-painted freehand with short, thick lines in contrasting colors.",
         "lore": "Perfect for the insurgent on the go",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -38,6 +40,7 @@
         "name": "M4A4 | Jungle Tiger",
         "desc": "It has been painted using a jungle tiger hydrographic.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -51,23 +54,10 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "Nova | Forest Leaves",
-        "desc": "It has been spray-painted using leaves as stencils.",
-        "lore": "This item has no Lore",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmImMn-PLP7rDkW4f6pIkieuR9t330Aa3_xBtMmz2LdCVIAdqNFvR-1Ltl-fpgpa-tZzOz2wj5HcauyDGAQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmImMn-PLP7rDkW4f6pIkieuR9t330Aa3_xBtMmz2LdCVIAdqNFvR-1Ltl-fpgpa-tZzOz2wj5HcauyDGAQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmYWPnuL5DLfQhGxUppFyj7qRptykiQewrxdoajz2LYLHc1U_Zw7R_gW8k-m6gZ67v8nPnCF9-n51YbtfjYE/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmYWPnuL5DLfQhGxUppFyj7qRptykiQewrxdoajz2LYLHc1U_Zw7R_gW8k-m6gZ67v8nPnCF9-n51YbtfjYE/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JnIWKge7LP7rDkW4fu8coiL2XoNWj0AKw_xI_MG76ddOccVA4MgrT_Vm7w-no1MLuvZnJy2wj5HdOrw6mEg/512fx384f"
-        }
-      },
-      {
         "name": "Five-SeveN | Jungle",
         "desc": "It has individual parts spray-painted solid colors in a jungle color scheme.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -82,6 +72,7 @@
         "name": "SSG 08 | Lichen Dashed",
         "desc": "It has been spray-painted using short pieces of tape as stencils.",
         "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -90,6 +81,21 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YjVN_siJgIGbksj5Nr_Yg2Zu5MRjjeyPoNz3jgbt-hA6Zmz0IY-RelQ5Y1DY-VO8xLvrjJC5vZicySMxuSEj42GdwUJ9eEZ5nQ/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YjVN_siJgIGbksj5Nr_Yg2Zu5MRjjeyPoNz3jgbt-hA6Zmz0IY-RelQ5Y1DY-VO8xLvrjJC5vZicySMxuSEj42GdwUJ9eEZ5nQ/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YjVN_siJgIGbksj8NrrHj1Rd6dd2j6eWrI_z0FHhqEM4YW3zcICQJwM2NQ3W_wK4w-680J-5upvAnXpr7CYi-z-DyGxs8ZNf/512fx384f"
+        }
+      },
+      {
+        "name": "Nova | Forest Leaves",
+        "desc": "It has been spray-painted using leaves as stencils.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmImMn-PLP7rDkW4f6pIkieuR9t330Aa3_xBtMmz2LdCVIAdqNFvR-1Ltl-fpgpa-tZzOz2wj5HcauyDGAQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmImMn-PLP7rDkW4f6pIkieuR9t330Aa3_xBtMmz2LdCVIAdqNFvR-1Ltl-fpgpa-tZzOz2wj5HcauyDGAQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmYWPnuL5DLfQhGxUppFyj7qRptykiQewrxdoajz2LYLHc1U_Zw7R_gW8k-m6gZ67v8nPnCF9-n51YbtfjYE/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmYWPnuL5DLfQhGxUppFyj7qRptykiQewrxdoajz2LYLHc1U_Zw7R_gW8k-m6gZ67v8nPnCF9-n51YbtfjYE/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JnIWKge7LP7rDkW4fu8coiL2XoNWj0AKw_xI_MG76ddOccVA4MgrT_Vm7w-no1MLuvZnJy2wj5HdOrw6mEg/512fx384f"
         }
       }
     ]

@@ -43,6 +43,9 @@ class ItemHasNoLore(ScraperException):
     """Exception that is thrown if the item has no lore"""
     pass
 
+class ItemHasNoDateAdded(ScraperException):
+    """Exception that is thrown if the item has no date_added"""
+    pass
 
 class ItemNoCollection(ScraperException):
     """Exception that is thrown if the item does not belong in a collection"""
@@ -217,6 +220,20 @@ class RetrieveWeaponSkin(RetrieveObject):
             raise ItemHasNoLore()
 
     get_lore = get_flavor_text
+
+    def get_date_added(self):
+        """Returns skin date_added as string"""
+
+        # Find date_added from page paragraphs
+        page_paragraphs = self.parsed_page.find_all("p")
+
+        for paragraph in page_paragraphs:
+            if paragraph.strong != None:
+                if 'Added:' in paragraph.strong.text:
+                    description = paragraph.text
+                    return description.split('Added:')[1].strip()
+        else:
+            raise ItemHasNoDateAdded()
 
     def get_collection(self, filters=['Collection']):
         """Returns the collection name(s) as a list of strings

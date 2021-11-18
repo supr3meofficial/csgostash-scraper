@@ -9,6 +9,7 @@
         "name": "M4A1-S | Hot Rod",
         "desc": "It has been painted with a chrome base coat and candied in transparent red anodized effect paint.",
         "lore": "Automatic. Systematic. Hydromatic.",
+        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -20,6 +21,7 @@
         "name": "Glock-18 | Twilight Galaxy",
         "desc": "It has been painted with metal flake paint.",
         "lore": "Stars are just pin pricks at the darkness",
+        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -34,6 +36,7 @@
         "name": "Dual Berettas | Duelist",
         "desc": "It has been given painted mother-of-pearl grips and a dark forced patina.",
         "lore": "Square gum not included",
+        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -48,6 +51,7 @@
         "name": "SG 553 | Bulldozer",
         "desc": "It has individual parts spray-painted solid colors in a production line yellow color scheme.",
         "lore": "This bone crusher is a devastator",
+        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -61,9 +65,22 @@
     ],
     "Mil-Spec Skins": [
       {
+        "name": "MAC-10 | Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0vL3dzxG6eO6nYeDg8j4MqnWkyUHscd13bnDpY732QbtqkY_ZW7yLYKQcg8-N13W-VO8ku3o15Du78vL1zI97SCN_Azq/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0vL3dzxG6eO6nYeDg8j4MqnWkyUHscd13bnDpY732QbtqkY_ZW7yLYKQcg8-N13W-VO8ku3o15Du78vL1zI97SCN_Azq/512fx384f"
+        }
+      },
+      {
         "name": "P250 | Whiteout",
         "desc": "It is spray-painted all white.",
         "lore": "It looks pure, but looks can be deceiving",
+        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -75,20 +92,10 @@
         }
       },
       {
-        "name": "CZ75-Auto | Emerald",
-        "desc": "It has been painted with a chrome base coat and candied in transparent emerald anodized effect paint.",
-        "lore": "This is what the great Sebastien Hennequet has been reduced to? A nagging school marm? What happened to you... - The Teacher and The Iconoclast Part 2",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v33dDBH_t26kL-HnvD8J4Tdl3lW7Yskib2Wptik2QXg_EQ9a2H3LIOUIVdrZ1HZ8lm5wL2905HvtJrJmiFlpGB8skUfgZfV/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v33dDBH_t26kL-HnvD8J4Tdl3lW7Yskib2Wptik2QXg_EQ9a2H3LIOUIVdrZ1HZ8lm5wL2905HvtJrJmiFlpGB8skUfgZfV/512fx384f"
-        }
-      },
-      {
         "name": "MP7 | Full Stop",
         "desc": "It has been painted using a VariCamo patterned hydrographic.",
         "lore": "Rebuilding only comes in the wake of destruction",
+        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -100,9 +107,22 @@
         }
       },
       {
+        "name": "CZ75-Auto | Emerald",
+        "desc": "It has been painted with a chrome base coat and candied in transparent emerald anodized effect paint.",
+        "lore": "This is what the great Sebastien Hennequet has been reduced to? A nagging school marm? What happened to you... - The Teacher and The Iconoclast Part 2",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v33dDBH_t26kL-HnvD8J4Tdl3lW7Yskib2Wptik2QXg_EQ9a2H3LIOUIVdrZ1HZ8lm5wL2905HvtJrJmiFlpGB8skUfgZfV/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v33dDBH_t26kL-HnvD8J4Tdl3lW7Yskib2Wptik2QXg_EQ9a2H3LIOUIVdrZ1HZ8lm5wL2905HvtJrJmiFlpGB8skUfgZfV/512fx384f"
+        }
+      },
+      {
         "name": "Five-SeveN | Nitro",
         "desc": "It has individual parts spray-painted black and tangerine orange.",
         "lore": "Rona is as good as she thinks she is... she's just not old enough to realize she shouldn't point it out to everyone - Felix Riley, Commanding Officer",
+        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -112,17 +132,6 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N09OklY6Mksj1MLjUmH9C18h0juDU-LP5iUazrl1rMDjydoCcJwI9Y1rR-QO-wbvrgsPpu5mbmnEx6yMq5y3em0DmgRwdcKUx0qL2bQwO/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N09OklY6Mksj1MLjUmH9C1810i__YyoD0mlOx5URvYGChdYeddgBsNw7TrwW2lbu7jJa-usmfn3Viu3Er4nndnBGyhEpSLrs4prhzB14/512fx384f"
         }
-      },
-      {
-        "name": "MAC-10 | Fade",
-        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
-        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0vL3dzxG6eO6nYeDg8j4MqnWkyUHscd13bnDpY732QbtqkY_ZW7yLYKQcg8-N13W-VO8ku3o15Du78vL1zI97SCN_Azq/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0vL3dzxG6eO6nYeDg8j4MqnWkyUHscd13bnDpY732QbtqkY_ZW7yLYKQcg8-N13W-VO8ku3o15Du78vL1zI97SCN_Azq/512fx384f"
-        }
       }
     ],
     "Industrial Grade Skins": [
@@ -130,6 +139,7 @@
         "name": "USP-S | Para Green",
         "desc": "It has individual parts spray-painted solid colors in a khaki green and black color scheme.",
         "lore": "Who he was doesn't change who he has become. Don't worry Felix... I'll stop him - The Paladin and The Teacher Part 2",
+        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -144,6 +154,7 @@
         "name": "Desert Eagle | Night",
         "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
         "lore": "It's the whisper of the wind... it's the bite at your neck",
+        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -158,6 +169,7 @@
         "name": "Galil AR | Urban Rubble",
         "desc": "It has been painted using a VariCamo patterned hydrographic.",
         "lore": "Rebuilding only comes in the wake of destruction",
+        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -171,9 +183,38 @@
     ],
     "Consumer Grade Skins": [
       {
+        "name": "SCAR-20 | Army Sheen",
+        "desc": "It has been covered in a metallic foil stamped with a camouflage pattern.",
+        "lore": "Remember your training",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTjxQ4cWJh4iCmfLLP7LWnn9u5MRjjeyPp4injgy2_BBsN2iiItCcdwI_aF3WrlDslLjvhJ6-upydnSZruiUm52GdwUL_R0-bhA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTjxQ4cWJh4iCmfLLP7LWnn9u5MRjjeyPp4injgy2_BBsN2iiItCcdwI_aF3WrlDslLjvhJ6-upydnSZruiUm52GdwUL_R0-bhA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTjxQ4cWJh4iCmfLLPr7Vn35c18lwmO7Eu9zw2gbi8xZpMTygJYeVdlQ_NAyG_Vbryeq7jMS06pzPnXtm7HUq4irD30vg7ABPWMI/512fx384f"
+        }
+      },
+      {
+        "name": "MAG-7 | Seabird",
+        "desc": "It has individual parts spray-painted solid colors in an aqua and tan color scheme.",
+        "lore": "Mine.",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzJYChD09C_k4ifqPv1IbzU2G1U7ZMoju_ErNjx2AXh8xduNm6nLNKVdg9vMguEqFi4xrzn1J--uMzXiSw0okAJftk/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzJYChD09C_k4ifqPv1IbzU2G1U7ZMoju_ErNjx2AXh8xduNm6nLNKVdg9vMguEqFi4xrzn1J--uMzXiSw0okAJftk/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzJYChD09GzkImemsj4MqnWkyUC65dwj7rArd3z0Qew-ko9MW_3JoaXcVI3ZgmF81W3x-28g5-7uMjO1zI97dxXUayR/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzJYChD09GzkImemsj4MqnWkyUC65dwj7rArd3z0Qew-ko9MW_3JoaXcVI3ZgmF81W3x-28g5-7uMjO1zI97dxXUayR/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzJYChD09SzlZaSqPv1IbzU2D5Sv8Nz3rCXrduijFXt_RZpZT2gcYPAdg8_NFmD_QS3yO7o0ZO8v5jXiSw0IN-cAtg/512fx384f"
+        }
+      },
+      {
         "name": "M249 | Impact Drill",
         "desc": "It has individual parts spray-painted solid colors in a blue and orange color scheme.",
         "lore": "The great equalizer",
+        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -188,38 +229,13 @@
         "name": "CZ75-Auto | Army Sheen",
         "desc": "It has been covered in a metallic foil stamped with a camouflage pattern.",
         "lore": "Remember your training",
+        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cC9P9eOlnImFksj4OrzZglRd6dd2j6eTo9um3lDg8xY9Y2CiIYSddldrM1mDrFC_w-ft18W_6ZXOmHdluCUj-z-DyF0bRmV5/512fx384f",
           "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cC9P9eOlnImFksj4OrzZglRd6dd2j6eTo9um3lDg8xY9Y2CiIYSddldrM1mDrFC_w-ft18W_6ZXOmHdluCUj-z-DyF0bRmV5/512fx384f",
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cC9P9eOlnImFksj5Nr_Yg2Zu5MRjjeyPot70igWy-0NqNWmiLYOcJAJtNA7XqVO8xOjt1sXv6sjPmyRi6yYm7GGdwULICirNMw/512fx384f"
-        }
-      },
-      {
-        "name": "SCAR-20 | Army Sheen",
-        "desc": "It has been covered in a metallic foil stamped with a camouflage pattern.",
-        "lore": "Remember your training",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTjxQ4cWJh4iCmfLLP7LWnn9u5MRjjeyPp4injgy2_BBsN2iiItCcdwI_aF3WrlDslLjvhJ6-upydnSZruiUm52GdwUL_R0-bhA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTjxQ4cWJh4iCmfLLP7LWnn9u5MRjjeyPp4injgy2_BBsN2iiItCcdwI_aF3WrlDslLjvhJ6-upydnSZruiUm52GdwUL_R0-bhA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTjxQ4cWJh4iCmfLLPr7Vn35c18lwmO7Eu9zw2gbi8xZpMTygJYeVdlQ_NAyG_Vbryeq7jMS06pzPnXtm7HUq4irD30vg7ABPWMI/512fx384f"
-        }
-      },
-      {
-        "name": "MAG-7 | Seabird",
-        "desc": "It has individual parts spray-painted solid colors in an aqua and tan color scheme.",
-        "lore": "Mine.",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzJYChD09C_k4ifqPv1IbzU2G1U7ZMoju_ErNjx2AXh8xduNm6nLNKVdg9vMguEqFi4xrzn1J--uMzXiSw0okAJftk/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzJYChD09C_k4ifqPv1IbzU2G1U7ZMoju_ErNjx2AXh8xduNm6nLNKVdg9vMguEqFi4xrzn1J--uMzXiSw0okAJftk/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzJYChD09GzkImemsj4MqnWkyUC65dwj7rArd3z0Qew-ko9MW_3JoaXcVI3ZgmF81W3x-28g5-7uMjO1zI97dxXUayR/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzJYChD09GzkImemsj4MqnWkyUC65dwj7rArd3z0Qew-ko9MW_3JoaXcVI3ZgmF81W3x-28g5-7uMjO1zI97dxXUayR/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzJYChD09SzlZaSqPv1IbzU2D5Sv8Nz3rCXrduijFXt_RZpZT2gcYPAdg8_NFmD_QS3yO7o0ZO8v5jXiSw0IN-cAtg/512fx384f"
         }
       }
     ]

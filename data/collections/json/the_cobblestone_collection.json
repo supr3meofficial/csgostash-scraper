@@ -8,6 +8,7 @@
         "name": "AWP | Dragon Lore",
         "desc": "It has been custom painted with a knotwork dragon.",
         "lore": "200 keys could never unlock its secrets",
+        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -24,6 +25,7 @@
         "name": "M4A1-S | Knight",
         "desc": "It has brass inlays with a renaissance armor theme.",
         "lore": "What do you mean you can't find Cocinero and Izaki? - Felix Riley, Commanding Officer",
+        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -37,6 +39,7 @@
         "name": "Desert Eagle | Hand Cannon",
         "desc": "It has brass parts that have been given an acid patina inspired by antique brass cannons.",
         "lore": "Be prepared to encounter many thorns in the trials to come",
+        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -51,6 +54,7 @@
         "name": "CZ75-Auto | Chalice",
         "desc": "It has been painted with a chrome base coat and candied in transparent royal blue and amber anodized effect paint.",
         "lore": "You chose wisely",
+        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -61,21 +65,10 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "P2000 | Chainmail",
-        "desc": "It has been painted with a semi-transparent hydrographic in a chainmail pattern over a silver base coat.",
-        "lore": "Of all the members of The Phoenix, none are more loyal to Valeria than her bodyguard Naomi",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLP7LWnn9u5MRjjeyPp9rw0FDhrkNtMW-ico7BIQ47Mw3T_gLowOjnhpbp6pvLwXJivCZ0sWGdwULfMeVBVg/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLP7LWnn9u5MRjjeyPp9rw0FDhrkNtMW-ico7BIQ47Mw3T_gLowOjnhpbp6pvLwXJivCZ0sWGdwULfMeVBVg/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLPr7Vn35c18lwmO7Eu4iti1ew8ko_Z2n1do7DdVI5YlqFrgDrle_uhcXp787Mmno3vyNz4C7D30vgFIX9rS0/512fx384f"
-        }
-      },
-      {
         "name": "MP9 | Dark Age",
         "desc": "It has been painted with metallic paints to look as though it has been inlaid with metals in a medieval motif.",
         "lore": "I could kill her paramour... perhaps that would buy you some time with Valeria - A Father's Love Part 2",
+        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -83,13 +76,42 @@
           "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7NZTxO09W4mIGSqPv9NLPFqWdQ-sJ0xOiVrNqt2VK2-BJvajunJ4GdcgM_NQzS-AfoyLjmjZ7q6JXKyCZnu3Y8pSGKGi1hyIM/512fx384f",
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7NZTxO09W4mIGSqPrxN7LEm1Rd6dd2j6fC84r3ilGy_EFlYDzyItCRIwVtaQ2CqwK_kL-9hJO8tMnNzCRk6ydw-z-DyJDLGOKY/512fx384f"
         }
+      },
+      {
+        "name": "P2000 | Chainmail",
+        "desc": "It has been painted with a semi-transparent hydrographic in a chainmail pattern over a silver base coat.",
+        "lore": "Of all the members of The Phoenix, none are more loyal to Valeria than her bodyguard Naomi",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLP7LWnn9u5MRjjeyPp9rw0FDhrkNtMW-ico7BIQ47Mw3T_gLowOjnhpbp6pvLwXJivCZ0sWGdwULfMeVBVg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLP7LWnn9u5MRjjeyPp9rw0FDhrkNtMW-ico7BIQ47Mw3T_gLowOjnhpbp6pvLwXJivCZ0sWGdwULfMeVBVg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLPr7Vn35c18lwmO7Eu4iti1ew8ko_Z2n1do7DdVI5YlqFrgDrle_uhcXp787Mmno3vyNz4C7D30vgFIX9rS0/512fx384f"
+        }
       }
     ],
     "Industrial Grade Skins": [
       {
+        "name": "Sawed-Off | Rust Coat",
+        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
+        "lore": "Some people don't need to hide how dirty their deeds are",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0n_L1JaLummpD78A_ju_E8dT3jA2wrRBoZm71JIbEcVc4YV_R8lXqkrzujJW7u8_AmiBi7z5iuyhvCAhQsg/512fx384f"
+        }
+      },
+      {
         "name": "Nova | Green Apple",
         "desc": "It has individual parts spray-painted solid colors in a green and black color scheme.",
         "lore": "An apple a day keeps insurance premiums high",
+        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -102,6 +124,7 @@
         "name": "USP-S | Royal Blue",
         "desc": "It has been painted solid colors in indigo, crimson and grey.",
         "lore": "You should smile Felix, you'd have more luck with the ladies if you didn't look like such a dour bastard all the time - Imogen, Arms Dealer In Training",
+        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -113,23 +136,10 @@
         }
       },
       {
-        "name": "Sawed-Off | Rust Coat",
-        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
-        "lore": "Some people don't need to hide how dirty their deeds are",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0n_L1JaLummpD78A_ju_E8dT3jA2wrRBoZm71JIbEcVc4YV_R8lXqkrzujJW7u8_AmiBi7z5iuyhvCAhQsg/512fx384f"
-        }
-      },
-      {
         "name": "MAG-7 | Silver",
         "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
         "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
+        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -143,6 +153,7 @@
         "name": "MAC-10 | Indigo",
         "desc": "It has been painted solid colors in indigo, blue and grey.",
         "lore": "Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1",
+        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -154,23 +165,10 @@
         }
       },
       {
-        "name": "P90 | Storm",
-        "desc": "It has individual parts spray-painted solid colors in a stormy color scheme.",
-        "lore": "It will be waiting for you at the monorail",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0m_7zO6_ummpD78A_3LnFot-j0QXs_0Y9N2yicIbAd1I2MFnVqFW2yebvgsK175_MmHdk7D5iuyj9-Y1WiA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0m_7zO6_ummpD78A_3LnFot-j0QXs_0Y9N2yicIbAd1I2MFnVqFW2yebvgsK175_MmHdk7D5iuyj9-Y1WiA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0mvLwOq7cqWdQ-sJ0xOiR9tSk21XkqRVlYmDxIIbAcwVtNFDX-lC7xb290Z-77cmdmiMw6HQ8pSGK2xhc9Z8/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0mvLwOq7cqWdQ-sJ0xOiR9tSk21XkqRVlYmDxIIbAcwVtNFDX-lC7xb290Z-77cmdmiMw6HQ8pSGK2xhc9Z8/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0n_L1JaLummpD78A_2evF8NT22wfh-ERuN26hd4LDIA42NwmFrAe4l-fujcO_uZTAz3Vhvj5iuygipUC3jA/512fx384f"
-        }
-      },
-      {
         "name": "UMP-45 | Indigo",
         "desc": "It has been painted solid colors in indigo, blue and grey.",
         "lore": "Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1",
+        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -185,6 +183,7 @@
         "name": "SCAR-20 | Storm",
         "desc": "It has individual parts spray-painted solid colors in a stormy color scheme.",
         "lore": "It will be waiting for you at the monorail",
+        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -196,9 +195,25 @@
         }
       },
       {
+        "name": "P90 | Storm",
+        "desc": "It has individual parts spray-painted solid colors in a stormy color scheme.",
+        "lore": "It will be waiting for you at the monorail",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0m_7zO6_ummpD78A_3LnFot-j0QXs_0Y9N2yicIbAd1I2MFnVqFW2yebvgsK175_MmHdk7D5iuyj9-Y1WiA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0m_7zO6_ummpD78A_3LnFot-j0QXs_0Y9N2yicIbAd1I2MFnVqFW2yebvgsK175_MmHdk7D5iuyj9-Y1WiA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0mvLwOq7cqWdQ-sJ0xOiR9tSk21XkqRVlYmDxIIbAcwVtNFDX-lC7xb290Z-77cmdmiMw6HQ8pSGK2xhc9Z8/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0mvLwOq7cqWdQ-sJ0xOiR9tSk21XkqRVlYmDxIIbAcwVtNFDX-lC7xb290Z-77cmdmiMw6HQ8pSGK2xhc9Z8/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0n_L1JaLummpD78A_2evF8NT22wfh-ERuN26hd4LDIA42NwmFrAe4l-fujcO_uZTAz3Vhvj5iuygipUC3jA/512fx384f"
+        }
+      },
+      {
         "name": "Dual Berettas | Briar",
         "desc": "It has been painted with a hydrographic of curling vines and flowers.",
         "lore": "True Love's Kiss can't save you from its barbs",
+        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
